@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    padding: 28px;
+    background: #ffffff;
+    font-family: Aptos, "Segoe UI", -apple-system, BlinkMacSystemFont, sans-serif;
+    color: #111827;
+  }
+
+  #diagram {
+    width: 1740px;
+    margin: 0 auto;
+  }
+
+  .title {
+    font-size: 22px;
+    font-weight: 850;
+    color: #1e3a8a;
+    margin-bottom: 6px;
+  }
+
+  .subtitle {
+    font-size: 13px;
+    line-height: 1.4;
+    color: #475569;
+    max-width: 1280px;
+    margin-bottom: 16px;
+  }
+
+  .top {
+    display: grid;
+    grid-template-columns: 1fr 1.15fr 1fr;
+    gap: 14px;
+    margin-bottom: 16px;
+  }
+
+  .top-card {
+    border: 1px solid #dbe2ea;
+    border-radius: 8px;
+    padding: 14px 16px;
+    background: #f8fafc;
+    min-height: 118px;
+  }
+
+  .top-card.motor {
+    background: #eff6ff;
+    border-color: #bfdbfe;
+  }
+
+  .top-card h3 {
+    font-size: 15px;
+    color: #111827;
+    margin: 0 0 7px;
+  }
+
+  .top-card p {
+    font-size: 12.5px;
+    line-height: 1.42;
+    color: #374151;
+    margin: 0;
+  }
+
+  .label {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 850;
+    letter-spacing: 0.7px;
+    text-transform: uppercase;
+    color: #1e40af;
+    background: #dbeafe;
+    border: 1px solid #bfdbfe;
+    border-radius: 5px;
+    padding: 3px 7px;
+    margin-bottom: 8px;
+  }
+
+  .section {
+    font-size: 12px;
+    font-weight: 850;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #1e40af;
+    margin: 4px 0 10px;
+  }
+
+  .states {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+
+  .state {
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    background: #ffffff;
+    padding: 13px 14px;
+    min-height: 138px;
+  }
+
+  .state.always { border-top: 4px solid #1d4ed8; }
+  .state.optional { border-top: 4px solid #64748b; }
+  .state.signal { border-top: 4px solid #b45309; }
+  .state.convert { border-top: 4px solid #15803d; }
+  .state.rescue { border-top: 4px solid #dc2626; background: #fff7ed; }
+
+  .state h3 {
+    font-size: 14px;
+    margin: 0 0 6px;
+    color: #111827;
+  }
+
+  .state p {
+    font-size: 12px;
+    line-height: 1.38;
+    color: #374151;
+    margin: 0;
+  }
+
+  .state .tag {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 850;
+    color: #475569;
+    background: #f1f5f9;
+    border-radius: 4px;
+    padding: 3px 6px;
+    margin-bottom: 8px;
+  }
+
+  .routes {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    margin-bottom: 16px;
+  }
+
+  .route {
+    border-radius: 8px;
+    padding: 14px 16px;
+    min-height: 116px;
+  }
+
+  .route.auto {
+    border: 1px solid #bbf7d0;
+    background: #f0fdf4;
+  }
+
+  .route.assisted {
+    border: 1px solid #c7d2fe;
+    background: #eef2ff;
+  }
+
+  .route h3 {
+    font-size: 15px;
+    margin: 0 0 7px;
+    color: #111827;
+  }
+
+  .route p {
+    font-size: 12.5px;
+    line-height: 1.4;
+    color: #374151;
+    margin: 0;
+  }
+
+  .push {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+  }
+
+  .push-card {
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    background: #ffffff;
+    padding: 12px 13px;
+    min-height: 104px;
+  }
+
+  .push-card:nth-child(1) { border-top: 4px solid #64748b; }
+  .push-card:nth-child(2) { border-top: 4px solid #1d4ed8; }
+  .push-card:nth-child(3) { border-top: 4px solid #b45309; }
+  .push-card:nth-child(4) { border-top: 4px solid #15803d; }
+
+  .push-card h3 {
+    font-size: 13px;
+    color: #111827;
+    margin: 0 0 5px;
+  }
+
+  .push-card p {
+    font-size: 11.5px;
+    line-height: 1.36;
+    color: #4b5563;
+    margin: 0;
+  }
+
+  .note {
+    margin-top: 13px;
+    border: 1px solid #e5e7eb;
+    background: #f8fafc;
+    border-radius: 8px;
+    padding: 11px 13px;
+    font-size: 12px;
+    line-height: 1.4;
+    color: #334155;
+  }
+
+  .note strong {
+    color: #111827;
+  }
+</style>
+</head>
+<body>
+<div id="diagram">
+  <div class="title">Nuevo funnel: mapa de estados, rutas y ritmo de push</div>
+  <div class="subtitle">No es una cadena fija de acciones. El lead entra, la IA gestiona la post-captura y el motor de intención asigna estado, ruta y presión comercial según señales reales.</div>
+
+  <div class="top">
+    <div class="top-card">
+      <span class="label">Entrada</span>
+      <h3>Lead creado o reactivado</h3>
+      <p>Formulario con datos básicos, llamada, chat/WhatsApp o visita presencial residual. Se conserva marca, formación visualizada, canal e histórico.</p>
+    </div>
+    <div class="top-card motor">
+      <span class="label">Centro del modelo</span>
+      <h3>Motor de intención</h3>
+      <p>Lee conversación, clics, simulaciones, abandono, requisitos, precio, timing y valor esperado. Decide estado, canal, mensaje, ruta y ritmo de push.</p>
+    </div>
+    <div class="top-card">
+      <span class="label">Post-captura</span>
+      <h3>IA + enlace personalizado</h3>
+      <p>Primera respuesta inbound-outbound, acompañamiento por chat y enlace por WhatsApp/email a simulador, matrícula, documentación, pago o pre-enrollment.</p>
+    </div>
+  </div>
+
+  <div class="section">Estados operativos posibles</div>
+  <div class="states">
+    <div class="state always">
+      <span class="tag">Siempre</span>
+      <h3>1. Clasificar</h3>
+      <p>Normaliza contexto y decide si el lead explora, está activado, puede avanzar solo o requiere asistencia.</p>
+    </div>
+    <div class="state optional">
+      <span class="tag">Opcional</span>
+      <h3>2. Madurar</h3>
+      <p>Solo ocurre si el lead aún necesita orientación, comparación, prueba social o tiempo antes de decidir.</p>
+    </div>
+    <div class="state signal">
+      <span class="tag">Por señal</span>
+      <h3>3. Activar</h3>
+      <p>Entra aquí si pregunta precio, financiación, inicio, plazas, requisitos, matrícula o llamada.</p>
+    </div>
+    <div class="state convert">
+      <span class="tag">Cierre</span>
+      <h3>4. Convertir</h3>
+      <p>Reserva, pago, financiación, documentación, evaluación o enrollment asistido.</p>
+    </div>
+    <div class="state rescue">
+      <span class="tag">Evento</span>
+      <h3>5. Rescatar</h3>
+      <p>Si abandona o no convierte: precio, timing, confianza, requisito, pago, documentación o silencio.</p>
+    </div>
+  </div>
+
+  <div class="section">Rutas de avance, no fases</div>
+  <div class="routes">
+    <div class="route auto">
+      <h3>Ruta autónoma</h3>
+      <p>Modo de avance cuando hay claridad y baja fricción: IA + chat + enlace personalizado + simulador + auto-enrollment directo o condicionado, sin intervención humana.</p>
+    </div>
+    <div class="route assisted">
+      <h3>Ruta asistida</h3>
+      <p>Modo de avance cuando la conversión necesita confianza, diagnóstico, aceptación o prueba social: voz humana/IA, comercial con contexto o presencialidad por código postal.</p>
+    </div>
+  </div>
+
+  <div class="section">Ritmo de push dinámico</div>
+  <div class="push">
+    <div class="push-card"><h3>Bajo</h3><p>Exploración, silencio inicial o timing lejano. Chat disponible, email útil y nurturing ligero.</p></div>
+    <div class="push-card"><h3>Medio</h3><p>Abre enlaces, responde, compara o simula cuota. Más contexto, prueba social y recordatorio.</p></div>
+    <div class="push-card"><h3>Alto</h3><p>Pregunta precio, financiación, inicio, plazas o abandona paso crítico. Respuesta inmediata.</p></div>
+    <div class="push-card"><h3>Selectivo humano</h3><p>Ticket alto, objeción compleja, requisito, alta intención o necesidad de confianza.</p></div>
+  </div>
+
+  <div class="note"><strong>Lectura ejecutiva:</strong> la maduración no es obligatoria y las rutas no son etapas. El motor decide en cada momento si el lead necesita información, empuje, auto-enrollment, voz, humano, presencialidad o rescate.</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,105 @@
+schema: paperclip/v1
+
+agents:
+  ceo-elena:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-sonnet-4-6
+  head-marcos:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-sonnet-4-6
+  head-lucia:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-sonnet-4-6
+  head-daniel:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-sonnet-4-6
+  brand-carmen:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-sonnet-4-6
+  tech-pablo:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-sonnet-4-6
+  analyst-job-postings:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-haiku-4-5-20251001
+  analyst-employability:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-haiku-4-5-20251001
+  analyst-competitors:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-haiku-4-5-20251001
+  analyst-trends:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-haiku-4-5-20251001
+  analyst-corporate:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-haiku-4-5-20251001
+  analyst-lost-leads:
+    adapter:
+      type: claude_local
+      config:
+        model: claude-haiku-4-5-20251001
+
+routines:
+  daily-intelligence-gathering:
+    title: "Recoleccion Diaria de Inteligencia"
+    description: "Cada analista investiga su fuente asignada y produce una nota diaria de hallazgos"
+    assignee: head-marcos
+    project: intelligence-gathering
+    priority: medium
+    triggers:
+      - kind: schedule
+        cronExpression: "0 8 * * 1-5"
+        timezone: Europe/Madrid
+  weekly-synthesis:
+    title: "Sintesis Semanal de Oportunidades"
+    description: "El CEO lidera la sintesis de senales en clusters de oportunidades con validacion cruzada"
+    assignee: ceo-elena
+    project: opportunity-synthesis
+    priority: high
+    triggers:
+      - kind: schedule
+        cronExpression: "0 10 * * 5"
+        timezone: Europe/Madrid
+  weekly-report-publication:
+    title: "Publicacion del Informe Semanal"
+    description: "Consolidar la sintesis en el informe semanal publicado"
+    assignee: ceo-elena
+    project: weekly-report
+    priority: high
+    triggers:
+      - kind: schedule
+        cronExpression: "0 14 * * 5"
+        timezone: Europe/Madrid
+  daily-lost-leads-extraction:
+    title: "Extraccion Diaria de Lost Leads"
+    description: "Extraer nuevos registros de la BD de Lost Leads y actualizar analisis de patrones"
+    assignee: analyst-lost-leads
+    project: intelligence-gathering
+    priority: medium
+    triggers:
+      - kind: schedule
+        cronExpression: "0 9 * * 1-5"
+        timezone: Europe/Madrid

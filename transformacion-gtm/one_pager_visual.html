@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>One Pager Ejecutivo — Transformación GTM</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    background: #ffffff;
+    color: #1a1a1a;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .page {
+    width: 1120px;
+    min-height: 1584px;
+    margin: 0 auto;
+    padding: 52px 60px;
+    background: #ffffff;
+    position: relative;
+  }
+
+  /* Top accent line */
+  .page::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 5px;
+    background: #1a56db;
+  }
+
+  /* Header */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 36px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #e5e7eb;
+  }
+
+  .header-title {
+    font-size: 30px;
+    font-weight: 800;
+    color: #111827;
+    letter-spacing: -0.5px;
+    line-height: 1.15;
+  }
+
+  .header-subtitle {
+    font-size: 18px;
+    font-weight: 400;
+    color: #1a56db;
+    margin-top: 4px;
+  }
+
+  .header-meta {
+    text-align: right;
+    font-size: 12px;
+    color: #6b7280;
+    line-height: 1.7;
+  }
+
+  .header-meta strong {
+    color: #374151;
+    font-weight: 600;
+    display: block;
+    font-size: 13px;
+  }
+
+  /* Section titles */
+  .section-title {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    color: #1a56db;
+    margin-bottom: 14px;
+  }
+
+  /* Problem + Proposal row */
+  .card {
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 22px 24px;
+    margin-bottom: 20px;
+  }
+
+  .card p {
+    font-size: 13.5px;
+    line-height: 1.7;
+    color: #374151;
+  }
+
+  /* Proposal section */
+  .proposal-section {
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 24px 28px 20px;
+    margin-bottom: 28px;
+  }
+
+  .proposal-section > p {
+    font-size: 14px;
+    line-height: 1.7;
+    color: #374151;
+    margin-bottom: 14px;
+    text-align: center;
+  }
+
+  .flow-image {
+    width: 100%;
+    display: block;
+    border-radius: 6px;
+  }
+
+  /* How it works — 6 steps */
+  .steps-section {
+    margin-bottom: 28px;
+  }
+
+  .steps-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+  }
+
+  .step {
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 18px 18px 16px;
+    position: relative;
+  }
+
+  .step-number {
+    position: absolute;
+    top: 12px;
+    right: 14px;
+    font-size: 32px;
+    font-weight: 800;
+    color: #f3f4f6;
+    line-height: 1;
+  }
+
+  .step-title {
+    font-size: 12px;
+    font-weight: 700;
+    color: #1a56db;
+    margin-bottom: 7px;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+  }
+
+  .step p {
+    font-size: 12px;
+    line-height: 1.6;
+    color: #4b5563;
+  }
+
+  .step p strong {
+    color: #1e40af;
+    font-weight: 600;
+  }
+
+  /* Impact table */
+  .impact-section {
+    margin-bottom: 28px;
+  }
+
+  .impact-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #ffffff;
+  }
+
+  .impact-table th {
+    text-align: left;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: #9ca3af;
+    padding: 8px 16px;
+    border-bottom: 2px solid #e5e7eb;
+  }
+
+  .impact-table td {
+    padding: 10px 16px;
+    font-size: 12.5px;
+    line-height: 1.5;
+    border-bottom: 1px solid #f3f4f6;
+  }
+
+  .impact-table td:first-child {
+    font-weight: 700;
+    color: #1a56db;
+    width: 110px;
+    white-space: nowrap;
+  }
+
+  .impact-table td:last-child {
+    color: #4b5563;
+  }
+
+  .impact-table tr:last-child td {
+    border-bottom: none;
+  }
+
+  /* Plan section */
+  .plan-section {
+    margin-bottom: 28px;
+  }
+
+  .plan-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin-bottom: 14px;
+  }
+
+  .phase {
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 16px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .phase::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 4px;
+  }
+
+  .phase:nth-child(1)::before { background: #1a56db; }
+  .phase:nth-child(2)::before { background: #3b82f6; }
+  .phase:nth-child(3)::before { background: #60a5fa; }
+  .phase:nth-child(4)::before { background: #93c5fd; }
+
+  .phase-label {
+    font-size: 10px;
+    font-weight: 700;
+    color: #6b7280;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 4px;
+  }
+
+  .phase-weeks {
+    font-size: 22px;
+    font-weight: 800;
+    color: #111827;
+    margin-bottom: 8px;
+    letter-spacing: -0.5px;
+  }
+
+  .phase-weeks span {
+    font-size: 12px;
+    font-weight: 500;
+    color: #9ca3af;
+    margin-left: 2px;
+  }
+
+  .phase-desc {
+    font-size: 11.5px;
+    line-height: 1.5;
+    color: #6b7280;
+  }
+
+  /* Timeline bar */
+  .timeline {
+    margin: 0 0 12px;
+    position: relative;
+    height: 52px;
+    background: #f9fafb;
+    border-radius: 8px;
+    padding: 8px 12px;
+  }
+
+  .timeline-bar {
+    position: absolute;
+    height: 9px;
+    border-radius: 4px;
+  }
+
+  .timeline-bar.f1 { top: 8px;  left: 12px; width: 24%; background: #1a56db; }
+  .timeline-bar.f2 { top: 20px; left: calc(12px + 16%); width: 38%; background: #3b82f6; }
+  .timeline-bar.f3 { top: 32px; left: calc(12px + 46%); width: 42%; background: #60a5fa; }
+  .timeline-bar.f4 { top: 44px; left: calc(12px + 80%); width: 18%; background: #93c5fd; border-top-right-radius: 0; border-bottom-right-radius: 0; }
+
+  .plan-note {
+    font-size: 12px;
+    color: #9ca3af;
+    text-align: center;
+    margin-top: 4px;
+  }
+
+  /* Bottom row */
+  .bottom-row {
+    display: grid;
+    grid-template-columns: 5fr 3fr;
+    gap: 20px;
+  }
+
+  .next-step {
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    border-radius: 10px;
+    padding: 22px 24px;
+  }
+
+  .next-step p {
+    font-size: 13.5px;
+    line-height: 1.7;
+    color: #1e3a5f;
+  }
+
+  .principle {
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 22px 24px;
+    display: flex;
+    align-items: center;
+  }
+
+  .principle p {
+    font-size: 13px;
+    line-height: 1.6;
+    color: #1a56db;
+    font-weight: 500;
+    font-style: italic;
+  }
+
+  @media print {
+    body { background: #ffffff; }
+    .page { padding: 36px 44px; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- Header -->
+  <div class="header">
+    <div>
+      <div class="header-title">Transformación del GTM</div>
+      <div class="header-subtitle">Del modelo industrial al experimental</div>
+    </div>
+    <div class="header-meta">
+      <strong>One-pager ejecutivo</strong>
+      Propuesta de Alberto<br>
+      Marzo 2026
+    </div>
+  </div>
+
+  <!-- Problem -->
+  <div class="card">
+    <div class="section-title">El problema</div>
+    <p>El mercado cambia en semanas. La tecnología permite iterar en días. La organización actúa en trimestres. El modelo actual — planificar, construir, vender — asume que sabemos lo que el mercado quiere antes de preguntarle. Los errores se detectan tarde, cuando la inversión ya está hecha. No actuar es quedarse progresivamente más atrás.</p>
+  </div>
+
+  <!-- Proposal — flow diagram -->
+  <div class="proposal-section">
+    <div class="section-title">La propuesta — 4 fases con iteración interna</div>
+    <p>Invertir el orden. Que el mercado dicte qué construir. Un modelo de 4 fases con bucles de iteración internos.</p>
+    <img src="flow_diagram.png" alt="Flujo operativo — 4 fases" class="flow-image" />
+  </div>
+
+  <!-- How it works — 4 phases -->
+  <div class="steps-section">
+    <div class="section-title">Las 4 fases</div>
+    <div class="steps-grid" style="grid-template-columns: repeat(2, 1fr);">
+      <div class="step">
+        <div class="step-number">01</div>
+        <div class="step-title">Detección de oportunidades</div>
+        <p>IA monitoriza en continuo 6 fuentes: empleo, competidores, demanda corporativa, empleabilidad, tendencias e <strong>inteligencia de no-compra</strong> (entrevista automática a leads no convertidos). Las señales se agrupan en clusters de skills, se comparan contra el portfolio actual y generan un <strong>informe semanal de recomendaciones con TAM</strong>: crear, complementar o reestructurar formaciones.</p>
+      </div>
+      <div class="step">
+        <div class="step-number">02</div>
+        <div class="step-title">Testeo de PMF</div>
+        <p>IA construye landings en horas. Agentes de IA gestionan campañas. IA cualifica leads por voz y chat. <strong>Bucle:</strong> landing → cualificación → feedback → ajustar mensaje/precio → repetir. Sin tracción → descartar. Coste: días.</p>
+      </div>
+      <div class="step">
+        <div class="step-number">03</div>
+        <div class="step-title">Modo Beta (primeras ventas)</div>
+        <p>IA construye v1 funcional en días. Primeros clientes reales. Comercial recibe leads cualificados. <strong>Bucle:</strong> construir → feedback → medir CSAT y Churn → iterar. Solo se escala cuando las métricas lo justifican.</p>
+      </div>
+      <div class="step">
+        <div class="step-number">04</div>
+        <div class="step-title">Escalado y evolución</div>
+        <p>Escalar captación y comercial sobre evidencia. Con tracción: incorporar profesores, influencers y mentoría premium. <strong>Vuelve a Fase 1</strong> para mantener relevancia del producto y detectar nuevas oportunidades.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Impact -->
+  <div class="impact-section">
+    <div class="section-title">Impacto por área</div>
+    <table class="impact-table">
+      <thead>
+        <tr><th>Área</th><th>Cambio clave</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Producto</td><td>De roadmap cerrado a listado vivo de oportunidades con KPIs y TAM. Solo se construye lo que supera el testeo de PMF</td></tr>
+        <tr><td>Marketing</td><td>De comunicar lo que existe a generar la evidencia que decide qué se construye: campañas y landings gestionadas por IA</td></tr>
+        <tr><td>Comercial</td><td>De calificar desde cero a recibir leads cualificados por IA desde Fase 3, con perfil y propensión de compra evaluados</td></tr>
+        <tr><td>Académico</td><td>De construir sin saber si funcionará a aportar valor premium sobre productos con tracción validada en Modo Beta</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Bottom: Next step + Principle -->
+  <div class="bottom-row">
+    <div class="next-step">
+      <div class="section-title">Siguiente paso</div>
+      <p>Activar la Fase 1. Asignar un responsable con visibilidad transversal sobre Producto, Marketing, Comercial, Académico y Tecnología. Sin ese liderazgo claro, la iniciativa se diluye entre silos.</p>
+    </div>
+    <div class="principle">
+      <p>«Escalamos inversión humana y de captación solo cuando tenemos evidencia de PMF y métricas de CSAT/Churn aceptables. Primero IA, después humanos premium, y solo cuando el mercado lo valida.»</p>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,1 @@
+Workspace compartido de la compañía Fase 1 — Detección de Oportunidades para 35mm.es (Audiovisual, España). Aquí se publican los informes semanales, oportunidades detectadas y el conocimiento acumulado.

@@ -1,0 +1,12 @@
+{
+  "name": "lost-leads-tool",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node api/server.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "better-sqlite3": "12.8.0"
+  }
+}

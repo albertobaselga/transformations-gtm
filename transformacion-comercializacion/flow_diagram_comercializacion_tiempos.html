@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<style>
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    padding: 28px;
+    background: #ffffff;
+    font-family: Aptos, "Segoe UI", -apple-system, BlinkMacSystemFont, sans-serif;
+    color: #111827;
+  }
+
+  #diagram {
+    width: 1760px;
+    margin: 0 auto;
+  }
+
+  .title {
+    font-size: 22px;
+    font-weight: 850;
+    color: #1e3a8a;
+    margin-bottom: 6px;
+  }
+
+  .subtitle {
+    font-size: 13px;
+    line-height: 1.42;
+    color: #475569;
+    max-width: 1260px;
+    margin-bottom: 18px;
+  }
+
+  .source-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-bottom: 16px;
+  }
+
+  .source {
+    border: 1px solid #dbeafe;
+    background: #eff6ff;
+    border-radius: 8px;
+    padding: 12px 14px;
+    min-height: 92px;
+  }
+
+  .source strong {
+    display: block;
+    font-size: 13px;
+    color: #1e40af;
+    margin-bottom: 5px;
+  }
+
+  .source span {
+    display: block;
+    font-size: 12px;
+    line-height: 1.38;
+    color: #334155;
+  }
+
+  .spine {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 14px;
+    align-items: stretch;
+    margin: 8px 0 18px;
+    position: relative;
+  }
+
+  .spine::before {
+    content: "";
+    position: absolute;
+    left: 8%;
+    right: 8%;
+    top: 44px;
+    height: 2px;
+    background: #bfdbfe;
+    z-index: 0;
+  }
+
+  .stage {
+    position: relative;
+    z-index: 1;
+    background: #ffffff;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    padding: 13px 14px 14px;
+    min-height: 130px;
+  }
+
+  .stage.primary {
+    border-color: #93c5fd;
+    background: #f8fbff;
+  }
+
+  .stage.green {
+    border-color: #86efac;
+    background: #f0fdf4;
+  }
+
+  .stage.amber {
+    border-color: #fcd34d;
+    background: #fffbeb;
+  }
+
+  .time {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 850;
+    text-transform: uppercase;
+    letter-spacing: 0.6px;
+    color: #1e40af;
+    background: #dbeafe;
+    border: 1px solid #bfdbfe;
+    border-radius: 5px;
+    padding: 3px 7px;
+    margin-bottom: 8px;
+  }
+
+  .stage h3 {
+    font-size: 14px;
+    color: #111827;
+    margin: 0 0 6px;
+  }
+
+  .stage p {
+    font-size: 12px;
+    line-height: 1.42;
+    color: #374151;
+    margin: 0;
+  }
+
+  .paths-title {
+    font-size: 12px;
+    font-weight: 850;
+    letter-spacing: 1.3px;
+    text-transform: uppercase;
+    color: #1e40af;
+    margin: 2px 0 10px;
+  }
+
+  .lanes {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+  }
+
+  .lane {
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #ffffff;
+  }
+
+  .lane-head {
+    padding: 11px 13px;
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 850;
+  }
+
+  .lane.ia .lane-head { background: #1d4ed8; }
+  .lane.self .lane-head { background: #15803d; }
+  .lane.human .lane-head { background: #4f46e5; }
+  .lane.rescue .lane-head { background: #b45309; }
+
+  .lane-body {
+    padding: 13px;
+  }
+
+  .step {
+    border-left: 3px solid #dbeafe;
+    padding-left: 10px;
+    margin-bottom: 12px;
+  }
+
+  .lane.self .step { border-left-color: #bbf7d0; }
+  .lane.human .step { border-left-color: #c7d2fe; }
+  .lane.rescue .step { border-left-color: #fed7aa; }
+
+  .step:last-child {
+    margin-bottom: 0;
+  }
+
+  .step strong {
+    display: block;
+    font-size: 12px;
+    color: #111827;
+    margin-bottom: 3px;
+  }
+
+  .step span {
+    display: block;
+    font-size: 11.5px;
+    line-height: 1.36;
+    color: #4b5563;
+  }
+
+  .footer-note {
+    margin-top: 14px;
+    border: 1px solid #e5e7eb;
+    background: #f8fafc;
+    border-radius: 8px;
+    padding: 12px 14px;
+    font-size: 12px;
+    line-height: 1.42;
+    color: #334155;
+  }
+
+  .footer-note strong {
+    color: #111827;
+  }
+</style>
+</head>
+<body>
+<div id="diagram">
+  <div class="title">Flujo post-captura: de lead creado a siguiente mejor acción</div>
+  <div class="subtitle">El modelo no cambia necesariamente cómo se capta el lead. Cambia lo que ocurre justo después: IA atiende, personaliza, envía un enlace de avance y aprende del comportamiento para decidir canal, empuje y escalado.</div>
+
+  <div class="source-row">
+    <div class="source"><strong>Formulario web</strong><span>Datos de contacto + formación visualizada + marca de origen.</span></div>
+    <div class="source"><strong>Llamada telefónica</strong><span>Teléfonos publicados en landings o webs catálogo.</span></div>
+    <div class="source"><strong>Chat / WhatsApp</strong><span>El lead deja datos o inicia conversación directamente.</span></div>
+    <div class="source"><strong>Delegación presencial</strong><span>Entrada minoritaria, útil si hay cercanía o prueba social.</span></div>
+  </div>
+
+  <div class="spine">
+    <div class="stage primary">
+      <span class="time">Minuto 0</span>
+      <h3>Lead creado</h3>
+      <p>Se registra fuente, canal, marca, formación, duplicidad e histórico.</p>
+    </div>
+    <div class="stage primary">
+      <span class="time">0-1 min</span>
+      <h3>Primera gestión IA</h3>
+      <p>IA responde o activa outbound, confirma contexto y evita espera humana.</p>
+    </div>
+    <div class="stage green">
+      <span class="time">0-2 min</span>
+      <h3>Enlace personalizado</h3>
+      <p>Se envía por chat/WhatsApp y email: simulador, matrícula, documentación, pago o pre-enrollment.</p>
+    </div>
+    <div class="stage amber">
+      <span class="time">1-15 min</span>
+      <h3>Conducta observable</h3>
+      <p>El lead conversa, abre enlace, simula cuota, pide llamada, abandona o queda en silencio.</p>
+    </div>
+    <div class="stage primary">
+      <span class="time">Continuo</span>
+      <h3>Motor de intención</h3>
+      <p>Actualiza estado y decide contacto, canal, mensaje, intensidad y escalado.</p>
+    </div>
+  </div>
+
+  <div class="paths-title">Rutas posibles tras la primera gestión</div>
+  <div class="lanes">
+    <div class="lane ia">
+      <div class="lane-head">1. Sigue con IA / chat</div>
+      <div class="lane-body">
+        <div class="step"><strong>Uso natural</strong><span>Preguntas de temario, precio, financiación, requisitos o fecha de inicio.</span></div>
+        <div class="step"><strong>Acompañamiento</strong><span>El chat explica qué está pasando, qué falta y qué opciones tiene.</span></div>
+        <div class="step"><strong>Salida</strong><span>Maduración, activación, auto-enrollment o solicitud de llamada.</span></div>
+      </div>
+    </div>
+
+    <div class="lane self">
+      <div class="lane-head">2. Avanza por auto-enrollment</div>
+      <div class="lane-body">
+        <div class="step"><strong>No es e-commerce</strong><span>Es matrícula, reserva, pago o financiación con interfaz personalizada.</span></div>
+        <div class="step"><strong>Directo o condicionado</strong><span>Puede ser matrícula directa o pre-enrollment con evaluación, cupo o documentación.</span></div>
+        <div class="step"><strong>Señales</strong><span>Clics, simulaciones, pasos completados y abandonos alimentan el motor.</span></div>
+      </div>
+    </div>
+
+    <div class="lane human">
+      <div class="lane-head">3. Salta a humano, voz o presencialidad</div>
+      <div class="lane-body">
+        <div class="step"><strong>Cuándo</strong><span>Alta intención, ticket alto, objeción, requisito de aceptación o necesidad de confianza.</span></div>
+        <div class="step"><strong>Cómo</strong><span>Voz humana, voz IA o contacto presencial si el código postal lo permite.</span></div>
+        <div class="step"><strong>Contexto</strong><span>El comercial recibe objetivo, formación, objeciones y actividad previa.</span></div>
+      </div>
+    </div>
+
+    <div class="lane rescue">
+      <div class="lane-head">4. No convierte en tiempo prudencial</div>
+      <div class="lane-body">
+        <div class="step"><strong>Lectura del bloqueo</strong><span>Precio, timing, confianza, requisito, pago, documentación o silencio.</span></div>
+        <div class="step"><strong>Ritmo de push</strong><span>Alto, medio o bajo según naturaleza del lead, valor esperado e interés reciente.</span></div>
+        <div class="step"><strong>Siguiente acción</strong><span>Valor, financiación, beca, callback, prueba social, nueva convocatoria o pausa.</span></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="footer-note"><strong>Lectura ejecutiva:</strong> el flujo no empuja a todos los leads a cerrar rápido. Prioriza atención inmediata, personalización y decisión de canal. El self-service alimenta al motor de intención igual que el chat, la voz o el email.</div>
+</div>
+</body>
+</html>

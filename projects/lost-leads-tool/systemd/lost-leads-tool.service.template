@@ -1,0 +1,17 @@
+[Unit]
+Description=Lost Leads API (35mm.es)
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=__PROJECT_ROOT__
+Environment=NODE_ENV=production
+Environment=PORT=3200
+ExecStart=__NODE_BIN__ __PROJECT_ROOT__/api/server.mjs
+Restart=always
+RestartSec=3
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=default.target

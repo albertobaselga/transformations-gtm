@@ -1,0 +1,596 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>One Pager — Fase 1: Deteccion de Oportunidades</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    background: #ffffff;
+    color: #1a1a1a;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .page {
+    width: 1120px;
+    margin: 0 auto;
+    padding: 44px 52px 40px;
+    background: #ffffff;
+    position: relative;
+  }
+
+  .page::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 5px;
+    background: #1a56db;
+  }
+
+  /* Header */
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 22px;
+    padding-bottom: 14px;
+    border-bottom: 2px solid #e5e7eb;
+  }
+
+  .header-title {
+    font-size: 26px;
+    font-weight: 800;
+    color: #111827;
+    letter-spacing: -0.5px;
+    line-height: 1.15;
+  }
+
+  .header-subtitle {
+    font-size: 15px;
+    font-weight: 400;
+    color: #1a56db;
+    margin-top: 3px;
+  }
+
+  .header-meta {
+    text-align: right;
+    font-size: 10px;
+    color: #6b7280;
+    line-height: 1.7;
+  }
+
+  .header-meta strong {
+    color: #374151;
+    font-weight: 600;
+    display: block;
+    font-size: 11px;
+  }
+
+  /* Section titles */
+  .section-title {
+    font-size: 9.5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    color: #1a56db;
+    margin-bottom: 8px;
+  }
+
+  /* Intro */
+  .intro {
+    font-size: 12px;
+    line-height: 1.6;
+    color: #374151;
+    margin-bottom: 18px;
+    padding: 14px 18px;
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+  }
+
+  /* ── SOURCES ── */
+  .sources-section { margin-bottom: 18px; }
+
+  .sources-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+
+  .src {
+    background: #ffffff;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    padding: 14px 14px 12px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .src::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    background: #1a56db;
+  }
+
+  .src-header {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    margin-bottom: 6px;
+  }
+
+  .src-icon { font-size: 16px; }
+
+  .src-title {
+    font-size: 10px;
+    font-weight: 700;
+    color: #1a56db;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    line-height: 1.3;
+  }
+
+  .src-desc {
+    font-size: 10.5px;
+    line-height: 1.5;
+    color: #374151;
+    margin-bottom: 6px;
+  }
+
+  .src-signals-label {
+    font-size: 8px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #9ca3af;
+    margin-bottom: 3px;
+  }
+
+  .src-signals {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px;
+  }
+
+  .src-signals li {
+    font-size: 8.5px;
+    line-height: 1.2;
+    color: #6b7280;
+    background: #f3f4f6;
+    padding: 2px 6px;
+    border-radius: 3px;
+  }
+
+  /* ── CONNECTOR: sources → synthesis ── */
+  .connector {
+    text-align: center;
+    padding: 6px 0;
+    color: #d1d5db;
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing: 8px;
+  }
+
+  /* ── SYNTHESIS FLOW ── */
+  .synthesis-section { margin-bottom: 6px; }
+
+  .synthesis-flow {
+    display: flex;
+    align-items: stretch;
+    gap: 0;
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    padding: 14px 14px;
+  }
+
+  .syn-step {
+    flex: 1;
+    text-align: center;
+    padding: 12px 8px;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .syn-step.blue { background: #1a56db; color: #fff; }
+  .syn-step.light { background: #ffffff; border: 1px solid #d1d5db; }
+  .syn-step.accent { background: #eff6ff; border: 1px solid #bfdbfe; }
+
+  .syn-num {
+    font-size: 20px;
+    font-weight: 800;
+    opacity: 0.15;
+    line-height: 1;
+    margin-bottom: 3px;
+  }
+
+  .syn-step.blue .syn-num { opacity: 0.3; }
+
+  .syn-title {
+    font-size: 9.5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    margin-bottom: 3px;
+  }
+
+  .syn-desc {
+    font-size: 9px;
+    line-height: 1.35;
+    opacity: 0.8;
+  }
+
+  .syn-arrow {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    color: #9ca3af;
+    padding: 0 4px;
+    flex-shrink: 0;
+  }
+
+  /* ── CONNECTOR 2 ── */
+
+  /* ── WEEKLY REPORT: 3 OPPORTUNITY TYPES ── */
+  .report-section { margin-bottom: 18px; }
+
+  .report-intro {
+    font-size: 11.5px;
+    line-height: 1.55;
+    color: #374151;
+    margin-bottom: 12px;
+    padding: 0 2px;
+  }
+
+  .report-intro strong { color: #1e40af; }
+
+  .opp-types {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+
+  .opp {
+    border-radius: 8px;
+    padding: 14px 14px 12px;
+  }
+
+  .opp.nueva { background: #eff6ff; border: 1px solid #bfdbfe; }
+  .opp.complementar { background: #f0fdf4; border: 1px solid #bbf7d0; }
+  .opp.reestructurar { background: #fffbeb; border: 1px solid #fde68a; }
+
+  .opp-title {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+  }
+
+  .opp.nueva .opp-title { color: #1e40af; }
+  .opp.complementar .opp-title { color: #166534; }
+  .opp.reestructurar .opp-title { color: #92400e; }
+
+  .opp p {
+    font-size: 10px;
+    line-height: 1.45;
+    color: #4b5563;
+    margin-bottom: 4px;
+  }
+
+  .opp .ex {
+    font-size: 9px;
+    color: #9ca3af;
+    font-style: italic;
+    display: block;
+  }
+
+  /* Decision flow below opportunities */
+  .decision-flow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0;
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    padding: 10px 14px;
+  }
+
+  .dec-step {
+    text-align: center;
+    padding: 8px 12px;
+    border-radius: 6px;
+    flex: 1;
+    max-width: 180px;
+  }
+
+  .dec-step.green { background: #f0fdf4; border: 1px solid #bbf7d0; color: #166534; }
+  .dec-step.amber { background: #fffbeb; border: 1px solid #fde68a; color: #92400e; }
+  .dec-step.red { background: #fef2f2; border: 1px solid #fecaca; color: #991b1b; }
+
+  .dec-title {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+  }
+
+  .dec-desc {
+    font-size: 8.5px;
+    opacity: 0.8;
+    margin-top: 1px;
+  }
+
+  .dec-arrow {
+    font-size: 14px;
+    color: #d1d5db;
+    padding: 0 8px;
+    flex-shrink: 0;
+  }
+
+  .dec-label {
+    font-size: 9px;
+    font-weight: 600;
+    color: #9ca3af;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 0 12px;
+    flex-shrink: 0;
+  }
+
+  /* ── BOTTOM ── */
+  .bottom-row {
+    display: grid;
+    grid-template-columns: 5fr 3fr;
+    gap: 12px;
+    margin-top: 18px;
+  }
+
+  .next-step {
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    border-radius: 8px;
+    padding: 16px 18px;
+  }
+
+  .next-step p {
+    font-size: 11.5px;
+    line-height: 1.55;
+    color: #1e3a5f;
+  }
+
+  .principle {
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 8px;
+    padding: 16px 18px;
+    display: flex;
+    align-items: center;
+  }
+
+  .principle p {
+    font-size: 11px;
+    line-height: 1.5;
+    color: #1a56db;
+    font-weight: 500;
+    font-style: italic;
+  }
+
+  @media print {
+    body { background: #fff; }
+    .page { padding: 32px 40px; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- Header -->
+  <div class="header">
+    <div>
+      <div class="header-title">Fase 1: Deteccion de Oportunidades</div>
+      <div class="header-subtitle">Inteligencia de mercado continua con IA</div>
+    </div>
+    <div class="header-meta">
+      <strong>One-pager de fase</strong>
+      Transformacion GTM<br>
+      Abril 2026
+    </div>
+  </div>
+
+  <!-- Intro -->
+  <p class="intro">La IA monitoriza el mercado de forma continua desde seis fuentes de inteligencia. Las senales se agrupan en clusters de skills que representan oportunidades reales. Cada semana se genera un informe de recomendaciones por area formativa: que crear, que adaptar y que recombinar del portfolio actual.</p>
+
+  <!-- ── 6 SOURCES ── -->
+  <div class="sources-section">
+    <div class="section-title">6 fuentes de inteligencia</div>
+    <div class="sources-grid">
+
+      <div class="src">
+        <div class="src-header">
+          <div class="src-icon">💼</div>
+          <div class="src-title">Ofertas de empleo</div>
+        </div>
+        <div class="src-desc">Que skills buscan las empresas en cada nicho y sector. Indica la demanda real del mercado laboral y donde se concentra.</div>
+        <div class="src-signals-label">Senales</div>
+        <ul class="src-signals">
+          <li>Volumen vacantes/skill</li>
+          <li>Crecimiento de roles</li>
+          <li>Nuevos puestos</li>
+          <li>Concentracion geo</li>
+        </ul>
+      </div>
+
+      <div class="src">
+        <div class="src-header">
+          <div class="src-icon">⚔️</div>
+          <div class="src-title">Competidores</div>
+        </div>
+        <div class="src-desc">Que lanzan, como lo posicionan y a que precio. Detecta huecos de mercado y movimientos competitivos en tiempo real.</div>
+        <div class="src-signals-label">Senales</div>
+        <ul class="src-signals">
+          <li>Cursos lanzados</li>
+          <li>Cambios pricing</li>
+          <li>Resenas alumnos</li>
+          <li>Campanas activas</li>
+        </ul>
+      </div>
+
+      <div class="src">
+        <div class="src-header">
+          <div class="src-icon">🏢</div>
+          <div class="src-title">Demanda corporativa</div>
+        </div>
+        <div class="src-desc">Senales de demanda formativa desde empresas: necesidades de upskilling, reskilling y formacion bonificada.</div>
+        <div class="src-signals-label">Senales</div>
+        <ul class="src-signals">
+          <li>RFPs/licitaciones</li>
+          <li>Reportes industria</li>
+          <li>Presupuestos L&D</li>
+          <li>Encuestas upskilling</li>
+        </ul>
+      </div>
+
+      <div class="src">
+        <div class="src-header">
+          <div class="src-icon">🎯</div>
+          <div class="src-title">Empleabilidad</div>
+        </div>
+        <div class="src-desc">Que perfiles tienen mas salidas, que certificaciones se valoran y como evoluciona la demanda de cada perfil profesional.</div>
+        <div class="src-signals-label">Senales</div>
+        <ul class="src-signals">
+          <li>Ratio oferta/demanda</li>
+          <li>Salarios y evolucion</li>
+          <li>Certif. valoradas</li>
+          <li>Tiempo colocacion</li>
+        </ul>
+      </div>
+
+      <div class="src">
+        <div class="src-header">
+          <div class="src-icon">📈</div>
+          <div class="src-title">Tendencias emergentes</div>
+        </div>
+        <div class="src-desc">Tecnologias, roles y capacidades en crecimiento. Deteccion temprana de oportunidades antes de que el mercado se sature.</div>
+        <div class="src-signals-label">Senales</div>
+        <ul class="src-signals">
+          <li>Publicaciones espec.</li>
+          <li>Comunidades/repos</li>
+          <li>Adopcion empresarial</li>
+          <li>Busquedas en alza</li>
+        </ul>
+      </div>
+
+      <div class="src">
+        <div class="src-header">
+          <div class="src-icon">🚫</div>
+          <div class="src-title">Inteligencia de no-compra</div>
+        </div>
+        <div class="src-desc">Analisis de leads que no convirtieron via entrevista automatica (chat/llamada IA + transcripcion). Cada "no" es inteligencia.</div>
+        <div class="src-signals-label">Senales</div>
+        <ul class="src-signals">
+          <li>Motivos no compra</li>
+          <li>Objeciones frecuentes</li>
+          <li>Alternativas elegidas</li>
+          <li>Sensibilidad precio</li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Connector -->
+  <div class="connector">▼ ▼ ▼</div>
+
+  <!-- ── SYNTHESIS: FROM SIGNALS TO OPPORTUNITIES ── -->
+  <div class="synthesis-section">
+    <div class="section-title">De senales a oportunidades</div>
+    <div class="synthesis-flow">
+      <div class="syn-step blue">
+        <div class="syn-num">1</div>
+        <div class="syn-title">Detectar clusters</div>
+        <div class="syn-desc">Skills relacionadas que aparecen juntas en empleo, busquedas y demanda corporativa</div>
+      </div>
+      <div class="syn-arrow">→</div>
+      <div class="syn-step light">
+        <div class="syn-num">2</div>
+        <div class="syn-title">Validar cruzado</div>
+        <div class="syn-desc">Confirmar contra las 6 fuentes: empleo real + competencia + intencion de busqueda</div>
+      </div>
+      <div class="syn-arrow">→</div>
+      <div class="syn-step light">
+        <div class="syn-num">3</div>
+        <div class="syn-title">Titular y definir</div>
+        <div class="syn-desc">Nombre descriptivo + perfil profesional que cubre la oportunidad</div>
+      </div>
+      <div class="syn-arrow">→</div>
+      <div class="syn-step light">
+        <div class="syn-num">4</div>
+        <div class="syn-title">Estimar TAM</div>
+        <div class="syn-desc">Busquedas transaccionales + aspiracionales + demanda empleo</div>
+      </div>
+      <div class="syn-arrow">→</div>
+      <div class="syn-step accent">
+        <div class="syn-num">5</div>
+        <div class="syn-title">Comparar portfolio</div>
+        <div class="syn-desc">Contrastar vs oferta actual por area formativa</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Connector -->
+  <div class="connector">▼ ▼ ▼</div>
+
+  <!-- ── WEEKLY REPORT: RECOMMENDATIONS ── -->
+  <div class="report-section">
+    <div class="section-title">Informe semanal de recomendaciones por area formativa</div>
+    <p class="report-intro">Cada oportunidad se compara contra la <strong>propuesta de valor actual</strong> en su area (audiovisual, oposiciones, tecnologia, negocio, salud...). Del contraste surgen tres tipos de recomendacion, cada una con sus senales absolutas, deltas semanales y TAM estimado:</p>
+
+    <div class="opp-types">
+      <div class="opp nueva">
+        <div class="opp-title">Nueva formacion</div>
+        <p>Cluster de skills sin cobertura. Crear programa, titulacion o certificacion desde cero.</p>
+        <span class="ex">Ej: "Ciberseguridad OT industrial" — sin oferta actual en el portfolio</span>
+      </div>
+      <div class="opp complementar">
+        <div class="opp-title">Complementar existente</div>
+        <p>Solapamiento parcial con formaciones actuales. Adaptar su propuesta de valor para capturar demanda adyacente.</p>
+        <span class="ex">Ej: Curso de edicion de video + modulos de IA generativa para creadores audiovisuales</span>
+      </div>
+      <div class="opp reestructurar">
+        <div class="opp-title">Reestructurar portfolio</div>
+        <p>Combinar formaciones de distintas areas o tipos (oficiales + no oficiales) para cubrir un TAM mayor que ninguna alcanza sola.</p>
+        <span class="ex">Ej: Ciclo oficial administracion + especializacion no oficial en datos = "Analista de negocio"</span>
+      </div>
+    </div>
+
+    <p style="font-size:10px; color:#9ca3af; font-style:italic; margin-top:6px; padding:0 2px;">Cada recomendacion pasa a Fase 2 cuando acumula senales solidas, o se mantiene en investigacion hasta evidencia suficiente.</p>
+  </div>
+
+  <!-- ── BOTTOM ── -->
+  <div class="bottom-row">
+    <div class="next-step">
+      <div class="section-title">Siguiente paso</div>
+      <p>Configurar IA para las 6 fuentes. Definir nichos iniciales por area formativa. Activar entrevistas automaticas de no-compra. Generar el primer informe semanal de recomendaciones con clusters, senales, deltas y TAM por area.</p>
+    </div>
+    <div class="principle">
+      <p>El equipo aporta criterio para interpretar datos reales. El mercado informa, la organizacion decide. Las oportunidades no solo crean: evolucionan y recombinan lo que ya tenemos.</p>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,147 @@
+# Fuente 3: Demanda Corporativa
+# Responsable: Raul Vega (analista) / Daniel Ruiz (head)
+# Descripcion: Monitorizacion de senales de demanda formativa corporativa
+#   en el sector audiovisual y creativo.
+
+fuente: 3
+nombre: demanda-corporativa
+frecuencia: diaria
+analista: raul-vega
+head: daniel-ruiz
+
+# Sub-fuentes a monitorizar
+subfuentes:
+  fundae:
+    nombre: FUNDAE (Fundacion Estatal para la Formacion en el Empleo)
+    url_base: https://www.fundae.es
+    tipo: datos-publicos
+    senales:
+      - Volumen de formacion bonificada en categorias audiovisual/creativo
+      - Nuevas acciones formativas registradas en el sector
+      - Tendencias de bonificacion por tamano de empresa
+      - Comparativa interanual de demanda formativa
+    frecuencia_revision: semanal
+    notas: >
+      Los datos de FUNDAE se publican con retraso. Revisar informes
+      trimestrales y memorias anuales. Buscar especificamente categorias
+      relacionadas con produccion audiovisual, animacion, videojuegos,
+      sonido y fotografia.
+
+  boe:
+    nombre: BOE (Boletin Oficial del Estado)
+    url_base: https://www.boe.es
+    tipo: licitaciones-publicas
+    senales:
+      - Licitaciones de formacion audiovisual o creativa
+      - Contratos publicos de capacitacion digital/audiovisual
+      - Convocatorias de subvenciones para formacion sectorial
+      - Pliegos que mencionen competencias audiovisuales
+    frecuencia_revision: diaria
+    filtros_busqueda:
+      - "formacion audiovisual"
+      - "formacion produccion video"
+      - "capacitacion animacion"
+      - "formacion videojuegos"
+      - "competencias digitales audiovisual"
+      - "formacion fotografia profesional"
+      - "produccion cinematografica formacion"
+
+  linkedin:
+    nombre: LinkedIn (publicaciones L&D corporativo)
+    url_base: https://www.linkedin.com
+    tipo: redes-sociales
+    senales:
+      - Publicaciones de departamentos L&D sobre necesidades audiovisuales
+      - Ofertas de formacion in-company en sector creativo
+      - Discusiones sobre upskilling en produccion de contenido
+      - Anuncios de programas de formacion corporativa
+    frecuencia_revision: diaria
+    perfiles_objetivo:
+      - Directores de L&D en empresas de medios
+      - Responsables de formacion en productoras
+      - HR managers en agencias creativas
+      - CLOs (Chief Learning Officers) en empresas de contenido
+    hashtags:
+      - "#formacioncorporativa"
+      - "#upskilling"
+      - "#LearningAndDevelopment"
+      - "#formacionaudiovisual"
+      - "#talentocreativo"
+
+  informes_sectoriales:
+    nombre: Informes sectoriales (consultoras y empresas de RRHH)
+    tipo: informes-publicados
+    senales:
+      - Tendencias de formacion corporativa por sector
+      - Presupuestos de L&D publicados
+      - Encuestas de necesidades de upskilling
+      - Rankings de skills mas demandadas
+    fuentes_especificas:
+      - nombre: Randstad
+        tipo: informe-anual
+        buscar:
+          - "Informe de Tendencias de Formacion"
+          - "Employer Brand Research"
+      - nombre: Adecco
+        tipo: informe-trimestral
+        buscar:
+          - "Informe Infoempleo Adecco"
+          - "Monitor de Educacion"
+      - nombre: Deloitte
+        tipo: informe-anual
+        buscar:
+          - "Global Human Capital Trends"
+          - "Learning in the Flow of Work"
+      - nombre: LinkedIn Learning
+        tipo: informe-anual
+        buscar:
+          - "Workplace Learning Report"
+      - nombre: CEOE
+        tipo: informe-sectorial
+        buscar:
+          - "Necesidades formativas empresariales"
+    frecuencia_revision: semanal
+
+  camaras_comercio:
+    nombre: Camaras de Comercio (programas de formacion)
+    tipo: institucional
+    senales:
+      - Programas de formacion audiovisual subvencionados
+      - Convocatorias de ayudas a la formacion empresarial
+      - Jornadas sobre transformacion digital en el sector creativo
+    camaras_prioritarias:
+      - Madrid
+      - Barcelona
+      - Valencia
+      - Sevilla
+      - Bilbao
+    frecuencia_revision: semanal
+
+# Criterios de relevancia
+relevancia:
+  geografica: Espana (prioritario), LATAM (secundario)
+  sectorial:
+    - Produccion audiovisual
+    - Animacion y VFX
+    - Videojuegos
+    - Sonido y postproduccion
+    - Fotografia profesional
+    - Television y streaming
+    - Marketing de contenido audiovisual
+  tamano_empresa:
+    - PYME (10-250 empleados) - core target de 35mm
+    - Gran empresa (250+) - presupuestos mayores
+  presupuesto_minimo: null  # Cualquier senal es relevante en fase inicial
+
+# Formato de salida diaria
+output:
+  directorio: daily-notes/YYYY-MM-DD/
+  archivo_analista: analyst-raul-demand.md
+  archivo_head: head-daniel.md
+  campos_requeridos:
+    - fecha
+    - subfuente
+    - senal_detectada
+    - relevancia (alta/media/baja)
+    - implicacion_para_35mm
+    - accion_sugerida

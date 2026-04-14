@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
+<style>
+  body {
+    margin: 0;
+    padding: 32px;
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+  }
+  #diagram {
+    max-width: 960px;
+  }
+</style>
+</head>
+<body>
+<div id="diagram">
+<pre class="mermaid">
+flowchart LR
+    classDef phase fill:#1a56db,stroke:#1a56db,stroke-width:2px,color:#ffffff,font-weight:bold
+    classDef activity fill:#eff6ff,stroke:#3b82f6,stroke-width:1.5px,color:#1e3a8a,font-weight:bold
+    classDef decision fill:#fef3c7,stroke:#f59e0b,stroke-width:2px,color:#92400e,font-weight:bold
+    classDef success fill:#d1fae5,stroke:#10b981,stroke-width:2px,color:#065f46,font-weight:bold
+    classDef discard fill:#fee2e2,stroke:#ef4444,stroke-width:1.5px,color:#991b1b
+    classDef metric fill:#f3e8ff,stroke:#8b5cf6,stroke-width:1.5px,color:#5b21b6,font-weight:bold
+
+    subgraph P1["FASE 1: DETECCIÓN DE OPORTUNIDADES"]
+        D["IA monitoriza<br/>mercado"]:::activity
+        INT["Inteligencia de<br/>negocio/mercado"]:::activity
+        PO["Listado vivo de<br/>oportunidades<br/>(KPIs + TAM)"]:::activity
+        D --> INT --> PO
+    end
+
+    subgraph P2["FASE 2: TESTEO DE PMF"]
+        L["IA: Landing<br/>+ Campañas"]:::activity
+        Q["IA Cualifica<br/>leads"]:::activity
+        F["Feedback +<br/>Ajustar PMF"]:::activity
+        T{"¿Tracción?"}:::decision
+        L --> Q --> F --> T
+        T -->|"No: ajustar"| L
+    end
+
+    subgraph P3["FASE 3: MODO BETA"]
+        B["IA construye<br/>producto"]:::activity
+        V["Primeras<br/>ventas"]:::activity
+        FB["Feedback<br/>clientes"]:::activity
+        M["CSAT +<br/>Churn"]:::metric
+        MG{"¿Métricas<br/>OK?"}:::decision
+        B --> V --> FB --> M --> MG
+        MG -->|"No: iterar"| B
+    end
+
+    subgraph P4["FASE 4: ESCALADO Y EVOLUCIÓN"]
+        SC["+Captación<br/>+Comercial"]:::activity
+        GR["Crecer base<br/>usuarios"]:::activity
+        PR["Profesores,<br/>influencers,<br/>mentoría"]:::success
+        SC --> GR --> PR
+    end
+
+    DESC["Descartar"]:::discard
+
+    PO --> L
+    T -->|"Sin señal"| DESC
+    T -->|"Sí"| B
+    MG -->|"Sí"| SC
+    PR -->|"Mantener relevancia<br/>+ nuevas oportunidades"| D
+</pre>
+</div>
+
+<script>
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'base',
+    themeVariables: {
+      fontFamily: 'Inter, -apple-system, sans-serif',
+      fontSize: '13px',
+      primaryColor: '#eff6ff',
+      primaryBorderColor: '#3b82f6',
+      primaryTextColor: '#1e3a8a',
+      lineColor: '#6b7280',
+      secondaryColor: '#f9fafb',
+      tertiaryColor: '#ffffff',
+      edgeLabelBackground: '#ffffff',
+    },
+    flowchart: {
+      curve: 'basis',
+      padding: 16,
+      nodeSpacing: 40,
+      rankSpacing: 50,
+      htmlLabels: true,
+      useMaxWidth: false,
+    }
+  });
+</script>
+</body>
+</html>

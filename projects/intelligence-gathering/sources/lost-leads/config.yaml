@@ -1,0 +1,153 @@
+# Fuente 6: Inteligencia de No-Compra
+# Responsable: Alba Moreno (analista) / Daniel Ruiz (head)
+# Descripcion: Analisis sistematico de leads que no convirtieron en 35mm.es.
+#   Objetivo: convertir cada "no" en inteligencia accionable.
+
+fuente: 6
+nombre: inteligencia-no-compra
+frecuencia: diaria
+analista: alba-moreno
+head: daniel-ruiz
+
+# Herramienta principal
+herramienta:
+  nombre: Lost Leads Tool
+  tipo: bd-sqlite-local
+  ruta_bd: /home/abf/gtm-ia/projects/lost-leads-tool/db/lost-leads.db
+  ruta_api: /home/abf/gtm-ia/projects/lost-leads-tool/api/server.mjs
+  ruta_ui: /home/abf/gtm-ia/projects/lost-leads-tool/ui/index.html
+
+# Esquema de datos (referencia)
+esquema_leads:
+  categorias_curso:
+    - cine
+    - animacion
+    - videojuegos
+    - sonido
+    - fotografia
+    - tv
+    - produccion
+    - otro
+  motivos_no_compra:
+    - precio: "Lead considera que el precio es demasiado alto o no justificado"
+    - contenido: "El contenido no cubre lo que el lead necesita"
+    - competidor: "El lead eligio una alternativa de la competencia"
+    - timing: "No es el momento adecuado (personal, laboral, economico)"
+    - formato: "El formato (online, presencial, duracion) no encaja"
+    - otro: "Motivo no categorizado, revisar detalle"
+  niveles_sensibilidad_precio:
+    - low: "Precio no fue factor decisivo"
+    - medium: "Precio influyo pero no fue determinante"
+    - high: "Precio fue el motivo principal o bloqueante"
+
+# Sub-fuentes de inteligencia
+subfuentes:
+  bd_lost_leads:
+    nombre: Base de datos Lost Leads
+    tipo: bd-interna
+    senales:
+      - Motivos de no-compra recurrentes por categoria
+      - Tendencia temporal de motivos (empeorando/mejorando)
+      - Competidores elegidos con mayor frecuencia
+      - Sensibilidad al precio por segmento de curso
+      - Correlacion entre categoria de curso y motivo de abandono
+    consultas_clave:
+      top_motivos: >
+        SELECT non_purchase_reason, COUNT(*) as total
+        FROM leads GROUP BY non_purchase_reason
+        ORDER BY total DESC
+      por_categoria: >
+        SELECT course_category, non_purchase_reason, COUNT(*) as total
+        FROM leads GROUP BY course_category, non_purchase_reason
+        ORDER BY course_category, total DESC
+      competidores: >
+        SELECT competitor_chosen, COUNT(*) as total
+        FROM leads WHERE competitor_chosen IS NOT NULL
+        GROUP BY competitor_chosen ORDER BY total DESC
+      sensibilidad_precio: >
+        SELECT course_category, price_sensitivity, COUNT(*) as total
+        FROM leads GROUP BY course_category, price_sensitivity
+        ORDER BY course_category
+      tendencia_mensual: >
+        SELECT strftime('%Y-%m', contact_date) as mes,
+               non_purchase_reason, COUNT(*) as total
+        FROM leads GROUP BY mes, non_purchase_reason
+        ORDER BY mes DESC
+      sin_procesar: >
+        SELECT * FROM leads WHERE processed_by_agent = 0
+        ORDER BY contact_date DESC
+
+  transcripciones:
+    nombre: Analisis de transcripciones de comunicaciones
+    tipo: texto-no-estructurado
+    senales:
+      - Objeciones explicitas mencionadas por el lead
+      - Expectativas no cubiertas por la oferta de 35mm
+      - Comparaciones con competidores mencionadas
+      - Preguntas sin respuesta satisfactoria del closer
+      - Emociones y tono durante la conversacion
+    campo_bd: transcription
+    metodo_analisis: >
+      Extraer de cada transcripcion: objeciones principales,
+      alternativas mencionadas, expectativas expresadas,
+      y nivel de interes residual (podria convertir en el futuro).
+
+  notas_closer:
+    nombre: Notas del closer / comercial
+    tipo: texto-semiestructurado
+    senales:
+      - Valoracion del closer sobre probabilidad futura
+      - Observaciones sobre el perfil del lead
+      - Propuestas alternativas ofrecidas y rechazadas
+    campo_bd: closer_notes
+
+# Patrones a detectar (analisis cruzado)
+patrones_cruzados:
+  - nombre: "Fuga a competidor especifico"
+    descripcion: >
+      Si un competidor aparece recurrentemente como alternativa elegida,
+      investigar que ofrece que 35mm no.
+    umbral: 3+ leads al mismo competidor en 30 dias
+
+  - nombre: "Barrera de precio por categoria"
+    descripcion: >
+      Si una categoria concentra leads con alta sensibilidad al precio,
+      puede indicar que el pricing de esa formacion esta desalineado.
+    umbral: "50%+ de leads en esa categoria con price_sensitivity = high"
+
+  - nombre: "Contenido insuficiente"
+    descripcion: >
+      Si 'contenido' es motivo recurrente en una categoria, hay gap
+      entre lo que se ofrece y lo que el mercado espera.
+    umbral: 5+ leads con motivo 'contenido' en misma categoria en 30 dias
+
+  - nombre: "Timing estacional"
+    descripcion: >
+      Detectar si hay meses con picos de 'timing' como motivo,
+      lo que puede informar campanas de remarketing.
+    umbral: variacion >30% respecto a la media mensual
+
+# Criterios de escalado
+escalado:
+  urgente:
+    - "Competidor nuevo aparece en 3+ leads en una semana"
+    - "Motivo 'contenido' supera 40% en cualquier categoria"
+    - "Sensibilidad al precio 'high' supera 60% global"
+  semanal:
+    - "Top 3 motivos de no-compra y su evolucion"
+    - "Mapa de competidores y cuota de mencion"
+    - "Recomendaciones de ajuste de producto/precio"
+
+# Formato de salida diaria
+output:
+  directorio: daily-notes/YYYY-MM-DD/
+  archivo_analista: analyst-alba-nopurchase.md
+  archivo_head: head-daniel.md
+  campos_requeridos:
+    - fecha
+    - nuevos_leads_procesados
+    - patron_detectado (si aplica)
+    - top_motivos_periodo
+    - competidores_mencionados
+    - recomendacion_accionable
+    - nivel_urgencia (normal/atencion/urgente)

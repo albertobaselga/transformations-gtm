@@ -1,0 +1,1072 @@
+{
+  "source": "trend-monitor",
+  "generatedAt": "2026-04-10T05:25:28.285Z",
+  "configPath": "/home/abf/gtm-ia/projects/intelligence-gathering/sources/trends/trends-config.md",
+  "googleTrends": [
+    {
+      "source": "google-trends",
+      "keyword": "curso IA video",
+      "geo": "ES",
+      "timeRange": "today 12-m",
+      "points": [
+        {
+          "timestamp": "1743897600",
+          "label": "6–12 abr 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1744502400",
+          "label": "13–19 abr 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1745107200",
+          "label": "20–26 abr 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1745712000",
+          "label": "27 abr – 3 may 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1746316800",
+          "label": "4–10 may 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1746921600",
+          "label": "11–17 may 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1747526400",
+          "label": "18–24 may 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1748131200",
+          "label": "25–31 may 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1748736000",
+          "label": "1–7 jun 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1749340800",
+          "label": "8–14 jun 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1749945600",
+          "label": "15–21 jun 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1750550400",
+          "label": "22–28 jun 2025",
+          "value": 100,
+          "hasData": true
+        },
+        {
+          "timestamp": "1751155200",
+          "label": "29 jun – 5 jul 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1751760000",
+          "label": "6–12 jul 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1752364800",
+          "label": "13–19 jul 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1752969600",
+          "label": "20–26 jul 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1753574400",
+          "label": "27 jul – 2 ago 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1754179200",
+          "label": "3–9 ago 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1754784000",
+          "label": "10–16 ago 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1755388800",
+          "label": "17–23 ago 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1755993600",
+          "label": "24–30 ago 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1756598400",
+          "label": "31 ago – 6 sept 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1757203200",
+          "label": "7–13 sept 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1757808000",
+          "label": "14–20 sept 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1758412800",
+          "label": "21–27 sept 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1759017600",
+          "label": "28 sept – 4 oct 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1759622400",
+          "label": "5–11 oct 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1760227200",
+          "label": "12–18 oct 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1760832000",
+          "label": "19–25 oct 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1761436800",
+          "label": "26 oct – 1 nov 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1762041600",
+          "label": "2–8 nov 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1762646400",
+          "label": "9–15 nov 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1763251200",
+          "label": "16–22 nov 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1763856000",
+          "label": "23–29 nov 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1764460800",
+          "label": "30 nov – 6 dic 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1765065600",
+          "label": "7–13 dic 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1765670400",
+          "label": "14–20 dic 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1766275200",
+          "label": "21–27 dic 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1766880000",
+          "label": "28 dic 2025 – 3 ene 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1767484800",
+          "label": "4–10 ene 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1768089600",
+          "label": "11–17 ene 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1768694400",
+          "label": "18–24 ene 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1769299200",
+          "label": "25–31 ene 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1769904000",
+          "label": "1–7 feb 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1770508800",
+          "label": "8–14 feb 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1771113600",
+          "label": "15–21 feb 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1771718400",
+          "label": "22–28 feb 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1772323200",
+          "label": "1–7 mar 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1772928000",
+          "label": "8–14 mar 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1773532800",
+          "label": "15–21 mar 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1774137600",
+          "label": "22–28 mar 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1774742400",
+          "label": "29 mar – 4 abr 2026",
+          "value": 8,
+          "hasData": true
+        },
+        {
+          "timestamp": "1775347200",
+          "label": "5–11 abr 2026",
+          "value": 0,
+          "hasData": false
+        }
+      ]
+    },
+    {
+      "source": "google-trends",
+      "keyword": "curso animación 3D",
+      "geo": "ES",
+      "timeRange": "today 12-m",
+      "points": [
+        {
+          "timestamp": "1743897600",
+          "label": "6–12 abr 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1744502400",
+          "label": "13–19 abr 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1745107200",
+          "label": "20–26 abr 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1745712000",
+          "label": "27 abr – 3 may 2025",
+          "value": 100,
+          "hasData": true
+        },
+        {
+          "timestamp": "1746316800",
+          "label": "4–10 may 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1746921600",
+          "label": "11–17 may 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1747526400",
+          "label": "18–24 may 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1748131200",
+          "label": "25–31 may 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1748736000",
+          "label": "1–7 jun 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1749340800",
+          "label": "8–14 jun 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1749945600",
+          "label": "15–21 jun 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1750550400",
+          "label": "22–28 jun 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1751155200",
+          "label": "29 jun – 5 jul 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1751760000",
+          "label": "6–12 jul 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1752364800",
+          "label": "13–19 jul 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1752969600",
+          "label": "20–26 jul 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1753574400",
+          "label": "27 jul – 2 ago 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1754179200",
+          "label": "3–9 ago 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1754784000",
+          "label": "10–16 ago 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1755388800",
+          "label": "17–23 ago 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1755993600",
+          "label": "24–30 ago 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1756598400",
+          "label": "31 ago – 6 sept 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1757203200",
+          "label": "7–13 sept 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1757808000",
+          "label": "14–20 sept 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1758412800",
+          "label": "21–27 sept 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1759017600",
+          "label": "28 sept – 4 oct 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1759622400",
+          "label": "5–11 oct 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1760227200",
+          "label": "12–18 oct 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1760832000",
+          "label": "19–25 oct 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1761436800",
+          "label": "26 oct – 1 nov 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1762041600",
+          "label": "2–8 nov 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1762646400",
+          "label": "9–15 nov 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1763251200",
+          "label": "16–22 nov 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1763856000",
+          "label": "23–29 nov 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1764460800",
+          "label": "30 nov – 6 dic 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1765065600",
+          "label": "7–13 dic 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1765670400",
+          "label": "14–20 dic 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1766275200",
+          "label": "21–27 dic 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1766880000",
+          "label": "28 dic 2025 – 3 ene 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1767484800",
+          "label": "4–10 ene 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1768089600",
+          "label": "11–17 ene 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1768694400",
+          "label": "18–24 ene 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1769299200",
+          "label": "25–31 ene 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1769904000",
+          "label": "1–7 feb 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1770508800",
+          "label": "8–14 feb 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1771113600",
+          "label": "15–21 feb 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1771718400",
+          "label": "22–28 feb 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1772323200",
+          "label": "1–7 mar 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1772928000",
+          "label": "8–14 mar 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1773532800",
+          "label": "15–21 mar 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1774137600",
+          "label": "22–28 mar 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1774742400",
+          "label": "29 mar – 4 abr 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1775347200",
+          "label": "5–11 abr 2026",
+          "value": 0,
+          "hasData": false
+        }
+      ]
+    },
+    {
+      "source": "google-trends",
+      "keyword": "formación audiovisual online",
+      "geo": "ES",
+      "timeRange": "today 12-m",
+      "points": []
+    },
+    {
+      "source": "google-trends",
+      "keyword": "curso edición video IA",
+      "geo": "ES",
+      "timeRange": "today 12-m",
+      "points": [
+        {
+          "timestamp": "1743897600",
+          "label": "6–12 abr 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1744502400",
+          "label": "13–19 abr 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1745107200",
+          "label": "20–26 abr 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1745712000",
+          "label": "27 abr – 3 may 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1746316800",
+          "label": "4–10 may 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1746921600",
+          "label": "11–17 may 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1747526400",
+          "label": "18–24 may 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1748131200",
+          "label": "25–31 may 2025",
+          "value": 100,
+          "hasData": true
+        },
+        {
+          "timestamp": "1748736000",
+          "label": "1–7 jun 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1749340800",
+          "label": "8–14 jun 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1749945600",
+          "label": "15–21 jun 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1750550400",
+          "label": "22–28 jun 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1751155200",
+          "label": "29 jun – 5 jul 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1751760000",
+          "label": "6–12 jul 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1752364800",
+          "label": "13–19 jul 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1752969600",
+          "label": "20–26 jul 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1753574400",
+          "label": "27 jul – 2 ago 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1754179200",
+          "label": "3–9 ago 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1754784000",
+          "label": "10–16 ago 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1755388800",
+          "label": "17–23 ago 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1755993600",
+          "label": "24–30 ago 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1756598400",
+          "label": "31 ago – 6 sept 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1757203200",
+          "label": "7–13 sept 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1757808000",
+          "label": "14–20 sept 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1758412800",
+          "label": "21–27 sept 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1759017600",
+          "label": "28 sept – 4 oct 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1759622400",
+          "label": "5–11 oct 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1760227200",
+          "label": "12–18 oct 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1760832000",
+          "label": "19–25 oct 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1761436800",
+          "label": "26 oct – 1 nov 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1762041600",
+          "label": "2–8 nov 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1762646400",
+          "label": "9–15 nov 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1763251200",
+          "label": "16–22 nov 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1763856000",
+          "label": "23–29 nov 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1764460800",
+          "label": "30 nov – 6 dic 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1765065600",
+          "label": "7–13 dic 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1765670400",
+          "label": "14–20 dic 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1766275200",
+          "label": "21–27 dic 2025",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1766880000",
+          "label": "28 dic 2025 – 3 ene 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1767484800",
+          "label": "4–10 ene 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1768089600",
+          "label": "11–17 ene 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1768694400",
+          "label": "18–24 ene 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1769299200",
+          "label": "25–31 ene 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1769904000",
+          "label": "1–7 feb 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1770508800",
+          "label": "8–14 feb 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1771113600",
+          "label": "15–21 feb 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1771718400",
+          "label": "22–28 feb 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1772323200",
+          "label": "1–7 mar 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1772928000",
+          "label": "8–14 mar 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1773532800",
+          "label": "15–21 mar 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1774137600",
+          "label": "22–28 mar 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1774742400",
+          "label": "29 mar – 4 abr 2026",
+          "value": 0,
+          "hasData": false
+        },
+        {
+          "timestamp": "1775347200",
+          "label": "5–11 abr 2026",
+          "value": 0,
+          "hasData": false
+        }
+      ]
+    },
+    {
+      "source": "google-trends",
+      "keyword": "curso creación contenido",
+      "geo": "ES",
+      "timeRange": "today 12-m",
+      "points": []
+    }
+  ],
+  "reddit": [
+    {
+      "source": "reddit",
+      "subreddit": "filmmakers",
+      "time": "week",
+      "limit": 3,
+      "posts": [
+        {
+          "title": "How would you create this effect artificially?",
+          "score": 910,
+          "comments": 39,
+          "permalink": "https://www.reddit.com/r/Filmmakers/comments/1sbfwob/how_would_you_create_this_effect_artificially/",
+          "url": "https://i.redd.it/5ltd0kw6pzsg1.jpeg",
+          "author": "ArmadilloIcy4046",
+          "createdUtc": 1775228309
+        },
+        {
+          "title": "The Secret Agent in pixel art",
+          "score": 881,
+          "comments": 32,
+          "permalink": "https://www.reddit.com/r/Filmmakers/comments/1sfn1ik/the_secret_agent_in_pixel_art/",
+          "url": "https://www.reddit.com/gallery/1sfn1ik",
+          "author": "captainhamsack",
+          "createdUtc": 1775637215
+        },
+        {
+          "title": "Samsung SSDs are getting even more expensive. Up to $1144 for 4TB, or a 3.5x increase since December 2024. Thanks AI!",
+          "score": 588,
+          "comments": 51,
+          "permalink": "https://www.reddit.com/r/Filmmakers/comments/1se5y9p/samsung_ssds_are_getting_even_more_expensive_up/",
+          "url": "https://i.redd.it/6db9kf1oxltg1.jpeg",
+          "author": "Palloff",
+          "createdUtc": 1775497572
+        }
+      ]
+    },
+    {
+      "source": "reddit",
+      "subreddit": "videoediting",
+      "time": "week",
+      "limit": 3,
+      "posts": [
+        {
+          "title": "What stops a client from downloading your video and ghosting?",
+          "score": 45,
+          "comments": 35,
+          "permalink": "https://www.reddit.com/r/VideoEditing/comments/1sfmz1d/what_stops_a_client_from_downloading_your_video/",
+          "url": "https://www.reddit.com/r/VideoEditing/comments/1sfmz1d/what_stops_a_client_from_downloading_your_video/",
+          "author": "WholePrize352",
+          "createdUtc": 1775636955
+        },
+        {
+          "title": "They call it Magic Mask for a good reason 😭 Took all of 5 seconds each clip and this is with no cleanup. (Davinci Resolve) . Going to save me a ton of time in my hobby workflow",
+          "score": 40,
+          "comments": 10,
+          "permalink": "https://www.reddit.com/r/VideoEditing/comments/1sdmdkq/they_call_it_magic_mask_for_a_good_reason_took/",
+          "url": "https://v.redd.it/2ug20zmuchtg1",
+          "author": "Unique_Suit3789",
+          "createdUtc": 1775442232
+        },
+        {
+          "title": "Clients asking for \"AI-generated B-roll\" now and I'm not sure how to price it",
+          "score": 34,
+          "comments": 32,
+          "permalink": "https://www.reddit.com/r/VideoEditing/comments/1sepy9y/clients_asking_for_aigenerated_broll_now_and_im/",
+          "url": "https://www.reddit.com/r/VideoEditing/comments/1sepy9y/clients_asking_for_aigenerated_broll_now_and_im/",
+          "author": "Comfortable-Elk-1501",
+          "createdUtc": 1775549919
+        }
+      ]
+    }
+  ],
+  "snapshotDate": "2026-04-10"
+}

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<script src="https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js"></script>
+<style>
+  body {
+    margin: 0;
+    padding: 32px;
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+
+  #diagram {
+    max-width: 1720px;
+  }
+</style>
+</head>
+<body>
+<div id="diagram">
+<pre class="mermaid">
+flowchart LR
+    classDef source fill:#f9fafb,stroke:#d1d5db,stroke-width:1.5px,color:#374151,font-weight:bold
+    classDef state fill:#eff6ff,stroke:#3b82f6,stroke-width:1.6px,color:#1e3a8a,font-weight:bold
+    classDef decision fill:#fef3c7,stroke:#f59e0b,stroke-width:2px,color:#92400e,font-weight:bold
+    classDef route fill:#eef2ff,stroke:#6366f1,stroke-width:1.7px,color:#3730a3,font-weight:bold
+    classDef economic fill:#f0fdf4,stroke:#22c55e,stroke-width:1.7px,color:#166534,font-weight:bold
+    classDef rescue fill:#fee2e2,stroke:#ef4444,stroke-width:1.7px,color:#991b1b,font-weight:bold
+    classDef success fill:#dcfce7,stroke:#16a34a,stroke-width:2px,color:#14532d,font-weight:bold
+    classDef note fill:#ffffff,stroke:#cbd5e1,stroke-width:1px,color:#475569
+
+    IN["Captación<br/>Base antigua<br/>WhatsApp<br/>Llamada<br/>Reaparición<br/>Abandono previo"]:::source
+
+    subgraph CL["CLASIFICACIÓN INICIAL"]
+        C1["Estado de intención"]:::state
+        C2["Encaje + valor esperado"]:::state
+        C3["Fricción económica"]:::state
+        C4["Canal preferente"]:::state
+        C1 --> C2 --> C3 --> C4
+    end
+
+    I{"¿Hay señal<br/>de compra?"}:::decision
+
+    subgraph M["MADURACIÓN"]
+        E["Exploración<br/>información y orientación"]:::state
+        CO["Consideración<br/>comparación y preferencia"]:::state
+        N["Nurturing por eventos<br/>contenido, prueba social,<br/>convocatoria, timing"]:::note
+        E --> CO --> N
+    end
+
+    A["ACTIVACIÓN<br/>precio, financiación,<br/>inicio, plazas,<br/>matrícula o callback"]:::state
+    S{"¿Puede avanzar<br/>solo?"}:::decision
+
+    subgraph R1["RUTA RÁPIDA"]
+        IA["IA + WhatsApp"]:::route
+        SIM["Precio claro<br/>simulador + financiación"]:::economic
+        SS["Self-service<br/>reserva / matrícula"]:::route
+        IA --> SIM --> SS
+    end
+
+    H{"¿La voz aumenta<br/>probabilidad de cierre?"}:::decision
+
+    subgraph R2["RUTA CONSULTIVA"]
+        CTX["Contexto preparado<br/>por IA"]:::route
+        VOZ["Comercial humano<br/>diagnóstico y confianza"]:::route
+        PROP["Propuesta económica<br/>personalizada"]:::economic
+        CTX --> VOZ --> PROP
+    end
+
+    EN["Enrollment asistido<br/>documentación, pago,<br/>financiación"]:::route
+    MAT["MATRÍCULA"]:::success
+
+    B{"¿Qué bloquea<br/>la matrícula?"}:::decision
+
+    subgraph RES["RESCATE"]
+        RP["Precio<br/>valor → pago → beca → timing"]:::rescue
+        RC["Confianza<br/>prueba social → llamada"]:::rescue
+        RO["Operativa<br/>recuperar paso abandonado"]:::rescue
+        RT["Timing<br/>nueva convocatoria"]:::rescue
+    end
+
+    IN --> C1
+    C4 --> I
+    I -->|"No"| E
+    N -->|"Nueva señal"| C1
+    I -->|"Sí"| A
+    A --> S
+    S -->|"Sí"| IA
+    SS --> EN
+    S -->|"No"| H
+    H -->|"Sí"| CTX
+    H -->|"No"| SIM
+    PROP --> EN
+    EN --> MAT
+    EN -->|"Abandono / objeción"| B
+    B --> RP
+    B --> RC
+    B --> RO
+    B --> RT
+    RP -->|"Reactivación"| A
+    RC -->|"Reactivación"| A
+    RO -->|"Retomar"| EN
+    RT -->|"Nueva ventana"| CO
+</pre>
+</div>
+
+<script>
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'base',
+    themeVariables: {
+      fontFamily: 'Inter, -apple-system, sans-serif',
+      fontSize: '12px',
+      primaryColor: '#eff6ff',
+      primaryBorderColor: '#3b82f6',
+      primaryTextColor: '#1e3a8a',
+      lineColor: '#6b7280',
+      secondaryColor: '#f9fafb',
+      tertiaryColor: '#ffffff',
+      edgeLabelBackground: '#ffffff',
+    },
+    flowchart: {
+      curve: 'basis',
+      padding: 18,
+      nodeSpacing: 36,
+      rankSpacing: 48,
+      htmlLabels: true,
+      useMaxWidth: false,
+    }
+  });
+</script>
+</body>
+</html>
