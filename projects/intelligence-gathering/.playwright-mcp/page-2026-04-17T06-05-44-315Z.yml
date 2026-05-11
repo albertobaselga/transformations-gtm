@@ -1,0 +1,35 @@
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - generic [ref=e9]:
+      - generic [ref=e10]:
+        - generic [ref=e11]:
+          - button [ref=e12] [cursor=pointer]:
+            - generic "Open menu" [ref=e13]:
+              - generic [ref=e14]:
+                - img
+          - generic [ref=e15]:
+            - link [ref=e16] [cursor=pointer]:
+              - /url: /trends?geo=ES&hl=en-US
+            - generic [ref=e18]:
+              - link "Home" [ref=e20] [cursor=pointer]:
+                - /url: /trends/?geo=ES&hl=en-US
+                - text: Home
+              - link "Explore" [ref=e22] [cursor=pointer]:
+                - /url: /trends/explore?geo=ES&hl=en-US
+                - text: Explore
+              - link "Trending Now" [ref=e25] [cursor=pointer]:
+                - /url: /trends/trendingsearches/daily?geo=ES&hl=en-US
+                - text: Trending Now
+        - generic [ref=e26]:
+          - button "Share" [ref=e28] [cursor=pointer]:
+            - generic [ref=e29]: share
+          - button "feedback" [ref=e30] [cursor=pointer]:
+            - generic [ref=e31]: feedback
+          - generic [ref=e35]:
+            - button "Google apps" [ref=e39] [cursor=pointer]:
+              - img [ref=e40]
+            - link "Sign in" [ref=e43] [cursor=pointer]:
+              - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://trends.google.com/trends/explore?date%3Dnow%2B3-m%26geo%3DES%26q%3Drunway%2Bml&followup=https://trends.google.com/trends/explore?date%3Dnow%2B3-m%26geo%3DES%26q%3Drunway%2Bml&ec=GAZAPA
+      - generic "runway ml" [ref=e47] [cursor=pointer]:
+        - generic [ref=e49]: runway ml
+  - img [ref=e51]

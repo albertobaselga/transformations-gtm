@@ -1,0 +1,322 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - link "SHIFTA by Elisava" [ref=e6] [cursor=pointer]:
+        - /url: https://weareshifta.com
+        - img "escuela online de creadores digitales" [ref=e9]
+        - img "Elisava" [ref=e11]
+    - generic [ref=e17]:
+      - main:
+        - generic [ref=e18]:
+          - generic [ref=e19]:
+            - generic [ref=e25]:
+              - heading "Formaciones." [level=2] [ref=e28]:
+                - generic [ref=e29]: Formaciones.
+              - generic [ref=e31]:
+                - generic [ref=e33]:
+                  - heading "Másters online" [level=1] [ref=e34]
+                  - link "Ver todos" [ref=e35] [cursor=pointer]:
+                    - /url: /masters/
+                - generic [ref=e36]:
+                  - generic [ref=e38] [cursor=pointer]:
+                    - img "Máster en Diseño Gráfico" [ref=e40]
+                    - generic [ref=e41]:
+                      - 'link "Máster en Diseño Gráfico: Fundamentos" [ref=e42]':
+                        - /url: https://weareshifta.com/formaciones/master-online-diseno-grafico/
+                      - generic [ref=e43]: "Inicio: 25 de mayo 2026."
+                  - generic [ref=e45] [cursor=pointer]:
+                    - img "Máster Branding y Comunicación de Marca" [ref=e47]
+                    - generic [ref=e48]:
+                      - link "Máster en Branding y Comunicación de Marca" [ref=e49]:
+                        - /url: https://weareshifta.com/formaciones/master-online-branding-y-comunicacion-de-marca/
+                      - generic [ref=e50]: "Inicio: 25 de mayo 2026."
+                  - generic [ref=e52] [cursor=pointer]:
+                    - img "Máster Ilustración" [ref=e54]
+                    - generic [ref=e55]:
+                      - link "Máster en Ilustración" [ref=e56]:
+                        - /url: https://weareshifta.com/formaciones/master-ilustracion/
+                      - generic [ref=e57]: "Inicio: 25 de mayo 2026."
+                  - generic [ref=e59] [cursor=pointer]:
+                    - img "Máster en Diseño de Interiores" [ref=e61]
+                    - generic [ref=e62]:
+                      - link "Máster en Diseño de Interiores" [ref=e63]:
+                        - /url: https://weareshifta.com/formaciones/master-online-diseno-de-interiores/
+                      - generic [ref=e64]: "Inicio: 25 de mayo 2026."
+                  - generic [ref=e66] [cursor=pointer]:
+                    - img "Máster en Diseño de Experiencia de Usuario (UX,UI)" [ref=e68]
+                    - generic [ref=e69]:
+                      - 'link "Máster en UX, UI: Diseño Web y Producto Digital" [ref=e70]':
+                        - /url: https://weareshifta.com/formaciones/master-ux-ui/
+                      - generic [ref=e71]: "Inicio: 25 de mayo 2026."
+              - generic [ref=e73]:
+                - generic [ref=e75]:
+                  - heading "Cursos" [level=3] [ref=e76]
+                  - link "Ver todos" [ref=e77] [cursor=pointer]:
+                    - /url: /cursos/
+                - generic [ref=e78]:
+                  - generic [ref=e80] [cursor=pointer]:
+                    - img "Visual Merchandising" [ref=e82]
+                    - link "Visual Merchandising" [ref=e84]:
+                      - /url: https://weareshifta.com/formaciones/curso-en-visual-merchandising/
+                    - generic [ref=e85]: "Inicio: 5 de octubre 2026."
+                    - generic [ref=e86]:
+                      - button "saber más"
+                  - generic [ref=e88] [cursor=pointer]:
+                    - img "Curso en Creatividad Resolutiva" [ref=e90]
+                    - link "Creatividad Resolutiva" [ref=e92]:
+                      - /url: https://weareshifta.com/formaciones/curso-creatividad-resolutiva/
+                    - generic [ref=e93]: "Inicio: 5 de octubre 2026."
+                    - generic [ref=e94]:
+                      - button "saber más"
+                  - generic [ref=e96] [cursor=pointer]:
+                    - img "Curso en Storytelling" [ref=e98]
+                    - link "Storytelling" [ref=e100]:
+                      - /url: https://weareshifta.com/formaciones/curso-en-storytelling/
+                    - generic [ref=e101]: "Inicio: 5 de octubre 2026."
+                    - generic [ref=e102]:
+                      - button "saber más"
+                  - generic [ref=e104] [cursor=pointer]:
+                    - img "Curso IA para mentes creativas" [ref=e106]
+                    - link "Inteligencia Artificial para mentes creativas" [ref=e108]:
+                      - /url: https://weareshifta.com/formaciones/curso-en-inteligencia-artificial-mentes-creativas/
+                    - generic [ref=e109]: "Inicio: 5 de octubre 2026."
+                    - generic [ref=e110]:
+                      - button "saber más"
+              - generic [ref=e112]:
+                - generic [ref=e114]:
+                  - heading "Cápsulas" [level=3] [ref=e115]
+                  - link "Ver todas" [ref=e116] [cursor=pointer]:
+                    - /url: /capsulas/
+                - generic [ref=e117]:
+                  - generic [ref=e119] [cursor=pointer]:
+                    - link "Adobe Illustrator" [ref=e121]:
+                      - /url: https://weareshifta.com/formaciones/adobe-illustrator/
+                    - generic [ref=e122]: "Inicio: 22 de junio 2026."
+                    - generic [ref=e123]:
+                      - button "saber más"
+                  - generic [ref=e125] [cursor=pointer]:
+                    - link "Adobe InDesign" [ref=e127]:
+                      - /url: https://weareshifta.com/formaciones/adobe-indesign/
+                    - generic [ref=e128]: "Inicio: 15 de junio 2026."
+                    - generic [ref=e129]:
+                      - button "saber más"
+                  - generic [ref=e131] [cursor=pointer]:
+                    - link "Midjourney para creativos" [ref=e133]:
+                      - /url: https://weareshifta.com/formaciones/capsula-de-midjourney/
+                    - generic [ref=e134]: "Inicio: 13 de julio 2026."
+                    - generic [ref=e135]:
+                      - button "saber más"
+                  - generic [ref=e137] [cursor=pointer]:
+                    - link "D5 Render" [ref=e139]:
+                      - /url: https://weareshifta.com/formaciones/capsula-de-d5-render/
+                    - generic [ref=e140]: "Inicio: 6 de julio 2026."
+                    - generic [ref=e141]:
+                      - button "saber más"
+            - generic [ref=e143]:
+              - heading "Comunidad." [level=2] [ref=e146]:
+                - generic [ref=e147]: Comunidad.
+              - heading "Experiencia SHIFTER" [level=3] [ref=e152]
+              - heading "Equipo docente" [level=3] [ref=e158]
+              - generic [ref=e161]:
+                - heading "Proyectos de estudiantes" [level=3] [ref=e164]
+                - generic [ref=e165]:
+                  - generic [ref=e166]:
+                    - generic [ref=e168]:
+                      - generic [ref=e169]: Ecos Mag
+                      - generic [ref=e170]: Marina Mas
+                      - link "Máster en Diseño Editorial y Tipografía" [ref=e172] [cursor=pointer]:
+                        - /url: https://weareshifta.com/formaciones/master-diseno-editorial-y-tipografia/
+                      - button "saber más" [ref=e174] [cursor=pointer]
+                    - generic [ref=e175]:
+                      - button [ref=e176] [cursor=pointer]
+                      - generic [ref=e179]: Ecos Mag
+                      - generic [ref=e180]: Marina Mas
+                      - link "Máster en Diseño Editorial y Tipografía" [ref=e182] [cursor=pointer]:
+                        - /url: https://weareshifta.com/formaciones/master-diseno-editorial-y-tipografia/
+                      - paragraph [ref=e184]: Ecos es una editorial nómada que fabrica estampas cuya materia prima está fuertemente vinculada con el territorio. Ecos Mag, por su parte, es una revista anual que desvela el proceso de producción detrás de la creación de las estampas publicadas ese año.
+                  - generic [ref=e185]:
+                    - generic [ref=e187]:
+                      - generic [ref=e188]: Pans & Company
+                      - generic [ref=e189]: Ana González y Victoria Garós
+                      - link "Máster en Branding y Comunicación de Marca" [ref=e191] [cursor=pointer]:
+                        - /url: https://weareshifta.com/formaciones/master-online-branding-y-comunicacion-de-marca/
+                      - button "saber más" [ref=e193] [cursor=pointer]
+                    - generic [ref=e194]:
+                      - button [ref=e195] [cursor=pointer]
+                      - generic [ref=e198]: Pans & Company
+                      - generic [ref=e199]: Ana González y Victoria Garós
+                      - link "Máster en Branding y Comunicación de Marca" [ref=e201] [cursor=pointer]:
+                        - /url: https://weareshifta.com/formaciones/master-online-branding-y-comunicacion-de-marca/
+                      - paragraph [ref=e203]: Rebranding de Pans & Company en donde se mezcla la tradición con la modernidad para abarcar a un público más amplio y aportando un toque de raíces a la par que conectando con los nuevos tiempos.
+                  - generic [ref=e204]:
+                    - generic [ref=e206]:
+                      - generic [ref=e207]: Django
+                      - generic [ref=e208]: Marina Perta
+                      - link "Máster en Diseño Gráfico" [ref=e210] [cursor=pointer]:
+                        - /url: https://weareshifta.com/formaciones/master-online-diseno-grafico/
+                      - button "saber más" [ref=e212] [cursor=pointer]
+                    - generic [ref=e213]:
+                      - button [ref=e214] [cursor=pointer]
+                      - generic [ref=e217]: Django
+                      - generic [ref=e218]: Marina Perta
+                      - link "Máster en Diseño Gráfico" [ref=e220] [cursor=pointer]:
+                        - /url: https://weareshifta.com/formaciones/master-online-diseno-grafico/
+                      - paragraph [ref=e222]: Rediseño de la identidad visual de Django, una cerveza artesanal elaborada en Ghana por 2 hermanos, que refleje los valores de la marca y la haga atractiva tanto para la audiencia local como internacional.
+                  - generic [ref=e223]:
+                    - generic [ref=e225]:
+                      - generic [ref=e226]: Data from Macondo
+                      - generic [ref=e227]: Alice Cardona
+                      - link "Máster en Visualización de Datos y Diseño de la Información" [ref=e229] [cursor=pointer]:
+                        - /url: https://weareshifta.com/formaciones/master-online-en-visualizacion-de-datos-y-diseno-de-la-informacion/
+                      - button "saber más" [ref=e231] [cursor=pointer]
+                    - generic [ref=e232]:
+                      - button [ref=e233] [cursor=pointer]
+                      - generic [ref=e236]: Data from Macondo
+                      - generic [ref=e237]: Alice Cardona
+                      - link "Máster en Visualización de Datos y Diseño de la Información" [ref=e239] [cursor=pointer]:
+                        - /url: https://weareshifta.com/formaciones/master-online-en-visualizacion-de-datos-y-diseno-de-la-informacion/
+                      - paragraph [ref=e241]: Análisis de las palabras de la obra «Cien años de soledad» de Gabriel García Márquez, para posteriormente transformarlas en datos y convertirlas en gráficos y visualizaciones que fusionan colores, formas e imágenes.
+            - generic [ref=e243]:
+              - heading "Actualidad." [level=2] [ref=e246]:
+                - generic [ref=e247]: Actualidad.
+              - generic [ref=e249]:
+                - heading "Mantente siempre al día de las últimas noticias, tendencias y eventos del sector" [level=3] [ref=e252]
+                - generic [ref=e253]:
+                  - 'link "SISTEMA REFILL Blog El sistema refill en cosmética y sus retos para un futuro sostenible por Irene Quiñonero Analizamos el sistema refill en cosmética: tipos de packaging, modelos de negocio sostenibles y los retos técnicos para reducir residuos. Leer más" [ref=e255] [cursor=pointer]':
+                    - /url: https://weareshifta.com/sistema-refill-cosmetica/
+                    - img "SISTEMA REFILL" [ref=e257]
+                    - generic [ref=e258]:
+                      - generic [ref=e259]: Blog
+                      - heading "El sistema refill en cosmética y sus retos para un futuro sostenible" [level=4] [ref=e260]
+                      - generic [ref=e261]: por Irene Quiñonero
+                      - generic [ref=e262]: "Analizamos el sistema refill en cosmética: tipos de packaging, modelos de negocio sostenibles y los retos técnicos para reducir residuos."
+                      - generic [ref=e263]:
+                        - generic: Leer más
+                  - 'link "Webinar Ser viral está sobrevalorado: La importancia de un contenido auténtico Fecha: Martes, 28 de abril a las 19h (GMT +1) Lugar: Online Impartido por: Mery Campón, social media manager y creadora de contenido Descubre cómo los detalles, la intención, el storytelling… marca la diferencia entre contenido que se consume y contenido que posiciona a la marca. Disponible próximamente" [ref=e265] [cursor=pointer]':
+                    - /url: ""
+                    - generic [ref=e266]: Webinar
+                    - 'heading "Ser viral está sobrevalorado: La importancia de un contenido auténtico" [level=4] [ref=e267]'
+                    - generic [ref=e268]:
+                      - paragraph [ref=e269]: "Fecha: Martes, 28 de abril a las 19h (GMT +1)"
+                      - paragraph [ref=e270]: "Lugar: Online"
+                      - paragraph [ref=e271]: "Impartido por: Mery Campón, social media manager y creadora de contenido"
+                    - paragraph [ref=e273]: Descubre cómo los detalles, la intención, el storytelling… marca la diferencia entre contenido que se consume y contenido que posiciona a la marca.
+                    - generic: Disponible próximamente
+                  - generic [ref=e274]:
+                    - 'link "Evento externo Hispack Fecha: 4 mayo – 7 mayo de 2027 Lugar: Barcelona, España Punto de encuentro que apuesta por el conocimiento y la innovación para impulsar el packaging como palanca de crecimiento sostenible. Ver más" [ref=e276] [cursor=pointer]':
+                      - /url: https://www.hispack.com/
+                      - generic [ref=e277]: Evento externo
+                      - heading "Hispack" [level=4] [ref=e278]
+                      - generic [ref=e279]:
+                        - paragraph [ref=e280]: "Fecha: 4 mayo – 7 mayo de 2027"
+                        - paragraph [ref=e281]: "Lugar: Barcelona, España"
+                      - paragraph [ref=e283]: Punto de encuentro que apuesta por el conocimiento y la innovación para impulsar el packaging como palanca de crecimiento sostenible.
+                      - generic: Ver más
+                    - 'link "Evento externo Surface Design Show Fecha: 2 febrero – 4 febrero de 2027 Lugar: Londres, Reino Unido Salón dedicado a la innovación en materiales de superficie para la comunidad arquitectónica y de diseño. Ver más" [ref=e285] [cursor=pointer]':
+                      - /url: https://www.surfacedesignshow.com/
+                      - generic [ref=e286]: Evento externo
+                      - heading "Surface Design Show" [level=4] [ref=e287]
+                      - generic [ref=e288]:
+                        - paragraph [ref=e289]: "Fecha: 2 febrero – 4 febrero de 2027"
+                        - paragraph [ref=e290]: "Lugar: Londres, Reino Unido"
+                      - paragraph [ref=e292]: Salón dedicado a la innovación en materiales de superficie para la comunidad arquitectónica y de diseño.
+                      - generic: Ver más
+          - contentinfo [ref=e293]:
+            - generic [ref=e294]:
+              - heading "Newsletter SHIFTA" [level=5] [ref=e295]
+              - generic [ref=e296]:
+                - generic [ref=e297]:
+                  - list
+                - form "Formulario de contacto" [ref=e298]:
+                  - paragraph [ref=e299]:
+                    - textbox "Escribe tu email" [ref=e301]
+                  - paragraph [ref=e303]:
+                    - generic [ref=e307]:
+                      - checkbox "He leído y acepto la Política de privacidad" [ref=e309] [cursor=pointer]
+                      - generic [ref=e310]:
+                        - text: He leído y acepto la
+                        - link "Política de privacidad" [ref=e311] [cursor=pointer]:
+                          - /url: /politica-privacidad/
+                    - generic [ref=e315]:
+                      - checkbox "Acepto recibir comunicaciones de SHIFTA" [ref=e317] [cursor=pointer]
+                      - generic [ref=e318]: Acepto recibir comunicaciones de SHIFTA
+                  - generic [ref=e319]:
+                    - paragraph
+                    - button "Suscribirme" [disabled] [ref=e320]
+                    - paragraph
+            - generic [ref=e322]:
+              - list [ref=e325]:
+                - listitem [ref=e326]:
+                  - link "Másters Online" [ref=e327] [cursor=pointer]:
+                    - /url: https://weareshifta.com/masters/
+                - listitem [ref=e328]:
+                  - link "Posgrados" [ref=e329] [cursor=pointer]:
+                    - /url: https://weareshifta.com/posgrados/
+                - listitem [ref=e330]:
+                  - link "Cursos" [ref=e331] [cursor=pointer]:
+                    - /url: https://weareshifta.com/cursos/
+                - listitem [ref=e332]:
+                  - link "Cápsulas" [ref=e333] [cursor=pointer]:
+                    - /url: https://weareshifta.com/capsulas/
+                - listitem [ref=e334]:
+                  - link "Comunidad" [ref=e335] [cursor=pointer]:
+                    - /url: https://weareshifta.com/comunidad/
+                - listitem [ref=e336]:
+                  - link "Blog" [ref=e337] [cursor=pointer]:
+                    - /url: https://weareshifta.com/blog/
+                - listitem [ref=e338]:
+                  - link "Sobre SHIFTA" [ref=e339] [cursor=pointer]:
+                    - /url: https://weareshifta.com/sobre-shifta/
+                - listitem [ref=e340]:
+                  - link "Contáctanos" [ref=e341] [cursor=pointer]:
+                    - /url: https://weareshifta.com/contactanos/
+              - list [ref=e344]:
+                - listitem [ref=e345]:
+                  - link "Instagram" [ref=e346] [cursor=pointer]:
+                    - /url: https://www.instagram.com/weareshifta/
+                - listitem [ref=e347]:
+                  - link "X" [ref=e348] [cursor=pointer]:
+                    - /url: https://twitter.com/weareshifta
+                - listitem [ref=e349]:
+                  - link "Facebook" [ref=e350] [cursor=pointer]:
+                    - /url: https://www.facebook.com/weareshifta/
+                - listitem [ref=e351]:
+                  - link "YouTube" [ref=e352] [cursor=pointer]:
+                    - /url: https://www.youtube.com/c/SHIFTAEscuelaOnlineCreadoresDigitales
+                - listitem [ref=e353]:
+                  - link "Vimeo" [ref=e354] [cursor=pointer]:
+                    - /url: https://vimeo.com/weareshifta
+                - listitem [ref=e355]:
+                  - link "LinkedIn" [ref=e356] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/school/shifta/
+            - generic [ref=e357]:
+              - text: W +34 638 600 955
+              - text: T +34 638 600 955
+              - text: hola@weareshifta.com
+              - text: Pl. de Pau Vila, 1, 08003
+              - text: (Barcelona)
+            - img "Elisava" [ref=e359]
+  - complementary [active]:
+    - dialog "Configuración de privacidad" [ref=e364]:
+      - generic [ref=e366]:
+        - generic [ref=e367]:
+          - heading "Configuración de privacidad" [level=2] [ref=e368]
+          - generic: Este sitio utiliza tecnologías de seguimiento de sitios web de terceros para proporcionar y mejorar continuamente nuestros servicios, y para mostrar anuncios de acuerdo con los intereses de los usuarios. Estoy de acuerdo y puedo revocar o cambiar mi consentimiento en cualquier momento en el futuro.
+        - button "Más información" [ref=e370] [cursor=pointer]
+        - generic [ref=e371]:
+          - generic [ref=e372] [cursor=pointer]:
+            - generic: Marketing
+            - switch "Marketing" [ref=e373]
+          - generic [ref=e374] [cursor=pointer]:
+            - generic: Funcional
+            - switch "Funcional" [ref=e375]
+          - generic [ref=e376]:
+            - generic: Esencial
+            - switch [checked] [disabled] [ref=e377]
+      - generic [ref=e378]:
+        - generic [ref=e380]:
+          - button "Guardar configuración" [ref=e381] [cursor=pointer]
+          - button "Denegar" [ref=e382] [cursor=pointer]
+          - button "Aceptar todo" [ref=e383] [cursor=pointer]
+        - link "Powered by Usercentrics Consent Management" [ref=e385] [cursor=pointer]:
+          - /url: https://usercentrics.com/es/consent-management-platform-powered-by-usercentrics/?utm_source=banner_uc&utm_medium=referral&utm_content=v3

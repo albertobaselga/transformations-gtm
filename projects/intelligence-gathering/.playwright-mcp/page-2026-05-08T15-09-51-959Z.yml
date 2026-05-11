@@ -1,0 +1,798 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e6]:
+      - navigation "Utility menu"
+    - generic [ref=e7]:
+      - banner [ref=e8]:
+        - generic [ref=e9]:
+          - link "ECAM" [ref=e12] [cursor=pointer]:
+            - /url: https://ecam.es/
+            - img "ECAM" [ref=e13]
+          - generic [ref=e14]:
+            - button "Open mobile menu Close mobile menu" [ref=e16] [cursor=pointer]:
+              - generic [ref=e20]: Open mobile menu
+              - generic [ref=e21]: Close mobile menu
+            - text: MENU
+      - main [ref=e22]:
+        - generic [ref=e28]:
+          - generic [ref=e34]:
+            - heading "MÁSTER EN POSPRODUCCIÓN AUDIOVISUAL" [level=1] [ref=e35]:
+              - generic [ref=e36]: MÁSTER EN POSPRODUCCIÓN AUDIOVISUAL
+            - heading "Da un paso más en tu carrera profesional" [level=5] [ref=e37]:
+              - generic [ref=e38]: Da un paso más en tu carrera profesional
+            - figure [ref=e39]:
+              - link "consulta-descuentos-disponibles" [ref=e41] [cursor=pointer]:
+                - /url: "#form-info"
+                - img "consulta-descuentos-disponibles" [ref=e42]
+            - generic [ref=e44]: COORDINACIÓN
+            - heading "Marian Briozzo y Luis Ochoa" [level=3] [ref=e48]:
+              - generic [ref=e49]: Marian Briozzo y Luis Ochoa
+            - link "Inscríbete" [ref=e52] [cursor=pointer]:
+              - /url: https://ecam.es/admision-master/
+              - generic [ref=e53]: Inscríbete
+          - generic [ref=e57]:
+            - generic [ref=e58]:
+              - figure [ref=e63]:
+                - img "DSCF1041 (1)" [ref=e65]
+              - figure [ref=e70]:
+                - img "DSCF3289 (1)" [ref=e72]
+            - heading "Obten una mirada panorámica de la posproducción audiovisual" [level=2] [ref=e79]
+          - generic [ref=e83]:
+            - heading "DESCRIPCIÓN DEL MÁSTER" [level=2] [ref=e84]:
+              - generic [ref=e85]: DESCRIPCIÓN DEL MÁSTER
+            - heading "El máster sumerge al alumnado en la posproducción audiovisual como un proceso profesional integral, en el que se conectan de forma transversal todas las etapas que intervienen desde el final del rodaje hasta la entrega y explotación de la obra audiovisual." [level=3] [ref=e86]:
+              - generic [ref=e87]: El máster sumerge al alumnado en la posproducción audiovisual como un proceso profesional integral, en el que se conectan de forma transversal todas las etapas que intervienen desde el final del rodaje hasta la entrega y explotación de la obra audiovisual.
+          - generic [ref=e88]:
+            - generic [ref=e93]:
+              - paragraph [ref=e94]: Este máster está diseñado para que el alumnado se sumerga en la posproducción como un proceso completo, transversal y profesional, integrando todas las etapas que intervienen desde el final del rodaje hasta la entrega y explotación de una obra audiovisual.
+              - paragraph [ref=e95]: Desde una visión integral de la posproducción, el alumnado aprenderá a trabajar con material procedente de producciones reales, y participará en un proyecto transversal, en el que aprenderá a hablar el mismo idioma que los departamentos implicado en posproducción manejan, adquiriendo así una visión global de todo el proceso.
+              - paragraph [ref=e96]: La inteligencia artificial se aborda de forma transversal en cada módulo, analizando su impacto real en los flujos de trabajo actuales y futuros, siempre desde una perspectiva técnica, creativa y profesional.
+            - generic [ref=e100]:
+              - figure [ref=e105]:
+                - img "Icono - Titulaciones Máster - ECAM" [ref=e107]
+              - generic [ref=e110]:
+                - paragraph [ref=e113]: MÁSTER
+                - paragraph [ref=e116]: POSPRODUCCIÓN AUDIOVISUAL
+                - list [ref=e122]:
+                  - listitem [ref=e123]: Docentes profesionales en activo
+                  - listitem [ref=e124]:
+                    - strong [ref=e125]: "640"
+                    - text: horas
+                  - listitem [ref=e126]: Máximo 20 alumnos
+                  - listitem [ref=e127]:
+                    - strong [ref=e128]: "1 curso académico:"
+                    - text: del 5 de octubre de 2026 a 18 de junio 2027
+                  - listitem [ref=e129]:
+                    - strong [ref=e130]: "Horario:"
+                    - text: lunes a viernes de 10:00h a 14:00h
+                  - listitem [ref=e131]: Convocatoria curso 2026-2027 abierta
+                - link "Más info" [ref=e132] [cursor=pointer]:
+                  - /url: "#form-info"
+                  - generic [ref=e133]: Más info
+          - generic [ref=e134]:
+            - list [ref=e140]:
+              - listitem [ref=e141]: Aprenderás los fundamentos técnicos, narrativos y metodológicos de cada área de posproducción, contextualizados dentro del flujo completo de trabajo.
+              - listitem [ref=e142]: "Trabajarás con material procedente de producciones profesionales, enfrentándote a los mismos retos técnicos que surgen en entornos reales: gestión de formatos, compatibilidad entre departamentos, decisiones técnicas y resolución de problemas."
+            - list [ref=e148]:
+              - listitem [ref=e149]: Conocerás las herramientas, procesos y necesidades de cada área departamental audiovisual.
+              - listitem [ref=e150]: Desarrollarás un proyecto transversal, recorriendo todas las fases de la posproducción y entendiendo cómo cada etapa influye en las siguientes.
+              - listitem [ref=e151]: Adquirirás conceptos básicos de la industria audiovisual, financiación y la producción en España, aprendiendo a preparar calendarios y presupuestos, armar equipos, etc.
+          - generic [ref=e155]:
+            - heading "Perfil del alumnado" [level=2] [ref=e156]:
+              - generic [ref=e158]: Perfil del alumnado
+            - list [ref=e164]:
+              - listitem [ref=e165]: Alumnado licenciado y/o diplomado, con interés en desarrollar su carrera profesional en el sector de la postproducción audiovisual.
+              - listitem [ref=e166]: Filmmakers que quieran obtener conocimientos globales de la postproducción para sus propios proyectos audiovisuales.
+              - listitem [ref=e167]: Profesionales del sector audiovisual que quieran especializarse en esta área.
+              - listitem [ref=e168]: Personas interesadas en adquirir conocimientos generales de la postproducción audiovisual.
+          - generic [ref=e172]:
+            - heading "Salidas profesionales" [level=2] [ref=e173]:
+              - generic [ref=e175]: Salidas profesionales
+            - list [ref=e181]:
+              - listitem [ref=e182]: Auxiliar / Ayudante de posproducción en empresas de cine, televisión, plataformas o publicidad, comprendiendo los flujos de trabajo y la relación entre departamentos.
+              - listitem [ref=e183]: Técnico/a junior de postproducción, con capacidad para trabajar en tareas de montaje, preparación de materiales, gestión de proyectos y deliveries.
+              - listitem [ref=e184]: Profesionales del audiovisual, capaces de abordar de forma integral la posproducción de sus propios proyectos audiovisuales, desde el montaje hasta las entregas finales.
+              - listitem [ref=e185]: Perfil puente hacia la especialización, proporcionando una base sólida para evolucionar posteriormente hacia áreas como montaje, sonido, color, VFX o supervisión de posproducción.
+          - generic [ref=e189]:
+            - heading "Proceso de admisión" [level=2] [ref=e190]:
+              - generic [ref=e191]: Proceso de admisión
+            - generic [ref=e192]:
+              - generic [ref=e195]:
+                - figure [ref=e196]:
+                  - img "SOLICITUD DE INFORMACIÓN" [ref=e198]
+                - generic [ref=e200]: SOLICITUD DE INFORMACIÓN
+                - paragraph [ref=e203]: Solicita información en el formulario que encontrarás a continuación.
+              - generic [ref=e206]:
+                - figure [ref=e207]:
+                  - img "INSCRIPCIÓN" [ref=e209]
+                - generic [ref=e211]: INSCRIPCIÓN
+                - paragraph [ref=e214]:
+                  - text: "El departamento de admisiones te hará llegar toda la información relativa al Máster en Posproducción Audiovisual, así como la documentación que deberás de entregar:"
+                  - generic [ref=e215] [cursor=pointer]: documentación requerida
+              - generic [ref=e218]:
+                - figure [ref=e219]:
+                  - img "ENTREVISTA PERSONAL" [ref=e221]
+                - generic [ref=e223]: ENTREVISTA PERSONAL
+                - paragraph [ref=e226]: Todos los aspirantes preseleccionados deberán de realizar una entrevista presencial u online.
+              - generic [ref=e229]:
+                - figure [ref=e230]:
+                  - img "ADMISIÓN Y RESERVA DE PLAZA" [ref=e232]
+                - generic [ref=e234]: ADMISIÓN Y RESERVA DE PLAZA
+                - paragraph [ref=e237]: Una vez admitido/a tendrás que realizar una reserva de tu plaza para el próximo curso.
+            - generic [ref=e238]:
+              - generic [ref=e241]:
+                - figure [ref=e242]:
+                  - img "MATRÍCULA" [ref=e244]
+                - generic [ref=e246]: MATRÍCULA
+                - paragraph [ref=e249]: Deberás realizar la matrícula en los plazos indicados por el departamento de admisiones.
+              - generic [ref=e252]:
+                - figure [ref=e253]:
+                  - img "¡YA FORMAS PARTE DE LA COMUNIDAD ECAM!" [ref=e255]
+                - generic [ref=e257]: ¡YA FORMAS PARTE DE LA COMUNIDAD ECAM!
+                - paragraph [ref=e260]: Como alumno/a de la ECAM recibirás toda la información para comenzar tus estudios.
+            - link "Inscríbete" [ref=e261] [cursor=pointer]:
+              - /url: https://ecam.es/admision-master/
+              - generic [ref=e262]: Inscríbete
+          - generic [ref=e273]:
+            - heading "Descuentos Alumni" [level=2] [ref=e274]:
+              - generic [ref=e275]: Descuentos Alumni
+            - generic [ref=e276]:
+              - generic [ref=e279]:
+                - figure [ref=e280]:
+                  - img "30% DESCUENTO" [ref=e282]
+                - generic [ref=e284]:
+                  - generic [ref=e285]: 30%
+                  - text: DESCUENTO
+                - paragraph [ref=e288]: Alumni de Diplomaturas
+              - generic [ref=e291]:
+                - figure [ref=e292]:
+                  - img "20% DESCUENTO" [ref=e294]
+                - generic [ref=e296]:
+                  - generic [ref=e297]: 20%
+                  - text: DESCUENTO
+                - paragraph [ref=e300]: Alumni de Formación de Posgrado
+              - generic [ref=e303]:
+                - figure [ref=e304]:
+                  - img "20% DESCUENTO" [ref=e306]
+                - generic [ref=e308]:
+                  - generic [ref=e309]: 20%
+                  - text: DESCUENTO
+                - paragraph [ref=e312]: Alumni Escuela de Oficios y VFX
+          - generic [ref=e316]:
+            - heading "Becas de posgrado" [level=2] [ref=e317]:
+              - generic [ref=e318]: Becas de posgrado
+            - generic [ref=e322]:
+              - generic [ref=e324]:
+                - text: 2 BECAS DEL
+                - generic [ref=e325]: 50%
+              - paragraph [ref=e328]: Estas becas tienen como objetivo cubrir la formación de quiénes, demostrando recorrido académico y/o profesional, tengan dificultades económicas para sufragar la matrícula. Podrán ayudar también a aquellos que habiéndose quedado sin actividad quieran especializarse o reciclarse en el sector audiovisual.
+            - generic [ref=e332]:
+              - generic [ref=e334]: Programa Becas Fundación Casa de México
+              - paragraph [ref=e337]:
+                - text: Con el objetivo de fortalecer la relación entre México y España, Fundación Casa de México en España ha desarrollado el
+                - strong [ref=e338]:
+                  - link "Programa Becas Fundación Casa de México" [ref=e339] [cursor=pointer]:
+                    - /url: https://becas.casademexico.es/
+                - text: ", con el fin de impulsar la profesionalización y el fortalecimiento académico de destacados talentos mexicanos en España."
+              - figure [ref=e340]:
+                - img "Logo_Becas_FCDM_BLANCO" [ref=e342]
+          - generic [ref=e351]:
+            - heading "Descuentos entidades colaboradoras" [level=2] [ref=e352]:
+              - generic [ref=e353]: Descuentos entidades colaboradoras
+            - generic [ref=e357]:
+              - figure [ref=e358]:
+                - img "Icono - Becas Descuento 1 - ECAM" [ref=e360]
+              - generic [ref=e362]:
+                - generic [ref=e363]: 15%
+                - text: DESCUENTO
+              - generic [ref=e365]:
+                - paragraph [ref=e366]: "Socios, académicos y miembros de:"
+                - paragraph [ref=e367]: Academia de las Artes y las Ciencias Cinematográficas de España, Academia de las Ciencias y las Artes de la Televisión, Nuevos Realizadores (PNR), Unión de Cineastas, APPA (Asociación de Profesionales de la Producción Audiovisual, DOCMA (Asociación Española de Cine Documental), DAMA (Derechos de Autor de Medios Audiovisuales), ALÍA (Alianza Industria Audiovisual), AMAE (Asociación de Montadores Audiovisuales de España), APSA (Asociación de Profesionales del Sonido Audiovisual), CIMA (Asociación de Mujeres Cineastas y de Medios Audiovisuales), ATPE (Asociación de Técnicos de Publicidad) y AEC (Asociación Española de Directoras y Directores de Fotografía).
+            - generic [ref=e373]:
+              - figure [ref=e375]
+              - figure [ref=e378]
+              - figure [ref=e381]
+              - figure [ref=e384]:
+                - img "logo APPA" [ref=e386]
+              - figure [ref=e388]:
+                - img "Logo Unión de Cineastas" [ref=e390]
+              - figure [ref=e392]:
+                - img "Logo PNR - Plataforma Nuevos Realizadores" [ref=e394]
+              - figure [ref=e396]:
+                - img "Logo DAMA - Derechos de Autor de Medios Audiovisuales" [ref=e398]
+              - figure [ref=e400]:
+                - img "Logo Amae" [ref=e402]
+              - figure [ref=e404]:
+                - img "Logo ALIA" [ref=e406]
+              - figure [ref=e408]:
+                - img "logo apsa" [ref=e410]
+              - figure [ref=e412]:
+                - img "CIMA logo" [ref=e414]
+              - figure [ref=e416]:
+                - img "Log atpe" [ref=e418]
+              - figure [ref=e420]
+          - generic [ref=e425]:
+            - generic [ref=e427]: CONOCE A LOS PROFESORES
+            - generic [ref=e429]:
+              - generic [ref=e431]:
+                - img "Gabriel Gutiérrez" [ref=e433]
+                - generic [ref=e434]:
+                  - heading "Gabriel Gutiérrez" [level=2] [ref=e435]
+                  - generic [ref=e436]: Diseño de sonido en Menos12DB
+                  - link "Linkedin" [ref=e439] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/gabriel-gutirrez-071205117/
+                    - img [ref=e441]
+                    - generic [ref=e443]: Linkedin
+              - generic [ref=e445]:
+                - img "Marian Briozzo" [ref=e447]
+                - generic [ref=e448]:
+                  - heading "Marian Briozzo" [level=2] [ref=e449]
+                  - generic [ref=e450]: Supervisora de Posproducción
+              - generic [ref=e452]:
+                - img "Clara Martínez Malagelada" [ref=e454]
+                - generic [ref=e455]:
+                  - heading "Clara Martínez Malagelada" [level=2] [ref=e456]
+                  - generic [ref=e457]: Montadora y CEO de Los Olvidados Post y Producciones
+                  - link "Linkedin" [ref=e460] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/clara-martnez-malagelada/?originalSubdomain=es
+                    - img [ref=e462]
+                    - generic [ref=e464]: Linkedin
+              - generic [ref=e466]:
+                - img "Sergio Marquez" [ref=e468]
+                - generic [ref=e469]:
+                  - heading "Sergio Marquez" [level=2] [ref=e470]
+                  - generic [ref=e471]: Fundador y socio de Nómada Media, y Profesor en la Universidad Carlos III de Madrid
+                  - link "Linkedin" [ref=e474] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/sergiomarquez/
+                    - img [ref=e476]
+                    - generic [ref=e478]: Linkedin
+              - generic [ref=e480]:
+                - img "Julio Gómez" [ref=e482]
+                - generic [ref=e483]:
+                  - heading "Julio Gómez" [level=2] [ref=e484]
+                  - generic [ref=e485]: Demostrador de equipos audiovisuales y formador
+              - generic [ref=e487]:
+                - img "José Carlos Panadero" [ref=e489]
+                - generic [ref=e490]:
+                  - heading "José Carlos Panadero" [level=2] [ref=e491]
+                  - generic [ref=e492]: Artista VFX y motion graphics
+              - generic [ref=e494]:
+                - img "Juan Luis Cabellos" [ref=e496]
+                - generic [ref=e497]:
+                  - heading "Juan Luis Cabellos" [level=2] [ref=e498]
+                  - generic [ref=e499]: Director de fotografía AEC.
+                  - link "iMDb" [ref=e502] [cursor=pointer]:
+                    - /url: https://www.imdb.com/name/nm1970953/?ref_=nv_sr_1
+                    - img [ref=e504]
+                    - generic [ref=e506]: iMDb
+              - generic [ref=e508]:
+                - img "Jaime Climent" [ref=e510]
+                - generic [ref=e511]:
+                  - heading "Jaime Climent" [level=2] [ref=e512]
+                  - generic [ref=e513]: Socio en Gigantes y Molinos VFX
+                  - generic [ref=e515]:
+                    - link "Linkedin" [ref=e516] [cursor=pointer]:
+                      - /url: https://www.linkedin.com/in/jaime-climent-6296a0101/
+                      - img [ref=e518]
+                      - generic [ref=e520]: Linkedin
+                    - link "iMDb" [ref=e521] [cursor=pointer]:
+                      - /url: https://www.imdb.com/name/nm2098296/?ref_=nv_sr_srsg_0
+                      - img [ref=e523]
+                      - generic [ref=e525]: iMDb
+              - generic [ref=e527]:
+                - img "Diego Alfonso Yhamá" [ref=e529]
+                - generic [ref=e530]:
+                  - heading "Diego Alfonso Yhamá" [level=2] [ref=e531]
+                  - generic [ref=e532]: Colorista expero en DaVinci Resolve
+              - generic [ref=e534]:
+                - img "Elena Humanes" [ref=e536]
+                - generic [ref=e537]:
+                  - heading "Elena Humanes" [level=2] [ref=e538]
+                  - generic [ref=e539]: Colorista senior en XPost Studios
+                  - link "iMDb" [ref=e542] [cursor=pointer]:
+                    - /url: https://www.imdb.com/name/nm6086746/?ref_=fn_al_nm_1
+                    - img [ref=e544]
+                    - generic [ref=e546]: iMDb
+              - generic [ref=e548]:
+                - img "Guillermo Mora Camuñas" [ref=e550]
+                - generic [ref=e551]:
+                  - heading "Guillermo Mora Camuñas" [level=2] [ref=e552]
+                  - generic [ref=e553]: Colorista y Online Editor en Xpost
+              - generic [ref=e555]:
+                - img "Javier Sacristán" [ref=e557]
+                - generic [ref=e558]:
+                  - heading "Javier Sacristán" [level=2] [ref=e559]
+                  - generic [ref=e560]: Creativo, diseñador gráfico motion designer y director artístico
+              - generic [ref=e562]:
+                - img "Jorge Iguaz" [ref=e564]
+                - generic [ref=e565]:
+                  - heading "Jorge Iguaz" [level=2] [ref=e566]
+                  - generic [ref=e567]: Colorista senior en XPost Studios
+            - link "Conoce a los profesores de la ECAM" [ref=e568] [cursor=pointer]:
+              - /url: https://ecam.es/profesores/?fwp_profesores=master-posproduccion
+              - generic [ref=e569]: Conoce a los profesores de la ECAM
+          - generic [ref=e573]:
+            - heading "Testimonios" [level=2] [ref=e574]:
+              - generic [ref=e575]: Testimonios
+            - generic [ref=e578]:
+              - generic [ref=e579]:
+                - generic:
+                  - generic [ref=e583]:
+                    - figure [ref=e588]:
+                      - img "Profesores ECAM - Borja Cobeaga" [ref=e590]
+                    - generic [ref=e595]:
+                      - paragraph [ref=e596]: Supongo que enseño en la ECAM porque me gusta mucho el cine, verlo y hacerlo, aunque no hay tareas más dispares en el mundo. Esta pasión es contagiosa y es el gran motor para hacer películas. Intento trasmitir ese entusiasmo a mis alumnos, para que sean “inasequibles al desaliento”.
+                      - paragraph [ref=e597]:
+                        - generic [ref=e598]: Borja Cobeaga.
+                        - generic [ref=e599]: Profesor Diplomatura en Guion.
+                  - generic [ref=e603]:
+                    - figure [ref=e608]:
+                      - img "Profesores ECAM - Ivan del Rey de la Torre" [ref=e610]
+                    - generic [ref=e615]:
+                      - paragraph [ref=e616]: "Lo más gratificante de ser profesor en la ECAM es ver la cara que se les queda a los alumnos cuando descubren a Fellini, a Dziga Vertov, a Martha Rosler, a Kiarostami, a William Wegman… Esa boca y esos ojos abiertos que vienen a decir: “¿es posible esto? ¡Quiero empezar a hacer cosas ya!"
+                      - paragraph [ref=e617]:
+                        - generic [ref=e618]: Iván del Rey de la Torre.
+                        - generic [ref=e619]: Historiador del arte, fotógrafo y escritor.
+                  - generic [ref=e623]:
+                    - figure [ref=e628]:
+                      - img "Profesores ECAM - Ricardo Steinberg" [ref=e630]
+                    - generic [ref=e635]:
+                      - paragraph [ref=e636]:
+                        - text: La escuela, un entorno para generar y compartir ideas, historias y proyectos.
+                        - text: La conversación, una herramienta didáctica y profesional.
+                        - text: La tecnología, el eslabón entre la creatividad y su materialización.
+                        - text: El trabajo en equipo, el reconocimiento de los otros.
+                        - text: El cine, una conjunción de imágenes y sonidos modulados por una narración.
+                      - paragraph [ref=e637]:
+                        - generic [ref=e638]: Ricardo Steinberg.
+                        - generic [ref=e639]: Profesor Diplomatura en Sonido.
+              - generic:
+                - button "previous slide" [ref=e640] [cursor=pointer]:
+                  - generic [ref=e641]: previous slide
+                  - img [ref=e644]
+                - button "next slide" [ref=e648] [cursor=pointer]:
+                  - generic [ref=e649]: next slide
+                  - img [ref=e652]
+          - generic [ref=e665]:
+            - heading "Solicita más información" [level=3] [ref=e666]:
+              - generic [ref=e667]:
+                - text: Solicita
+                - generic [ref=e668]: más información
+            - generic [ref=e672]:
+              - group [ref=e673]:
+                - generic [ref=e674]:
+                  - generic [ref=e675]:
+                    - generic [ref=e676]: Quiero info sobre*
+                    - combobox "Quiero info sobre*" [ref=e678]:
+                      - option "Selecciona tu área de interés" [disabled]
+                      - option "Alfabetización Audiovisual"
+                      - option "Diplomatura"
+                      - option "Formación de Posgrado" [selected]
+                      - option "Escuela de Oficios"
+                  - generic [ref=e679]:
+                    - generic [ref=e680]: Elige tu formación*
+                    - generic [ref=e681]:
+                      - combobox [ref=e682]
+                      - combobox "Máster en Posproducción Audiovisual" [ref=e685] [cursor=pointer]:
+                        - button "Remove all items" [ref=e686]: ×
+                        - textbox "Máster en Posproducción Audiovisual" [ref=e687]
+                    - generic:
+                      - option "Selecciona" [disabled]
+                      - option "Máster de Crítica Cinematográfica"
+                      - option "Máster de Diseño de Vestuario para Cine, Series y Teatro"
+                      - option "Máster de Distribución y Negocio en la Industria Audiovisual"
+                      - option "Máster en Color y en Etalonaje Digital"
+                      - option "Máster en Dirección de Fotografía Cinematográfica"
+                      - option "Máster en Gestión de Proyectos y Empresas Audiovisuales"
+                      - option "Máster en Guion de Series de Ficción"
+                      - option "Máster en Producción Ejecutiva para Cine y Series"
+                      - option "Máster en Restauración y preservación Fílmica"
+                      - option "Máster en Entertainment Marketing"
+                      - option "Máster Online en Supervisión de Posproducción"
+                      - option "Máster en Posproducción Audiovisual" [selected]
+              - group [ref=e688]:
+                - generic [ref=e689]:
+                  - generic [ref=e690]: Nombre*
+                  - textbox "Nombre*" [ref=e692]:
+                    - /placeholder: ""
+                - generic [ref=e693]:
+                  - generic [ref=e694]: Apellidos*
+                  - textbox "Apellidos*" [ref=e696]:
+                    - /placeholder: ""
+              - group [ref=e697]:
+                - generic [ref=e698]:
+                  - generic [ref=e699]: E-mail*
+                  - textbox "E-mail*" [ref=e701]:
+                    - /placeholder: ""
+              - group [ref=e702]:
+                - generic [ref=e703]:
+                  - generic [ref=e704]: País/región*
+                  - textbox "País/región*" [ref=e706]:
+                    - /placeholder: ""
+              - group [ref=e707]:
+                - generic [ref=e708]:
+                  - generic [ref=e709]: Número de teléfono*
+                  - generic [ref=e711]:
+                    - combobox [ref=e712]:
+                      - option "*" [disabled]
+                      - option "Afghanistan (‫افغانستان‬‎)"
+                      - option "Albania (Shqipëri)"
+                      - option "Algeria (‫الجزائر‬‎)"
+                      - option "American Samoa"
+                      - option "Andorra"
+                      - option "Angola"
+                      - option "Anguilla"
+                      - option "Antigua and Barbuda"
+                      - option "Argentina"
+                      - option "Armenia (Հայաստան)"
+                      - option "Aruba"
+                      - option "Australia"
+                      - option "Austria (Österreich)"
+                      - option "Azerbaijan (Azərbaycan)"
+                      - option "Bahamas"
+                      - option "Bahrain (‫البحرين‬‎)"
+                      - option "Bangladesh (বাংলাদেশ)"
+                      - option "Barbados"
+                      - option "Belarus (Беларусь)"
+                      - option "Belgium (België)"
+                      - option "Belize"
+                      - option "Benin (Bénin)"
+                      - option "Bermuda"
+                      - option "Bhutan (འབྲུག)"
+                      - option "Bolivia"
+                      - option "Bosnia and Herzegovina (Босна и Херцеговина)"
+                      - option "Botswana"
+                      - option "Brazil (Brasil)"
+                      - option "British Indian Ocean Territory"
+                      - option "British Virgin Islands"
+                      - option "Brunei"
+                      - option "Bulgaria (България)"
+                      - option "Burkina Faso"
+                      - option "Burundi (Uburundi)"
+                      - option "Cambodia (កម្ពុជា)"
+                      - option "Cameroon (Cameroun)"
+                      - option "Canada"
+                      - option "Cape Verde (Kabu Verdi)"
+                      - option "Caribbean Netherlands"
+                      - option "Cayman Islands"
+                      - option "Central African Republic (République centrafricaine)"
+                      - option "Chad (Tchad)"
+                      - option "Chile"
+                      - option "China (中国)"
+                      - option "Colombia"
+                      - option "Comoros (‫جزر القمر‬‎)"
+                      - option "Congo (DRC) (Jamhuri ya Kidemokrasia ya Kongo)"
+                      - option "Congo (Republic) (Congo-Brazzaville)"
+                      - option "Cook Islands"
+                      - option "Costa Rica"
+                      - option "Côte d’Ivoire"
+                      - option "Croatia (Hrvatska)"
+                      - option "Cuba"
+                      - option "Curaçao"
+                      - option "Cyprus (Κύπρος)"
+                      - option "Czech Republic (Česká republika)"
+                      - option "Denmark (Danmark)"
+                      - option "Djibouti"
+                      - option "Dominica"
+                      - option "Dominican Republic (República Dominicana)"
+                      - option "Ecuador"
+                      - option "Egypt (‫مصر‬‎)"
+                      - option "El Salvador"
+                      - option "Equatorial Guinea (Guinea Ecuatorial)"
+                      - option "Eritrea"
+                      - option "Estonia (Eesti)"
+                      - option "Ethiopia"
+                      - option "Falkland Islands (Islas Malvinas)"
+                      - option "Faroe Islands (Føroyar)"
+                      - option "Fiji"
+                      - option "Finland (Suomi)"
+                      - option "France"
+                      - option "French Guiana (Guyane française)"
+                      - option "French Polynesia (Polynésie française)"
+                      - option "Gabon"
+                      - option "Gambia"
+                      - option "Georgia (საქართველო)"
+                      - option "Germany (Deutschland)"
+                      - option "Ghana (Gaana)"
+                      - option "Gibraltar"
+                      - option "Greece (Ελλάδα)"
+                      - option "Greenland (Kalaallit Nunaat)"
+                      - option "Grenada"
+                      - option "Guadeloupe"
+                      - option "Guam"
+                      - option "Guatemala"
+                      - option "Guinea (Guinée)"
+                      - option "Guinea-Bissau (Guiné Bissau)"
+                      - option "Guyana"
+                      - option "Haiti"
+                      - option "Honduras"
+                      - option "Hong Kong (香港)"
+                      - option "Hungary (Magyarország)"
+                      - option "Iceland (Ísland)"
+                      - option "India (भारत)"
+                      - option "Indonesia"
+                      - option "Iran (‫ایران‬‎)"
+                      - option "Iraq (‫العراق‬‎)"
+                      - option "Ireland"
+                      - option "Israel (‫ישראל‬‎)"
+                      - option "Italy (Italia)"
+                      - option "Jamaica"
+                      - option "Japan (日本)"
+                      - option "Jordan (‫الأردن‬‎)"
+                      - option "Kazakhstan (Казахстан)"
+                      - option "Kenya"
+                      - option "Kiribati"
+                      - option "Kosovo"
+                      - option "Kuwait (‫الكويت‬‎)"
+                      - option "Kyrgyzstan (Кыргызстан)"
+                      - option "Laos (ລາວ)"
+                      - option "Latvia (Latvija)"
+                      - option "Lebanon (‫لبنان‬‎)"
+                      - option "Lesotho"
+                      - option "Liberia"
+                      - option "Libya (‫ليبيا‬‎)"
+                      - option "Liechtenstein"
+                      - option "Lithuania (Lietuva)"
+                      - option "Luxembourg"
+                      - option "Macau (澳門)"
+                      - option "Macedonia (FYROM) (Македонија)"
+                      - option "Madagascar (Madagasikara)"
+                      - option "Malawi"
+                      - option "Malaysia"
+                      - option "Maldives"
+                      - option "Mali"
+                      - option "Malta"
+                      - option "Marshall Islands"
+                      - option "Martinique"
+                      - option "Mauritania (‫موريتانيا‬‎)"
+                      - option "Mauritius (Moris)"
+                      - option "Mexico (México)"
+                      - option "Micronesia"
+                      - option "Moldova (Republica Moldova)"
+                      - option "Monaco"
+                      - option "Mongolia (Монгол)"
+                      - option "Montenegro (Crna Gora)"
+                      - option "Montserrat"
+                      - option "Morocco (‫المغرب‬‎)"
+                      - option "Mozambique (Moçambique)"
+                      - option "Myanmar (Burma) (မြန်မာ)"
+                      - option "Namibia (Namibië)"
+                      - option "Nauru"
+                      - option "Nepal (नेपाल)"
+                      - option "Netherlands (Nederland)"
+                      - option "New Caledonia (Nouvelle-Calédonie)"
+                      - option "New Zealand"
+                      - option "Nicaragua"
+                      - option "Niger (Nijar)"
+                      - option "Nigeria"
+                      - option "Niue"
+                      - option "Norfolk Island"
+                      - option "North Korea (조선 민주주의 인민 공화국)"
+                      - option "Northern Mariana Islands"
+                      - option "Norway (Norge)"
+                      - option "Oman (‫عُمان‬‎)"
+                      - option "Pakistan (‫پاکستان‬‎)"
+                      - option "Palau"
+                      - option "Palestine (‫فلسطين‬‎)"
+                      - option "Panama (Panamá)"
+                      - option "Papua New Guinea"
+                      - option "Paraguay"
+                      - option "Peru (Perú)"
+                      - option "Philippines"
+                      - option "Poland (Polska)"
+                      - option "Portugal"
+                      - option "Puerto Rico"
+                      - option "Qatar (‫قطر‬‎)"
+                      - option "Réunion (La Réunion)"
+                      - option "Romania (România)"
+                      - option "Russia (Россия)"
+                      - option "Rwanda"
+                      - option "Saint Barthélemy (Saint-Barthélemy)"
+                      - option "Saint Helena"
+                      - option "Saint Kitts and Nevis"
+                      - option "Saint Lucia"
+                      - option "Saint Martin (Saint-Martin (partie française))"
+                      - option "Saint Pierre and Miquelon (Saint-Pierre-et-Miquelon)"
+                      - option "Saint Vincent and the Grenadines"
+                      - option "Samoa"
+                      - option "San Marino"
+                      - option "São Tomé and Príncipe (São Tomé e Príncipe)"
+                      - option "Saudi Arabia (‫المملكة العربية السعودية‬‎)"
+                      - option "Senegal (Sénégal)"
+                      - option "Serbia (Србија)"
+                      - option "Seychelles"
+                      - option "Sierra Leone"
+                      - option "Singapore"
+                      - option "Sint Maarten"
+                      - option "Slovakia (Slovensko)"
+                      - option "Slovenia (Slovenija)"
+                      - option "Solomon Islands"
+                      - option "Somalia (Soomaaliya)"
+                      - option "South Africa"
+                      - option "South Korea (대한민국)"
+                      - option "South Sudan (‫جنوب السودان‬‎)"
+                      - option "Spain (España)" [selected]
+                      - option "Sri Lanka (ශ්‍රී ලංකාව)"
+                      - option "Sudan (‫السودان‬‎)"
+                      - option "Suriname"
+                      - option "Swaziland"
+                      - option "Sweden (Sverige)"
+                      - option "Switzerland (Schweiz)"
+                      - option "Syria (‫سوريا‬‎)"
+                      - option "Taiwan (台灣)"
+                      - option "Tajikistan"
+                      - option "Tanzania"
+                      - option "Thailand (ไทย)"
+                      - option "Timor-Leste"
+                      - option "Togo"
+                      - option "Tokelau"
+                      - option "Tonga"
+                      - option "Trinidad and Tobago"
+                      - option "Tunisia (‫تونس‬‎)"
+                      - option "Turkey (Türkiye)"
+                      - option "Turkmenistan"
+                      - option "Turks and Caicos Islands"
+                      - option "Tuvalu"
+                      - option "U.S. Virgin Islands"
+                      - option "Uganda"
+                      - option "Ukraine (Україна)"
+                      - option "United Arab Emirates (‫الإمارات العربية المتحدة‬‎)"
+                      - option "United Kingdom"
+                      - option "United States"
+                      - option "Uruguay"
+                      - option "Uzbekistan (Oʻzbekiston)"
+                      - option "Vanuatu"
+                      - option "Vatican City (Città del Vaticano)"
+                      - option "Venezuela"
+                      - option "Vietnam (Việt Nam)"
+                      - option "Wallis and Futuna"
+                      - option "Yemen (‫اليمن‬‎)"
+                      - option "Zambia"
+                      - option "Zimbabwe"
+                    - textbox "Número de teléfono*" [ref=e713]:
+                      - /placeholder: ""
+                      - text: "+34"
+              - group [ref=e714]:
+                - generic [ref=e715]:
+                  - generic [ref=e716]: Mensaje
+                  - textbox "Mensaje" [ref=e718]:
+                    - /placeholder: ""
+              - group [ref=e719]:
+                - list [ref=e722]:
+                  - listitem [ref=e723]:
+                    - generic [ref=e724]:
+                      - checkbox "Quiero visitar la Escuela" [ref=e725]
+                      - text: Quiero visitar la Escuela
+              - group
+              - group
+              - group
+              - group [ref=e726]:
+                - generic [ref=e727]:
+                  - paragraph [ref=e729]: En cumplimiento de la normativa vigente en materia de protección de datos, le informamos que el responsable de sus datos personales es ESCUELA DE CINEMATOGRAFÍA Y DEL AUDIOVISUAL DE LA COMUNIDAD DE MADRID, que serán tratados con la finalidad de gestionar y tramitar su solicitud, en su caso, visitar nuestras instalaciones, así como recibir comunicaciones comerciales sobre novedades, productos y servicios, basado en el consentimiento. Los datos personales recabados serán cedidos, cuando sea necesario, para el desarrollo, cumplimiento y control de los servicios solicitados o contratados y lo previsto legalmente. Puede acceder, rectificar y suprimir los datos, así como otros derechos que le asisten sobre protección de datos mediante dpo@ecam.es acreditando su identidad. Para más información, podrá consultar la política de privacidad.
+                  - list [ref=e734]:
+                    - listitem [ref=e735]:
+                      - generic [ref=e736]:
+                        - checkbox "Acepto recibir ofertas, que puedan resultar de mi interés, por parte de ECAM" [ref=e737]
+                        - paragraph [ref=e739]: Acepto recibir ofertas, que puedan resultar de mi interés, por parte de ECAM
+                  - list [ref=e744]:
+                    - listitem [ref=e745]:
+                      - generic [ref=e746]:
+                        - checkbox "He leído y acepto la política de privacidad*" [ref=e747]
+                        - generic [ref=e748]:
+                          - paragraph [ref=e749]:
+                            - text: He leído y acepto la
+                            - link "política de privacidad" [ref=e750] [cursor=pointer]:
+                              - /url: https://ecam.es/politica-de-privacidad/
+                          - text: "*"
+              - button "Enviar" [ref=e753] [cursor=pointer]
+          - generic [ref=e763]:
+            - heading "Con la colaboración de" [level=2] [ref=e764]:
+              - generic [ref=e765]: Con la colaboración de
+            - figure [ref=e769]
+    - contentinfo [ref=e771]:
+      - generic [ref=e772]:
+        - generic [ref=e776]:
+          - heading "Patronos" [level=2] [ref=e777]:
+            - generic [ref=e778]: Patronos
+          - generic [ref=e780]:
+            - figure [ref=e782]
+            - figure [ref=e785]:
+              - img "Logo Egeda" [ref=e787]
+            - figure [ref=e789]:
+              - img "Logo SGAE - Sociedad General de Autores y Editores" [ref=e791]
+            - figure [ref=e793]:
+              - img "logo_DAMA" [ref=e795]
+            - figure [ref=e797]:
+              - img "Logo Academia de Cine" [ref=e799]
+        - generic [ref=e800]:
+          - generic [ref=e803]:
+            - figure [ref=e804]:
+              - img "Logo ECAM blanco - Escuela de cine y del audiovisual" [ref=e806]
+            - generic [ref=e808]:
+              - paragraph [ref=e809]: La ECAM es una escuela de cine y audiovisual cuyo mayor patrimonio son sus alumnos -antiguos y actuales-, sus profesores y su equipo.
+              - paragraph [ref=e810]: Cada año más de 300 profesionales en activo del cine, la televisión y la publicidad pasan por nuestras aulas, platós y salas de postproducción para transmitir su conocimiento a las nuevas generaciones de profesionales del sector.
+          - generic [ref=e813]:
+            - figure [ref=e814]:
+              - generic [ref=e815]:
+                - img "Icono - Titulaciones Play - ECAM"
+            - generic [ref=e817]:
+              - paragraph [ref=e818]:
+                - text: Información
+                - text: +34 915 121 060
+              - paragraph [ref=e819]:
+                - text: Prensa y comunicación
+                - link "comunicacion@ecam.es" [ref=e820] [cursor=pointer]:
+                  - /url: mailto:comunicacion@ecam.es
+            - figure [ref=e824]:
+              - img "Logo Certificado consumo 100% renovable" [ref=e826]
+          - generic [ref=e831]:
+            - paragraph [ref=e832]:
+              - text: C/ Juan de Orduña, 3
+              - text: Ciudad de la Imagen
+              - text: 28223 Pozuelo de Alarcón, Madrid
+            - paragraph [ref=e833]:
+              - text: Horario de atención al público (recepción)
+              - text: "lunes a jueves: 9:30 h a 18:00 h"
+              - text: "viernes: 9:30 h a 15:30 h"
+            - paragraph [ref=e834]:
+              - text: Horario de atención al público (admisiones)
+              - text: "lunes a jueves: 9:30 h a 16:00 h"
+              - text: "viernes: 9:30 h a 15:30 h"
+              - text: +34 647 468 402
+            - paragraph [ref=e835]:
+              - text: Horario de apertura de las instalaciones
+              - text: "lunes a viernes: 8:30h a 21:00 h"
+          - generic [ref=e838]:
+            - paragraph [ref=e841]:
+              - text: Síguenos en
+              - text: nuestras redes sociales
+            - list [ref=e845]:
+              - listitem [ref=e846]:
+                - link "Facebook" [ref=e847] [cursor=pointer]:
+                  - /url: https://es-la.facebook.com/La-ECAM-P%C3%A1gina-Oficial-142308959166225/
+                  - img [ref=e849]
+              - listitem [ref=e851]:
+                - link "Linkedin" [ref=e852] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/ecam-escuela-de-cinematograf-a-y-del-audiovisual-de-la-comunidad-de-madrid-/
+                  - img [ref=e854]
+              - listitem [ref=e856]:
+                - link "Twitter" [ref=e857] [cursor=pointer]:
+                  - /url: https://twitter.com/ecam_
+                  - img [ref=e859]
+              - listitem [ref=e861]:
+                - link "Instagram" [ref=e862] [cursor=pointer]:
+                  - /url: https://www.instagram.com/ecam_cine/
+                  - img [ref=e864]
+              - listitem [ref=e866]:
+                - link "Vimeo" [ref=e867] [cursor=pointer]:
+                  - /url: https://vimeo.com/ladistribuidora
+                  - img [ref=e869]
+              - listitem [ref=e871]:
+                - link "Youtube" [ref=e872] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCkpBkvGs-zX6ayayKNhY5bw
+                  - img [ref=e874]
+              - listitem [ref=e876]:
+                - link "TikTok" [ref=e877] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@ecam.cine
+                  - img [ref=e879]
+            - paragraph [ref=e883]:
+              - link "Canal de denuncias" [ref=e884] [cursor=pointer]:
+                - /url: https://ecam.es/canal-de-denuncias/
+        - paragraph [ref=e891]:
+          - text: 2026 © Todos los derechos reservados |
+          - link "Política de privacidad" [ref=e892] [cursor=pointer]:
+            - /url: https://ecam.es/politica-de-privacidad
+          - text: "|"
+          - link "Política de cookies" [ref=e893] [cursor=pointer]:
+            - /url: https://ecam.es/politica-de-cookies
+  - dialog "cookieconsent" [ref=e894]:
+    - generic [ref=e897]:
+      - generic [ref=e898]:
+        - text: Utilizamos cookies propias y de terceros para analizar el uso del sitio web y mostrarte publicidad relacionada con tus preferencias sobre la base de un perfil elaborado a partir de tus hábitos de navegación (por ejemplo, páginas visitadas).
+        - link "Política de cookies" [active] [ref=e899] [cursor=pointer]:
+          - /url: https://ecam.es/politica-de-cookies/
+      - generic [ref=e900]:
+        - button "Rechazar cookies" [ref=e901] [cursor=pointer]
+        - button "Configurar" [ref=e902] [cursor=pointer]
+        - button "Aceptar cookies" [ref=e903] [cursor=pointer]
+  - status [ref=e904]

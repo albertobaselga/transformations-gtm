@@ -2,7 +2,7 @@
 
 ## Resumen
 
-W20 día 1. D9 activo — **11ª sesión consecutiva** (W17D3→W20D1). Ambas keywords congeladas en endpoint 5-11 abr 2026. Cookie fresca Pablo Navarro: urgencia absoluta (sin avance en 11 sesiones). SHIFTA SEM: sin campaña activa detectada; 14 días al arranque 25 mayo — ventana de activación máxima esta semana. Dos nuevos competidores en el mapa: OFF ESCAC (🟢 BAJA) y CEV (provisional 🟡 MEDIA). EOI Runway confirmado: 3ª institución ES con Runway explícito en currículo. Mapa sube a 24 competidores activos.
+W20 día 1. **🚨 ALERTA CRÍTICA: SHIFTA SEM ACTIVO** — campaña de pago confirmada en 3/4 keywords objetivo (formacion ia audiovisual, posgrado ia audiovisual, master ia cine). Arranque 25 mayo = 14 días. Dos dominios activos: `formaciones.weareshifta.com` y `weareshifta.com/master/ia`. 35mm ausente en SEM y orgánico en todo el espacio URL 11. D9 activo — **11ª sesión consecutiva** (W17D3→W20D1): cookie Pablo Navarro sigue pendiente. ECAM domina orgánico en `master postproduccion audiovisual` (pos 1).
 
 ---
 
@@ -95,14 +95,89 @@ W20 día 1. D9 activo — **11ª sesión consecutiva** (W17D3→W20D1). Ambas ke
 
 ---
 
-### SHIFTA SEM — sin campaña activa detectada (Iker W20D1)
+### SHIFTA SEM — ⚠️ CAMPAÑA ACTIVA CONFIRMADA — ALERTA W20D1 (Marina)
 
-- Sin evidencia de SEM activo en búsquedas orgánicas
-- Nota metodológica: la ausencia en resultados web ≠ ausencia en Google Ads (plataforma no visible sin cuenta Ads o Ads Transparency)
-- 14 días al arranque 25 mayo — **ventana de activación típica de cierre de plazas ACTIVA esta semana**
-- Patrón esperado: SHIFTA puede activar entre mañana martes 12 y viernes 15 mayo
-- Keywords a monitorizar activamente: "posgrado IA creatividad visual", "formación IA generativa online", "máster IA para creativos 2026"
-- Si SHIFTA activa SEM esta semana → validación de demanda transaccional directa en espacio URL 11
+> **Corrección a nota Iker W20D1**: La ausencia en resultados orgánicos ≠ ausencia en Google Ads. Monitoreo directo de SERPs con anuncios pagados confirma SHIFTA ACTIVO en 3 de 4 keywords objetivo.
+
+| Keyword | SHIFTA SEM | Ad copy | URL ad | Fecha |
+|---------|-----------|---------|--------|-------|
+| `formacion ia audiovisual` | ✅ **ACTIVO** | "SHIFTA by Elisava — Construye narrativas mediante el lenguaje audiovisual. Solo 30 plazas." | `formaciones.weareshifta.com/master/dirección_arte` | 2026-05-11 |
+| `posgrado ia audiovisual` | ✅ **ACTIVO** | "SHIFTA by Elisava \| Máster en IA Creativa — Desarrolla tu potencial creativo con IA." | `www.weareshifta.com/master/ia` | 2026-05-11 |
+| `master ia cine` | ✅ **ACTIVO** | "Inteligencia Artificial Generativa para creativos \| SHIFTA by Elisava — Domina la IA para crear contenidos audiovisuales de calidad." | `www.weareshifta.com` | 2026-05-11 |
+| `master ia generativa` | ❌ **AUSENTE** | — | — | 2026-05-11 |
+
+**Interpretación crítica**:
+- SHIFTA activo en keywords de nicho audiovisual (formacion IA audiovisual, posgrado IA audiovisual, master IA cine) pero ausente en keyword genérica "master ia generativa"
+- Estrategia SEM de SHIFTA: targeting preciso al espacio audiovisual-creativo, no compite en SEM genérico IA
+- 14 días al arranque (25 mayo): la campaña SEM ya está encendida — ventana de captura de leads activa AHORA
+- Mensaje central: "30 plazas" + "Shift The World" = urgencia + identidad de marca
+- Dos dominios usados: `formaciones.weareshifta.com` (funnel) y `www.weareshifta.com` (marca principal)
+
+---
+
+## Volumetrias SEM — Espacio URL 11 (Marina W20D1)
+
+### Competidores activos en SEM por keyword (datos SERPs 11 mayo 2026)
+
+| Keyword | Ads detectados | SHIFTA | ECAM | CEI | TCS | 35mm |
+|---------|---------------|--------|------|-----|-----|------|
+| `formacion ia audiovisual` | The Core School, SHIFTA, LABASAD, The Bridge | ✅ | ❌ | ❌ | ❌ | ❌ |
+| `posgrado ia audiovisual` | UAX, Elisava/SHIFTA, SHIFTA, The Core School | ✅ | ❌ | ❌ | ❌ | ❌ |
+| `master ia generativa` | Evolve, UAX, U-tad, The Valley | ❌ | ❌ | ❌ | ❌ | ❌ |
+| `master ia cine` | UAX, Makkers, The Valley, SHIFTA | ✅ | ❌ | ❌ | ❌ | ❌ |
+| `master postproduccion audiovisual` | CEI, Elisava, The Core School | ❌ | ❌ | ✅ | ❌ | ❌ |
+
+### Keywords transaccionales vs aspiracionales — clasificación mayo 2026
+
+| Keyword | Tipo | Ads activos | Posición ECAM orgánico | Posición 35mm |
+|---------|------|-------------|----------------------|--------------|
+| `master postproduccion audiovisual` | **Transaccional** | CEI, Elisava, TCS | #1 | No detectado |
+| `posgrado ia audiovisual` | **Transaccional** | SHIFTA, UAX | #4+ | No detectado |
+| `formacion ia audiovisual` | **Mixto** (transaccional+aspiracional) | SHIFTA, TCS, LABASAD, The Bridge | #5 (IA Big Data) | No detectado |
+| `master ia cine` | **Transaccional** | SHIFTA | No en P1 | No detectado |
+| `master ia generativa` | **Aspiracional** (mercado general) | Evolve, UAX, U-tad | No en P1 | No detectado |
+
+### Estimación TAM URL 11 — señal SEM (proxy demanda transaccional)
+
+- **Demanda transaccional alta**: `master postproduccion audiovisual` — 4+ anunciantes activos, ECAM en orgánico #1
+- **Demanda transaccional creciente**: `posgrado ia audiovisual`, `formacion ia audiovisual` — SHIFTA invierte SEM aquí = validación de intención de compra
+- **35mm ausente en SEM y orgánico** en todas las keywords del espacio URL 11 — oportunidad de captura directa sin competencia propia activa
+
+---
+
+## Demanda URL 11 — Espacio Competitivo (Marina W20D1)
+
+### Mapa competitivo en SERPs (keywords core URL 11)
+
+**`master postproduccion audiovisual`** — keyword anchor URL 11:
+- Orgánico pos 1: **ECAM** (`ecam.es/master-en-posproduccion-audiovisual`)
+- Orgánico pos 2: TAI ARTS
+- Orgánico pos 3: CEI
+- Orgánico pos 4+: DondeEstudiar, Universidad Europea Creative Campus, The Core School, UCM
+- Ads: CEI (pos 1), Elisava (pos 2), The Core School (pos 3)
+- **35mm**: No detectado en P1 orgánico ni en ads
+
+**Señal URL 11**: ECAM domina orgánico para la keyword anchor. La entrada de Elisava en ads (usando URL de SHIFTA para el posgrado IA) indica que SHIFTA/Elisava extiende su SEM más allá de sus keywords naturales hacia el espacio postproducción.
+
+### Posicionamiento competitivo SHIFTA vs 35mm
+
+| Dimensión | SHIFTA | 35mm |
+|-----------|--------|------|
+| SEM activo | ✅ 3 keywords IA audiovisual | ❌ Ausente |
+| Orgánico | Posgrado IA Audiovisual (weareshifta.com/Formaciones) | No detectado URL 11 |
+| Mensaje | "30 plazas", urgencia cierre, Titulación Universitaria | — |
+| Arranque | 25 mayo 2026 | — |
+| Precio proxy | >€1.500 (validado W19) | — |
+
+---
+
+## D9 — Estado del bloqueo (Marina W20D1)
+
+- **Estado**: 🔴 D9 ACTIVO — 11ª sesión (ver sección "Datos Trends W20D1" en este mismo archivo)
+- **Cookie Pablo Navarro**: Pendiente. Sin entrega confirmada en W20D1.
+- **Queries bloqueadas**: `runway ml` y `edicion video ia` (endpoint congelado en 5-11 abr 2026)
+- **Acción requerida**: Pablo Navarro debe entregar cookie fresca para desbloquear. Si no hay entrega esta semana, el bloqueo supera los 30 días.
+- **Impacto**: Sin datos post-NAB (18 abr+). La señal de activación de demanda post-NAB en búsquedas ES sigue sin medirse.
 
 ---
 
@@ -110,20 +185,23 @@ W20 día 1. D9 activo — **11ª sesión consecutiva** (W17D3→W20D1). Ambas ke
 
 | Analista | Cruce | Urgencia |
 |---------|-------|---------|
-| **Marina (SEO)** | SHIFTA SEM ventana máxima — monitorizar activamente esta semana | **Alta** |
-| **Marina (SEO)** | OFF ESCAC — nueva escuela sin IA, alta autoridad de dominio Barcelona | **Baja** (alerta condicional) |
+| **Elena (CEO)** | 🚨 SHIFTA SEM ACTIVO — campaña confirmada en 3/4 keywords URL 11. Arranque 25 mayo = 14 días. | **CRÍTICA** |
+| **Lucía (Head IC)** | SHIFTA usa dos dominios distintos en SEM: `formaciones.weareshifta.com` y `weareshifta.com/master/ia` — posible AB test de landing o dos productos distintos | **Alta** |
 | **Lucía (Head IC)** | CEV provisional 🟡 MEDIA — verificar W20D2 (precio, FUNDAE, tipo de programa) | **Media** |
 | **Lucía (Head IC)** | Mapa sube a 24 competidores: OFF ESCAC (🟢 BAJA) + CEV (provisional 🟡 MEDIA) | **Media** |
+| **Marina (SEO)** | 35mm ausente en SEM y orgánico en todo el espacio URL 11 — decisión estratégica pendiente CEO | **Alta** |
+| **Pablo (CTO)** | Cookie Trends: D9 activo 11ª sesión — runway ml y edicion video ia bloqueados ≥37 días desde NAB | **Urgente** |
 | **Sofia (Empleabilidad)** | EPA T1 2026 día 13 — semana conservadora activa (11-15 mayo) | **Alta** |
 
 ---
 
 ## Señal para W20D2
 
-- **Prioridad 1**: CEV "IA aplicada a Fotografía y Vídeo" — verificar detalles (duración, precio, FUNDAE, ¿curso o módulo?)
-- **Prioridad 2**: EPA T1 2026 — verificar miércoles 13 mayo (umbral mitad semana conservadora)
-- **Prioridad 3**: SHIFTA SEM — ¿activan campaña martes-miércoles?
-- **Prioridad 4**: Cookie fresca Pablo Navarro — desbloquear D9
+- **Prioridad 0 (ALERTA ACTIVA)**: SHIFTA SEM confirmado — monitorizar si escalan presupuesto, añaden keywords, o cambian landing. Capturar ad copy completo y extensiones.
+- **Prioridad 1**: Visitar `formaciones.weareshifta.com/master/dirección_arte` y `weareshifta.com/master/ia` — dos landings distintas = ¿dos productos? Confirmar si el posgrado IA está separado del Máster Creatividad Audiovisual
+- **Prioridad 2**: CEV "IA aplicada a Fotografía y Vídeo" — verificar detalles (duración, precio, FUNDAE, ¿curso o módulo?)
+- **Prioridad 3**: EPA T1 2026 — verificar miércoles 13 mayo (umbral mitad semana conservadora)
+- **Prioridad 4**: Cookie fresca Pablo Navarro — desbloquear D9 (bloqueo día 37)
 
 ---
 

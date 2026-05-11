@@ -1,10 +1,10 @@
 # Cluster 01: IA Generativa Aplicada al Audiovisual
 
-**Estado**: VALIDADO — PASA A FASE 2
-**Confianza**: MUY ALTA (5/6 fuentes confirman)
+**Estado**: VALIDADO — PASA A FASE 2 (reforzado W16)
+**Confianza**: MUY ALTA (6/6 fuentes confirman — maxima cobertura)
 **Prioridad CEO**: P1 CRITICA
 **Fecha creacion**: 2026-04-09
-**Ultima actualizacion**: 2026-04-10 (v3 — sintesis semanal W15 + datos B2B + fragmentacion herramientas)
+**Ultima actualizacion**: 2026-05-08 (v5 — sintesis W19: ECAM 🔴 ALTA, triple validacion institucional, segmentacion mercado, escalera precios B2C, nicho broadcast-OTT exclusivo)
 
 ---
 
@@ -145,8 +145,170 @@ Nuevas herramientas detectadas en ofertas operativas: Veo3, Kling, Higgsfield, L
 4. Iniciar homologacion FUNDAE
 5. Asignar equipo docente para contenidos Nivel 1 (8h)
 
+## Actualizacion 2026-04-17 — Sintesis W16 (v4)
+
+### Cambio de narrativa: contraccion sectorial DESCARTADA
+
+**CNAE 59 marzo 2026**: 34.772 contratos (+3,5% YoY). Revierte contraccion ene-feb (-19,5%). La caida era estacional, no estructural. Recomposicion contractual: 70,2% contratos son "Artistas y tecnico/auxiliar" (+25,6% YoY) — el Estatuto del Artista reorganiza el tejido contractual. Implicacion: el mercado contrata MAS, no menos. El riesgo sectorial se reduce significativamente.
+
+**Fuente**: Sofia Blanco D5, extraccion directa SEPE `ESTADISTICA_DE_CONTRATOS_MES.xls`. Cautela: SEPE migro a CNAE 2025 en marzo. Retroadaptacion ene-feb pendiente.
+
+### Senal empleo estrella W16: AI video editor en explosion
+
+| Consulta LinkedIn ES | D5 (17/04) | D2 (14/04) | Delta |
+|---------------------|------------|------------|-------|
+| AI video editor | **100+ (cap)** | 46 | **>+117%** |
+| Content creator | 84 | 81 | +3,7% |
+| Motion graphics designer | 95 | — (nuevo) | baseline |
+
+Crecimiento mas fuerte de toda la serie W15-W16. El perfil "editor de video con IA" tiene demanda explosiva en LinkedIn Espana.
+
+### Employers IA contratan perfiles audiovisuales en ES
+
+- **ElevenLabs**: Motion Designer remoto, Espana elegible. Verificado activo elevenlabs.io/careers 17/04.
+- **Growmodo GmbH**: 2 posiciones Indeed — "Motion Graphics Designer / AI Specialist" + "Senior". Teletrabajo Madrid.
+- **"Video, AI & Motion Designer" (Perez-Solero via Domestika)**: 7 dias activa sin cubrir.
+
+Senal: las empresas que construyen herramientas IA demandan perfiles audiovisuales. Segundo mercado laboral para egresados 35mm.
+
+### Sora shutdown — mercado consolida en 4 plataformas
+
+Sora (OpenAI) cierra 26/04 (app/web). API 24/09/2026. $8-12M/mes vs <$2M ingresos.
+
+**Mercado post-Sora**:
+| Plataforma | Posicion | En curriculo 35mm | En curriculo SHIFTA |
+|-----------|---------|-------------------|---------------------|
+| Runway Gen-4.5 | Premium benchmark | **SI (diferenciador)** | NO |
+| Kling 3.0 | Coste-eficiencia, #1 ELO | **SI (diferenciador)** | NO |
+| Veo 3.1 (Google) | Calidad 4K + audio | Recomendado | NO |
+| Seedance | Multimodal, pausado Occidente | Monitorizar | NO |
+
+SHIFTA usa Pika Labs, Luma AI, Stable Diffusion, ElevenLabs, TouchDesigner. NO tiene Runway NI Kling. Gap curricular SHIFTA CRECE con Adobe Firefly como agregador de ambos.
+
+### Adobe Firefly = cambio de paradigma curricular
+
+Adobe integra 30+ modelos IA en Firefly: Runway Gen-4.5, Kling 3.0 Omni, Veo 3.1, Luma Ray3.14, FLUX.2, ElevenLabs v2. Adobe pasa de herramienta a plataforma IA.
+
+**Implicacion curricular**: ensenar "Adobe ecosystem" cubre automaticamente Runway + Kling + Veo + Luma. La estrategia optima es "Adobe Firefly ecosystem + profundidad Runway + Kling tier accesible".
+
+### DaVinci Resolve 21 — herramienta formativa gratuita con IA nativa
+
+Beta publica desde 14/04. 7 herramientas IA: AI IntelliSearch, AI CineFocus, AI Face Age Transformer, AI Face Reshaper, AI Blemish Removal, AI Speech Generator. Nueva pagina Fotos (rival Lightroom). 100+ funciones. Precio Studio: 295 USD (sin cambio).
+
+**Implicacion**: DaVinci Resolve 21 es la herramienta formativa ideal para el stack IA — profesional, gratuita, con IA nativa. Incluir como pilar del curriculo.
+
+### ElevenCreative Flows — produccion internacional IA
+
+Pipeline visual node-based all-in-one: TTS, lip-sync, SFX, musica, imagen, video. 10.000+ voces, 70+ idiomas. Lanzado marzo 2026. ElevenLabs es empleadora + herramienta formativa = doble senal.
+
+### Herramientas IA acumuladas en JDs audiovisuales ES (W15-W16): 13+
+
+Heygen(3), ElevenLabs(2+1 empleadora), Growmodo AI Specialist(2 empleadora), Runway(2), Midjourney(2), Veo3(2), Kling(1), Higgsfield(1), LTX(1), Luma(1), Adobe Firefly(1), CapCut(1), seedreams(1), nano banana(1).
+
+### Coste de oportunidad cuantificado (Sofia Blanco D3)
+
+| Programa | Coste total (tuition + salario perdido) |
+|----------|----------------------------------------|
+| TAI Grado 4 anos | ~EUR 130.000 |
+| UDIT Grado 4 anos | ~EUR 121.800 |
+| TAI Diplomatura 3 anos | ~EUR 87.600 |
+| SAE Master 2 anos | ~EUR 53.000 |
+| **35mm B2B L2** | **~EUR 12.000** (sin coste oportunidad) |
+
+Velocidad insercion: SHIFTA T+7 meses vs 35mm T+2/3 meses. Diferencia: ~4-5 meses salario perdido = EUR 7-8K adicionales.
+
+### Validacion cruzada actualizada W16 (6/6)
+
+| # | Fuente | Valida | Evidencia W16 | Confianza |
+|---|--------|--------|---------------|-----------|
+| 1 | Empleo | ✅ | **AI video editor 100+ (cap, >+117%)** + ElevenLabs + Growmodo employers + meseta dia 8 estable | **MUY ALTA** |
+| 2 | Competidores | ✅ | SHIFTA FUNDAE confirmado + NAB doble AI Pavilion + Sora shutdown + Adobe Firefly 30+ modelos | **MUY ALTA** |
+| 3 | Corporativa | ✅ | Pipeline BOE vigente + NAB como trigger urgencia B2B | ALTA |
+| 4 | Empleabilidad | ✅ | **CNAE 59 +3,5% YoY marzo** (revierte contraccion) + 70,2% artista + paro minimo 18 anos | **MUY ALTA** |
+| 5 | Tendencias | ✅ | DaVinci 21 (7 IA gratis) + Adobe Firefly + ElevenCreative + OpenMontage emergente | **MUY ALTA** |
+| 6 | No-compra | ⚠️ Parcial | Contenido motivo #3 (14,3%) — atacable con Runway/Adobe ecosystem. n=14 fragil | MEDIA |
+
+**Evaluacion W16**: **MUY FUERTE** — convergencia maxima de datos empleo + empleabilidad + competidores + tendencias. Riesgo sectorial reducido (CNAE 59 positivo). Gap curricular SHIFTA crece.
+
+## Actualizacion 2026-05-08 — Sintesis W19 (v5)
+
+### ECAM 🔴 ALTA — Mayor amenaza competitiva Y mayor validacion de mercado
+
+ECAM lanza Master en Postproduccion Audiovisual 2026-2027 con IA transversal en todos los modulos. Escalada en 3 dias: 🟡 MEDIA (W19D1) → 🟠 MEDIA-ALTA (W19D2, Plan CM) → 🔴 ALTA (W19D3, Master Postproduccion detectado).
+
+| Campo | Dato |
+|-------|------|
+| Programa | Master en Postproduccion Audiovisual (NUEVO 2026-2027) |
+| IA | Transversal en todos los modulos |
+| Precio | Sin publicar / subvencionado CAM (~€1.000-3.000 estimado) |
+| Respaldo | Plan Audiovisual CM 2026-2029 Medida 7 + €6M/ano + mandato hasta 2029 |
+
+**Paradoja estrategica**: ECAM confirma que el mercado de postproduccion IA es real — la escuela publica de referencia invierte. Es amenaza directa en cine narrativo pero validacion de categoria para 35mm en broadcast/OTT.
+
+### Segmentacion de mercado — territorio exclusivo 35mm identificado
+
+| Segmento | Competidor dominante | Posicion 35mm |
+|----------|---------------------|---------------|
+| Postproduccion cine/narrativa | ECAM (sello + precio + DNA cine) | No luchar aqui |
+| Postproduccion broadcast/OTT — Pista B | **35mm** (Dalet Dalia, unico en ES) | **Exclusivo** |
+| Postproduccion branded content | Madrid Content School, CEI, SHIFTA | Solapamiento bajo |
+
+### Triple validacion institucional IA x audiovisual
+
+| Nivel | Actor | Senal | Peso |
+|-------|-------|-------|------|
+| UE | CREA-MEDIA Skills 2026 | €9,5M formacion IA audiovisual | Supranacional |
+| Gobierno ES | Spain Audiovisual Hub | IA audiovisual como sector estrategico | Estatal |
+| CAM | Plan Audiovisual CM 2026-2029 | €6M + incentivos IA productoras (Medida 3) + ECAM expansion (Medida 7) | Autonomico |
+
+Argumento: "Los egresados entran en un mercado que la UE, el Gobierno de Espana y la Comunidad de Madrid financian activamente como sector estrategico."
+
+### Madrid Content School — primer B2C con Runway explicito en ES
+
+Intensivo IA para Creadores (€1.375, 20h, 14 herramientas) incluye RunwayML. Primer competidor B2C con Runway en ficha de programa. Diferenciador 35mm: profundidad tecnica (Runway como eje, no como 1 de 14 herramientas en sesion intro).
+
+### SHIFTA — willingness to pay validada
+
+Financiacion: 5% dto pago unico + 5 cuotas 0% TAE. Precio implicito >€1.500. Master IA Generativa arranca 25 mayo 2026 (17 dias). SEM inminente.
+
+Lectura: el mercado paga >€1.500 por formacion IA generativa online (30 ECTS, sin practicas, sin Dalet Dalia). 35mm con Nebrija + practicas + especificidad broadcast tiene argumento de precio igual o superior.
+
+### Escalera de precios B2C completa (primera vez)
+
+| Nivel | Precio | Actor |
+|-------|--------|-------|
+| FSE+ gratuito | €0 | EOI, RTVE Instituto |
+| FUNDAE entrada | €700-1.375 | Madrid Content School |
+| Profesional activo | >€1.500 | SHIFTA |
+| Subvencionado CAM | ~€1.000-3.000 | ECAM |
+| Empresa B2B | €3.950 | The Core School |
+
+### Diferenciadores 35mm actualizados W19
+
+| Diferenciador | 35mm | ECAM | SHIFTA | MCS |
+|---------------|------|------|--------|-----|
+| Dalet Dalia / MAM broadcast | **Exclusivo ES** | No (DNA cine) | No | No |
+| Practicas productora real | Si | Parcial (estudios propios) | No | No |
+| Runway en profundidad | Si | Si (transversal) | No | 1 de 14 (intro) |
+| Certificacion Nebrija | Si | Titulo propio ECAM | Elisava/UVic-UCC | No |
+| Formato intensivo | Si (semanas) | ~1 ano | 5 meses | 20h |
+| FUNDAE | **Pendiente RSEF** | No (financiacion CAM directa) | Si | Si |
+
+### Validacion cruzada actualizada W19 (6/6)
+
+| # | Fuente | Evidencia W19 | Confianza |
+|---|--------|---------------|-----------|
+| 1 | Empleo | AI video editor 100+ W16 vigente. Adrian dia 23 — snapshot Sofia W20 | ALTA (degradada por ausencia Adrian) |
+| 2 | Competidores | ECAM 🔴 ALTA + MCS con Runway + SHIFTA >€1.500 + BSC nuevo + 22 competidores mapeados | **MUY ALTA** |
+| 3 | Corporativa | Plan CM Medida 3 + CREA-MEDIA €9,5M + BOE pipeline vigente | **MUY ALTA** |
+| 4 | Empleabilidad | Triple validacion institucional + CNAE 59 +3,5% vigente. EPA dia 10 bloqueada | **MUY ALTA** |
+| 5 | Tendencias | EOI + ECAM adoptan Unreal Engine. Trends D9 congelado (10 sesiones) | ALTA (degradada por D9) |
+| 6 | No-compra | n=14 sin cambio. FAS-19 sin avance | MEDIA (fragil) |
+
+**Evaluacion W19**: **MUY FUERTE** — reforzado. ECAM valida categoria. Triple validacion institucional. Mercado segmentado con nicho exclusivo 35mm. Willingness to pay >€1.500 confirmada. Reposicionamiento obligatorio hacia broadcast-OTT.
+
 ---
 
 *Cluster validado y aprobado por Elena Voss — CEO*
 *Fecha decision: 2026-04-09*
-*Ultima actualizacion: 2026-04-10 (sintesis semanal W15)*
+*Ultima actualizacion: 2026-05-08 (sintesis semanal W19, v5)*

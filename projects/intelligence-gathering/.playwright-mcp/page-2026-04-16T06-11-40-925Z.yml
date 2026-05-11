@@ -1,0 +1,889 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#gnav-header-end"
+  - main [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - dialog "Privacidad" [ref=e8]:
+          - generic [ref=e10]:
+            - generic [ref=e13]:
+              - text: Utilizamos cookies para personalizar el contenido y los anuncios, analizar el tráfico y mejorar nuestros servicios. También utilizamos cookies esenciales para informar a las empresas de los clics que se hacen en sus empleos. Usted reconoce que el uso que hace de Indeed está sujeto a nuestra la
+              - link "política de cookies" [ref=e14] [cursor=pointer]:
+                - /url: https://hrtechprivacy.com/es/brands/about-indeed
+              - text: ", la cual le animamos a revisar."
+            - generic [ref=e16]:
+              - button "Configuración de cookies, Abre el cuadro de diálogo del centro de preferencias." [ref=e17] [cursor=pointer]: Configuración de cookies
+              - button "Rechazar todas" [ref=e18] [cursor=pointer]
+              - button "Aceptar todas las cookies" [ref=e19] [cursor=pointer]
+        - navigation "Principal" [ref=e20]:
+          - generic [ref=e22]:
+            - generic [ref=e23]:
+              - generic [ref=e24]:
+                - button "Ir directamente al contenido principal" [ref=e25] [cursor=pointer]:
+                  - generic [ref=e26]: Ir directamente al contenido principal
+                - link "Página de inicio de Indeed" [ref=e27] [cursor=pointer]:
+                  - /url: /?from=gnav-jobsearch--indeedmobile
+                  - img [ref=e29]
+              - generic [ref=e31]:
+                - list [ref=e32]:
+                  - listitem [ref=e33]:
+                    - link "Iniciar sesión" [ref=e37] [cursor=pointer]:
+                      - /url: https://secure.indeed.com/auth?hl=es_ES&co=ES&continue=https%3A%2F%2Fes.indeed.com%2Fjobs%3Fq%3Dmotion%2Bdesigner%26l%3DEspa%25C3%25B1a&tmpl=desktop&from=gnav-util-jobsearch--indeedmobile&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fhl%3Des_ES%26co%3DES%26from%3Dgnav-jobsearch--indeedmobile&empContinue=https%3A%2F%2Faccount.indeed.com%2Fmyaccess
+                      - img [ref=e38]
+                      - text: Iniciar sesión
+                - button "Navegación principal" [ref=e43] [cursor=pointer]:
+                  - generic [ref=e44]:
+                    - img [ref=e45]
+                    - generic [ref=e47]:
+                      - text: "1"
+                      - generic [ref=e48]: new update
+            - generic [ref=e49]: Inicio del contenido principal
+      - generic [ref=e51]:
+        - search [ref=e56]:
+          - generic [ref=e59]:
+            - generic [ref=e61]:
+              - generic [ref=e62]:
+                - generic [ref=e63]: "Keyword : all jobs"
+                - generic [ref=e66]:
+                  - img [ref=e68]
+                  - 'combobox "search: Job title, keywords, or company" [ref=e70]': motion designer
+                  - button "Clear what input" [ref=e72] [cursor=pointer]:
+                    - img [ref=e73]
+              - separator [ref=e75]:
+                - generic [ref=e76]: "&nbsp;"
+              - generic [ref=e77]:
+                - generic [ref=e78]: Edit location input box label
+                - generic [ref=e81]:
+                  - img [ref=e83]
+                  - combobox "Editar ubicación" [ref=e85]: España
+                  - button "Clear location input" [ref=e87] [cursor=pointer]:
+                    - img [ref=e88]
+            - button "Buscar ofertas" [ref=e91] [cursor=pointer]
+          - list [ref=e94]:
+            - button "Filtro Remoto" [ref=e96] [cursor=pointer]: Remoto
+            - button "Filtro Fecha de publicación" [ref=e98] [cursor=pointer]: Fecha de publicación
+            - button "Filtro Salario" [ref=e100] [cursor=pointer]: Salario
+            - button "Filtro Idioma de la oferta" [ref=e102] [cursor=pointer]: Idioma de la oferta
+            - button "Filtro Tipo de empleo" [ref=e104] [cursor=pointer]: Tipo de empleo
+            - button "Filtro Sector" [ref=e106] [cursor=pointer]: Sector
+            - button "Filtro Nivel de educación" [ref=e108] [cursor=pointer]: Nivel de educación
+            - button "Filtro Turno y horario" [ref=e110] [cursor=pointer]: Turno y horario
+        - generic [ref=e116]:
+          - generic [ref=e117]:
+            - generic [ref=e118]:
+              - link "Sube tu CV" [ref=e119] [cursor=pointer]:
+                - /url: /promo/resume?from=serptop3&subfrom=resprmrtop&trk.origin=jobsearch&trk.variant=resprmrtop&trk.tk=1jmaela4dhabt812
+              - text: "- Deja que las empresas te encuentren"
+              - separator [ref=e120]:
+                - generic [ref=e121]: "&nbsp;"
+            - generic [ref=e122]:
+              - generic [ref=e123]:
+                - heading "Empleos de motion designer en España" [level=1] [ref=e124]
+                - button "icono de ayuda" [ref=e127] [cursor=pointer]:
+                  - img "icono de ayuda" [ref=e128]
+              - generic [ref=e132]:
+                - generic [ref=e133]: "Clasificar por:"
+                - generic [ref=e134]:
+                  - text: relevancia -
+                  - 'link "Clasificar por: fecha" [ref=e135] [cursor=pointer]':
+                    - /url: /jobs?q=motion%20designer&l=Espa%C3%B1a&sort=date
+                    - text: fecha
+            - list [ref=e139]:
+              - listitem
+              - listitem [ref=e140]:
+                - generic [ref=e142]:
+                  - generic:
+                    - generic [ref=e145]:
+                      - generic [ref=e146]:
+                        - heading "detalles completos de Motion Designer" [level=2] [ref=e147]:
+                          - button "detalles completos de Motion Designer" [pressed] [ref=e148] [cursor=pointer]: Motion Designer
+                        - generic [ref=e150]:
+                          - generic [ref=e153]: Solicitud rápida
+                          - generic [ref=e156]: Normalmente responde en 1 día
+                      - generic [ref=e157]:
+                        - generic [ref=e159]:
+                          - generic [ref=e161]: Treatwell
+                          - generic [ref=e162]: Trabajo híbrido in Madrid, Madrid provincia
+                        - list [ref=e164]:
+                          - listitem [ref=e165]:
+                            - generic [ref=e168]: Jornada completa
+                      - button "Save job Toggle" [ref=e172] [cursor=pointer]:
+                        - img [ref=e173]
+                    - generic [ref=e175]:
+                      - list [ref=e177]:
+                        - listitem [ref=e178]: A motion obsessive with 2+years of experience and a killer portfolio or showreel.
+                        - listitem [ref=e179]: "Making things move with meaning: You’ll bring our brand to life in motion…"
+                      - list [ref=e183]:
+                        - listitem [ref=e184]:
+                          - generic [ref=e185]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Treatwell" [ref=e186] [cursor=pointer]:
+                              - /url: /q-treatwell-empleos.html
+                            - text: "-"
+                            - link "trabajo en Madrid" [ref=e187] [cursor=pointer]:
+                              - /url: /l-madrid,-madrid-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Designer en Madrid, Madrid provincia" [ref=e188] [cursor=pointer]:
+                              - /url: /q-designer-l-madrid,-madrid-provincia-empleos.html
+                        - listitem [ref=e189]:
+                          - generic [ref=e190]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Motion Designer en Madrid, Madrid provincia" [ref=e191] [cursor=pointer]:
+                              - /url: /career/designer/salaries/Madrid--Madrid-provincia?campaignid=serp-more&fromjk=8543c13ade08f391&from=serp-more
+              - listitem [ref=e193]:
+                - generic [ref=e195]:
+                  - generic:
+                    - generic [ref=e198]:
+                      - generic [ref=e199]:
+                        - heading "detalles completos de Motion Designer (They/She/He)" [level=2] [ref=e200]:
+                          - button "detalles completos de Motion Designer (They/She/He)" [ref=e201] [cursor=pointer]: Motion Designer (They/She/He)
+                        - generic [ref=e206]: Solicitud rápida
+                      - generic [ref=e207]:
+                        - generic [ref=e209]:
+                          - generic [ref=e211]: Glovo
+                          - generic [ref=e212]: Trabajo híbrido in 08005 Barcelona, Barcelona provincia
+                        - list [ref=e214]:
+                          - listitem [ref=e215]:
+                            - generic [ref=e218]: Jornada completa
+                          - listitem [ref=e219]:
+                            - generic [ref=e222]: Abono gimnasio
+                          - listitem [ref=e223]:
+                            - generic [ref=e226]: Teletrabajo opcional
+                      - button "Save job Toggle" [ref=e230] [cursor=pointer]:
+                        - img [ref=e231]
+                    - generic [ref=e233]:
+                      - list [ref=e235]:
+                        - listitem [ref=e236]: Solid knowledge of animation & motion principles.
+                        - listitem [ref=e237]: Communicate motion designs and video rationale in a clear and fluent manner with stakeholders.
+                      - list [ref=e241]:
+                        - listitem [ref=e242]:
+                          - generic [ref=e243]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Glovo" [ref=e244] [cursor=pointer]:
+                              - /url: /q-glovo-empleos.html
+                            - text: "-"
+                            - link "trabajo en Barcelona" [ref=e245] [cursor=pointer]:
+                              - /url: /l-barcelona,-barcelona-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Designer en Barcelona, Barcelona provincia" [ref=e246] [cursor=pointer]:
+                              - /url: /q-designer-l-barcelona,-barcelona-provincia-empleos.html
+                        - listitem [ref=e247]:
+                          - generic [ref=e248]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Motion Designer (They/She/He) en Barcelona, Barcelona provincia" [ref=e249] [cursor=pointer]:
+                              - /url: /career/designer/salaries/Barcelona--Barcelona-provincia?campaignid=serp-more&fromjk=cf4fef56d42256fa&from=serp-more
+              - listitem [ref=e251]:
+                - generic [ref=e253]:
+                  - generic:
+                    - generic [ref=e256]:
+                      - generic [ref=e257]:
+                        - heading "detalles completos de Lead Motion Designer" [level=2] [ref=e258]:
+                          - button "detalles completos de Lead Motion Designer" [ref=e259] [cursor=pointer]: Lead Motion Designer
+                        - generic [ref=e264]: Solicitud rápida
+                      - generic [ref=e265]:
+                        - generic [ref=e267]:
+                          - generic [ref=e269]: Sourcing Unicorns
+                          - generic [ref=e270]: Teletrabajo in Barcelona, Barcelona provincia
+                        - list [ref=e272]:
+                          - listitem [ref=e273]:
+                            - generic [ref=e276]: Jornada completa
+                      - button "Save job Toggle" [ref=e280] [cursor=pointer]:
+                        - img [ref=e281]
+                    - generic [ref=e283]:
+                      - list [ref=e285]:
+                        - listitem [ref=e286]: Mastery of motion design principles, lighting, composition, and storytelling through imagery.
+                        - listitem [ref=e287]: Create best-in-class styleframes, motion explorations, and visual…
+                      - list [ref=e291]:
+                        - listitem [ref=e292]:
+                          - generic [ref=e293]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Sourcing Unicorns" [ref=e294] [cursor=pointer]:
+                              - /url: /q-sourcing-unicorns-empleos.html
+                            - text: "-"
+                            - link "trabajo en Barcelona" [ref=e295] [cursor=pointer]:
+                              - /url: /l-barcelona,-barcelona-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Lead Designer en Barcelona, Barcelona provincia" [ref=e296] [cursor=pointer]:
+                              - /url: /q-lead-designer-l-barcelona,-barcelona-provincia-empleos.html
+                        - listitem [ref=e297]:
+                          - generic [ref=e298]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Lead Motion Designer en Barcelona, Barcelona provincia" [ref=e299] [cursor=pointer]:
+                              - /url: /career/lead-designer/salaries/Barcelona--Barcelona-provincia?campaignid=serp-more&fromjk=25e5b3e577c8fff1&from=serp-more
+              - listitem [ref=e301]:
+                - generic [ref=e303]:
+                  - generic:
+                    - generic [ref=e306]:
+                      - generic [ref=e307]:
+                        - heading "detalles completos de Motion Graphics Designer / AI Specialist (Full-Time / On-Call)" [level=2] [ref=e308]:
+                          - button "detalles completos de Motion Graphics Designer / AI Specialist (Full-Time / On-Call)" [ref=e309] [cursor=pointer]: Motion Graphics Designer / AI Specialist (Full-Time / On-Call)
+                        - generic [ref=e314]: Solicitud rápida
+                      - generic [ref=e315]:
+                        - generic [ref=e317]:
+                          - generic [ref=e319]: Growmodo GmbH
+                          - generic [ref=e320]: Teletrabajo in Madrid, Madrid provincia
+                        - list [ref=e322]:
+                          - listitem [ref=e323]:
+                            - generic [ref=e326]: Jornada completa
+                          - listitem [ref=e327]:
+                            - generic [ref=e330]:
+                              - text: De lunes a viernes
+                              - generic [ref=e331]: "+1"
+                          - listitem [ref=e332]:
+                            - generic [ref=e335]: Teletrabajo opcional
+                      - button "Save job Toggle" [ref=e339] [cursor=pointer]:
+                        - img [ref=e340]
+                    - generic [ref=e342]:
+                      - list [ref=e344]:
+                        - listitem [ref=e345]: Strong understanding of design principles, timing, and storytelling through motion.
+                        - listitem [ref=e346]: Proven experience in motion graphics and animation, with a strong portfolio…
+                      - list [ref=e350]:
+                        - listitem [ref=e351]:
+                          - generic [ref=e352]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Growmodo GmbH" [ref=e353] [cursor=pointer]:
+                              - /url: /q-growmodo-gmbh-empleos.html
+                            - text: "-"
+                            - link "trabajo en Madrid" [ref=e354] [cursor=pointer]:
+                              - /url: /l-madrid,-madrid-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Graphic Designer en Madrid, Madrid provincia" [ref=e355] [cursor=pointer]:
+                              - /url: /q-graphic-designer-l-madrid,-madrid-provincia-empleos.html
+                        - listitem [ref=e356]:
+                          - generic [ref=e357]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Motion Graphics Designer / AI Specialist (Full-Time / On-Call) en Madrid, Madrid provincia" [ref=e358] [cursor=pointer]:
+                              - /url: /career/graphic-designer/salaries/Madrid--Madrid-provincia?campaignid=serp-more&fromjk=a24de73f92262835&from=serp-more
+              - listitem [ref=e360]:
+                - generic [ref=e362]:
+                  - generic:
+                    - generic [ref=e365]:
+                      - heading "detalles completos de Marketing Artist / Motion Designer" [level=2] [ref=e367]:
+                        - button "detalles completos de Marketing Artist / Motion Designer" [ref=e368] [cursor=pointer]: Marketing Artist / Motion Designer
+                      - generic [ref=e369]:
+                        - generic [ref=e371]:
+                          - generic [ref=e373]: Codeway
+                          - generic [ref=e374]: Trabajo híbrido in Barcelona, Barcelona provincia
+                        - list [ref=e376]:
+                          - listitem [ref=e377]:
+                            - generic [ref=e380]: Jornada completa
+                      - button "Save job Toggle" [ref=e384] [cursor=pointer]:
+                        - img [ref=e385]
+                    - generic [ref=e387]:
+                      - list [ref=e389]:
+                        - listitem [ref=e390]: Produce high-impact static and motion graphics for user acquisition and marketing campaigns.
+                        - listitem [ref=e391]: 2+ years of experience (or equivalent via a strong portfolio) in…
+                      - list [ref=e395]:
+                        - listitem [ref=e396]:
+                          - generic [ref=e397]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Codeway" [ref=e398] [cursor=pointer]:
+                              - /url: /q-codeway-empleos.html
+                            - text: "-"
+                            - link "trabajo en Barcelona" [ref=e399] [cursor=pointer]:
+                              - /url: /l-barcelona,-barcelona-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Artist en Barcelona, Barcelona provincia" [ref=e400] [cursor=pointer]:
+                              - /url: /q-artist-l-barcelona,-barcelona-provincia-empleos.html
+                        - listitem [ref=e401]:
+                          - generic [ref=e402]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Marketing Artist / Motion Designer en Barcelona, Barcelona provincia" [ref=e403] [cursor=pointer]:
+                              - /url: /career/artist/salaries/Barcelona--Barcelona-provincia?campaignid=serp-more&fromjk=b7c896f4e2f326b7&from=serp-more
+              - listitem
+              - listitem [ref=e405]:
+                - generic [ref=e407]:
+                  - generic:
+                    - generic [ref=e410]:
+                      - heading "detalles completos de Motion Designer" [level=2] [ref=e412]:
+                        - button "detalles completos de Motion Designer" [ref=e413] [cursor=pointer]: Motion Designer
+                      - generic [ref=e416]:
+                        - generic [ref=e418]: Tripledot Studios
+                        - generic [ref=e419]: Barcelona, Barcelona provincia
+                      - button "Save job Toggle" [ref=e423] [cursor=pointer]:
+                        - img [ref=e424]
+                    - generic [ref=e426]:
+                      - list [ref=e428]:
+                        - listitem [ref=e429]: You will combine traditional motion graphics expertise with emerging AI tools to create impactful marketing creatives.
+                        - listitem [ref=e430]: Required Skills, Knowledge and Expertise.
+                      - list [ref=e434]:
+                        - listitem [ref=e435]:
+                          - generic [ref=e436]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Tripledot Studios" [ref=e437] [cursor=pointer]:
+                              - /url: /q-tripledot-studios-empleos.html
+                            - text: "-"
+                            - link "trabajo en Barcelona" [ref=e438] [cursor=pointer]:
+                              - /url: /l-barcelona,-barcelona-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Designer en Barcelona, Barcelona provincia" [ref=e439] [cursor=pointer]:
+                              - /url: /q-designer-l-barcelona,-barcelona-provincia-empleos.html
+                        - listitem [ref=e440]:
+                          - generic [ref=e441]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Motion Designer en Barcelona, Barcelona provincia" [ref=e442] [cursor=pointer]:
+                              - /url: /career/designer/salaries/Barcelona--Barcelona-provincia?campaignid=serp-more&fromjk=045057d1e453f615&from=serp-more
+              - listitem [ref=e444]:
+                - generic [ref=e446]:
+                  - generic:
+                    - generic [ref=e449]:
+                      - heading "detalles completos de Motion Designer" [level=2] [ref=e451]:
+                        - button "detalles completos de Motion Designer" [ref=e452] [cursor=pointer]: Motion Designer
+                      - generic [ref=e453]:
+                        - generic [ref=e455]:
+                          - generic [ref=e457]: Camping TV
+                          - generic [ref=e458]: 08005 Barcelona, Barcelona provincia
+                        - list [ref=e460]:
+                          - listitem [ref=e461]:
+                            - generic [ref=e464]: Jornada completa
+                      - button "Save job Toggle" [ref=e468] [cursor=pointer]:
+                        - img [ref=e469]
+                    - generic [ref=e471]:
+                      - list [ref=e473]:
+                        - listitem [ref=e474]: Passion for transforming ideas into visually striking motion graphics.
+                        - listitem [ref=e475]: Demonstrate a meticulous eye for detail to ensure top-notch motion design outputs.
+                      - list [ref=e479]:
+                        - listitem [ref=e480]:
+                          - generic [ref=e481]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Camping TV" [ref=e482] [cursor=pointer]:
+                              - /url: /q-camping-tv-empleos.html
+                            - text: "-"
+                            - link "trabajo en Barcelona" [ref=e483] [cursor=pointer]:
+                              - /url: /l-barcelona,-barcelona-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Designer en Barcelona, Barcelona provincia" [ref=e484] [cursor=pointer]:
+                              - /url: /q-designer-l-barcelona,-barcelona-provincia-empleos.html
+                        - listitem [ref=e485]:
+                          - generic [ref=e486]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Motion Designer en Barcelona, Barcelona provincia" [ref=e487] [cursor=pointer]:
+                              - /url: /career/designer/salaries/08005-Barcelona--Barcelona-provincia?campaignid=serp-more&fromjk=076078d8b6742e28&from=serp-more
+              - listitem [ref=e489]:
+                - generic [ref=e491]:
+                  - generic:
+                    - generic [ref=e494]:
+                      - generic [ref=e495]:
+                        - heading "detalles completos de Senior Motion Graphics Designer / AI Specialist (Full-Time / On-Call)" [level=2] [ref=e496]:
+                          - button "detalles completos de Senior Motion Graphics Designer / AI Specialist (Full-Time / On-Call)" [ref=e497] [cursor=pointer]: Senior Motion Graphics Designer / AI Specialist (Full-Time / On-Call)
+                        - generic [ref=e502]: Solicitud rápida
+                      - generic [ref=e503]:
+                        - generic [ref=e505]:
+                          - generic [ref=e507]: Growmodo GmbH
+                          - generic [ref=e508]: Teletrabajo in Madrid, Madrid provincia
+                        - list [ref=e510]:
+                          - listitem [ref=e511]:
+                            - generic [ref=e514]: Jornada completa
+                          - listitem [ref=e515]:
+                            - generic [ref=e518]:
+                              - text: De lunes a viernes
+                              - generic [ref=e519]: "+1"
+                          - listitem [ref=e520]:
+                            - generic [ref=e523]: Teletrabajo opcional
+                      - button "Save job Toggle" [ref=e527] [cursor=pointer]:
+                        - img [ref=e528]
+                    - generic [ref=e530]:
+                      - list [ref=e532]:
+                        - listitem [ref=e533]: Strong understanding of design principles, timing, and storytelling through motion.
+                        - listitem [ref=e534]: Proven experience in motion graphics and animation, with a strong portfolio…
+                      - list [ref=e538]:
+                        - listitem [ref=e539]:
+                          - generic [ref=e540]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Growmodo GmbH" [ref=e541] [cursor=pointer]:
+                              - /url: /q-growmodo-gmbh-empleos.html
+                            - text: "-"
+                            - link "trabajo en Madrid" [ref=e542] [cursor=pointer]:
+                              - /url: /l-madrid,-madrid-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Senior Graphic Designer en Madrid, Madrid provincia" [ref=e543] [cursor=pointer]:
+                              - /url: /q-senior-graphic-designer-l-madrid,-madrid-provincia-empleos.html
+                        - listitem [ref=e544]:
+                          - generic [ref=e545]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Senior Motion Graphics Designer / AI Specialist (Full-Time / On-Call) en Madrid, Madrid provincia" [ref=e546] [cursor=pointer]:
+                              - /url: /career/senior-graphic-designer/salaries/Madrid--Madrid-provincia?campaignid=serp-more&fromjk=5bd965dfba704780&from=serp-more
+              - listitem [ref=e548]:
+                - generic [ref=e550]:
+                  - generic:
+                    - generic [ref=e553]:
+                      - heading "detalles completos de Motion Designer (They/She/He)" [level=2] [ref=e555]:
+                        - button "detalles completos de Motion Designer (They/She/He)" [ref=e556] [cursor=pointer]: Motion Designer (They/She/He)
+                      - generic [ref=e557]:
+                        - generic [ref=e559]:
+                          - generic [ref=e561]: Glovo
+                          - generic [ref=e562]: 08005 Barcelona, Barcelona provincia
+                        - list [ref=e564]:
+                          - listitem [ref=e565]:
+                            - generic [ref=e568]: Jornada completa
+                          - listitem [ref=e569]:
+                            - generic [ref=e572]: Abono gimnasio
+                          - listitem [ref=e573]:
+                            - generic [ref=e576]: Teletrabajo opcional
+                      - button "Save job Toggle" [ref=e580] [cursor=pointer]:
+                        - img [ref=e581]
+                    - generic [ref=e583]:
+                      - list [ref=e585]:
+                        - listitem [ref=e586]: Solid knowledge of animation & motion principles.
+                        - listitem [ref=e587]: Communicate motion designs and video rationale in a clear and fluent manner with stakeholders.
+                      - list [ref=e591]:
+                        - listitem [ref=e592]:
+                          - generic [ref=e593]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Glovo" [ref=e594] [cursor=pointer]:
+                              - /url: /q-glovo-empleos.html
+                            - text: "-"
+                            - link "trabajo en Barcelona" [ref=e595] [cursor=pointer]:
+                              - /url: /l-barcelona,-barcelona-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Designer en Barcelona, Barcelona provincia" [ref=e596] [cursor=pointer]:
+                              - /url: /q-designer-l-barcelona,-barcelona-provincia-empleos.html
+                        - listitem [ref=e597]:
+                          - generic [ref=e598]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Motion Designer (They/She/He) en Barcelona, Barcelona provincia" [ref=e599] [cursor=pointer]:
+                              - /url: /career/designer/salaries/Barcelona--Barcelona-provincia?campaignid=serp-more&fromjk=6f3c86d7c5a46ec7&from=serp-more
+                        - listitem [ref=e600]:
+                          - generic [ref=e601]:
+                            - text: Ver
+                            - link "preguntas frecuentes sobre Glovo" [ref=e602] [cursor=pointer]:
+                              - /url: /cmp/Glovo/faq
+              - listitem [ref=e604]:
+                - generic [ref=e606]:
+                  - generic:
+                    - generic [ref=e609]:
+                      - generic [ref=e610]:
+                        - heading "detalles completos de Senior 3D Motion Designer" [level=2] [ref=e611]:
+                          - button "detalles completos de Senior 3D Motion Designer" [ref=e612] [cursor=pointer]: Senior 3D Motion Designer
+                        - generic [ref=e614]:
+                          - generic [ref=e617]: Solicitud rápida
+                          - generic [ref=e620]: Normalmente responde en 1 día
+                      - generic [ref=e621]:
+                        - generic [ref=e623]:
+                          - generic [ref=e625]: Dragons Group
+                          - generic [ref=e626]: Barcelona, Barcelona provincia
+                        - list [ref=e628]:
+                          - listitem [ref=e629]:
+                            - generic [ref=e632]: Jornada completa
+                      - button "Save job Toggle" [ref=e636] [cursor=pointer]:
+                        - img [ref=e637]
+                    - generic [ref=e639]:
+                      - list [ref=e641]:
+                        - listitem [ref=e642]: Integrate 3D elements with motion design using After Effects.
+                        - listitem [ref=e643]: Proficiency in After Effects for compositing and motion integration.
+                      - list [ref=e647]:
+                        - listitem [ref=e648]:
+                          - generic [ref=e649]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Dragons Group" [ref=e650] [cursor=pointer]:
+                              - /url: /q-dragons-group-empleos.html
+                            - text: "-"
+                            - link "trabajo en Barcelona" [ref=e651] [cursor=pointer]:
+                              - /url: /l-barcelona,-barcelona-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Senior 3d Designer en Barcelona, Barcelona provincia" [ref=e652] [cursor=pointer]:
+                              - /url: /q-senior-3d-designer-l-barcelona,-barcelona-provincia-empleos.html
+                        - listitem [ref=e653]:
+                          - generic [ref=e654]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Senior 3D Motion Designer en Barcelona, Barcelona provincia" [ref=e655] [cursor=pointer]:
+                              - /url: /career/senior-3d-designer/salaries/Barcelona--Barcelona-provincia?campaignid=serp-more&fromjk=7d970d2e853ba5e2&from=serp-more
+              - listitem
+              - listitem [ref=e657]:
+                - generic [ref=e659]:
+                  - generic:
+                    - generic [ref=e662]:
+                      - heading "detalles completos de Motion Graphics Designer" [level=2] [ref=e664]:
+                        - button "detalles completos de Motion Graphics Designer" [ref=e665] [cursor=pointer]: Motion Graphics Designer
+                      - generic [ref=e666]:
+                        - generic [ref=e668]:
+                          - generic [ref=e670]: Adsmurai
+                          - generic [ref=e671]: Trabajo híbrido in 28010 Madrid, Madrid provincia
+                        - list [ref=e673]:
+                          - listitem [ref=e674]:
+                            - generic [ref=e677]: Contrato indefinido
+                          - listitem [ref=e678]:
+                            - generic [ref=e681]: Jornada intensiva los viernes
+                          - listitem [ref=e682]:
+                            - generic [ref=e685]: Día libre por cumpleaños
+                          - listitem [ref=e686]:
+                            - generic [ref=e689]: Plan de retribución flexible
+                      - button "Save job Toggle" [ref=e693] [cursor=pointer]:
+                        - img [ref=e694]
+                    - generic [ref=e696]:
+                      - list [ref=e698]:
+                        - listitem [ref=e699]: Incorporar gráficos en movimiento (motion graphics), animaciones y efectos visuales que refuercen el mensaje de las campañas y que sean efectivos en las…
+                      - list [ref=e703]:
+                        - listitem [ref=e704]:
+                          - generic [ref=e705]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Adsmurai" [ref=e706] [cursor=pointer]:
+                              - /url: /q-adsmurai-empleos.html
+                            - text: "-"
+                            - link "trabajo en Madrid" [ref=e707] [cursor=pointer]:
+                              - /url: /l-madrid,-madrid-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Diseñador/a multimedia en Madrid, Madrid provincia" [ref=e708] [cursor=pointer]:
+                              - /url: /q-dise%c3%b1ador-a-multimedia-l-madrid,-madrid-provincia-empleos.html
+                        - listitem [ref=e709]:
+                          - generic [ref=e710]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Motion Graphics Designer en Madrid, Madrid provincia" [ref=e711] [cursor=pointer]:
+                              - /url: /career/dise%C3%B1ador-multimedia/salaries/28010-Madrid--Madrid-provincia?campaignid=serp-more&fromjk=3d17d27960989c4c&from=serp-more
+                        - listitem [ref=e712]:
+                          - generic [ref=e713]:
+                            - text: Ver
+                            - link "preguntas frecuentes sobre Adsmurai" [ref=e714] [cursor=pointer]:
+                              - /url: /cmp/Adsmurai/faq
+              - listitem [ref=e716]:
+                - generic [ref=e718]:
+                  - generic:
+                    - generic [ref=e721]:
+                      - heading "detalles completos de Digital Multimedia Designer (Graphic & Motion)" [level=2] [ref=e723]:
+                        - button "detalles completos de Digital Multimedia Designer (Graphic & Motion)" [ref=e724] [cursor=pointer]: Digital Multimedia Designer (Graphic & Motion)
+                      - generic [ref=e727]:
+                        - generic [ref=e729]: BizAway
+                        - generic [ref=e730]: Barcelona, Barcelona provincia
+                      - button "Save job Toggle" [ref=e734] [cursor=pointer]:
+                        - img [ref=e735]
+                    - generic [ref=e737]:
+                      - list [ref=e739]:
+                        - listitem [ref=e740]: Add motion graphics/animations to enhance marketing and sales content.
+                        - listitem [ref=e741]: Digital Multimedia Designer to help shape how our brand looks and feels across every…
+                      - list [ref=e745]:
+                        - listitem [ref=e746]:
+                          - generic [ref=e747]:
+                            - text: "Ver todo:"
+                            - link "Empleos de BizAway" [ref=e748] [cursor=pointer]:
+                              - /url: /q-bizaway-empleos.html
+                            - text: "-"
+                            - link "trabajo en Barcelona" [ref=e749] [cursor=pointer]:
+                              - /url: /l-barcelona,-barcelona-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Multimedia Designer en Barcelona, Barcelona provincia" [ref=e750] [cursor=pointer]:
+                              - /url: /q-multimedia-designer-l-barcelona,-barcelona-provincia-empleos.html
+                        - listitem [ref=e751]:
+                          - generic [ref=e752]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Digital Multimedia Designer (Graphic & Motion)" [ref=e753] [cursor=pointer]:
+                              - /url: /career/salaries/Multimedia%20Designer/Barcelona,%20Barcelona%20provincia?campaignid=serp-more&fromjk=48571efa1371da6f&from=serp-more
+              - listitem
+              - listitem [ref=e755]:
+                - generic [ref=e757]:
+                  - generic:
+                    - generic [ref=e760]:
+                      - generic [ref=e761]:
+                        - heading "detalles completos de Junior Creative Designer" [level=2] [ref=e762]:
+                          - button "detalles completos de Junior Creative Designer" [ref=e763] [cursor=pointer]: Junior Creative Designer
+                        - generic [ref=e768]: Solicitud rápida
+                      - generic [ref=e769]:
+                        - generic [ref=e771]:
+                          - generic [ref=e773]: Deblock
+                          - generic [ref=e774]: Teletrabajo in España
+                        - list [ref=e776]:
+                          - listitem [ref=e777]:
+                            - generic [ref=e780]: Jornada completa
+                          - listitem [ref=e781]:
+                            - generic [ref=e784]: Seguro dental
+                      - button "Save job Toggle" [ref=e788] [cursor=pointer]:
+                        - img [ref=e789]
+                    - generic [ref=e791]:
+                      - list [ref=e793]:
+                        - listitem [ref=e794]: "Performance Marketing Creatives: Design static and motion assets for paid acquisition campaigns across Meta, Google, TikTok, and other channels."
+                      - list [ref=e798]:
+                        - listitem [ref=e799]:
+                          - generic [ref=e800]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Deblock" [ref=e801] [cursor=pointer]:
+                              - /url: /q-deblock-empleos.html
+                            - text: "-"
+                            - link "trabajo en España" [ref=e802] [cursor=pointer]:
+                              - /url: /l-espa%c3%b1a-empleos.html
+                            - text: "-"
+                            - link "Empleos de Junior Designer en España" [ref=e803] [cursor=pointer]:
+                              - /url: /q-junior-designer-l-espa%c3%b1a-empleos.html
+                        - listitem [ref=e804]:
+                          - generic [ref=e805]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Junior Creative Designer en España" [ref=e806] [cursor=pointer]:
+                              - /url: /career/junior-designer/salaries?campaignid=serp-more&fromjk=c702f2dd81fd8d2b&from=serp-more
+              - listitem [ref=e808]:
+                - generic [ref=e810]:
+                  - generic:
+                    - generic [ref=e813]:
+                      - generic [ref=e814]:
+                        - heading "detalles completos de Lead Brand Designer" [level=2] [ref=e815]:
+                          - button "detalles completos de Lead Brand Designer" [ref=e816] [cursor=pointer]: Lead Brand Designer
+                        - generic [ref=e818]:
+                          - generic [ref=e821]: Solicitud rápida
+                          - generic [ref=e824]: Normalmente responde en 1 día
+                      - generic [ref=e825]:
+                        - generic [ref=e827]:
+                          - generic [ref=e829]: Neo Group
+                          - generic [ref=e830]: Teletrabajo in España
+                        - list [ref=e832]:
+                          - listitem [ref=e833]:
+                            - generic [ref=e836]: Jornada completa
+                      - button "Save job Toggle" [ref=e840] [cursor=pointer]:
+                        - img [ref=e841]
+                    - generic [ref=e843]:
+                      - list [ref=e845]:
+                        - listitem [ref=e846]: Experience leading or mentoring designers.
+                        - listitem [ref=e847]: Experience working with motion or 3D teams.
+                        - listitem [ref=e848]: Support and mentor designers in brand-related tasks.
+                      - list [ref=e852]:
+                        - listitem [ref=e853]:
+                          - generic [ref=e854]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Neo Group" [ref=e855] [cursor=pointer]:
+                              - /url: /q-neo-group-empleos.html
+                            - text: "-"
+                            - link "trabajo en España" [ref=e856] [cursor=pointer]:
+                              - /url: /l-espa%c3%b1a-empleos.html
+                            - text: "-"
+                            - link "Empleos de Lead Designer en España" [ref=e857] [cursor=pointer]:
+                              - /url: /q-lead-designer-l-espa%c3%b1a-empleos.html
+                        - listitem [ref=e858]:
+                          - generic [ref=e859]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Lead Brand Designer en España" [ref=e860] [cursor=pointer]:
+                              - /url: /career/lead-designer/salaries?campaignid=serp-more&fromjk=7b0ff5b9cb9dd103&from=serp-more
+              - listitem [ref=e862]:
+                - generic [ref=e864]:
+                  - generic:
+                    - generic [ref=e867]:
+                      - generic [ref=e868]:
+                        - heading "detalles completos de Creative Strategist - Launch With Us" [level=2] [ref=e869]:
+                          - button "detalles completos de Creative Strategist - Launch With Us" [ref=e870] [cursor=pointer]: Creative Strategist - Launch With Us
+                        - generic [ref=e872]:
+                          - generic [ref=e875]: Solicitud rápida
+                          - generic [ref=e878]: Normalmente responde en 2 días
+                      - generic [ref=e879]:
+                        - generic [ref=e881]:
+                          - generic [ref=e883]: Soar With Us
+                          - generic [ref=e884]: Teletrabajo in España
+                        - list [ref=e886]:
+                          - listitem [ref=e887]:
+                            - generic [ref=e890]: Jornada completa
+                          - listitem [ref=e891]:
+                            - generic [ref=e894]: Plan de pensiones
+                      - button "Save job Toggle" [ref=e898] [cursor=pointer]:
+                        - img [ref=e899]
+                    - generic [ref=e901]:
+                      - list [ref=e903]:
+                        - listitem [ref=e904]: Build and deliver detailed and actionable creative briefs for UGC creators, editors, and designers.
+                        - listitem [ref=e905]: Demonstrated experience leading editors and designers by…
+                      - list [ref=e909]:
+                        - listitem [ref=e910]:
+                          - generic [ref=e911]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Soar With Us" [ref=e912] [cursor=pointer]:
+                              - /url: /q-soar-with-us-empleos.html
+                            - text: "-"
+                            - link "trabajo en España" [ref=e913] [cursor=pointer]:
+                              - /url: /l-espa%c3%b1a-empleos.html
+                        - listitem [ref=e914]:
+                          - generic [ref=e915]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Creative Strategist - Launch With Us" [ref=e916] [cursor=pointer]:
+                              - /url: /career/salaries/Creative%20Strategist%20-%20Launch%20With%20Us/Espa%C3%B1a?campaignid=serp-more&fromjk=8ac416bf226afbf1&from=serp-more
+              - listitem
+            - navigation "pagination" [ref=e918]:
+              - list [ref=e919]:
+                - listitem [ref=e920]:
+                  - link "1" [ref=e921] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e922]:
+                  - link "2" [ref=e923] [cursor=pointer]:
+                    - /url: /jobs?q=motion+designer&l=Espa%C3%B1a&radius=25&start=10
+                - listitem [ref=e924]:
+                  - link "3" [ref=e925] [cursor=pointer]:
+                    - /url: /jobs?q=motion+designer&l=Espa%C3%B1a&radius=25&start=20
+                - listitem [ref=e926]:
+                  - link "4" [ref=e927] [cursor=pointer]:
+                    - /url: /jobs?q=motion+designer&l=Espa%C3%B1a&radius=25&start=30
+                - listitem [ref=e928]:
+                  - link "5" [ref=e929] [cursor=pointer]:
+                    - /url: /jobs?q=motion+designer&l=Espa%C3%B1a&radius=25&start=40
+                - listitem [ref=e930]:
+                  - link "Página siguiente" [ref=e931] [cursor=pointer]:
+                    - /url: /jobs?q=motion+designer&l=Espa%C3%B1a&radius=25&start=10
+                    - img [ref=e932]
+            - generic [ref=e938]:
+              - generic [ref=e939]:
+                - generic [ref=e941]:
+                  - text: Quiero recibir las últimas ofertas de
+                  - strong [ref=e942]: motion designer
+                  - text: en
+                  - strong [ref=e943]: España
+                  - text: por email
+                - generic [ref=e944] [cursor=pointer]:
+                  - switch [ref=e945]
+                  - img [ref=e948]
+              - paragraph [ref=e951]:
+                - text: Al crear una alerta de empleo, aceptas nuestras
+                - link "Terms (se abre en una pestaña nueva)" [ref=e952] [cursor=pointer]:
+                  - /url: /legal?hl=es
+                  - text: Condiciones
+                  - img [ref=e953]
+                - text: . Puedes cambiar tu decisión en cualquier momento cancelando la suscripción o como se indica en nuestras condiciones.
+          - generic "Job Post Details" [ref=e957]:
+            - button "Return to Search Result" [ref=e958]
+            - heading "Job Post Details" [level=2] [ref=e959]
+            - generic [ref=e963]:
+              - generic [ref=e965]:
+                - generic [ref=e966]:
+                  - heading "Motion Designer - job post" [level=2] [ref=e968]:
+                    - generic [ref=e969]:
+                      - text: Motion Designer
+                      - generic [ref=e970]: "- job post"
+                  - generic [ref=e974]:
+                    - generic [ref=e975]:
+                      - link "Treatwell (se abre en una pestaña nueva)" [ref=e978] [cursor=pointer]:
+                        - /url: https://es.indeed.com/cmp/Treatwell?campaignid=mobvjcmp&from=mobviewjob&tk=1jmaela9ghabt806&fromjk=8543c13ade08f391
+                        - text: Treatwell
+                        - img [ref=e979]
+                      - generic [ref=e981]:
+                        - generic [ref=e982]: · 3.7
+                        - generic [ref=e983]: 3.7 de 5 estrellas
+                        - img [ref=e984]
+                    - generic [ref=e987]: Madrid, Madrid provincia•Trabajo híbrido
+                - generic [ref=e989]:
+                  - button "Solicitar ahora opens in a new tab" [ref=e997] [cursor=pointer]:
+                    - generic [ref=e999]: Solicitar ahora
+                  - button "Guardar empleo" [ref=e1003] [cursor=pointer]:
+                    - img "icono-guardar" [ref=e1004]
+                  - button "Compartir empleo" [ref=e1006] [cursor=pointer]
+              - generic [ref=e1009]:
+                - generic [ref=e1010]:
+                  - generic [ref=e1016]:
+                    - generic [ref=e1017]:
+                      - heading "Detalles del empleo" [level=2] [ref=e1019]
+                      - group "Tipo de empleo" [ref=e1021]:
+                        - img [ref=e1022]
+                        - generic [ref=e1025]:
+                          - heading "Tipo de empleo" [level=3] [ref=e1026]
+                          - list [ref=e1028]:
+                            - listitem [ref=e1029]:
+                              - generic [ref=e1034]: Jornada completa
+                    - separator [ref=e1035]:
+                      - generic [ref=e1036]: "&nbsp;"
+                  - generic [ref=e1037]:
+                    - heading "Ubicación" [level=2] [ref=e1038]
+                    - generic [ref=e1039]:
+                      - img [ref=e1040]
+                      - generic [ref=e1044]: Madrid, Madrid provincia•Trabajo híbrido
+                    - separator [ref=e1045]:
+                      - generic [ref=e1046]: "&nbsp;"
+                  - heading "Descripción completa del empleo" [level=2] [ref=e1048]
+                  - generic [ref=e1049]:
+                    - generic [ref=e1050]:
+                      - paragraph [ref=e1051]: At Treatwell, we believe self-care should be effortless – and we’re on a mission to make booking beauty and wellness treatments as easy as ordering your morning flat white.
+                      - paragraph [ref=e1052]: Now, we’re building something new. A next-gen in-house design and creative studio. A fresh take on the Treatwell brand. 15 markets. New channels. Big campaigns. Bold experiments. And we’re looking for a Motion Designer who gets it. Someone who knows that motion isn’t just a nice-to-have; it’s the glue, the spark, the emotional hook.
+                      - paragraph [ref=e1053]: You’ll be the one who makes our ideas move – literally. From snappy Reels to slick product explainers, dynamic ads to kinetic typography that gives you chills – this is a role for someone who eats keyframes for breakfast and dreams in storyboards.
+                      - text: "You will be responsible for:"
+                      - list [ref=e1054]:
+                        - listitem [ref=e1055]: "Making things move with meaning: You’ll bring our brand to life in motion across paid, organic, web, app, and product. Emotional? Yep. Effective? Always."
+                        - listitem [ref=e1056]: "Creating from scratch: From concept to final render, you’re hands-on: storyboarding, animating, editing, sound designing; whatever it takes to make it sing."
+                        - listitem [ref=e1057]: "Designing for scroll: You get what cuts through on TikTok, Insta, YouTube Shorts and beyond. You’ll make content that stops thumbs and starts conversations."
+                        - listitem [ref=e1058]: "Pairing beauty with performance: Whether it’s an ad with serious CTR or a brand film with staying power, you’re dialled into what works and why."
+                        - listitem [ref=e1059]: "Designing for 15 markets: You’ll help us build a motion system that scales, flexes, and feels local without losing its edge."
+                        - listitem [ref=e1060]: "Moving fast and experimenting often: You love a rapid turnaround and a tight feedback loop. Test. Learn. Repeat. Let’s go."
+                      - text: "About you:"
+                      - list [ref=e1061]:
+                        - listitem [ref=e1062]: A motion obsessive with 2+years of experience and a killer portfolio or showreel.
+                        - listitem [ref=e1063]: Strong storytelling instincts, design taste, and a love for rhythm, timing, and flow.
+                        - listitem [ref=e1064]: After Effects pro - bonus if you dabble in 3D, editing, or sound design.
+                        - listitem [ref=e1065]: Experience designing for performance channels, social-first content, web, and product.
+                        - listitem [ref=e1066]: An eye for trends, a nose for nuance, and a gut feel for what moves people.
+                        - listitem [ref=e1067]: A collaborator who’s confident presenting ideas, taking feedback, and elevating the work around you.
+                        - listitem [ref=e1068]: Someone who thrives in a fast-paced, high-growth environment and wants to help shape a brand from the inside out.
+                        - listitem [ref=e1069]: "Showreel or portfolio required: we want to see motion that moves people. From slick transitions to bold typography, lo-fi edits to polished animations, show us how you bring stories to life through pace, energy, and design. Whether it’s paid ads, social content, or brand films, we’re looking for work that’s smart, scroll-stopping, and made for motion."
+                      - text: About Treatwell
+                      - paragraph [ref=e1070]: Hi, we’re Treatwell. Nice to meet you.
+                      - paragraph [ref=e1071]: We’re a team of 700 passionate and brilliantly talented people across Europe. We’re the industry’s smartest salon management software, all connected to Europe’s leading bookings platform, working with over 50,000 salon partners across 13 countries, processing over 8 million bookings every month. And….breathe.
+                      - paragraph [ref=e1072]: But we’re not done yet. We’re on an exciting journey to digitally revolutionise the hair and beauty community.
+                      - paragraph [ref=e1073]: If this excites you, we might just have the role for you.
+                      - text: "We’ll treat you with:"
+                      - list [ref=e1074]:
+                        - listitem [ref=e1075]: 28-days holiday, plus bank holidays
+                        - listitem [ref=e1076]: Monthly €40 Treatwell vouchers so you can treat yourself too
+                        - listitem [ref=e1077]: Mental health support through our partnership with Plumm
+                        - listitem [ref=e1078]: Growth funds for you to develop and grow with your team
+                      - text: Equal Ops
+                      - paragraph [ref=e1079]: We are committed to fostering a diverse, inclusive, and equitable workplace and are proud to be an equal opportunity employer. All qualified applicants will receive consideration without regard to their condition.
+                    - paragraph
+                  - separator [ref=e1080]:
+                    - generic [ref=e1081]: "&nbsp;"
+                - button "Denunciar empleo" [ref=e1088] [cursor=pointer]: Denunciar empleo
+            - button "Return to Search Result" [ref=e1090]
+      - contentinfo [ref=e1095]:
+        - generic [ref=e1096]:
+          - list [ref=e1097]:
+            - listitem [ref=e1098]:
+              - link "Orientación laboral" [ref=e1100] [cursor=pointer]:
+                - /url: https://es.indeed.com/orientacion-laboral
+            - listitem [ref=e1101]:
+              - link "Ver empleos" [ref=e1103] [cursor=pointer]:
+                - /url: https://es.indeed.com/browsejobs
+            - listitem [ref=e1104]:
+              - link "Ver empresas" [ref=e1106] [cursor=pointer]:
+                - /url: https://es.indeed.com/companies/browse-companies
+            - listitem [ref=e1107]:
+              - link "Sueldos" [ref=e1109] [cursor=pointer]:
+                - /url: https://es.indeed.com/career/salaries
+            - listitem [ref=e1110]:
+              - link "Eventos Indeed" [ref=e1112] [cursor=pointer]:
+                - /url: https://www.indeedevents.com/es-es/
+            - listitem [ref=e1113]:
+              - link "Países" [ref=e1115] [cursor=pointer]:
+                - /url: https://es.indeed.com/worldwide
+            - listitem [ref=e1116]:
+              - link "Acerca de" [ref=e1118] [cursor=pointer]:
+                - /url: https://es.indeed.com/about
+            - listitem [ref=e1119]:
+              - link "Ayuda" [ref=e1121] [cursor=pointer]:
+                - /url: https://es.indeed.com/help
+          - list [ref=e1122]:
+            - listitem [ref=e1123]: © 2026 Indeed
+            - listitem [ref=e1124]:
+              - link "Accesibilidad en Indeed" [ref=e1126] [cursor=pointer]:
+                - /url: https://es.indeed.com/esg/accessibility?hl=es
+            - listitem [ref=e1127]:
+              - link "Centro de privacidad y Opciones de publicidad" [ref=e1129] [cursor=pointer]:
+                - /url: https://hrtechprivacy.com/es/brands/indeed#privacypolicy
+            - listitem [ref=e1130]:
+              - link "Denuncias conforme a la Ley de Servicios Digitales" [ref=e1132] [cursor=pointer]:
+                - /url: https://dsa-reporting-and-appeals.indeed.com/
+            - listitem [ref=e1133]:
+              - link "Página de seguridad en línea" [ref=e1135] [cursor=pointer]:
+                - /url: https://es.indeed.com/legal/online-safety-page
+            - listitem [ref=e1136]:
+              - link "Cookies" [ref=e1138] [cursor=pointer]:
+                - /url: https://es.indeed.com/legal/cookies?hl=es&showOneTrustModal=true
+            - listitem [ref=e1139]:
+              - link "Condiciones" [ref=e1141] [cursor=pointer]:
+                - /url: https://es.indeed.com/legal?hl=es
+          - list:
+            - listitem
+  - generic [ref=e1142]:
+    - generic [ref=e1143]:
+      - img [ref=e1144]
+      - generic [ref=e1149]: Iniciar sesión en Indeed con Google
+      - button "Close" [ref=e1150] [cursor=pointer]:
+        - img "Close" [ref=e1151]
+    - button "Continuar con Google" [ref=e1153] [cursor=pointer]:
+      - generic [ref=e1155]:
+        - img [ref=e1157]
+        - generic [ref=e1163]: Continuar con Google
+    - generic [ref=e1164]:
+      - text: Al hacer clic en "Continuar con Google", aceptas las
+      - link "Condiciones" [ref=e1165] [cursor=pointer]:
+        - /url: https://es.indeed.com/legal?hl=es_ES#tos
+      - text: ", la"
+      - link "política de cookies" [ref=e1166] [cursor=pointer]:
+        - /url: https://es.indeed.com/legal?hl=es_ES#cookies
+      - text: y la
+      - link "política de privacidad" [ref=e1167] [cursor=pointer]:
+        - /url: https://es.indeed.com/legal?hl=es_ES#privacy
+      - text: de Indeed. Se creará una cuenta de Indeed para ti con la misma dirección de email de tu cuenta de Google si todavía no tienes una cuenta de Indeed asociada a ese email. Indeed te enviará emails de marketing a menos que no estés de acuerdo y puedes cancelar la suscripción en cualquier momento.

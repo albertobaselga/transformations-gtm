@@ -1,0 +1,649 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - dialog "Gestionar consentimiento":
+      - generic [ref=e2]:
+        - generic [ref=e3]: Gestionar consentimiento
+        - text: 
+      - generic [ref=e6]: Para ofrecer las mejores experiencias, utilizamos tecnologías como las cookies para almacenar y/o acceder a la información del dispositivo. El consentimiento de estas tecnologías nos permitirá procesar datos como el comportamiento de navegación o las identificaciones únicas en este sitio. No consentir o retirar el consentimiento, puede afectar negativamente a ciertas características y funciones.
+      - generic [ref=e8]:
+        - button "Aceptar" [ref=e9] [cursor=pointer]
+        - button "Rechazar" [ref=e10] [cursor=pointer]
+        - button "Ver preferencias" [ref=e11] [cursor=pointer]
+      - list [ref=e13]:
+        - listitem [ref=e14]:
+          - link "Política de cookies" [ref=e15] [cursor=pointer]:
+            - /url: https://www.escuelaces.com/politica-de-cookies-ue/
+        - listitem [ref=e16]:
+          - link "Declaración de privacidad" [ref=e17] [cursor=pointer]:
+            - /url: https://www.escuelaces.com/aviso-legal-privacidad
+        - listitem
+  - link "Saltar al contenido":
+    - /url: "#content"
+  - banner:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - list:
+                  - listitem:
+                    - link "Internacional":
+                      - /url: /programa-erasmus/
+                      - generic:
+                        - img
+                      - generic: Internacional
+                  - listitem:
+                    - link "informacion@escuelaces.com":
+                      - /url: mailto:%20informacion@escuelaces.com
+                      - generic:
+                        - img
+                      - generic: informacion@escuelaces.com
+                  - listitem:
+                    - link "(+34) 91 725 00 00":
+                      - /url: tel:+34917250000
+                      - generic:
+                        - img
+                      - generic: (+34) 91 725 00 00
+            - generic:
+              - generic:
+                - list:
+                  - listitem:
+                    - link "Instagram":
+                      - /url: https://www.instagram.com/ces_escuela/
+                      - generic: Instagram
+                      - img
+                  - listitem:
+                    - link "Tiktok":
+                      - /url: https://www.tiktok.com/@escuelaces?_t=ZG-8svTT5fPysq&_r=1
+                      - generic: Tiktok
+                      - img
+                  - listitem:
+                    - link "Facebook":
+                      - /url: https://www.facebook.com/EscuelaCES/?fref=ts
+                      - generic: Facebook
+                      - img
+                  - listitem:
+                    - link "Youtube":
+                      - /url: https://www.youtube.com/user/escuelaces
+                      - generic: Youtube
+                      - img
+                  - listitem:
+                    - link "Linkedin":
+                      - /url: https://www.linkedin.com/school/ces--escuela-superior-de-imagen-y-sonido/about/
+                      - generic: Linkedin
+                      - img
+                  - listitem:
+                    - link "X-twitter":
+                      - /url: https://twitter.com/escuelaCES
+                      - generic: X-twitter
+                      - img
+    - banner:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - link "logo horizontal1":
+                  - /url: https://www.escuelaces.com
+                  - img "logo horizontal1"
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - button "Alternar menú":
+                  - img
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - heading "Convocatoria 2026-2027 | Aprovéchate de las nuevas BECAS MEC" [level=2]:
+                      - link "Convocatoria 2026-2027 | Aprovéchate de las nuevas BECAS MEC":
+                        - /url: https://www.becaseducacion.gob.es/becas-y-ayudas.html
+                        - text: Convocatoria 2026-2027 | Aprovéchate de las nuevas
+                        - generic: BECAS MEC
+        - generic:
+          - iframe [ref=e18]:
+            - generic "YouTube Video Player" [ref=f71e3]
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Estudia una formación audiovisual de calidad
+                - generic:
+                  - generic:
+                    - heading "ces" [level=2]
+                - generic:
+                  - generic:
+                    - heading "escuela superior de imagen, sonido y tecnología" [level=1]:
+                      - text: escuela superior de imagen,
+                      - text: sonido y tecnología
+                - generic:
+                  - generic:
+                    - heading "Títulos Oficiales de Formación Profesional Presenciales | Títulos Oficiales Superiores en Diseño | Título Máster | Títulos Propios" [level=2]
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "logo clase zero"
+                - generic:
+                  - generic:
+                    - paragraph: Olvida el típico Open Day. En CLASE ZERO vienes a probar, crear y vivir la experiencia como un alumno más… ¿Cuándo? el día 22/05/26 a las 17:00h ¡Es tu primera toma de contacto real con la industria!
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "Quiero apuntarme":
+                        - /url: https://estudia.escuelaces.com/ces-clase-zero-2026
+                        - generic:
+                          - generic: Quiero apuntarme
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img "logo hackathon"
+                - generic:
+                  - generic:
+                    - paragraph:
+                      - text: ¿Te gusta la tecnología? Esto te interesa… Tus primeros pasos en el mundo de la
+                      - strong: programación con Python
+                      - text: ", participa y compite para"
+                      - strong: ¡ganar increíbles premios! 1
+                      - text: 2/06/26 | 17:30h
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "Quiero apuntarme":
+                        - /url: https://estudia.escuelaces.com/ces-hackathon-2026
+                        - generic:
+                          - generic: Quiero apuntarme
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - paragraph: creemos en tu talento
+                  - generic:
+                    - generic:
+                      - heading "CONSTRUYE TU FUTURO" [level=3]
+                  - generic:
+                    - generic:
+                      - paragraph: Somos la primera Escuela Oficial homologada para impartir títulos de formación profesional pertenecientes al mundo audiovisual. Desde nuestros inicios hace más de 40 años, siempre hemos apostado por ofrecer la máxima calidad en formación, contando con los mejores profesionales y trabajando codo a codo con las empresas más prestigiosas del sector.
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - heading "Nuestros cursos" [level=2]
+                          - generic:
+                            - generic:
+                              - paragraph:
+                                - text: Tenemos la mayor oferta formativa en titulaciones del sector audiovisual. Imagen, sonido, producción, realización, caracterización…
+                                - text: Encuentra tu formación ideal y comienza a cumplir tu sueño.
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - heading "Títulos Oficiales presenciales" [level=3]
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - heading "TÍTULOS OFICIALES PRESENCIALES" [level=3]
+                                      - generic: Ciclos Formativos de Grado Superior y Grado Medio de Formación Profesional.
+                                      - link "MÁS INFORMACIÓN":
+                                        - /url: /titulos-oficiales-presenciales/
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - heading "Títulos de postgrado" [level=3]
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - heading "TÍTULOS DE POSTGRADO" [level=3]
+                                      - generic: Másters y Cursos Experto y de Especialización
+                                      - link "MÁS INFORMACIÓN":
+                                        - /url: /titulos-posgrado/
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - heading "Títulos Propios" [level=3]
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - heading "TÍTULOS PROPIOS" [level=3]
+                                      - generic: Sonido, radio, doblaje, cámara, Djs, postproducción, fotografía...
+                                      - link "MÁS INFORMACIÓN":
+                                        - /url: /titulos-propios/
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - heading "CES DESIGN" [level=3]
+                                - generic:
+                                  - generic:
+                                    - generic:
+                                      - heading "CES DESIGN" [level=3]
+                                      - generic: CENTRO SUPERIOR DE DISEÑO Y ARTE DIGITAL
+                                      - link "MÁS INFORMACIÓN":
+                                        - /url: https://cesdesign.es/?__hstc=48593273.4770638e2cdbee9dd73cec02b317de69.1778253055693.1778253055693.1778253055693.1&__hssc=48593273.1.1778253055693&__hsfp=bd255932a78f381173e3672eb7ce71c4
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "prácticas" [level=3]
+                  - generic:
+                    - generic:
+                      - heading "Convenios con empresas" [level=2]
+                  - generic:
+                    - generic:
+                      - paragraph:
+                        - text: En nuestro Departamento de
+                        - strong: Orientación Laboral
+                        - text: te ayudamos a superar las primeras dificultades en el comienzo de tu vida laboral y tratamos de encontrar las mejores prácticas para tu perfil profesional y personal.
+                  - generic:
+                    - generic:
+                      - generic:
+                        - region "Diapositivas":
+                          - generic:
+                            - group "10 / 15":
+                              - img "europapress-logo"
+                            - group "11 / 15":
+                              - img "logo-cope"
+                            - group "12 / 15":
+                              - img "logo-canal-plus"
+                            - group "13 / 15":
+                              - img "cadena-ser"
+                            - group "14 / 15":
+                              - img "kiss tv"
+                            - group "15 / 15":
+                              - img "logo flywire"
+                            - group "1 / 15":
+                              - img "telecinco_circular_500_-1_bda1"
+                            - group "2 / 15":
+                              - img "super-sport-logo"
+                            - group "3 / 15":
+                              - img "logog"
+                            - group "4 / 15":
+                              - img "realmadridtv"
+                            - group "5 / 15":
+                              - img "movistar-logo-telefnica"
+                            - group "6 / 15":
+                              - img "La_Sexta"
+                            - group "7 / 15":
+                              - img "EsRadio_logo.svg"
+                            - group "8 / 15":
+                              - img "Intereconomía"
+                            - group "9 / 15":
+                              - img "cuatro"
+                            - group "10 / 15":
+                              - img "europapress-logo"
+                            - group "11 / 15":
+                              - img "logo-cope"
+                            - group "12 / 15":
+                              - img "logo-canal-plus"
+                            - group "13 / 15":
+                              - img "cadena-ser"
+                            - group "14 / 15":
+                              - img "kiss tv"
+                            - group "15 / 15":
+                              - img "logo flywire"
+                            - group "1 / 15":
+                              - img "telecinco_circular_500_-1_bda1"
+                            - group "2 / 15":
+                              - img "super-sport-logo"
+                            - group "3 / 15":
+                              - img "logog"
+                            - group "4 / 15":
+                              - img "realmadridtv"
+                            - group "5 / 15":
+                              - img "movistar-logo-telefnica"
+                            - group "6 / 15":
+                              - img "La_Sexta"
+                          - button "Previous slide":
+                            - img
+                          - button "Next slide":
+                            - img
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - heading "opiniones" [level=3]
+                          - generic:
+                            - generic:
+                              - heading "lo que dicen de nosotros..." [level=4]:
+                                - text: lo que dicen
+                                - text: de nosotros...
+                          - generic:
+                            - generic:
+                              - paragraph: Para nosotros no hay nada más importante que la satisfacción de nuestros alumnos.
+                              - paragraph: Además, también contamos con reconocidos profesionales que nos visitan a menudo
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - region "Diapositivas":
+                                  - generic:
+                                    - group "3 / 3":
+                                      - generic:
+                                        - generic:
+                                          - generic: La vida es un camino de baldosas amarillas en el cual tienes que ir conociendo, despidiendote de gente, dando besos, hipotecando sueños, ir superando escalas, supuerando cosas hasta llegar a la ciudad Esmeralda, que es donde los sueños se hacen realidad.
+                                          - generic:
+                                            - generic: Jesús Mª Hernández Gil - Chus
+                                            - generic: Creador y líder del grupo Mago de Oz
+                                        - generic:
+                                          - generic:
+                                            - img "Jesús Mª Hernández Gil - Chus"
+                                    - group "1 / 3":
+                                      - generic:
+                                        - generic:
+                                          - generic: Yo creo que el periodísta siempre tiene que tener un sentido crítico y responsable de la profesión
+                                          - generic:
+                                            - generic: Jesús Cintora
+                                            - generic: Periodista y presentador de TV
+                                        - generic:
+                                          - generic:
+                                            - img "Jesús Cintora"
+                                    - group "2 / 3":
+                                      - generic:
+                                        - generic:
+                                          - generic: Yo creo que nadie tiene un buen negocio si no tiene un buen equipo.
+                                          - generic:
+                                            - generic: Pepe Rodriguez
+                                            - generic: Cocinero y copropietario del restaurante el Bohio y el Carmen de Montesión. Asesor culinario para Sodexo Prestige y Jurado de @MasterChef_es
+                                        - generic:
+                                          - generic:
+                                            - img "Pepe Rodriguez"
+                                    - group "3 / 3":
+                                      - generic:
+                                        - generic:
+                                          - generic: La vida es un camino de baldosas amarillas en el cual tienes que ir conociendo, despidiendote de gente, dando besos, hipotecando sueños, ir superando escalas, supuerando cosas hasta llegar a la ciudad Esmeralda, que es donde los sueños se hacen realidad.
+                                          - generic:
+                                            - generic: Jesús Mª Hernández Gil - Chus
+                                            - generic: Creador y líder del grupo Mago de Oz
+                                        - generic:
+                                          - generic:
+                                            - img "Jesús Mª Hernández Gil - Chus"
+                                    - group "1 / 3":
+                                      - generic:
+                                        - generic:
+                                          - generic: Yo creo que el periodísta siempre tiene que tener un sentido crítico y responsable de la profesión
+                                          - generic:
+                                            - generic: Jesús Cintora
+                                            - generic: Periodista y presentador de TV
+                                        - generic:
+                                          - generic:
+                                            - img "Jesús Cintora"
+                                  - button "Previous slide":
+                                    - img
+                                  - button "Next slide":
+                                    - img
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - heading "Ven a vernos" [level=5]
+                          - generic:
+                            - generic:
+                              - heading "Unas instalaciones espectaculares" [level=2]
+                          - generic:
+                            - generic:
+                              - paragraph:
+                                - strong: Más de 20.000 m²
+                                - text: entre los que se incluyen
+                                - strong: instalaciones deportivas, cafetería, parking y zonas comunes al aire libre
+                                - text: .
+                              - paragraph:
+                                - text: En el edificio principal, con
+                                - strong: más de 8.000 m²
+                                - text: divididos en 4 plantas encontrarás una auténtica ciudad dedicada al mundo audiovisual.
+                          - generic:
+                            - generic:
+                              - generic:
+                                - link "Descúbrelas":
+                                  - /url: /instalaciones
+                                  - generic:
+                                    - generic: Descúbrelas
+  - generic:
+    - generic:
+      - contentinfo:
+        - contentinfo:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - list:
+                      - listitem:
+                        - link "Instagram":
+                          - /url: https://www.instagram.com/ces_escuela/
+                          - generic: Instagram
+                          - img
+                      - listitem:
+                        - link "Tiktok":
+                          - /url: https://www.tiktok.com/@escuelaces?_t=ZG-8svTT5fPysq&_r=1
+                          - generic: Tiktok
+                          - img
+                      - listitem:
+                        - link "Facebook":
+                          - /url: https://www.facebook.com/EscuelaCES/?fref=ts
+                          - generic: Facebook
+                          - img
+                      - listitem:
+                        - link "Youtube":
+                          - /url: https://www.youtube.com/user/escuelaces
+                          - generic: Youtube
+                          - img
+                      - listitem:
+                        - link "Linkedin":
+                          - /url: https://www.linkedin.com/school/ces--escuela-superior-de-imagen-y-sonido/about/
+                          - generic: Linkedin
+                          - img
+                      - listitem:
+                        - link "X-twitter":
+                          - /url: https://twitter.com/escuelaCES
+                          - generic: X-twitter
+                          - img
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - paragraph: Más sobre la escuela
+                        - generic:
+                          - generic:
+                            - list:
+                              - listitem:
+                                - link "Campus":
+                                  - /url: https://classroom.google.com/a/escuelaces.net
+                                  - generic: Campus
+                              - listitem:
+                                - link "Solicitar información":
+                                  - /url: /solicitar-informacion/
+                                  - generic: Solicitar información
+                              - listitem:
+                                - link "Quiénes somos":
+                                  - /url: /quienes-somos/#medioambiente
+                                  - generic: Quiénes somos
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - paragraph: Legal
+                        - generic:
+                          - generic:
+                            - list:
+                              - listitem:
+                                - link "Política de privacidad":
+                                  - /url: /aviso-legal-privacidad
+                                  - generic: Política de privacidad
+                              - listitem:
+                                - link "Política de cookies":
+                                  - /url: https://www.escuelaces.com/politica-de-cookies-ue/
+                                  - generic: Política de cookies
+                              - listitem:
+                                - link "Política de seguridad":
+                                  - /url: https://www.escuelaces.com/politica-de-seguridad/
+                                  - generic: Política de seguridad
+                              - listitem:
+                                - link "Canal ético":
+                                  - /url: https://app.sesametime.com/complaint/ceso?sesameRegion=EU1
+                                  - generic: Canal ético
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - paragraph: Contacto
+                        - generic:
+                          - generic:
+                            - list:
+                              - listitem:
+                                - 'link "Teléfono: (+34) 91 725 00 00"':
+                                  - /url: tel:+34917250000
+                                  - generic: "Teléfono: (+34) 91 725 00 00"
+                              - listitem:
+                                - 'link "Email: informacion@escuelaces.com"':
+                                  - /url: mailto:%20informacion@escuelaces.com
+                                  - generic: "Email: informacion@escuelaces.com"
+                              - listitem:
+                                - generic: "Dirección: Calle Mar Adriático, 11"
+                              - listitem:
+                                - generic: 28033 Madrid
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - region "Carrusel de imágenes":
+                      - generic:
+                        - group:
+                          - figure:
+                            - img
+                        - group:
+                          - figure:
+                            - img
+                        - group:
+                          - figure:
+                            - img
+                        - group:
+                          - figure:
+                            - img
+                        - group:
+                          - figure:
+                            - img
+                        - group:
+                          - figure:
+                            - img
+                        - group "1 / 10":
+                          - figure:
+                            - img "iso_2"
+                        - group "2 / 10":
+                          - figure:
+                            - img "logo erasmus+ blanco"
+                        - group "3 / 10":
+                          - figure:
+                            - img "oxford.png"
+                        - group "4 / 10":
+                          - figure:
+                            - img "cambridge.png"
+                        - group "5 / 10":
+                          - figure:
+                            - img "microsoft.png"
+                        - group "6 / 10":
+                          - figure:
+                            - img "PayPal-logo.png"
+                        - group:
+                          - figure:
+                            - img
+                        - group:
+                          - figure:
+                            - img
+                        - group:
+                          - figure:
+                            - img
+                        - group:
+                          - figure:
+                            - img
+                        - group:
+                          - figure:
+                            - img
+                        - group:
+                          - figure:
+                            - img
+                        - group:
+                          - figure:
+                            - img
+                        - group:
+                          - figure:
+                            - img
+                        - group:
+                          - figure:
+                            - img
+                        - group:
+                          - figure:
+                            - img
+                      - button "Diapositiva anterior":
+                        - img
+                      - button "Diapositiva siguiente":
+                        - img
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: © Escuela CES - Todos los derechos reservados.
+    - button "Volver arriba": 
+  - generic: tablet

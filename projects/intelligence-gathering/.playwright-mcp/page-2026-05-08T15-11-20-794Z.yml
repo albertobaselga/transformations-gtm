@@ -1,0 +1,287 @@
+- generic [ref=e2]:
+  - generic [ref=e4]:
+    - link "SIGLAS Instituto Nacional de Estadística" [ref=e6] [cursor=pointer]:
+      - /url: /
+      - img "SIGLAS Instituto Nacional de Estadística" [ref=e7]
+    - generic [ref=e8]:
+      - list [ref=e11]:
+        - listitem [ref=e12]:
+          - button "English" [ref=e13] [cursor=pointer]
+      - generic [ref=e15]:
+        - searchbox "Escriba el texto para buscar" [ref=e16]
+        - button "Acción de buscar en el sitio web" [ref=e17] [cursor=pointer]: 
+  - generic [ref=e19]:
+    - link "Mostrar/ocultar el menú principal de navegación" [ref=e21] [cursor=pointer]:
+      - /url: /indiceweb.htm
+      - generic: 
+    - list [ref=e22]:
+      - listitem [ref=e23]:
+        - button "Censo Electoral" [ref=e24] [cursor=pointer]
+      - listitem [ref=e25]:
+        - button "Sede electrónica" [ref=e26] [cursor=pointer]
+      - listitem [ref=e27]:
+        - button "Compartir" [ref=e28] [cursor=pointer]:
+          - text: Compartir
+          - generic [ref=e29]: 
+        - text:      
+  - generic [ref=e30]:
+    - generic [ref=e31]:
+      - img "Sección Prensa" [ref=e32]
+      - list [ref=e34]:
+        - listitem [ref=e35]:
+          - link "Sección prensa" [ref=e36] [cursor=pointer]:
+            - /url: /prensa/seccion_prensa.htm
+        - listitem [ref=e37]:
+          - text: /
+          - heading "Encuesta de Población Activa (EPA)" [level=1] [ref=e38]
+    - table "maquetacion" [ref=e40]:
+      - rowgroup [ref=e45]:
+        - 'row "Inicio Gabinete prensa Dosier de prensa Toda la información estadística del INE Notas de prensa Calendario semanal de notas de prensa Calendario completo Cifras INE: Boletines monográficos de noticias estadísticas Boletín informativo masINE.Noticias del Instituto Nacional de EstadísticaRevista digital Siguenos en X RSS-XML. Acceda a las noticias del INE Noticias Tabla maquetación" [ref=e46]':
+          - 'cell "Inicio Gabinete prensa Dosier de prensa Toda la información estadística del INE Notas de prensa Calendario semanal de notas de prensa Calendario completo Cifras INE: Boletines monográficos de noticias estadísticas Boletín informativo masINE.Noticias del Instituto Nacional de EstadísticaRevista digital Siguenos en X RSS-XML. Acceda a las noticias del INE Noticias" [ref=e47]':
+            - list [ref=e49]:
+              - listitem [ref=e50]:
+                - link "Inicio" [ref=e51] [cursor=pointer]:
+                  - /url: seccion_prensa.htm
+              - listitem [ref=e52]:
+                - link "Gabinete prensa" [ref=e53] [cursor=pointer]:
+                  - /url: seccion_prensa.htm#resumen
+              - listitem [ref=e54]:
+                - link "Dosier de prensa" [ref=e55] [cursor=pointer]:
+                  - /url: dosier_prensa.pdf
+              - listitem [ref=e56]:
+                - link "Toda la información estadística del INE" [ref=e57] [cursor=pointer]:
+                  - /url: /inebmenu/indice.htm
+              - listitem [ref=e58]:
+                - link "Notas de prensa" [ref=e59] [cursor=pointer]:
+                  - /url: /dyngs/Prensa/notasPrensa.htm
+              - listitem [ref=e60]:
+                - link "Calendario semanal de notas de prensa" [ref=e61] [cursor=pointer]:
+                  - /url: /daco/daco41/calen_semanal.pdf
+              - listitem [ref=e62]:
+                - link "Calendario completo" [ref=e63] [cursor=pointer]:
+                  - /url: /dynt3/Calendario/calenHTML.htm
+              - listitem [ref=e64]:
+                - 'link "Cifras INE: Boletines monográficos de noticias estadísticas Boletín informativo" [ref=e65] [cursor=pointer]':
+                  - /url: /dyngs/PUB/es/index.htm?cid=1443
+                  - 'img "Cifras INE: Boletines monográficos de noticias estadísticas" [ref=e66]'
+                  - text: Boletín
+                  - text: informativo
+              - listitem [ref=e67]:
+                - link "masINE.Noticias del Instituto Nacional de EstadísticaRevista digital" [ref=e68] [cursor=pointer]:
+                  - /url: /ss/Satellite?L=0&pagename=masINE%2FmasLayout&cid=1254736090719
+                  - img "masINE.Noticias del Instituto Nacional de Estadística" [ref=e69]
+                  - text: Revista digital
+              - listitem [ref=e70]:
+                - link "Siguenos en X" [ref=e71] [cursor=pointer]:
+                  - /url: https://twitter.com/es_ine
+              - listitem [ref=e72]:
+                - link "RSS-XML. Acceda a las noticias del INE Noticias" [ref=e73] [cursor=pointer]:
+                  - /url: /dyngs/INE/es/index.htm?cid=1303
+                  - img "RSS-XML. Acceda a las noticias del INE" [ref=e74]
+                  - text: Noticias
+          - cell [ref=e76]
+          - cell "Tabla maquetación" [ref=e77]:
+            - table "Tabla maquetación" [ref=e78]:
+              - rowgroup [ref=e79]:
+                - row "Tabla resumen con datos más relevantes" [ref=e80]:
+                  - cell "Tabla resumen con datos más relevantes" [ref=e81]:
+                    - table "Tabla resumen con datos más relevantes" [ref=e82]:
+                      - rowgroup [ref=e93]:
+                        - row "Ultimo dato Nº ocupados Nº parados Tasa de actividad (en %) Tasa de paro (en %)" [ref=e94]:
+                          - columnheader "Ultimo dato" [ref=e95]
+                          - columnheader "Nº ocupados" [ref=e96]
+                          - columnheader "Nº parados" [ref=e97]
+                          - columnheader "Tasa de actividad (en %)" [ref=e98]
+                          - columnheader "Tasa de paro (en %)" [ref=e99]
+                        - row "Primer trimestre 2026 22.293.000 Gráfica serie 2.708.600 Gráfica serie 58,86 Gráfica serie 10,83 Gráfica serie" [ref=e100]:
+                          - cell "Primer trimestre 2026" [ref=e101]
+                          - cell "22.293.000" [ref=e102]
+                          - cell "Gráfica serie" [ref=e103]:
+                            - link "Gráfica serie" [ref=e104] [cursor=pointer]:
+                              - /url: javascript:Mensaje('https://www.ine.es/consul/serie.do?s=EPA87&nocab=1'+escape('#FFF8DC'),0,780,475)
+                              - img "Gráfica serie" [ref=e105]
+                          - cell "2.708.600" [ref=e106]
+                          - cell "Gráfica serie" [ref=e107]:
+                            - link "Gráfica serie" [ref=e108] [cursor=pointer]:
+                              - /url: javascript:Mensaje('https://www.ine.es/consul/serie.do?s=EPA86&nocab=1'+escape('#FFF8DC'),0,780,475)
+                              - img "Gráfica serie" [ref=e109]
+                          - cell "58,86" [ref=e110]
+                          - cell "Gráfica serie" [ref=e111]:
+                            - link "Gráfica serie" [ref=e112] [cursor=pointer]:
+                              - /url: javascript:Mensaje('https://www.ine.es/consul/serie.do?s=EPA836&nocab=1'+escape('#FFF8DC'),0,780,475)
+                              - img "Gráfica serie" [ref=e113]
+                          - cell "10,83" [ref=e114]
+                          - cell "Gráfica serie" [ref=e115]:
+                            - link "Gráfica serie" [ref=e116] [cursor=pointer]:
+                              - /url: javascript:Mensaje('https://www.ine.es/consul/serie.do?s=EPA815&nocab=1'+escape('#FFF8DC'),0,780,475)
+                              - img "Gráfica serie" [ref=e117]
+                - row [ref=e118]:
+                  - cell [ref=e119]:
+                    - list [ref=e120]:
+                      - listitem [ref=e121]:
+                        - link "Nota prensa" [ref=e122] [cursor=pointer]:
+                          - /url: /dyngs/Prensa/EPA1T26.htm
+                      - listitem [ref=e123]:
+                        - 'link "EPA: principales series" [ref=e124] [cursor=pointer]':
+                          - /url: /prensa/epa_tabla.htm
+                      - listitem [ref=e125]:
+                        - link "Metodología" [ref=e126] [cursor=pointer]:
+                          - /url: https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=metodologia&idp=1254735976595
+                      - listitem [ref=e127]:
+                        - link "Cuestionario" [ref=e128] [cursor=pointer]:
+                          - /url: https://ine.es/inebaseDYN/epa30308/epa_cuestionario.htm
+                      - listitem [ref=e129]:
+                        - link "Resultados detallados" [ref=e130] [cursor=pointer]:
+                          - /url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=resultados&idp=1254735976595
+                    - paragraph [ref=e131]: Descripción
+                    - paragraph [ref=e132]: "La Encuesta de Población Activa (EPA) es una investigación continua y de periodicidad trimestral dirigida a las familias que viene realizándose desde 1964. Su finalidad principal es obtener datos de la población en relación con el mercado de trabajo: ocupados, activos, parados e inactivos."
+                    - paragraph [ref=e133]: La EPA se realiza sobre una muestra de 55.000 familias al trimestre o, lo que es lo mismo, unas 130.000 personas. La primera encuesta que se realiza a cada familia se hace de forma personal por entrevistadores fijos del INE. Las sucesivas encuestas se pueden realizar por teléfono o de forma personal.
+                    - paragraph [ref=e134]: El periodo de referencia de la información es la semana anterior a la entrevista. Los resultados de la EPA se obtienen un mes y medio después de finalizar el trabajo de campo.
+                    - paragraph [ref=e135]: Revisión de la EPA en 2024
+                    - paragraph [ref=e136]: El 19 de abril de 2024 la EPA ha revisado sus estimaciones de los años 2021 a 2023 al incorporar la nueva base de población con información actualizada de los Censos de Población y Viviendas de 2021.
+                    - paragraph [ref=e137]
+                    - paragraph [ref=e138]: Definiciones de la EPA
+                    - paragraph [ref=e139]:
+                      - strong [ref=e140]: "Activos:"
+                      - text: Son aquellas personas de 16 o más años que, durante la semana de referencia (la anterior a aquella en que se realiza la entrevista), suministran mano de obra para la producción de bienes y servicios o están disponibles y en condiciones de incorporarse a dicha producción. Se subdividen en ocupados y parados.
+                    - paragraph [ref=e141]:
+                      - strong [ref=e142]: "Ocupados:"
+                      - text: Son las personas de 16 o más años que durante la semana de referencia han estado trabajando durante al menos una hora a cambio de una retribución en dinero o especie o quienes teniendo trabajo han estado temporalmente ausentes del mismo por enfermedad, vacaciones, etcétera.
+                    - paragraph [ref=e143]: Los ocupados se subdividen en trabajadores por cuenta propia (empleadores, empresarios sin asalariados y trabajadores independientes) y asalariados (públicos o privados). Atendiendo a la duración de la jornada los ocupados se clasifican en ocupados a tiempo completo (con una jornada habitual semanal superior a 30 horas) y a tiempo parcial (con una jornada habitual semanal inferior a 35 horas).
+                    - paragraph [ref=e144]:
+                      - strong [ref=e145]: "Parados:"
+                      - text: "Son las personas de 16 o más años que durante la semana de referencia han estado sin trabajo, disponibles para trabajar y buscando activamente empleo. Se considera que una persona busca empleo de forma activa si:"
+                    - list [ref=e146]:
+                      - listitem [ref=e147]: Ha estado en contacto con una oficina pública de empleo con el fin de encontrar trabajo.
+                      - listitem [ref=e148]: Ha estado en contacto con una oficina privada (oficina de empleo temporal, empresa especializada en contratación, etc.) con el fin de encontrar trabajo.
+                      - listitem [ref=e149]: Ha enviado una candidatura directamente a los empleadores.
+                      - listitem [ref=e150]: Ha indagado a través de relaciones personales, por mediación de sindicatos, etc.
+                      - listitem [ref=e151]: Se ha anunciado o ha respondido a anuncios de periódicos.
+                      - listitem [ref=e152]: Ha estudiado ofertas de empleo.
+                      - listitem [ref=e153]: Ha participado en una prueba, concurso o entrevista, en el marco de un procedimiento de contratación.
+                      - listitem [ref=e154]: Ha estado buscando terrenos o locales.
+                      - listitem [ref=e155]: Ha realizado gestiones para obtener permisos, licencias o recursos financieros.
+                    - paragraph [ref=e156]: También se consideran parados a las personas que ya han encontrado un trabajo y están a la espera de incorporarse a él, siempre que verifiquen las dos primeras condiciones.
+                    - paragraph [ref=e157]:
+                      - strong [ref=e158]: "Inactivos:"
+                      - text: Recibe esta consideración la población de 16 o más años no incluida en las categorías anteriores.
+                    - list [ref=e159]:
+                      - listitem [ref=e160]:
+                        - link "Nota prensa" [ref=e161] [cursor=pointer]:
+                          - /url: /dyngs/Prensa/EPA1T26.htm
+                      - listitem [ref=e162]:
+                        - 'link "EPA: principales series" [ref=e163] [cursor=pointer]':
+                          - /url: /prensa/epa_tabla.htm
+                      - listitem [ref=e164]:
+                        - link "Metodología" [ref=e165] [cursor=pointer]:
+                          - /url: https://ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=metodologia&idp=1254735976595
+                      - listitem [ref=e166]:
+                        - link "Cuestionario" [ref=e167] [cursor=pointer]:
+                          - /url: https://ine.es/inebaseDYN/epa30308/epa_cuestionario.htm
+                      - listitem [ref=e168]:
+                        - link "Resultados detallados" [ref=e169] [cursor=pointer]:
+                          - /url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=resultados&idp=1254735976595
+  - generic [ref=e170]:
+    - generic [ref=e171]:
+      - list [ref=e173]:
+        - listitem [ref=e174]:
+          - link " Contacto" [ref=e175] [cursor=pointer]:
+            - /url: /infoine/
+            - generic [ref=e176]: 
+            - strong [ref=e177]: Contacto
+        - listitem [ref=e178]:
+          - link "Mapa web" [ref=e179] [cursor=pointer]:
+            - /url: /indiceweb.htm
+        - listitem [ref=e180]:
+          - link "Aviso legal" [ref=e181] [cursor=pointer]:
+            - /url: /dyngs/AYU/index.htm?cid=125
+        - listitem [ref=e182]:
+          - link "Accesibilidad" [ref=e183] [cursor=pointer]:
+            - /url: /dyngs/AYU/index.htm?cid=127
+        - listitem [ref=e184]:
+          - link "Prensa" [ref=e185] [cursor=pointer]:
+            - /url: /prensa/seccion_prensa.htm
+        - listitem [ref=e186]:
+          - link "Clasificaciones y estándares" [ref=e187] [cursor=pointer]:
+            - /url: /dyngs/MYP/index.htm?cid=1
+        - listitem [ref=e188]:
+          - link "Nuevos proyectos" [ref=e189] [cursor=pointer]:
+            - /url: /dyngs/MYP/index.htm?cid=10
+      - list [ref=e191]:
+        - listitem [ref=e192]:
+          - link "El INE" [ref=e193] [cursor=pointer]:
+            - /url: /dyngs/INE/index.htm?cid=498
+        - listitem [ref=e194]:
+          - link "Transparencia" [ref=e195] [cursor=pointer]:
+            - /url: /dyngs/INE/index.htm?cid=401
+        - listitem [ref=e196]:
+          - link "Organización Estadística en España" [ref=e197] [cursor=pointer]:
+            - /url: /dyngs/INE/index.htm?cid=581
+        - listitem [ref=e198]:
+          - link "Calidad" [ref=e199] [cursor=pointer]:
+            - /url: /dyngs/MYP/es/index.htm?cid=35
+        - listitem [ref=e200]:
+          - link "Sistema Estadístico Europeo" [ref=e201] [cursor=pointer]:
+            - /url: /dyngs/INE/index.htm?cid=542
+      - list [ref=e203]:
+        - listitem [ref=e204]:
+          - link "Formación y empleo" [ref=e205] [cursor=pointer]:
+            - /url: /dyngs/FYE/index.htm?cid=1791
+        - listitem [ref=e206]:
+          - link "Prácticas universitarias" [ref=e207] [cursor=pointer]:
+            - /url: /dyngs/FYE/es/index.htm?cid=1802
+        - listitem [ref=e208]:
+          - link "Becas" [ref=e209] [cursor=pointer]:
+            - /url: /dyngs/FYE/es/index.htm?cid=1802
+        - listitem [ref=e210]:
+          - link "Oposiciones" [ref=e211] [cursor=pointer]:
+            - /url: /dyngs/FYE/index.htm?cid=166
+        - listitem [ref=e212]:
+          - link "Explica" [ref=e213] [cursor=pointer]:
+            - /url: /explica/explica.htm
+      - list [ref=e215]:
+        - listitem [ref=e216]:
+          - link "Atención al público" [ref=e217] [cursor=pointer]:
+            - /url: /dyngs/SER/index.htm?cid=1550
+        - listitem [ref=e218]:
+          - link "Datos abiertos" [ref=e219] [cursor=pointer]:
+            - /url: /dyngs/DAB/es/index.htm?cid=1722
+        - listitem [ref=e220]:
+          - link "Catalogo de Publicaciones" [ref=e221] [cursor=pointer]:
+            - /url: /dyngs/PUB/index.htm?cid=1440
+            - text: Publicaciones
+        - listitem [ref=e222]:
+          - link "Carta de servicios" [ref=e223] [cursor=pointer]:
+            - /url: /dyngs/SER/index.htm?cid=1391
+      - list [ref=e225]:
+        - listitem [ref=e226]: Síguenos
+        - listitem [ref=e227]:
+          - link " X" [ref=e228] [cursor=pointer]:
+            - /url: https://twitter.com/es_ine
+        - listitem [ref=e229]:
+          - link " Youtube" [ref=e230] [cursor=pointer]:
+            - /url: https://www.youtube.com/INEDifusion
+        - listitem [ref=e231]:
+          - link " Instagram" [ref=e232] [cursor=pointer]:
+            - /url: https://www.instagram.com/es_ine_/
+        - listitem [ref=e233]:
+          - link " LinkedIn" [ref=e234] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/ine-es
+        - listitem [ref=e235]:
+          - link " Canal RSS" [ref=e236] [cursor=pointer]:
+            - /url: /dyngs/AYU/index.htm?cid=1303
+        - listitem [ref=e237]:
+          - link " GitHub" [ref=e238] [cursor=pointer]:
+            - /url: https://github.com/es-ine
+      - paragraph [ref=e240]:
+        - generic [ref=e241]:
+          - text: © 2026
+          - link "INE. Instituto Nacional de Estadística" [ref=e242] [cursor=pointer]:
+            - /url: https://www.ine.es/
+          - link " " [ref=e243] [cursor=pointer]:
+            - /url: https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1
+            - generic [ref=e244]: 
+            - generic [ref=e245]: 
+        - text: "Avda. Manoteras, 52 - 28050 - Madrid - España Tlf: (+34) 91 583 91 00"
+    - button "Botón para volver arriba":
+      - generic [ref=e246] [cursor=pointer]: 

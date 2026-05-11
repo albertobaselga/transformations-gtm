@@ -3,7 +3,7 @@
 **Issue:** FAS-51 — Backfill Notion: subir knowledge historico agrupado por dia (70 dias, ~480 archivos)
 **Agente responsable:** Sara Campos (Comms & Publishing Specialist)
 **Inicio:** 2026-04-14
-**Ultima actualizacion:** 2026-07-30 (FAS-54 — sync diario en curso)
+**Ultima actualizacion:** 2026-04-20 (FAS-50 — cierre backfill + April 18 head consolidado)
 
 ---
 
@@ -19,6 +19,16 @@
 
 ---
 
+## Estado de Subida — FAS-64 (sync diario routine)
+
+| Dia | Notion Page ID | Agentes | Estado |
+|-----|---------------|---------|--------|
+| 2026-04-15 | 343964d7-2ed1-81a2-9746-cc45e0443d71 | Marcos/Lucia/Daniel/Iker(x2)/Sofia/Alba/Marina (8 notas) | DONE |
+| 2026-04-16 | 344964d7-2ed1-811b-8990-c125303780eb | Marcos/Lucia/Daniel/Adrian/Sofia/Iker/Noa/Alba/Marina (9 notas) | DONE |
+| 2026-04-17 | 345964d7-2ed1-8155-9085-c85c027600df | Marcos/Lucia/Daniel/Adrian/Sofia/Iker/Noa/Alba/Marina (9 notas) | DONE |
+
+---
+
 ## Estado de Subida — Notas Diarias (FAS-50: abril)
 
 | Dia | Estado | Notas |
@@ -29,7 +39,9 @@
 | 2026-04-13 | DONE | — |
 | 2026-04-14 | DONE | — |
 | 2026-04-15 | DONE | — |
-| 2026-04-18 | DONE | — |
+| 2026-04-16 | DONE | Cubierto por FAS-64 (routine sync) — ID: 344964d7-2ed1-811b-8990-c125303780eb |
+| 2026-04-17 | DONE | Cubierto por FAS-64 (routine sync) — ID: 345964d7-2ed1-8155-9085-c85c027600df |
+| 2026-04-18 | DONE | Head consolidado (Marcos+Lucia) subido en FAS-50 cierre — ID: 348964d7-2ed1-81ce-a821-fd5abc3ce140 |
 | 2026-04-21 | DONE | — |
 | 2026-04-22 | DONE | — |
 | 2026-04-23 | DONE | — |

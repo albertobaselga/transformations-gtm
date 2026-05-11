@@ -33,11 +33,16 @@ Format:
 **Outcome:** Single heartbeat completes the full coordination cycle: context gathering, plan creation, and parallel communication to all Heads without redundancy or conflicts
 ---
 
-## [strat-004] 2026-04-09 | helpful=2
+## [strat-004] 2026-04-09 | helpful=4
 **Context:** When a research heartbeat needs to investigate multiple competitors or topics via web search
 **Strategy:** Batch 4+ parallel WebSearch calls grouped by competitor/topic in a single tool invocation round, then do a second round of targeted follow-up searches and WebFetch for gaps — this completes a full competitive analysis in a single heartbeat
 **Outcome:** FAS-6 competitive analysis (CEI, Lightbox, and others) completed in one heartbeat instead of spreading across multiple wake cycles, because parallel search eliminated serial wait time
 **Nuance:** Formalize as a 3-round funnel (Round 1 broad parallel searches per axis, Round 2 targeted gap-fills, Round 3 WebFetch on highest-signal articles) with a hard stop: write the deliverable immediately after Round 3 — no open-ended exploration beyond 3 rounds
+**Nuance:** Enforce a hard stop after Round 3: write the deliverable with available intelligence and explicitly flag missing data points (e.g., 'pricing not publicly available') rather than burning additional rounds chasing diminishing returns. The 90%-complete deliverable written in one heartbeat is more valuable than a 100%-complete one that takes three.
+**Nuance:** Apply the parallel-batch pattern as a mandatory freshness gate before daily consolidated notes lock in — 3-4 parallel WebSearch calls on highest-stakes live signals (Indeed score, job posting counts, BOE/regulatory status) in a single round before drafting. Distinct from the 3-round research funnel: this is a single-round verification pass, not open-ended exploration, and targets values that will be cited verbatim in downstream deliverables.
+**Nuance:** Extend parallelism beyond homogeneous WebSearch batches: when a task needs both tool setup (e.g., pip install pdfminer.six) and information gathering (WebSearch), fire them in the same tool-call round since they are independent — the toolchain is ready by the time URLs are identified, eliminating the serial setup-after-discovery wait.
+**Nuance:** When a heartbeat falls T-1 before a major industry event (NAB, IBC, etc.), bias Round 1 parallel queries toward pre-announcement partnership leaks and keynote preview articles rather than generic trend terms — these signals commoditize within 24h of Day 0, so capturing them pre-event yields disproportionate intelligence value vs. post-event recap coverage.
+**Nuance:** When a heartbeat falls T-1/T-0 of a major industry event and the downstream goal is quantifying post-event demand lift (not just capturing pre-event partnership leaks), skip Google Trends entirely (bot-blocked) and use the parallel-WebSearch round to pin down a W-N baseline value for each target keyword, then write a 'baseline pre-event' note that logs the reference value explicitly — this turns the post-event heartbeat into a delta calculation instead of a context-free spike report.
 ---
 
 ## [strat-004] 2026-04-09 | helpful=0
@@ -51,6 +56,7 @@ Format:
 **Strategy:** Analyze the existing portfolio or product catalog FIRST to identify concrete gaps, then use those gaps to focus web searches — this turns generic trend scanning into targeted gap-filling intelligence
 **Outcome:** Searches return higher-signal results because queries are shaped by known gaps rather than broad category terms; the final note maps directly to portfolio decisions instead of being a generic trend dump
 **Nuance:** When a new research issue overlaps a prior deliverable, read that deliverable first to identify covered vs. uncovered ground, then scope searches to only the delta — applies the 'gap-first' principle to sequential research issues, not just portfolio analysis.
+**Nuance:** When the task is refreshing a specific data point (not broad delta scoping), read the prior deliverable first to pin down the exact metric name and baseline value, then scope searches and PDF extraction to that single data point — prevents scope creep into adjacent metrics and keeps extraction targeted (e.g., 'confirm CNAE 59 YoY for March vs -19.5% Jan-Feb baseline' instead of re-scanning the whole SEPE report).
 ---
 
 ## [strat-005] 2026-04-09 | helpful=0
@@ -225,4 +231,155 @@ Format:
 **Context:** When generating a cross-organization standup or summary report from multiple analysts' daily notes
 **Strategy:** Read the previous standup first to establish format and baseline, then batch-read all current daily notes in parallel (6+ concurrent reads), and only write the report after all inputs are collected — never start writing incrementally
 **Outcome:** Produces a consistent, complete standup in a single heartbeat without format drift or missing analyst coverage; parallel reads keep the gather phase fast
+---
+
+## [strat-032] 2026-04-15 | helpful=0
+**Context:** When a coordinator heartbeat wakes for a daily consolidation routine (e.g., FAS-55)
+**Strategy:** Before producing any deliverable, check if analyst notes and the consolidated note already exist for today's date — if all outputs are present, close the issue immediately without redundant work
+**Outcome:** Avoids wasting heartbeat time re-generating content that prior sessions already produced; closes the issue in a single heartbeat instead of duplicating effort
+---
+
+## [strat-033] 2026-04-15 | helpful=0
+**Context:** When a data-extraction heartbeat finds an empty queue (0 unprocessed items) but still needs to produce value
+**Strategy:** Pivot from extraction to cross-referencing existing aggregates with intelligence from other areas (e.g., CEO standup, peer analyst notes) — the deliverable becomes a synthesis note rather than a processing report
+**Outcome:** Heartbeat produces actionable intelligence instead of a vacuous 'nothing to process' update; cross-area signals (like price-value dissonance: top churn reason = price but 57% sensitivity = LOW) surface insights invisible to single-source analysis
+---
+
+## [strat-034] 2026-04-15 | helpful=0
+**Context:** When a Head coordinator runs a morning review heartbeat and needs to produce a consolidated daily note
+**Strategy:** Read other Heads' daily notes (cross-team intel) before writing your own consolidation — specifically look for data points that directly reinforce or contradict your own analysts' findings, then weave those cross-references into your note as actionable connections (e.g., Lucia's pricing map directly arms Daniel's no-compra objection handling)
+**Outcome:** The consolidated note becomes a cross-functional intelligence product rather than a siloed summary, surfacing connections that no single analyst would see in isolation — this is the unique value a Head adds beyond aggregation
+---
+
+## [strat-035] 2026-04-15 | helpful=0
+**Context:** When creating a Notion page from a local standup markdown file with multi-select properties
+**Strategy:** Fetch the Notion database schema (data_source_id/collection) first to discover exact property names and valid enum values before constructing the create-pages payload — this prevents mismatched field names or invalid enum entries
+**Outcome:** Page creation succeeds on the first attempt without trial-and-error, saving a heartbeat cycle that would otherwise be lost to a schema mismatch error
+---
+
+## [strat-036] 2026-04-15 | helpful=0
+**Context:** When creating a consolidated Notion page from multiple analyst notes where the DB schema has single-select fields (e.g., Agente)
+**Strategy:** Fetch the database schema BEFORE composing the page payload to discover field constraints (single-select vs multi-select), then use a catch-all value like 'Otros' with a distinguishing Area like 'Consolidado' for multi-source entries
+**Outcome:** Avoids a failed create call due to passing multiple values into a single-select field, completing the sync in one heartbeat instead of two
+---
+
+## [strat-037] 2026-04-16 | helpful=0
+**Context:** When a daily heartbeat falls on a pre-synthesis day (e.g., Thursday before weekly synthesis) and there are unresolved personnel issues (prolonged absences, missing inputs)
+**Strategy:** Combine personnel escalation actions (flagging Adrian's 6-day absence per CEO directive) with parallel research web searches in the same heartbeat — address coordination debt and content gaps simultaneously before the synthesis deadline
+**Outcome:** A single heartbeat handles both the time-sensitive escalation and content production, preventing the escalation from consuming the entire window and leaving no research done before the weekly cutoff
+---
+
+## [strat-038] 2026-04-16 | helpful=0
+**Context:** When a research heartbeat needs to produce a reusable operational framework (not just a one-off note) for a multi-day event like NAB
+**Strategy:** Structure the deliverable as a detection framework with channels, signal/noise criteria, and daily reporting format — not just a list of findings from today's searches. Write the framework scaffolding first, then fill it with Round 1-3 search results
+**Outcome:** The note becomes a reusable tool for subsequent heartbeats during the event period, so future sessions can apply the same filters and channels without re-deriving the methodology each time
+---
+
+## [strat-039] 2026-04-16 | helpful=0
+**Context:** When a heartbeat picks up pending items from a prior deliverable (e.g., D3 left 5 action items for D4)
+**Strategy:** Parse the prior note into an explicit checklist via TodoWrite at heartbeat start, then execute items in parallel where independent — this prevents drift and makes progress auditable within the heartbeat
+**Outcome:** All 5 pending items from D3 were tracked and completed in a single heartbeat without losing any; TodoWrite also signals to the coordinator which items were addressed
+---
+
+## [strat-039] 2026-04-16 | helpful=0
+**Context:** When a coordinator heartbeat discovers that a blocking data source (e.g., SEPE monthly report) has become available after days of being unavailable
+**Strategy:** Immediately fetch and extract the key data points in the same heartbeat, then flag the unblock in the consolidated daily note with explicit attribution to the analyst who was blocked — this converts a discovery into actionable intelligence without requiring an additional wake cycle
+**Outcome:** Sofia's 5+ day block on SEPE March 2026 data was resolved in the same heartbeat that discovered availability, eliminating what would have been another idle analyst cycle waiting for coordinator notification
+---
+
+## [strat-040] 2026-04-16 | helpful=0
+**Context:** When a team member (analyst/head) has been absent for multiple days with no activity trail in the system
+**Strategy:** Create a formal escalation issue assigned to the absent person's manager (or CEO for heads) with specific absence duration, last-known activity, and impact on blocked workstreams — don't just mention the absence in a daily note where it can be overlooked
+**Outcome:** Adrian's 6-day absence was escalated as FAS-71 to Elena (CEO) with clear accountability, rather than being buried in a daily note that decision-makers might not read
+---
+
+## [strat-041] 2026-04-16 | helpful=0
+**Context:** When a coordinator heartbeat finds all child analyst issues already completed and needs to produce a consolidated note
+**Strategy:** Read all analyst notes in parallel first, then read the previous day's consolidated note for continuity context before writing — this lets you detect cross-analyst convergence (multiple analysts independently confirming the same signal from different angles) and highlight it as high-confidence intelligence rather than treating each analyst's findings as independent items
+**Outcome:** The consolidated note surfaces triangulated signals (e.g., all three analysts confirming SHIFTA has FUNDAE) with higher confidence than any single analyst could provide, and the previous-day read ensures the note answers known open questions from the last standup rather than restating already-known context
+---
+
+## [strat-042] 2026-04-16 | helpful=0
+**Context:** When the primary browser automation tool (Chrome MCP) is unavailable during a heartbeat that requires web scraping
+**Strategy:** Immediately fall back to Playwright MCP without spending additional cycles debugging Chrome availability — check for Playwright via ToolSearch and proceed with browser_navigate
+**Outcome:** Preserves the heartbeat's web-scraping capability instead of wasting the cycle on tool troubleshooting; the monitoring task can still complete with an alternative browser backend
+---
+
+## [strat-042] 2026-04-16 | helpful=0
+**Context:** When an escalation issue claims an analyst has been inactive for N days
+**Strategy:** Before acting on the escalation's stated timeline, independently verify the claim by checking the actual deliverable files (daily-notes directories) and agent status — the escalation description may contain stale or incorrect data
+**Outcome:** Discovered FAS-71 claimed 6-day gap from April 10 but notes existed through April 14 — the real gap was 2 days, caused by zero assigned issues (agent idle), not analyst failure. This led to the correct fix (assigning a new issue to wake the agent) rather than an unnecessary investigation or reprimand
+---
+
+## [strat-043] 2026-04-16 | helpful=0
+**Context:** When scanning job portals for demand signals and an AI-native company (e.g., ElevenLabs) appears as an employer for the same roles being tracked
+**Strategy:** Flag AI companies hiring creative roles (motion designer, video editor) as an 'inverted signal' — they validate demand for the skill even as their tools automate parts of it, and represent a new employer category for the client's talent positioning
+**Outcome:** Surfaces a non-obvious insight: AI companies are net creators of certain creative roles, not just disruptors — this reframes the client's competitive narrative from threat to opportunity
+---
+
+## [strat-044] 2026-04-16 | helpful=0
+**Context:** When an analyst heartbeat finds zero new data (no new leads, same totals) but the CEO standup or external signals introduce a context shift (e.g., a competitor gaining a capability previously treated as a differentiator)
+**Strategy:** Perform a 'delta analysis' — reinterpret the same static dataset through the lens of the new external signal, updating strategic implications and recovery arguments rather than reporting 'no change'
+**Outcome:** The analyst note remains valuable even with no new raw data, because the interpretation layer changes — stakeholders get updated strategic framing (e.g., FUNDAE no longer a unique differentiator) instead of a stale 'nothing to report' update
+---
+
+## [strat-045] 2026-04-16 | helpful=0
+**Context:** When a heartbeat coincides with a cross-cutting deadline (e.g., pre-synthesis input due Thursday) and the daily note already contains comprehensive analysis
+**Strategy:** Check the CEO standup first to surface time-sensitive deliverable deadlines, then verify whether the target output directory (e.g., opportunity-synthesis/working/) is populated — if empty, formalize existing daily-note analysis into the required deliverable format rather than re-researching from scratch
+**Outcome:** Delivers the formal pre-synthesis input in a single heartbeat by reusing already-synthesized daily-note content, avoiding redundant research and meeting the cross-cutting deadline without an extra wake cycle
+---
+
+## [strat-046] 2026-04-16 | helpful=0
+**Context:** When a time-sensitive deliverable is due (e.g., pre-synthesis by 16:00) but one analyst's input is days stale and another has no note today
+**Strategy:** Proceed with available data in a single heartbeat: use the freshest note from each analyst (even if days old), cross-fill gaps from Lost Leads API and cross-team notes, and write both the daily note AND the pre-synthesis input in the same heartbeat rather than deferring to wait for fresh analyst input
+**Outcome:** Both deliverables land before the deadline instead of missing it waiting for inputs that may never arrive; the pre-synthesis exists for Elena even if imperfect, versus no input at all
+---
+
+## [strat-047] 2026-04-16 | helpful=0
+**Context:** When a Head reviews analyst status and finds one idle with 0 assigned issues
+**Strategy:** Immediately create and assign a new issue to the idle analyst in the same heartbeat rather than just flagging the gap — replicate the pattern that previously unblocked another analyst (e.g., FAS-72 for Adrian → FAS-77 for Sofia)
+**Outcome:** The analyst gets unblocked within one heartbeat instead of waiting for a coordinator to notice and act in a separate cycle; the Head note documents both the gap and the resolution, giving the synthesis layer a complete picture
+---
+
+## [strat-048] 2026-04-16 | helpful=0
+**Context:** When a scoped wake payload targets a single issue (e.g., FAS-83) with a clear deliverable
+**Strategy:** Skip the generic repo-exploration phase entirely and go straight to the execution tool chain: checkout → read source artifact → load target API schema → write → close issue — acknowledge the wake in one sentence, not a paragraph
+**Outcome:** Single-heartbeat completion of scoped issues; the wake-payload instruction to avoid generic exploration is honored, keeping the heartbeat under the intended scope
+**Nuance:** When the scoped issue isn't visible in `paperclip inbox` or active-issue listings, check environment variables (e.g., PAPERCLIP_ISSUE_ID) or the wake payload header first — the scoped ID is typically provided by the wake mechanism, so skip repeated CLI searches and proceed directly to checkout.
+---
+
+## [strat-049] 2026-04-16 | helpful=0
+**Context:** When a coordinator heartbeat needs to consolidate multiple analyst daily notes into a single Notion page
+**Strategy:** Read ALL daily-notes files for the date in a single parallel tool round BEFORE loading Notion tools, then fetch the target database schema once to confirm the data source URL and property types before calling notion-create-pages
+**Outcome:** Consolidation completes in one heartbeat: parallel reads eliminate serial wait, and fetching schema first prevents property-mismatch failures that would waste a retry cycle
+---
+
+## [strat-050] 2026-04-17 | helpful=0
+**Context:** When a daily-collection coordinator issue fires and needs to dispatch subtasks to multiple analysts (e.g., Iker, Noa, Marina) with date-specific priorities
+**Strategy:** Read the latest CEO standup AND the prior day's coordinator note in parallel first to extract today's cross-cutting theme (e.g., 'NAB T-1 synthesis day'), then create all analyst subtasks in a single parallel batch with that theme baked into each brief
+**Outcome:** All analysts receive coherent, theme-aligned briefs in one heartbeat instead of generic task assignments; avoids follow-up heartbeats to retrofit priorities after reading the standup
+---
+
+## [strat-051] 2026-04-17 | helpful=0
+**Context:** When a heartbeat starts with a scoped wake payload naming a specific issue (e.g., FAS-90) and date-sensitive priorities
+**Strategy:** Skip the generic inbox scan and repo exploration — go straight to checkout, then read standup + issue context + yesterday's deliverable in parallel in a single tool round before any action
+**Outcome:** Condenses context-gathering to one parallel round, leaving the rest of the heartbeat budget for actual intelligence work instead of orientation
+---
+
+## [strat-052] 2026-04-17 | helpful=0
+**Context:** When a heartbeat needs to use an MCP tool (e.g., Playwright browser_navigate, Notion, Granola) whose schema is not pre-loaded at session start
+**Strategy:** Call ToolSearch with query `select:<tool_name>` to load the schema before the first invocation — do this proactively the moment you identify the tool you'll need, not after a failed call
+**Outcome:** Avoids InputValidationError failures that would waste a heartbeat cycle; the schema-load is cheap and unblocks subsequent parallel MCP calls
+---
+
+## [strat-053] 2026-04-17 | helpful=0
+**Context:** When tracking a fast-moving open-source project (e.g., OpenMontage) across heartbeats as a competitive signal
+**Strategy:** Always record the absolute star/metric count AND the delta vs the prior heartbeat's recorded value in the daily note — momentum rate is the actionable signal, not the snapshot
+**Outcome:** Heads can detect acceleration/deceleration inflection points (e.g., 1.7k → 2.4k in one day) that a flat snapshot would hide, enabling faster strategic response
+---
+
+## [strat-054] 2026-04-17 | helpful=0
+**Context:** When a research heartbeat surfaces new keywords from an external catalyst (e.g., NAB product announcements) that should be tracked in the keywords database
+**Strategy:** Before adding new keywords, grep the existing cluster to confirm they are not already present (including future-dated entries other sessions may have queued), then add only the genuine deltas in a single Edit and verify with a follow-up grep
+**Outcome:** Prevents duplicate keyword entries across sessions and confirms the DB state matches the intended addition before closing the issue
 ---

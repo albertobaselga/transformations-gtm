@@ -61,6 +61,10 @@ Format:
 **Nuance:** For pure read-only analysis tasks (no code changes), the same batch-first principle applies even more strongly: gather ALL config files and API responses in a single parallel batch before any analysis, then produce the complete study in one pass — this avoids iterative back-and-forth reads, keeps all data in context for cross-referencing (e.g., comparing heartbeat intervals across agents vs routine schedules), and reduces token usage
 **Nuance:** For bulk config updates across many agents, first discover the API surface topology: grep the codebase to map which fields route through which endpoints (e.g., general PATCH vs dedicated /permissions endpoint), then batch all same-endpoint changes together before moving to the next endpoint type — fields sent to the wrong endpoint may appear to succeed (200 OK) but silently fail to persist
 **Nuance:** When adding a new recurring routine to an agent (e.g., daily Notion publishing), inventory existing content first (find | wc -l) to size the backfill, then create the routine, update AGENTS.md, and open a backfill issue in one coordinated pass — prevents deploying automation that handles new content while leaving historical knowledge stranded
+**Nuance:** For multi-document deliverables with cross-references (e.g., umbrella doc citing sibling pillar docs), respect the reference DAG: run independent sibling/leaf documents in parallel background agents first, then generate cascade-dependent docs (umbrella, summary, index) sequentially after siblings complete — captures parallel speedup on the leaves while avoiding broken cross-references in dependent docs
+**Nuance:** When dependent docs (umbrella) must wait for parallel sibling/leaf agents to complete, use the wait window to pre-write the dependent agent's brief/prompt to a file — converts idle wait time into prep time and eliminates serial latency between sibling completion and dependent launch
+**Nuance:** When a user directive reframes a strategic concept and multiple files need correction, spawn one parallel Agent per file with the directive embedded verbatim as the editorial lens — prevents per-file re-derivation drift and applies the reframing consistently in one wall-clock pass
+**Nuance:** Specifically applies when autopilot stop hook fires repeatedly while a writer-Opus background agent runs sequentially: pre-draft the next dependent agent's brief (e.g., critic Fase 4 coherencia) to a file during stop-hook idle turns, so dispatch is zero-latency the moment the writer completes
 ---
 
 ## [strat-009] 2026-03-27 | helpful=0
@@ -171,4 +175,70 @@ Format:
 **Context:** When Paperclip agents are burning through token credits faster than planned (e.g., a week of tokens in 2 days)
 **Strategy:** Audit heartbeat frequency first — calculate heartbeats/week × model tier cost before tuning anything else. Reduce heartbeat cadence to ~1/day and let routines (cron triggers) be the primary execution driver instead of heartbeat polling
 **Outcome:** Opus agents on 2h heartbeats generate 75+ invocations/week per agent; shifting to daily heartbeats + routine-driven execution cuts cost by ~10x while preserving scheduled work
+---
+
+## [strat-027] 2026-05-07 | helpful=0
+**Context:** When asked to draft a prompt for a new strategy document that belongs to a family of existing strategy documents (e.g., Northeus group umbrella over GTM/Comercialización pillars)
+**Strategy:** Before writing the prompt, map the existing template family (read sibling docs like Estrategia_Transformacion_GTM.md and _Comercializacion.md) to inherit structure, tone, and One Pager + flow diagram conventions; then mark only the genuinely user-decisive blocks as TODO instead of inventing pillar content
+**Outcome:** Prompt stays consistent with the established document family and isolates user input to the 1-2 decisions that actually shape the deliverable, avoiding rework from structural drift
+---
+
+## [strat-028] 2026-05-07 | helpful=0
+**Context:** When polling background agents during a wait window without spamming check-ins
+**Strategy:** Use ScheduleWakeup with delaySeconds <270 to stay inside the 5-minute prompt cache TTL, avoiding cache-miss cost on every poll
+**Outcome:** Cheaper and faster check-ins; preserves conversation context cache across multiple wake-ups
+---
+
+## [strat-029] 2026-05-07 | helpful=0
+**Context:** When parallel sibling agents (e.g., pilares) are running and a dependent doc (umbrella/paraguas) must launch immediately after they complete
+**Strategy:** Pre-write the dependent agent's full brief to a file during the wait window, then launch with a single Agent call referencing the brief — converts idle wait into prep time and eliminates serial latency between sibling completion and dependent launch
+**Outcome:** Zero gap between sibling completion and dependent launch; dependent agent inherits a fully-formed brief instead of one assembled under time pressure
+---
+
+## [strat-030] 2026-05-07 | helpful=0
+**Context:** When a writer agent produces a document significantly shorter than the target length (e.g., 201 lines vs 800-1500 target) but with no factual errors
+**Strategy:** Do not auto-reject for length — inspect for executive density first; if the writer prioritized signal-to-noise, accept and let the critic flag genuine gaps rather than padding for word count
+**Outcome:** Avoids inflating docs with filler; preserves the writer's editorial judgment when density was a deliberate tradeoff
+---
+
+## [strat-031] 2026-05-07 | helpful=0
+**Context:** When a critic agent returns CONDITIONAL APPROVE with multiple ranked fixes (e.g., M1 blocking, M2/M3 improvements) on a strategic document
+**Strategy:** Spawn a single executor-Opus to apply all fixes in one coordinated pass, then re-invoke the same critic for re-validation — do not parallelize the fixes across multiple agents
+**Outcome:** Coordinated application avoids merge conflicts on the same doc and gives the critic a single coherent diff to re-validate, closing the approval loop in one cycle
+---
+
+## [strat-032] 2026-05-07 | helpful=0
+**Context:** When an executor agent completes fixes and self-reports a residual minor inconsistency (e.g., stale count phrasing) in its completion summary
+**Strategy:** Apply the flagged residual fix directly via Edit in the orchestrator instead of re-spawning an executor — the inconsistency is already localized and verified by the agent's own report
+**Outcome:** Saves an agent roundtrip; the orchestrator closes the cascade in one edit and moves to cancel/finalize without re-validation overhead
+---
+
+## [strat-033] 2026-05-08 | helpful=0
+**Context:** When the user delivers substantive corrective feedback (voice/long-form) on a strategic document's diagnosis, before editing any file
+**Strategy:** Echo back the corrected diagnosis as a structured summary (what changes, why, where it propagates) and confirm before touching files — treat the feedback as a re-framing of the root problem, not a local copy edit
+**Outcome:** Prevents shallow edits that patch symptoms while leaving the flawed diagnosis intact across sibling documents; ensures the correction propagates to all dependent docs in one coherent pass
+---
+
+## [strat-034] 2026-05-08 | helpful=0
+**Context:** When an executor agent finishes applying user-directed changes to a strategy doc and self-reports residual inconsistencies it didn't fix
+**Strategy:** Surface the residual inconsistencies to the user as an explicit decision list (numbered, each tied to the original feedback) via AskUserQuestion rather than auto-resolving them — distinguishes 'directive-driven edits' from 'judgment calls that need human input'
+**Outcome:** User retains authorial control on ambiguous coherence decisions; avoids executor over-reach that would require another revision pass
+---
+
+## [strat-035] 2026-05-08 | helpful=0
+**Context:** When ultrawork is invoked on N fixes that all touch the same single file
+**Strategy:** Recognize the tasks are dependent via shared write target and collapse the N parallel agents into a single surgical executor pass that applies all fixes in one edit session, rather than spawning concurrent writers on the same file
+**Outcome:** Avoids merge/overwrite conflicts and lost edits from concurrent writes to one .md, preserving ultrawork's intent (speed) without its failure mode (write contention)
+---
+
+## [strat-036] 2026-05-09 | helpful=0
+**Context:** When restructuring a strategic pillar to expose a root-cause thesis (e.g., causa raíz as section 1.1, motor explícito as 2.1) before launching downstream coherence validation
+**Strategy:** Apply structural reframes (renamed phases, repositioned sections, explicit causal anchors) as a single coordinated edit pass, then immediately spawn the critic agent scoped to validate thesis-level coherence across the new structure
+**Outcome:** Critic receives a fully reframed doc and can validate the root-cause thesis as a single coherent diff instead of chasing partial restructures
+---
+
+## [strat-037] 2026-05-09 | helpful=0
+**Context:** When a critic agent returns APPROVE FOR BOARD with only minor non-blocking findings at the end of an autopilot cascade
+**Strategy:** Skip applying the optional minor findings and immediately invoke state_clear to close autopilot — do not spawn another executor pass for cosmetic improvements
+**Outcome:** Closes the cascade in one turn; respects the critic's non-blocking classification instead of inflating scope with optional polish
 ---

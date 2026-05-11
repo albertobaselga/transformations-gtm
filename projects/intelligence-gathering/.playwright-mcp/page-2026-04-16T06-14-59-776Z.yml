@@ -1,0 +1,1031 @@
+- generic [ref=e1]:
+  - alert [ref=e2]:
+    - generic [ref=e4]:
+      - img [ref=e7]
+      - generic [ref=e9]:
+        - heading [level=2] [ref=e10]: LinkedIn respects your privacy
+        - generic [ref=e12]:
+          - paragraph [ref=e13]:
+            - text: LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our
+            - link [ref=e14] [cursor=pointer]:
+              - /url: https://www.linkedin.com/legal/cookie-policy
+              - text: Cookie Policy
+            - text: .
+          - paragraph [ref=e15]:
+            - text: Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your
+            - link [ref=e16] [cursor=pointer]:
+              - /url: https://www.linkedin.com/mypreferences/g/guest-cookies
+              - text: settings
+            - text: .
+        - generic [ref=e17]:
+          - button [ref=e18] [cursor=pointer]: Accept
+          - button [ref=e19] [cursor=pointer]: Reject
+  - generic [ref=e20]:
+    - link [ref=e21] [cursor=pointer]:
+      - /url: "#main-content"
+      - text: Skip to main content
+    - banner [ref=e22]:
+      - navigation [ref=e23]:
+        - link [ref=e24] [cursor=pointer]:
+          - /url: /?trk=public_jobs_nav-header-logo
+          - generic [ref=e25]: LinkedIn
+          - img [ref=e27]
+        - generic [ref=e38]:
+          - button [ref=e39]:
+            - img [ref=e41]
+            - generic [ref=e43]: AI Video Editor in Spain
+            - generic [ref=e44]: Expand search
+          - status [ref=e45]
+        - generic [ref=e46]:
+          - link [ref=e47] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch%2F%3Fkeywords%3DAI%2Bvideo%2Beditor%26location%3DEspa%25C3%25B1a%26geoId%3D105646813&trk=public_jobs_nav-header-signin
+            - text: Sign in
+          - link [ref=e48] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch%2F%3Fkeywords%3DAI%2Bvideo%2Beditor%26location%3DEspa%25C3%25B1a%26geoId%3D105646813&trk=public_jobs_nav-header-join
+            - text: Join now
+    - list [ref=e54]:
+      - listitem [ref=e55]:
+        - button [ref=e58] [cursor=pointer]:
+          - text: Any time
+          - img [ref=e60]
+      - listitem [ref=e62]:
+        - button [ref=e65] [cursor=pointer]:
+          - text: Company
+          - img [ref=e67]
+      - listitem [ref=e69]:
+        - button [ref=e72] [cursor=pointer]:
+          - text: Job type
+          - img [ref=e74]
+      - listitem [ref=e76]:
+        - button [ref=e79] [cursor=pointer]:
+          - text: Experience level
+          - img [ref=e81]
+      - listitem [ref=e83]:
+        - button [ref=e86] [cursor=pointer]:
+          - text: Location
+          - img [ref=e88]
+      - listitem [ref=e90]:
+        - button [ref=e93] [cursor=pointer]:
+          - text: Remote
+          - img [ref=e95]
+    - main [ref=e98]:
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - img [ref=e104]
+          - generic [ref=e106]: Get notified when a new job is posted.
+        - generic [ref=e107]:
+          - button [ref=e108]
+          - generic [ref=e109]: Set alert
+      - heading [level=1] [ref=e111]: 3,000+ AI Video Editor Jobs in Spain
+      - list [ref=e113]:
+        - listitem [ref=e114]:
+          - generic [ref=e115]:
+            - link [ref=e116] [cursor=pointer]:
+              - /url: https://in.linkedin.com/jobs/view/video-editor-at-pocket-fm-4399502575?position=1&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=kDcKtDAjCyzibdBd1KgXRg%3D%3D
+              - generic [ref=e117]: Video Editor
+            - img [ref=e119]
+            - generic [ref=e120]:
+              - heading [level=3] [ref=e121]: Video Editor
+              - heading [level=4] [ref=e122]:
+                - link [ref=e123] [cursor=pointer]:
+                  - /url: https://in.linkedin.com/company/pocket-fm?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Pocket FM
+              - generic [ref=e124]:
+                - generic [ref=e125]: India
+                - generic [ref=e126]:
+                  - img [ref=e128]
+                  - generic [ref=e130]: Actively Hiring
+                - time [ref=e131]: 2 days ago
+        - listitem [ref=e132]:
+          - generic [ref=e133]:
+            - link [ref=e134] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/video-editor-assistant-at-vx-media-4398182314?position=2&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=1yz%2FVn1gBH3SN%2F909vw0lQ%3D%3D
+              - generic [ref=e135]: Video Editor Assistant
+            - img [ref=e137]
+            - generic [ref=e138]:
+              - heading [level=3] [ref=e139]: Video Editor Assistant
+              - heading [level=4] [ref=e140]:
+                - link [ref=e141] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/vx-media-nyc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: VX Media
+              - generic [ref=e142]:
+                - generic [ref=e143]: New York, NY
+                - time [ref=e144]: 5 days ago
+        - listitem [ref=e145]:
+          - generic [ref=e146]:
+            - link [ref=e147] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/freelance-video-editor-%E2%80%93-short-form-remote-at-twine-4397068451?position=3&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=a3j7%2BFddE5gOha9WJhWm8A%3D%3D
+              - generic [ref=e148]: Freelance Video Editor – Short Form Remote
+            - img [ref=e150]
+            - generic [ref=e151]:
+              - heading [level=3] [ref=e152]: Freelance Video Editor – Short Form Remote
+              - heading [level=4] [ref=e153]:
+                - link [ref=e154] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e155]:
+                - generic [ref=e156]: United Kingdom
+                - time [ref=e157]: 1 week ago
+        - listitem [ref=e158]:
+          - generic [ref=e159]:
+            - link [ref=e160] [cursor=pointer]:
+              - /url: https://ph.linkedin.com/jobs/view/video-editor-remote-at-outsource-access-careers-4401843054?position=4&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=QQ2kuMgeb0RrUPeTgrEt%2FQ%3D%3D
+              - generic [ref=e161]: Video Editor (Remote)
+            - img [ref=e163]
+            - generic [ref=e164]:
+              - heading [level=3] [ref=e165]: Video Editor (Remote)
+              - heading [level=4] [ref=e166]:
+                - link [ref=e167] [cursor=pointer]:
+                  - /url: https://ph.linkedin.com/company/oacareers?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Outsource Access Careers
+              - generic [ref=e168]:
+                - generic [ref=e169]: Philippines
+                - generic [ref=e170]:
+                  - img [ref=e172]
+                  - generic [ref=e174]: Be an early applicant
+                - time [ref=e175]: 4 hours ago
+        - listitem [ref=e176]:
+          - generic [ref=e177]:
+            - link [ref=e178] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/video-editor-remote-at-twine-4398810306?position=5&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=FTDxXTMvfy%2BRuDcFsEhqvg%3D%3D
+              - generic [ref=e179]: Video Editor (Remote)
+            - img [ref=e181]
+            - generic [ref=e182]:
+              - heading [level=3] [ref=e183]: Video Editor (Remote)
+              - heading [level=4] [ref=e184]:
+                - link [ref=e185] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e186]:
+                - generic [ref=e187]: United States
+                - time [ref=e188]: 6 days ago
+        - listitem [ref=e189]:
+          - generic [ref=e190]:
+            - link [ref=e191] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/video-editor-at-mrs-dow-jones-4400301994?position=6&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=0KLZub4lqNqTS09dbXvlhg%3D%3D
+              - generic [ref=e192]: Video Editor
+            - img [ref=e194]
+            - generic [ref=e195]:
+              - heading [level=3] [ref=e196]: Video Editor
+              - heading [level=4] [ref=e197]:
+                - link [ref=e198] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/mrsdowjones?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Mrs. Dow Jones
+              - generic [ref=e199]:
+                - generic [ref=e200]: Brooklyn, NY
+                - time [ref=e201]: 6 days ago
+        - listitem [ref=e202]:
+          - generic [ref=e203]:
+            - link [ref=e204] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/video-editor-remote-at-twine-4398691957?position=7&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=CzcC3t4oye%2BnbJqJSpEboA%3D%3D
+              - generic [ref=e205]: Video Editor (Remote)
+            - generic [ref=e207]:
+              - heading [level=3] [ref=e208]: Video Editor (Remote)
+              - heading [level=4] [ref=e209]:
+                - link [ref=e210] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e211]:
+                - generic [ref=e212]: United Kingdom
+                - time [ref=e213]: 6 days ago
+        - listitem [ref=e214]:
+          - generic [ref=e215]:
+            - link [ref=e216] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/freelance-video-editor-%E2%80%93-short-form-remote-at-twine-4397062736?position=8&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=UcVqSH0q520SPXYDuCkHuA%3D%3D
+              - generic [ref=e217]: Freelance Video Editor – Short Form Remote
+            - generic [ref=e219]:
+              - heading [level=3] [ref=e220]: Freelance Video Editor – Short Form Remote
+              - heading [level=4] [ref=e221]:
+                - link [ref=e222] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e223]:
+                - generic [ref=e224]: United States
+                - time [ref=e225]: 1 week ago
+        - listitem [ref=e226]:
+          - generic [ref=e227]:
+            - link [ref=e228] [cursor=pointer]:
+              - /url: https://in.linkedin.com/jobs/view/video-editor-at-brightchamps-4400757298?position=9&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=MDf1mnCr6NQyAFepmNPYrA%3D%3D
+              - generic [ref=e229]: Video Editor
+            - generic [ref=e231]:
+              - heading [level=3] [ref=e232]: Video Editor
+              - heading [level=4] [ref=e233]:
+                - link [ref=e234] [cursor=pointer]:
+                  - /url: https://sg.linkedin.com/company/brightchamps?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: BrightCHAMPS
+              - generic [ref=e235]:
+                - generic [ref=e236]: Bengaluru, Karnataka, India
+                - generic [ref=e239]: Be an early applicant
+                - time [ref=e240]: 1 day ago
+        - listitem [ref=e241]:
+          - generic [ref=e242]:
+            - link [ref=e243] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/video-editor-%E2%80%93-remote-at-twine-4395985483?position=10&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=8Lc2T3RXvzLaXQWvRnvX%2Fw%3D%3D
+              - generic [ref=e244]: Video Editor – Remote
+            - generic [ref=e246]:
+              - heading [level=3] [ref=e247]: Video Editor – Remote
+              - heading [level=4] [ref=e248]:
+                - link [ref=e249] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e250]:
+                - generic [ref=e251]: United States
+                - time [ref=e252]: 1 week ago
+        - listitem [ref=e253]:
+          - generic [ref=e254]:
+            - link [ref=e255] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/freelance-video-editor-at-melinda-maria-4398161906?position=11&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=gNXnhoKllP%2F86sym%2BuVOFw%3D%3D
+              - generic [ref=e256]: Freelance Video Editor
+            - generic [ref=e258]:
+              - heading [level=3] [ref=e259]: Freelance Video Editor
+              - heading [level=4] [ref=e260]:
+                - link [ref=e261] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/melinda-maria?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Melinda Maria
+              - generic [ref=e262]:
+                - generic [ref=e263]: Los Angeles Metropolitan Area
+                - time [ref=e264]: 5 days ago
+        - listitem [ref=e265]:
+          - generic [ref=e266]:
+            - link [ref=e267] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/freelance-video-editor-at-twine-4398257106?position=12&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=kCkfZpXuJlcEuNjOjhV8PQ%3D%3D
+              - generic [ref=e268]: Freelance Video Editor
+            - generic [ref=e270]:
+              - heading [level=3] [ref=e271]: Freelance Video Editor
+              - heading [level=4] [ref=e272]:
+                - link [ref=e273] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e274]:
+                - generic [ref=e275]: United States
+                - time [ref=e276]: 1 week ago
+        - listitem [ref=e277]:
+          - generic [ref=e278]:
+            - link [ref=e279] [cursor=pointer]:
+              - /url: https://ca.linkedin.com/jobs/view/video-editor-remote-at-twine-4398693804?position=13&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=eZN6uJPvSuuULRVn2Xsy2w%3D%3D
+              - generic [ref=e280]: Video Editor (Remote)
+            - generic [ref=e282]:
+              - heading [level=3] [ref=e283]: Video Editor (Remote)
+              - heading [level=4] [ref=e284]:
+                - link [ref=e285] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e286]:
+                - generic [ref=e287]: Canada
+                - time [ref=e288]: 6 days ago
+        - listitem [ref=e289]:
+          - generic [ref=e290]:
+            - link [ref=e291] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/freelance-video-editor-at-twine-4385453208?position=14&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=%2B8JHlQfIbSwGhhPmVVPkxQ%3D%3D
+              - generic [ref=e292]: Freelance Video Editor
+            - generic [ref=e294]:
+              - heading [level=3] [ref=e295]: Freelance Video Editor
+              - heading [level=4] [ref=e296]:
+                - link [ref=e297] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e298]:
+                - generic [ref=e299]: United Kingdom
+                - time [ref=e300]: 6 days ago
+        - listitem [ref=e301]:
+          - generic [ref=e302]:
+            - link [ref=e303] [cursor=pointer]:
+              - /url: https://au.linkedin.com/jobs/view/freelance-video-editor-%E2%80%93-short-form-remote-at-twine-4397060883?position=15&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=s8ifB3RaIVGCa6KbZQNM2g%3D%3D
+              - generic [ref=e304]: Freelance Video Editor – Short Form Remote
+            - generic [ref=e306]:
+              - heading [level=3] [ref=e307]: Freelance Video Editor – Short Form Remote
+              - heading [level=4] [ref=e308]:
+                - link [ref=e309] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e310]:
+                - generic [ref=e311]: Australia
+                - time [ref=e312]: 1 week ago
+        - listitem [ref=e313]:
+          - generic [ref=e314]:
+            - link [ref=e315] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/freelance-video-editor-at-twine-4395038401?position=16&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=zDxrc7KJ1%2BluyCKWybTWsw%3D%3D
+              - generic [ref=e316]: Freelance Video Editor
+            - generic [ref=e318]:
+              - heading [level=3] [ref=e319]: Freelance Video Editor
+              - heading [level=4] [ref=e320]:
+                - link [ref=e321] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e322]:
+                - generic [ref=e323]: United States
+                - time [ref=e324]: 2 weeks ago
+        - listitem [ref=e325]:
+          - generic [ref=e326]:
+            - link [ref=e327] [cursor=pointer]:
+              - /url: https://lk.linkedin.com/jobs/view/video-editor-content-specialist-%E2%80%93-bring-stories-to-life-across-social-media%21-at-elephant-teams-4401048381?position=17&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=KsQBTaMQCJ%2FdQZyrtjqivQ%3D%3D
+              - generic [ref=e328]: Video Editor & Content Specialist – Bring stories to life across social media!
+            - generic [ref=e330]:
+              - heading [level=3] [ref=e331]: Video Editor & Content Specialist – Bring stories to life across social media!
+              - heading [level=4] [ref=e332]:
+                - link [ref=e333] [cursor=pointer]:
+                  - /url: https://au.linkedin.com/company/elephant-teams?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Elephant Teams
+              - generic [ref=e334]:
+                - generic [ref=e335]: Sri Lanka
+                - time [ref=e336]: 2 days ago
+        - listitem [ref=e337]:
+          - generic [ref=e338]:
+            - link [ref=e339] [cursor=pointer]:
+              - /url: https://au.linkedin.com/jobs/view/video-editor-remote-at-twine-4398805522?position=18&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=JrHlKb836UKw7WeKTicUDA%3D%3D
+              - generic [ref=e340]: Video Editor (Remote)
+            - generic [ref=e342]:
+              - heading [level=3] [ref=e343]: Video Editor (Remote)
+              - heading [level=4] [ref=e344]:
+                - link [ref=e345] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e346]:
+                - generic [ref=e347]: Australia
+                - generic [ref=e350]: Be an early applicant
+                - time [ref=e351]: 6 days ago
+        - listitem [ref=e352]:
+          - generic [ref=e353]:
+            - link [ref=e354] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/freelance-video-editor-at-twine-4395049042?position=19&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=S8FN6wdp5uCktuQjrwTnvw%3D%3D
+              - generic [ref=e355]: Freelance Video Editor
+            - generic [ref=e357]:
+              - heading [level=3] [ref=e358]: Freelance Video Editor
+              - heading [level=4] [ref=e359]:
+                - link [ref=e360] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e361]:
+                - generic [ref=e362]: United Kingdom
+                - time [ref=e363]: 2 weeks ago
+        - listitem [ref=e364]:
+          - generic [ref=e365]:
+            - link [ref=e366] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/video-editor-%E2%80%93-remote-at-twine-4395969500?position=20&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=9wdctcIPRkaivYcv4Bs9Lg%3D%3D
+              - generic [ref=e367]: Video Editor – Remote
+            - generic [ref=e369]:
+              - heading [level=3] [ref=e370]: Video Editor – Remote
+              - heading [level=4] [ref=e371]:
+                - link [ref=e372] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e373]:
+                - generic [ref=e374]: United Kingdom
+                - time [ref=e375]: 1 week ago
+        - listitem [ref=e376]:
+          - generic [ref=e377]:
+            - link [ref=e378] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/freelance-video-editor-%E2%80%93-youtube-at-twine-4398249603?position=21&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=1K8dTFStLVY4gNFE6oLWlA%3D%3D
+              - generic [ref=e379]: Freelance Video Editor – YouTube
+            - generic [ref=e381]:
+              - heading [level=3] [ref=e382]: Freelance Video Editor – YouTube
+              - heading [level=4] [ref=e383]:
+                - link [ref=e384] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e385]:
+                - generic [ref=e386]: United Kingdom
+                - time [ref=e387]: 1 week ago
+        - listitem [ref=e388]:
+          - generic [ref=e389]:
+            - link [ref=e390] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/freelance-video-editor-at-twine-4385450299?position=22&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=uQZ65K7YVuKuzksXHeZR6A%3D%3D
+              - generic [ref=e391]: Freelance Video Editor
+            - generic [ref=e393]:
+              - heading [level=3] [ref=e394]: Freelance Video Editor
+              - heading [level=4] [ref=e395]:
+                - link [ref=e396] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e397]:
+                - generic [ref=e398]: United States
+                - time [ref=e399]: 6 days ago
+        - listitem [ref=e400]:
+          - generic [ref=e401]:
+            - link [ref=e402] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/freelance-video-editor-%E2%80%93-youtube-at-twine-4398239981?position=23&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=TqqgcweGFiQS2zJJ6VRghA%3D%3D
+              - generic [ref=e403]: Freelance Video Editor – YouTube
+            - generic [ref=e405]:
+              - heading [level=3] [ref=e406]: Freelance Video Editor – YouTube
+              - heading [level=4] [ref=e407]:
+                - link [ref=e408] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e409]:
+                - generic [ref=e410]: United States
+                - time [ref=e411]: 1 week ago
+        - listitem [ref=e412]:
+          - generic [ref=e413]:
+            - link [ref=e414] [cursor=pointer]:
+              - /url: https://in.linkedin.com/jobs/view/ai-video-editor-in-noida-at-astrotalk-4401531827?position=24&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=AreHk1Wr5onPSq2sDqavQw%3D%3D
+              - generic [ref=e415]: AI Video Editor in Noida
+            - generic [ref=e417]:
+              - heading [level=3] [ref=e418]: AI Video Editor in Noida
+              - heading [level=4] [ref=e419]:
+                - link [ref=e420] [cursor=pointer]:
+                  - /url: https://in.linkedin.com/company/astrotalk-online-astrology-predictions?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Astrotalk
+              - generic [ref=e421]:
+                - generic [ref=e422]: Noida, Uttar Pradesh, India
+                - generic [ref=e425]: Actively Hiring
+                - time [ref=e426]: 2 days ago
+        - listitem [ref=e427]:
+          - generic [ref=e428]:
+            - link [ref=e429] [cursor=pointer]:
+              - /url: https://au.linkedin.com/jobs/view/video-editor-%E2%80%93-remote-at-twine-4395984446?position=25&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=uQq8nQZa7ggWU4gCtZCs8g%3D%3D
+              - generic [ref=e430]: Video Editor – Remote
+            - generic [ref=e432]:
+              - heading [level=3] [ref=e433]: Video Editor – Remote
+              - heading [level=4] [ref=e434]:
+                - link [ref=e435] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e436]:
+                - generic [ref=e437]: Australia
+                - generic [ref=e440]: Be an early applicant
+                - time [ref=e441]: 1 week ago
+        - listitem [ref=e442]:
+          - generic [ref=e443]:
+            - link [ref=e444] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/video-editor-%E2%80%93-online-classes-at-twine-4395035607?position=26&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=1%2BMtVnKJWdNKotbv3i8PnQ%3D%3D
+              - generic [ref=e445]: Video Editor – Online Classes
+            - generic [ref=e447]:
+              - heading [level=3] [ref=e448]: Video Editor – Online Classes
+              - heading [level=4] [ref=e449]:
+                - link [ref=e450] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e451]:
+                - generic [ref=e452]: United States
+                - time [ref=e453]: 2 weeks ago
+        - listitem [ref=e454]:
+          - generic [ref=e455]:
+            - link [ref=e456] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/freelance-video-editor-at-twine-4385006053?position=27&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=bNNlPzFwttCg%2F56e78cDhA%3D%3D
+              - generic [ref=e457]: Freelance Video Editor
+            - generic [ref=e459]:
+              - heading [level=3] [ref=e460]: Freelance Video Editor
+              - heading [level=4] [ref=e461]:
+                - link [ref=e462] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e463]:
+                - generic [ref=e464]: United States
+                - time [ref=e465]: 1 week ago
+        - listitem [ref=e466]:
+          - generic [ref=e467]:
+            - link [ref=e468] [cursor=pointer]:
+              - /url: https://in.linkedin.com/jobs/view/video-editor-at-icici-securities-4397769141?position=28&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=RqcKEdpHqhzm4voQB2DYKg%3D%3D
+              - generic [ref=e469]: Video Editor
+            - generic [ref=e471]:
+              - heading [level=3] [ref=e472]: Video Editor
+              - heading [level=4] [ref=e473]:
+                - link [ref=e474] [cursor=pointer]:
+                  - /url: https://in.linkedin.com/company/icicidirect?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: ICICI Securities
+              - generic [ref=e475]:
+                - generic [ref=e476]: Navi Mumbai, Maharashtra, India
+                - generic [ref=e479]: Actively Hiring
+                - time [ref=e480]: 1 week ago
+        - listitem [ref=e481]:
+          - generic [ref=e482]:
+            - link [ref=e483] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/video-editor-at-twine-4384470635?position=29&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=LdhjjyQ3NCHgaO%2BrUTeZRA%3D%3D
+              - generic [ref=e484]: Video Editor
+            - generic [ref=e486]:
+              - heading [level=3] [ref=e487]: Video Editor
+              - heading [level=4] [ref=e488]:
+                - link [ref=e489] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e490]:
+                - generic [ref=e491]: United States
+                - time [ref=e492]: 1 week ago
+        - listitem [ref=e493]:
+          - generic [ref=e494]:
+            - link [ref=e495] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/video-editor-%2465-hr-remote-at-crossing-hurdles-4394258440?position=30&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=tnagjYeuDW3veZYqfUWIQA%3D%3D
+              - generic [ref=e496]: Video Editor | $65/hr Remote
+            - generic [ref=e498]:
+              - heading [level=3] [ref=e499]: Video Editor | $65/hr Remote
+              - heading [level=4] [ref=e500]:
+                - link [ref=e501] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/crossinghurdles?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Crossing Hurdles
+              - generic [ref=e502]:
+                - generic [ref=e503]: United States
+                - time [ref=e504]: 1 week ago
+        - listitem [ref=e505]:
+          - generic [ref=e506]:
+            - link [ref=e507] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/freelance-video-editor-at-twine-4385004105?position=31&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=nG5%2BXe2Skc4WjRajcwgnFw%3D%3D
+              - generic [ref=e508]: Freelance Video Editor
+            - generic [ref=e510]:
+              - heading [level=3] [ref=e511]: Freelance Video Editor
+              - heading [level=4] [ref=e512]:
+                - link [ref=e513] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e514]:
+                - generic [ref=e515]: United Kingdom
+                - time [ref=e516]: 1 week ago
+        - listitem [ref=e517]:
+          - generic [ref=e518]:
+            - link [ref=e519] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/video-editor-freelance-fireship-at-electrify-video-partners-4389092540?position=32&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=BzL97%2FiQejsDiqCoklchPQ%3D%3D
+              - generic [ref=e520]: Video Editor (Freelance), Fireship
+            - generic [ref=e522]:
+              - heading [level=3] [ref=e523]: Video Editor (Freelance), Fireship
+              - heading [level=4] [ref=e524]:
+                - link [ref=e525] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/electrifyvideo?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Electrify Video Partners
+              - generic [ref=e526]:
+                - generic [ref=e527]: United Kingdom
+                - time [ref=e528]: 1 day ago
+        - listitem [ref=e529]:
+          - generic [ref=e530]:
+            - link [ref=e531] [cursor=pointer]:
+              - /url: https://ca.linkedin.com/jobs/view/video-editor-remote-at-twine-4399504948?position=33&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=QMzgDFqFzdLB8i2iq%2BrhcQ%3D%3D
+              - generic [ref=e532]: Video Editor (Remote)
+            - generic [ref=e534]:
+              - heading [level=3] [ref=e535]: Video Editor (Remote)
+              - heading [level=4] [ref=e536]:
+                - link [ref=e537] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e538]:
+                - generic [ref=e539]: Canada
+                - generic [ref=e542]: Be an early applicant
+                - time [ref=e543]: 2 days ago
+        - listitem [ref=e544]:
+          - generic [ref=e545]:
+            - link [ref=e546] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/video-editor-%E2%80%93-podcast-at-twine-4398250394?position=34&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=avVIYzlV%2BEO%2FLKKmMIGB%2BQ%3D%3D
+              - generic [ref=e547]: Video Editor – Podcast
+            - generic [ref=e549]:
+              - heading [level=3] [ref=e550]: Video Editor – Podcast
+              - heading [level=4] [ref=e551]:
+                - link [ref=e552] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e553]:
+                - generic [ref=e554]: United States
+                - time [ref=e555]: 1 week ago
+        - listitem [ref=e556]:
+          - generic [ref=e557]:
+            - link [ref=e558] [cursor=pointer]:
+              - /url: https://id.linkedin.com/jobs/view/video-editor-at-getfound-strategic-growth-consulting-4400095289?position=35&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=ST%2BRTSXdbtOK6KT90Ge5Eg%3D%3D
+              - generic [ref=e559]: Video Editor
+            - generic [ref=e561]:
+              - heading [level=3] [ref=e562]: Video Editor
+              - heading [level=4] [ref=e563]:
+                - link [ref=e564] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/company/getfound-id?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: GetFound | Strategic Growth Consulting
+              - generic [ref=e565]:
+                - generic [ref=e566]: Setiabudi, Jakarta, Indonesia
+                - time [ref=e567]: 2 days ago
+        - listitem [ref=e568]:
+          - generic [ref=e569]:
+            - link [ref=e570] [cursor=pointer]:
+              - /url: https://ch.linkedin.com/jobs/view/freelance-video-editor-%E2%80%93-short-form-remote-at-twine-4397062735?position=36&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=qo9Xy7NMJvBCa2dgoAuX%2FA%3D%3D
+              - generic [ref=e571]: Freelance Video Editor – Short Form Remote
+            - generic [ref=e573]:
+              - heading [level=3] [ref=e574]: Freelance Video Editor – Short Form Remote
+              - heading [level=4] [ref=e575]:
+                - link [ref=e576] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e577]:
+                - generic [ref=e578]: Switzerland
+                - time [ref=e579]: 1 week ago
+        - listitem [ref=e580]:
+          - generic [ref=e581]:
+            - link [ref=e582] [cursor=pointer]:
+              - /url: https://in.linkedin.com/jobs/view/video-editor-at-chord-a-1702-network-agency-4399719127?position=37&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=2CFLyUl6VZX3Qa2kYCnsyQ%3D%3D
+              - generic [ref=e583]: Video Editor
+            - generic [ref=e585]:
+              - heading [level=3] [ref=e586]: Video Editor
+              - heading [level=4] [ref=e587]:
+                - link [ref=e588] [cursor=pointer]:
+                  - /url: https://in.linkedin.com/company/chordcreative?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: "Chord : A 1702 Network Agency"
+              - generic [ref=e589]:
+                - generic [ref=e590]: Ahmedabad, Gujarat, India
+                - time [ref=e591]: 1 day ago
+        - listitem [ref=e592]:
+          - generic [ref=e593]:
+            - link [ref=e594] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/freelance-video-editor-%E2%80%93-documentary-at-twine-4396968141?position=38&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=UCPW3OKQttUzOayX0Uu%2FvQ%3D%3D
+              - generic [ref=e595]: Freelance Video Editor – Documentary
+            - generic [ref=e597]:
+              - heading [level=3] [ref=e598]: Freelance Video Editor – Documentary
+              - heading [level=4] [ref=e599]:
+                - link [ref=e600] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e601]:
+                - generic [ref=e602]: United Kingdom
+                - time [ref=e603]: 1 week ago
+        - listitem [ref=e604]:
+          - generic [ref=e605]:
+            - link [ref=e606] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/video-editor-freelance-fireship-at-electrify-video-partners-4389082920?position=39&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=aJf4ujM7EunaMuGCFoJ4xg%3D%3D
+              - generic [ref=e607]: Video Editor (Freelance), Fireship
+            - generic [ref=e609]:
+              - heading [level=3] [ref=e610]: Video Editor (Freelance), Fireship
+              - heading [level=4] [ref=e611]:
+                - link [ref=e612] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/electrifyvideo?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Electrify Video Partners
+              - generic [ref=e613]:
+                - generic [ref=e614]: United States
+                - time [ref=e615]: 1 day ago
+        - listitem [ref=e616]:
+          - generic [ref=e617]:
+            - link [ref=e618] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/video-editor-%E2%80%93-online-classes-at-twine-4395042211?position=40&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=oBQmjKelBiyoOzdRp%2FIKZQ%3D%3D
+              - generic [ref=e619]: Video Editor – Online Classes
+            - generic [ref=e621]:
+              - heading [level=3] [ref=e622]: Video Editor – Online Classes
+              - heading [level=4] [ref=e623]:
+                - link [ref=e624] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e625]:
+                - generic [ref=e626]: United Kingdom
+                - time [ref=e627]: 2 weeks ago
+        - listitem [ref=e628]:
+          - generic [ref=e629]:
+            - link [ref=e630] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/freelance-video-editor-at-twine-4395974488?position=41&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=pLtS31uJmLuEkulyYrk%2BQg%3D%3D
+              - generic [ref=e631]: Freelance Video Editor
+            - generic [ref=e633]:
+              - heading [level=3] [ref=e634]: Freelance Video Editor
+              - heading [level=4] [ref=e635]:
+                - link [ref=e636] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e637]:
+                - generic [ref=e638]: United States
+                - time [ref=e639]: 1 week ago
+        - listitem [ref=e640]:
+          - generic [ref=e641]:
+            - link [ref=e642] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/freelance-video-editor-at-twine-4398256133?position=42&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=rVfgBZWmT5MDZngbyyoJQg%3D%3D
+              - generic [ref=e643]: Freelance Video Editor
+            - generic [ref=e645]:
+              - heading [level=3] [ref=e646]: Freelance Video Editor
+              - heading [level=4] [ref=e647]:
+                - link [ref=e648] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e649]:
+                - generic [ref=e650]: United Kingdom
+                - time [ref=e651]: 1 week ago
+        - listitem [ref=e652]:
+          - generic [ref=e653]:
+            - link [ref=e654] [cursor=pointer]:
+              - /url: https://nz.linkedin.com/jobs/view/video-editor-remote-at-twine-4398693805?position=43&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=vyi1xEBZ9MOLHbaTE8%2FVsQ%3D%3D
+              - generic [ref=e655]: Video Editor (Remote)
+            - generic [ref=e657]:
+              - heading [level=3] [ref=e658]: Video Editor (Remote)
+              - heading [level=4] [ref=e659]:
+                - link [ref=e660] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e661]:
+                - generic [ref=e662]: New Zealand
+                - generic [ref=e665]: Be an early applicant
+                - time [ref=e666]: 6 days ago
+        - listitem [ref=e667]:
+          - generic [ref=e668]:
+            - link [ref=e669] [cursor=pointer]:
+              - /url: https://nz.linkedin.com/jobs/view/video-editor-remote-at-twine-4399520797?position=44&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=OBQaC9wP%2FBCw9nOc5%2FD6KA%3D%3D
+              - generic [ref=e670]: Video Editor (Remote)
+            - generic [ref=e672]:
+              - heading [level=3] [ref=e673]: Video Editor (Remote)
+              - heading [level=4] [ref=e674]:
+                - link [ref=e675] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e676]:
+                - generic [ref=e677]: New Zealand
+                - generic [ref=e680]: Be an early applicant
+                - time [ref=e681]: 2 days ago
+        - listitem [ref=e682]:
+          - generic [ref=e683]:
+            - link [ref=e684] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/video-editor-%E2%80%93-podcast-at-twine-4398248815?position=45&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=%2BXd1FGaYSw5ldoJKntbtDA%3D%3D
+              - generic [ref=e685]: Video Editor – Podcast
+            - generic [ref=e687]:
+              - heading [level=3] [ref=e688]: Video Editor – Podcast
+              - heading [level=4] [ref=e689]:
+                - link [ref=e690] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e691]:
+                - generic [ref=e692]: United Kingdom
+                - time [ref=e693]: 1 week ago
+        - listitem [ref=e694]:
+          - generic [ref=e695]:
+            - link [ref=e696] [cursor=pointer]:
+              - /url: https://al.linkedin.com/jobs/view/video-editor-ai-content-creator-at-bored-panda-4400754228?position=46&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=NKi31jOaeHJx%2F9yAxiWysw%3D%3D
+              - generic [ref=e697]: Video Editor/AI Content Creator
+            - generic [ref=e699]:
+              - heading [level=3] [ref=e700]: Video Editor/AI Content Creator
+              - heading [level=4] [ref=e701]:
+                - link [ref=e702] [cursor=pointer]:
+                  - /url: https://lt.linkedin.com/company/boredpanda?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Bored Panda
+              - generic [ref=e703]:
+                - generic [ref=e704]: Albania
+                - generic [ref=e707]: Actively Hiring
+                - time [ref=e708]: 1 day ago
+        - listitem [ref=e709]:
+          - generic [ref=e710]:
+            - link [ref=e711] [cursor=pointer]:
+              - /url: https://au.linkedin.com/jobs/view/remote-video-editor-at-twine-4399549525?position=47&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=q%2B3ov86Umbvhl9piJET2zg%3D%3D
+              - generic [ref=e712]: Remote Video Editor
+            - generic [ref=e714]:
+              - heading [level=3] [ref=e715]: Remote Video Editor
+              - heading [level=4] [ref=e716]:
+                - link [ref=e717] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e718]:
+                - generic [ref=e719]: Australia
+                - generic [ref=e722]: Be an early applicant
+                - time [ref=e723]: 2 days ago
+        - listitem [ref=e724]:
+          - generic [ref=e725]:
+            - link [ref=e726] [cursor=pointer]:
+              - /url: https://ca.linkedin.com/jobs/view/freelance-video-editor-%E2%80%93-short-form-remote-at-twine-4397071245?position=48&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=YTfS%2FDxfwLhD9S%2BBYM%2FOLQ%3D%3D
+              - generic [ref=e727]: Freelance Video Editor – Short Form Remote
+            - generic [ref=e729]:
+              - heading [level=3] [ref=e730]: Freelance Video Editor – Short Form Remote
+              - heading [level=4] [ref=e731]:
+                - link [ref=e732] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e733]:
+                - generic [ref=e734]: Canada
+                - time [ref=e735]: 1 week ago
+        - listitem [ref=e736]:
+          - generic [ref=e737]:
+            - link [ref=e738] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/freelance-video-editor-%E2%80%93-remote-at-twine-4396967153?position=49&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=AuzMgWh6BsUUhnLFUMU8OQ%3D%3D
+              - generic [ref=e739]: Freelance Video Editor – Remote
+            - generic [ref=e741]:
+              - heading [level=3] [ref=e742]: Freelance Video Editor – Remote
+              - heading [level=4] [ref=e743]:
+                - link [ref=e744] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e745]:
+                - generic [ref=e746]: United Kingdom
+                - time [ref=e747]: 1 week ago
+        - listitem [ref=e748]:
+          - generic [ref=e749]:
+            - link [ref=e750] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/freelance-video-editor-%E2%80%93-remote-at-twine-4396960408?position=50&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=54LZEdIhJ1QBeEdmCSThuw%3D%3D
+              - generic [ref=e751]: Freelance Video Editor – Remote
+            - generic [ref=e753]:
+              - heading [level=3] [ref=e754]: Freelance Video Editor – Remote
+              - heading [level=4] [ref=e755]:
+                - link [ref=e756] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e757]:
+                - generic [ref=e758]: United States
+                - time [ref=e759]: 1 week ago
+        - listitem [ref=e760]:
+          - generic [ref=e761]:
+            - link [ref=e762] [cursor=pointer]:
+              - /url: https://ch.linkedin.com/jobs/view/video-editor-%E2%80%93-remote-at-twine-4395985481?position=51&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=z7c5wUqDHl1V%2F3KtAo6rzg%3D%3D
+              - generic [ref=e763]: Video Editor – Remote
+            - generic [ref=e765]:
+              - heading [level=3] [ref=e766]: Video Editor – Remote
+              - heading [level=4] [ref=e767]:
+                - link [ref=e768] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e769]:
+                - generic [ref=e770]: Switzerland
+                - time [ref=e771]: 1 week ago
+        - listitem [ref=e772]:
+          - generic [ref=e773]:
+            - link [ref=e774] [cursor=pointer]:
+              - /url: https://ca.linkedin.com/jobs/view/video-editor-%E2%80%93-freelancer-at-twine-4396951724?position=52&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=OXOEm1TnH7sUZOKCtg7fSQ%3D%3D
+              - generic [ref=e775]: Video Editor – Freelancer
+            - generic [ref=e777]:
+              - heading [level=3] [ref=e778]: Video Editor – Freelancer
+              - heading [level=4] [ref=e779]:
+                - link [ref=e780] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e781]:
+                - generic [ref=e782]: Canada
+                - time [ref=e783]: 1 week ago
+        - listitem [ref=e784]:
+          - generic [ref=e785]:
+            - link [ref=e786] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/video-editor-remote-at-yo-hr-consultancy-4390027220?position=53&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=qr8weFrHTuaA09Z9OW8qlQ%3D%3D
+              - generic [ref=e787]: Video Editor - Remote
+            - generic [ref=e789]:
+              - heading [level=3] [ref=e790]: Video Editor - Remote
+              - heading [level=4] [ref=e791]:
+                - link [ref=e792] [cursor=pointer]:
+                  - /url: https://in.linkedin.com/company/yo-hr-consultancy-pvt-ltd?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: YO HR Consultancy
+              - generic [ref=e793]:
+                - generic [ref=e794]: United States
+                - generic [ref=e797]: Actively Hiring
+                - time [ref=e798]: 2 days ago
+        - listitem [ref=e799]:
+          - generic [ref=e800]:
+            - link [ref=e801] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/freelance-video-editor-%E2%80%93-podcast-at-twine-4385475506?position=54&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=buW4uHFv0kjfRZ%2FhIR3Vcw%3D%3D
+              - generic [ref=e802]: Freelance Video Editor – Podcast
+            - generic [ref=e804]:
+              - heading [level=3] [ref=e805]: Freelance Video Editor – Podcast
+              - heading [level=4] [ref=e806]:
+                - link [ref=e807] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e808]:
+                - generic [ref=e809]: United Kingdom
+                - time [ref=e810]: 5 days ago
+        - listitem [ref=e811]:
+          - generic [ref=e812]:
+            - link [ref=e813] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/freelance-video-editor-%E2%80%93-podcast-editing-remote-us-at-twine-4388084642?position=55&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=rtuHT7AXQ1Wb59m7Tz40dw%3D%3D
+              - generic [ref=e814]: Freelance Video Editor – Podcast Editing (Remote, US)
+            - generic [ref=e816]:
+              - heading [level=3] [ref=e817]: Freelance Video Editor – Podcast Editing (Remote, US)
+              - heading [level=4] [ref=e818]:
+                - link [ref=e819] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e820]:
+                - generic [ref=e821]: United States
+                - time [ref=e822]: 18 hours ago
+        - listitem [ref=e823]:
+          - generic [ref=e824]:
+            - link [ref=e825] [cursor=pointer]:
+              - /url: https://in.linkedin.com/jobs/view/junior-video-editor-in-greater-noida-noida-at-appversal-4401532855?position=56&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=QXuFW6BZ99hC1c8frsPV0w%3D%3D
+              - generic [ref=e826]: Junior Video Editor in Greater Noida, Noida
+            - generic [ref=e828]:
+              - heading [level=3] [ref=e829]: Junior Video Editor in Greater Noida, Noida
+              - heading [level=4] [ref=e830]:
+                - link [ref=e831] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/appversal?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: AppVersal
+              - generic [ref=e832]:
+                - generic [ref=e833]: Noida, Uttar Pradesh, India
+                - generic [ref=e836]: Be an early applicant
+                - time [ref=e837]: 2 days ago
+        - listitem [ref=e838]:
+          - generic [ref=e839]:
+            - link [ref=e840] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/freelance-video-editor-at-twine-4395969505?position=57&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=dACg%2Bq9GOywU%2BVWVjt7RjQ%3D%3D
+              - generic [ref=e841]: Freelance Video Editor
+            - generic [ref=e843]:
+              - heading [level=3] [ref=e844]: Freelance Video Editor
+              - heading [level=4] [ref=e845]:
+                - link [ref=e846] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/twine-net?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Twine
+              - generic [ref=e847]:
+                - generic [ref=e848]: United Kingdom
+                - generic [ref=e851]: Be an early applicant
+                - time [ref=e852]: 1 week ago
+        - listitem [ref=e853]:
+          - generic [ref=e854]:
+            - link [ref=e855] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/social-videographer-and-video-editor-at-eucalyptus-4384981905?position=58&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=33%2F7QG90mG6PnpfU0gC3xw%3D%3D
+              - generic [ref=e856]: Social Videographer and Video Editor
+            - generic [ref=e858]:
+              - heading [level=3] [ref=e859]: Social Videographer and Video Editor
+              - heading [level=4] [ref=e860]:
+                - link [ref=e861] [cursor=pointer]:
+                  - /url: https://au.linkedin.com/company/eucalyptusvc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Eucalyptus
+              - generic [ref=e862]:
+                - generic [ref=e863]: London, England, United Kingdom
+                - generic [ref=e866]: Actively Hiring
+                - time [ref=e867]: 2 weeks ago
+        - listitem [ref=e868]:
+          - generic [ref=e869]:
+            - link [ref=e870] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/video-editor-remote-at-apply4u-apply4u-human-assisted-ai-job-recruitment-platform-4387437859?position=59&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=vt4jqA6lmgTMqaXPfiAqBA%3D%3D
+              - generic [ref=e871]: Video Editor (Remote)
+            - generic [ref=e873]:
+              - heading [level=3] [ref=e874]: Video Editor (Remote)
+              - heading [level=4] [ref=e875]:
+                - link [ref=e876] [cursor=pointer]:
+                  - /url: https://uk.linkedin.com/company/apply4ukjobsearch?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Apply4U | Apply4U | Human-Assisted AI Job & Recruitment Platform
+              - generic [ref=e877]:
+                - generic [ref=e878]: United Kingdom
+                - time [ref=e879]: 4 weeks ago
+        - listitem [ref=e880]:
+          - generic [ref=e881]:
+            - link [ref=e882] [cursor=pointer]:
+              - /url: https://uk.linkedin.com/jobs/view/video-editor-%2465-hr-remote-at-crossing-hurdles-4394263414?position=60&pageNum=0&refId=u0HTTw7L0FqoZXzI9HqOvA%3D%3D&trackingId=Bpmg91RG7QGJ9huvAbJXsw%3D%3D
+              - generic [ref=e883]: Video Editor | $65/hr Remote
+            - generic [ref=e885]:
+              - heading [level=3] [ref=e886]: Video Editor | $65/hr Remote
+              - heading [level=4] [ref=e887]:
+                - link [ref=e888] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/crossinghurdles?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Crossing Hurdles
+              - generic [ref=e889]:
+                - generic [ref=e890]: United Kingdom
+                - time [ref=e891]: 1 week ago
+    - contentinfo [ref=e892]:
+      - list [ref=e893]:
+        - listitem [ref=e894]:
+          - generic [ref=e895]: LinkedIn
+          - generic [ref=e897]: © 2026
+        - listitem [ref=e898]:
+          - link [ref=e899] [cursor=pointer]:
+            - /url: https://about.linkedin.com?trk=public_jobs_footer-about
+            - text: About
+        - listitem [ref=e900]:
+          - link [ref=e901] [cursor=pointer]:
+            - /url: https://www.linkedin.com/accessibility?trk=public_jobs_footer-accessibility
+            - text: Accessibility
+        - listitem [ref=e902]:
+          - link [ref=e903] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/user-agreement?trk=public_jobs_footer-user-agreement
+            - text: User Agreement
+        - listitem [ref=e904]:
+          - link [ref=e905] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/privacy-policy?trk=public_jobs_footer-privacy-policy
+            - text: Privacy Policy
+        - listitem [ref=e906]:
+          - link [ref=e907] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/cookie-policy?trk=public_jobs_footer-cookie-policy
+            - text: Cookie Policy
+        - listitem [ref=e908]:
+          - link [ref=e909] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/copyright-policy?trk=public_jobs_footer-copyright-policy
+            - text: Copyright Policy
+        - listitem [ref=e910]:
+          - link [ref=e911] [cursor=pointer]:
+            - /url: https://brand.linkedin.com/policies?trk=public_jobs_footer-brand-policy
+            - text: Brand Policy
+        - listitem [ref=e912]:
+          - link [ref=e913] [cursor=pointer]:
+            - /url: https://www.linkedin.com/psettings/guest-controls?trk=public_jobs_footer-guest-controls
+            - text: Guest Controls
+        - listitem [ref=e914]:
+          - link [ref=e915] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/professional-community-policies?trk=public_jobs_footer-community-guide
+            - text: Community Guidelines
+        - listitem [ref=e916]:
+          - button [ref=e918]: Language
+  - dialog "Join now to view more jobs" [active] [ref=e921]:
+    - button "Dismiss" [ref=e922] [cursor=pointer]:
+      - img [ref=e924]
+    - generic [ref=e927]:
+      - generic [ref=e928]:
+        - img [ref=e929]
+        - heading "Join now to view more jobs" [level=2] [ref=e930]
+      - generic [ref=e931]:
+        - button "Continue with google" [ref=e934]:
+          - generic [ref=e935]:
+            - button "Continue with Google" [ref=e937] [cursor=pointer]:
+              - generic [ref=e939]:
+                - img [ref=e942]
+                - generic [ref=e949]: Continue with Google
+            - iframe
+        - link "Join with email" [ref=e950] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-with-email-cta
+          - img [ref=e952]
+          - generic [ref=e954]: Join with email
+        - paragraph [ref=e956]: or
+        - button "Continue with google" [ref=e958]:
+          - generic [ref=e959]:
+            - button "Continue with Google" [ref=e961] [cursor=pointer]:
+              - generic [ref=e963]:
+                - img [ref=e965]
+                - generic [ref=e972]: Continue with Google
+            - iframe
+        - paragraph [ref=e973]:
+          - text: Already on LinkedIn?
+          - link "Sign in" [ref=e974] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?trk=public_jobs_contextual-sign-in-modal_sign-in-link
+        - paragraph [ref=e975]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=e976] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=e977] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=e978] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

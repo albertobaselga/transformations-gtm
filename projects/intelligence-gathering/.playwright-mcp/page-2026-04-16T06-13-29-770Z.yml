@@ -1,0 +1,1678 @@
+- generic [active] [ref=e1]:
+  - dialog "Gestionar consentimiento" [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]: Gestionar consentimiento
+      - button "Cerrar ventana" [ref=e5] [cursor=pointer]:
+        - img [ref=e6]: 
+    - generic [ref=e9]: Para ofrecer las mejores experiencias, utilizamos tecnologías como las cookies para almacenar y/o acceder a la información del dispositivo. El consentimiento de estas tecnologías nos permitirá procesar datos como el comportamiento de navegación o las identificaciones únicas en este sitio. No consentir o retirar el consentimiento, puede afectar negativamente a ciertas características y funciones.
+    - generic [ref=e10]:
+      - button "Aceptar" [ref=e11] [cursor=pointer]
+      - button "Denegar" [ref=e12] [cursor=pointer]
+      - button "Ver preferencias" [ref=e13] [cursor=pointer]
+    - list [ref=e15]:
+      - listitem [ref=e16]:
+        - link "Política de cookies" [ref=e17] [cursor=pointer]:
+          - /url: https://www.notodoanimacion.es/politica-de-cookies-ue/
+      - listitem [ref=e18]:
+        - link "política de privacidad & cookies" [ref=e19] [cursor=pointer]:
+          - /url: https://www.notodoanimacion.es/politica-de-privacidad/
+      - listitem [ref=e20]:
+        - link "política de privacidad & cookies" [ref=e21] [cursor=pointer]:
+          - /url: https://www.notodoanimacion.es/politica-de-privacidad/
+  - generic [ref=e24]:
+    - banner [ref=e25]:
+      - text: 
+      - navigation "Menú de Navegación principal" [ref=e27]:
+        - generic [ref=e29]:
+          - link "Notodoanimacion.es | noticias, recursos, tutoriales y empleo para Artistas Digitales Notodoanimacion.es | noticias, recursos, tutoriales y empleo para Artistas Digitales" [ref=e32] [cursor=pointer]:
+            - /url: https://www.notodoanimacion.es/
+            - img "Notodoanimacion.es | noticias, recursos, tutoriales y empleo para Artistas Digitales" [ref=e34]
+            - heading "Notodoanimacion.es | noticias, recursos, tutoriales y empleo para Artistas Digitales" [level=1] [ref=e35]
+          - list [ref=e37]:
+            - listitem [ref=e38]:
+              - link "Menú" [ref=e39] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e41]: Menú
+            - listitem [ref=e42]:
+              - link "Acceso" [ref=e43] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e44]: 
+                - generic [ref=e45]: Acceso
+          - text: 
+    - generic [ref=e47]:
+      - generic [ref=e53]:
+        - list:
+          - listitem:
+            - generic [ref=e54] [cursor=pointer]: 
+          - listitem:
+            - generic [ref=e55] [cursor=pointer]: 
+        - listbox [ref=e57]:
+          - generic [ref=e58]:
+            - link [ref=e59] [cursor=pointer]:
+              - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+            - generic [ref=e61]:
+              - generic:
+                - link [ref=e63] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/promociones/becas/
+                  - text: becas & formación para artistas digitales
+                - generic: Hace 4 días
+                - heading [level=2]:
+                  - link [ref=e64] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+                    - text: Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush
+          - option "Tadeo Jones y la Lámpara Maravillosa | Teaser Tráiler e imágenes de la nueva película estrenos de animación y cgi Hace 3 días Tadeo Jones y la Lámpara Maravillosa | Teaser Tráiler e imágenes de la nueva película" [ref=e65]:
+            - link "Tadeo Jones y la Lámpara Maravillosa | Teaser Tráiler e imágenes de la nueva película" [ref=e66] [cursor=pointer]:
+              - /url: https://www.notodoanimacion.es/tadeo-jones-y-la-lampara-maravillosa-teaser-trailer-e-imagenes-de-la-nueva-pelicula/
+            - generic [ref=e68]:
+              - generic:
+                - link "estrenos de animación y cgi" [ref=e70] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/estrenos/
+                - generic: Hace 3 días
+                - heading "Tadeo Jones y la Lámpara Maravillosa | Teaser Tráiler e imágenes de la nueva película" [level=2]:
+                  - link "Tadeo Jones y la Lámpara Maravillosa | Teaser Tráiler e imágenes de la nueva película" [ref=e71] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/tadeo-jones-y-la-lampara-maravillosa-teaser-trailer-e-imagenes-de-la-nueva-pelicula/
+          - option [ref=e72]:
+            - link [ref=e73] [cursor=pointer]:
+              - /url: https://www.notodoanimacion.es/las-mejores-peliculas-de-animacion-del-2026-estrenos-y-trailers/
+            - generic [ref=e75]:
+              - generic:
+                - link [ref=e77] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/estrenos/
+                  - text: estrenos de animación y cgi
+                - generic: Hace 4 días
+                - heading [level=2]:
+                  - link [ref=e78] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/las-mejores-peliculas-de-animacion-del-2026-estrenos-y-trailers/
+                    - text: Las mejores Películas de Animación del 2026 | Estrenos y Tráilers
+          - option [ref=e79]:
+            - link [ref=e80] [cursor=pointer]:
+              - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+            - generic [ref=e82]:
+              - generic:
+                - link [ref=e84] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/recursos/
+                  - text: recursos de animación 2d, 3d, ilustración y vfx
+                - generic: Hace 4 días
+                - heading [level=2]:
+                  - link [ref=e85] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+                    - text: TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos
+          - option [ref=e86]:
+            - link [ref=e87] [cursor=pointer]:
+              - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+            - generic [ref=e89]:
+              - generic:
+                - link [ref=e91] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/promociones/becas/
+                  - text: becas & formación para artistas digitales
+                - generic: Hace 4 días
+                - heading [level=2]:
+                  - link [ref=e92] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+                    - text: Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush
+          - generic [ref=e93]:
+            - link [ref=e94] [cursor=pointer]:
+              - /url: https://www.notodoanimacion.es/tadeo-jones-y-la-lampara-maravillosa-teaser-trailer-e-imagenes-de-la-nueva-pelicula/
+            - generic [ref=e96]:
+              - generic:
+                - link [ref=e98] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/estrenos/
+                  - text: estrenos de animación y cgi
+                - generic: Hace 3 días
+                - heading [level=2]:
+                  - link [ref=e99] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/tadeo-jones-y-la-lampara-maravillosa-teaser-trailer-e-imagenes-de-la-nueva-pelicula/
+                    - text: Tadeo Jones y la Lámpara Maravillosa | Teaser Tráiler e imágenes de la nueva película
+      - generic [ref=e104]:
+        - generic [ref=e105]:
+          - heading "BECAS Y FORMACIÓN ❤️" [level=3] [ref=e106]:
+            - link "BECAS Y FORMACIÓN ❤️" [ref=e107] [cursor=pointer]:
+              - /url: https://www.notodoanimacion.es/becas-para-estudiar-animacion-2d-3d-ilustracion-manga-y-arte-para-videojuegos/
+          - list [ref=e110]:
+            - listitem [ref=e111]:
+              - generic [ref=e113] [cursor=pointer]: 
+            - listitem [ref=e114]:
+              - generic [ref=e116] [cursor=pointer]: 
+        - toolbar [ref=e119]:
+          - listbox [ref=e121]:
+            - generic [ref=e122]:
+              - link [ref=e124] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/cursos-online-de-3d-animacion-vfx-y-videojuegos-oferton/
+                - strong [ref=e126]: "9.1"
+                - img [ref=e127]
+              - generic [ref=e128]:
+                - generic [ref=e129]:
+                  - generic [ref=e130]:  16 diciembre, 2025
+                  - generic [ref=e131]:
+                    - generic [ref=e132]:  0
+                    - generic [ref=e133]:
+                      - generic [ref=e134]: 
+                      - text: "7.003"
+                - heading [level=2] [ref=e135]:
+                  - link [ref=e136] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/cursos-online-de-3d-animacion-vfx-y-videojuegos-oferton/
+                    - text: Cursos y Masters Online de Animación, Dibujo, 3D, VFX, Videojuegos, Archviz, y Arte Digital | *DESCUENTO 20%
+            - generic [ref=e137]:
+              - link [ref=e139] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz/
+                - img [ref=e140]
+              - generic [ref=e141]:
+                - generic [ref=e142]:
+                  - generic [ref=e143]:  16 enero, 2026
+                  - generic [ref=e144]:
+                    - generic [ref=e145]:  0
+                    - generic [ref=e146]:
+                      - generic [ref=e147]: 
+                      - text: "0"
+                - heading [level=2] [ref=e148]:
+                  - link [ref=e149] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz/
+                    - text: Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) *20% DESCUENTO
+            - generic [ref=e150]:
+              - link [ref=e152] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/master-de-dibujo-y-pintura-digital-desde-cero/
+                - img [ref=e153]
+              - generic [ref=e154]:
+                - generic [ref=e155]:
+                  - generic [ref=e156]:  3 noviembre, 2025
+                  - generic [ref=e157]:
+                    - generic [ref=e158]:  0
+                    - generic [ref=e159]:
+                      - generic [ref=e160]: 
+                      - text: "3"
+                - heading [level=2] [ref=e161]:
+                  - link [ref=e162] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/master-de-dibujo-y-pintura-digital-desde-cero/
+                    - text: Máster de Dibujo y Pintura Digital desde Cero | ONLINE EN DIRECTO
+            - option "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos  Hace 4 días  0 5.498 TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [ref=e163]:
+              - link "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [ref=e165] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+                - strong [ref=e167]: "9.2"
+                - img "creación y diseño de personajes online" [ref=e168]
+              - generic [ref=e169]:
+                - generic [ref=e170]:
+                  - generic [ref=e171]:  Hace 4 días
+                  - generic [ref=e172]:
+                    - generic [ref=e173]:  0
+                    - generic [ref=e174]:
+                      - generic [ref=e175]: 
+                      - text: "5.498"
+                - heading "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [level=2] [ref=e176]:
+                  - link "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [ref=e177] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+            - option "Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush  Hace 4 días  0 1 Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush" [ref=e178]:
+              - link "Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush" [ref=e180] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+                - img "Curso de anatomía humana" [ref=e181]
+              - generic [ref=e182]:
+                - generic [ref=e183]:
+                  - generic [ref=e184]:  Hace 4 días
+                  - generic [ref=e185]:
+                    - generic [ref=e186]:  0
+                    - generic [ref=e187]:
+                      - generic [ref=e188]: 
+                      - text: "1"
+                - heading "Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush" [level=2] [ref=e189]:
+                  - link "Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush" [ref=e190] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+            - option "Curso de Unreal Engine 5 desde cero | Online y en Español  5 febrero, 2026  0 0 Curso de Unreal Engine 5 desde cero | Online y en Español" [ref=e191]:
+              - link "Curso de Unreal Engine 5 desde cero | Online y en Español" [ref=e193] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/curso-de-unreal-engine-5-desde-cero-online-y-en-espanol/
+                - img "Curso de Unreal Engine 5 desde cero" [ref=e194]
+              - generic [ref=e195]:
+                - generic [ref=e196]:
+                  - generic [ref=e197]:  5 febrero, 2026
+                  - generic [ref=e198]:
+                    - generic [ref=e199]:  0
+                    - generic [ref=e200]:
+                      - generic [ref=e201]: 
+                      - text: "0"
+                - heading "Curso de Unreal Engine 5 desde cero | Online y en Español" [level=2] [ref=e202]:
+                  - link "Curso de Unreal Engine 5 desde cero | Online y en Español" [ref=e203] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-unreal-engine-5-desde-cero-online-y-en-espanol/
+            - option [ref=e204]:
+              - link [ref=e206] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-cabeza-y-cuello-en-zbrush/
+                - img [ref=e207]
+              - generic [ref=e208]:
+                - generic [ref=e209]:
+                  - generic [ref=e210]:  Hace 4 días
+                  - generic [ref=e211]:
+                    - generic [ref=e212]:  0
+                    - generic [ref=e213]:
+                      - generic [ref=e214]: 
+                      - text: "1"
+                - heading [level=2] [ref=e215]:
+                  - link [ref=e216] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-cabeza-y-cuello-en-zbrush/
+                    - text: Curso de Anatomía Humana | 1. Cabeza y Cuello en ZBrush
+            - option [ref=e217]:
+              - link [ref=e219] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz-avanzado/
+                - img [ref=e220]
+              - generic [ref=e221]:
+                - generic [ref=e222]:
+                  - generic [ref=e223]:  18 diciembre, 2025
+                  - generic [ref=e224]:
+                    - generic [ref=e225]:  0
+                    - generic [ref=e226]:
+                      - generic [ref=e227]: 
+                      - text: "0"
+                - heading [level=2] [ref=e228]:
+                  - link [ref=e229] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz-avanzado/
+                    - text: Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) AVANZADO *20% DESCUENTO
+            - option [ref=e230]:
+              - link [ref=e232] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/cursos-online-de-3d-animacion-vfx-y-videojuegos-oferton/
+                - strong [ref=e234]: "9.1"
+                - img [ref=e235]
+              - generic [ref=e236]:
+                - generic [ref=e237]:
+                  - generic [ref=e238]:  16 diciembre, 2025
+                  - generic [ref=e239]:
+                    - generic [ref=e240]:  0
+                    - generic [ref=e241]:
+                      - generic [ref=e242]: 
+                      - text: "7.003"
+                - heading [level=2] [ref=e243]:
+                  - link [ref=e244] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/cursos-online-de-3d-animacion-vfx-y-videojuegos-oferton/
+                    - text: Cursos y Masters Online de Animación, Dibujo, 3D, VFX, Videojuegos, Archviz, y Arte Digital | *DESCUENTO 20%
+            - option [ref=e245]:
+              - link [ref=e247] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz/
+                - img [ref=e248]
+              - generic [ref=e249]:
+                - generic [ref=e250]:
+                  - generic [ref=e251]:  16 enero, 2026
+                  - generic [ref=e252]:
+                    - generic [ref=e253]:  0
+                    - generic [ref=e254]:
+                      - generic [ref=e255]: 
+                      - text: "0"
+                - heading [level=2] [ref=e256]:
+                  - link [ref=e257] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz/
+                    - text: Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) *20% DESCUENTO
+            - option [ref=e258]:
+              - link [ref=e260] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/master-de-dibujo-y-pintura-digital-desde-cero/
+                - img [ref=e261]
+              - generic [ref=e262]:
+                - generic [ref=e263]:
+                  - generic [ref=e264]:  3 noviembre, 2025
+                  - generic [ref=e265]:
+                    - generic [ref=e266]:  0
+                    - generic [ref=e267]:
+                      - generic [ref=e268]: 
+                      - text: "3"
+                - heading [level=2] [ref=e269]:
+                  - link [ref=e270] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/master-de-dibujo-y-pintura-digital-desde-cero/
+                    - text: Máster de Dibujo y Pintura Digital desde Cero | ONLINE EN DIRECTO
+            - generic [ref=e271]:
+              - link [ref=e273] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+                - strong [ref=e275]: "9.2"
+                - img [ref=e276]
+              - generic [ref=e277]:
+                - generic [ref=e278]:
+                  - generic [ref=e279]:  Hace 4 días
+                  - generic [ref=e280]:
+                    - generic [ref=e281]:  0
+                    - generic [ref=e282]:
+                      - generic [ref=e283]: 
+                      - text: "5.498"
+                - heading [level=2] [ref=e284]:
+                  - link [ref=e285] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+                    - text: TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos
+            - generic [ref=e286]:
+              - link [ref=e288] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+                - img [ref=e289]
+              - generic [ref=e290]:
+                - generic [ref=e291]:
+                  - generic [ref=e292]:  Hace 4 días
+                  - generic [ref=e293]:
+                    - generic [ref=e294]:  0
+                    - generic [ref=e295]:
+                      - generic [ref=e296]: 
+                      - text: "1"
+                - heading [level=2] [ref=e297]:
+                  - link [ref=e298] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+                    - text: Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush
+            - generic [ref=e299]:
+              - link [ref=e301] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/curso-de-unreal-engine-5-desde-cero-online-y-en-espanol/
+                - img [ref=e302]
+              - generic [ref=e303]:
+                - generic [ref=e304]:
+                  - generic [ref=e305]:  5 febrero, 2026
+                  - generic [ref=e306]:
+                    - generic [ref=e307]:  0
+                    - generic [ref=e308]:
+                      - generic [ref=e309]: 
+                      - text: "0"
+                - heading [level=2] [ref=e310]:
+                  - link [ref=e311] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-unreal-engine-5-desde-cero-online-y-en-espanol/
+                    - text: Curso de Unreal Engine 5 desde cero | Online y en Español
+          - list [ref=e312]:
+            - listitem [ref=e313] [cursor=pointer]:
+              - button "1" [ref=e314]
+            - listitem [ref=e315] [cursor=pointer]:
+              - button [ref=e316]: "2"
+            - listitem [ref=e317] [cursor=pointer]:
+              - button [ref=e318]: "3"
+    - generic [ref=e322]:
+      - main [ref=e323]:
+        - generic [ref=e325]:
+          - heading "Destacado" [level=3] [ref=e327]
+          - list [ref=e329]:
+            - listitem [ref=e330]:
+              - link "Tadeo Jones y la Lámpara Maravillosa | Teaser Tráiler e imágenes de la nueva película" [ref=e331] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/tadeo-jones-y-la-lampara-maravillosa-teaser-trailer-e-imagenes-de-la-nueva-pelicula/
+                - generic [ref=e333]: estrenos de animación y cgi
+              - generic [ref=e334]:
+                - link " Jonatan" [ref=e338] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/author/jonatan-cortes/
+                - generic [ref=e339]:  Hace 3 días
+                - generic [ref=e340]:
+                  - generic [ref=e341]:  0
+                  - generic [ref=e342]:
+                    - generic [ref=e343]: 
+                    - text: "32"
+              - heading "Tadeo Jones y la Lámpara Maravillosa | Teaser Tráiler e imágenes de la nueva película" [level=2] [ref=e344]:
+                - link "Tadeo Jones y la Lámpara Maravillosa | Teaser Tráiler e imágenes de la nueva película" [ref=e345] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/tadeo-jones-y-la-lampara-maravillosa-teaser-trailer-e-imagenes-de-la-nueva-pelicula/
+              - paragraph [ref=e346]: "La saga Tadeo Jones y la Lámpara Maravillosa regresa con fuerza este 2026 de la mano de Enrique Gato, presentando su teaser tráiler oficial y primer póster. Tras superar los 8 millones de espectadores y más de 120 millones de dólares en taquilla mundial, esta nueva entrega promete una aventura aún más ambiciosa dentro del cine de animación española. Marca en rojo el calendario: 26 de agosto de 2026. Solo en cines. Nada de plataformas,…"
+              - link "Leer más »" [ref=e347] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/tadeo-jones-y-la-lampara-maravillosa-teaser-trailer-e-imagenes-de-la-nueva-pelicula/
+        - generic [ref=e349]:
+          - heading "Ultimos Artículos" [level=3] [ref=e351]
+          - generic [ref=e352]:
+            - list:
+              - listitem [ref=e353]:
+                - link "Tadeo Jones y la Lámpara Maravillosa | Teaser Tráiler e imágenes de la nueva película" [ref=e354] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/tadeo-jones-y-la-lampara-maravillosa-teaser-trailer-e-imagenes-de-la-nueva-pelicula/
+                  - generic [ref=e356]: estrenos de animación y cgi
+                - generic [ref=e357]:
+                  - heading "Tadeo Jones y la Lámpara Maravillosa | Teaser Tráiler e imágenes de la nueva película" [level=2] [ref=e358]:
+                    - link "Tadeo Jones y la Lámpara Maravillosa | Teaser Tráiler e imágenes de la nueva película" [ref=e359] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/tadeo-jones-y-la-lampara-maravillosa-teaser-trailer-e-imagenes-de-la-nueva-pelicula/
+                  - paragraph [ref=e360]: La saga Tadeo Jones y la Lámpara Maravillosa regresa con fuerza este 2026 de la mano de Enrique Gato, presentando…
+                  - link "Leer más »" [ref=e361] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/tadeo-jones-y-la-lampara-maravillosa-teaser-trailer-e-imagenes-de-la-nueva-pelicula/
+              - listitem [ref=e362]:
+                - link "Las mejores Películas de Animación del 2026 | Estrenos y Tráilers" [ref=e363] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/las-mejores-peliculas-de-animacion-del-2026-estrenos-y-trailers/
+                  - generic [ref=e365]:
+                    - img [ref=e366]
+                    - text: "9.1"
+                  - generic [ref=e370]: estrenos de animación y cgi
+                  - img "PELÍCULAS ANIMADAS 2026" [ref=e371]
+                - generic [ref=e372]:
+                  - heading "Las mejores Películas de Animación del 2026 | Estrenos y Tráilers" [level=2] [ref=e373]:
+                    - link "Las mejores Películas de Animación del 2026 | Estrenos y Tráilers" [ref=e374] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/las-mejores-peliculas-de-animacion-del-2026-estrenos-y-trailers/
+                  - paragraph [ref=e375]: 28Toy Story, Super Mario, Hexed, Angry Birds, Shreck…. 2026 parece que va a ser el año de los pelotazos y…
+                  - link "Leer más »" [ref=e376] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/las-mejores-peliculas-de-animacion-del-2026-estrenos-y-trailers/
+              - listitem [ref=e377]:
+                - link "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [ref=e378] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+                  - generic [ref=e380]:
+                    - img [ref=e381]
+                    - text: "9.2"
+                  - generic [ref=e385]: recursos de animación 2d, 3d, ilustración y vfx
+                  - img "creación y diseño de personajes online" [ref=e386]
+                - generic [ref=e387]:
+                  - heading "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [level=2] [ref=e388]:
+                    - link "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [ref=e389] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+                  - paragraph [ref=e390]: Os hemos preparado uno de nuestros tops formativos para que podáis elegir el mejor curso de diseño y creación de…
+                  - link "Leer más »" [ref=e391] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+              - listitem [ref=e392]:
+                - link "Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush" [ref=e393] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+                  - generic [ref=e395]: becas & formación para artistas digitales
+                  - img "Curso de anatomía humana" [ref=e396]
+                - generic [ref=e397]:
+                  - heading "Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush" [level=2] [ref=e398]:
+                    - link "Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush" [ref=e399] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+                  - paragraph [ref=e400]: Este Curso de Anatomía Humana del Tronco y las Extremidades en ZBrush para Artistas 3D está diseñado para aprender anatomía…
+                  - link "Leer más »" [ref=e401] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+              - listitem [ref=e402]:
+                - link "Curso de Diseño y Creación de personajes GRATIS | Animación y Videojuegos" [ref=e403] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-diseno-y-creacion-de-personajes-gratis-animacion-y-videojuegos/
+                  - generic [ref=e405]:
+                    - img [ref=e406]
+                    - text: "9.5"
+                  - generic [ref=e410]: recursos de animación 2d, 3d, ilustración y vfx
+                  - img "diseño de personajes online gratis" [ref=e411]
+                - generic [ref=e412]:
+                  - heading "Curso de Diseño y Creación de personajes GRATIS | Animación y Videojuegos" [level=2] [ref=e413]:
+                    - link "Curso de Diseño y Creación de personajes GRATIS | Animación y Videojuegos" [ref=e414] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/curso-de-diseno-y-creacion-de-personajes-gratis-animacion-y-videojuegos/
+                  - paragraph [ref=e415]: Llevamos mucho tiempo recopilando el mejor contenido para traeros un curso que nos habéis pedido muchos. Hemos recopilado los mejores…
+                  - link "Leer más »" [ref=e416] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-diseno-y-creacion-de-personajes-gratis-animacion-y-videojuegos/
+              - listitem [ref=e417]:
+                - link "+2.000 Anatomía Animal para Animadores e Ilustradores | Inspiración y Referencias ⭐⭐⭐⭐⭐" [ref=e418] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/inspiracion-y-referencias-anatomia-animal-animacion-ilustracion/
+                  - generic [ref=e420]:
+                    - img [ref=e421]
+                    - text: "9.2"
+                  - generic [ref=e424]: 
+                  - generic [ref=e426]: recursos de animación 2d, 3d, ilustración y vfx
+                  - img "Anatomía animal para dibujo ilustración y animación - Inspiración y Referencias" [ref=e427]
+                - generic [ref=e428]:
+                  - heading "+2.000 Anatomía Animal para Animadores e Ilustradores | Inspiración y Referencias ⭐⭐⭐⭐⭐" [level=2] [ref=e429]:
+                    - link "+2.000 Anatomía Animal para Animadores e Ilustradores | Inspiración y Referencias ⭐⭐⭐⭐⭐" [ref=e430] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/inspiracion-y-referencias-anatomia-animal-animacion-ilustracion/
+                  - paragraph [ref=e431]: Animal Anatomy References for Animation & Ilustration es el nombre de la colección que hemos creado en Pinterest. Un tablero…
+                  - link "Leer más »" [ref=e432] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/inspiracion-y-referencias-anatomia-animal-animacion-ilustracion/
+              - listitem [ref=e433]:
+                - link "Hoppers | Todo sobre la nueva película de Disney y Pixar" [ref=e434] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/hoppers-todo-sobre-la-nueva-pelicula-de-disney-y-pixar/
+                  - generic [ref=e436]: estrenos de animación y cgi
+                - generic [ref=e437]:
+                  - heading "Hoppers | Todo sobre la nueva película de Disney y Pixar" [level=2] [ref=e438]:
+                    - link "Hoppers | Todo sobre la nueva película de Disney y Pixar" [ref=e439] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/hoppers-todo-sobre-la-nueva-pelicula-de-disney-y-pixar/
+                  - paragraph [ref=e440]: Hoppers es la nueva comedia de aventuras de Disney y Pixar, dirigida por Daniel Chong y producida por Nicole Paradis…
+                  - link "Leer más »" [ref=e441] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/hoppers-todo-sobre-la-nueva-pelicula-de-disney-y-pixar/
+              - listitem [ref=e442]:
+                - link "7 Libros de Anatomía Humana y Animal para artistas PDF ⭐⭐⭐⭐⭐" [ref=e443] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/libros-de-anatomia-humana-y-animal-pdf-artistas/
+                  - generic [ref=e445]:
+                    - img [ref=e446]
+                    - text: "9.5"
+                  - generic [ref=e449]: 
+                  - generic [ref=e451]: recursos de animación 2d, 3d, ilustración y vfx
+                  - img "7 Libros de Anatomía Humana y Animal PDF" [ref=e452]
+                - generic [ref=e453]:
+                  - heading "7 Libros de Anatomía Humana y Animal para artistas PDF ⭐⭐⭐⭐⭐" [level=2] [ref=e454]:
+                    - link "7 Libros de Anatomía Humana y Animal para artistas PDF ⭐⭐⭐⭐⭐" [ref=e455] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/libros-de-anatomia-humana-y-animal-pdf-artistas/
+                  - paragraph [ref=e456]: Si buscas un libro de anatomía gratis, bienvenido. Actualizamos nuestra selección de Libros de Anatomía Humana para artistas en PDF que…
+                  - link "Leer más »" [ref=e457] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/libros-de-anatomia-humana-y-animal-pdf-artistas/
+              - listitem [ref=e458]:
+                - link "Toy Story 5 | Tráiler oficial, Estreno, Tecnología, Cifras y Arte" [ref=e459] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/toy-story-5-trailer-oficial-estreno-tecnologia-cifras-y-arte/
+                  - generic [ref=e461]: estrenos de animación y cgi
+                  - img "toy story 5 castellano" [ref=e462]
+                - generic [ref=e463]:
+                  - heading "Toy Story 5 | Tráiler oficial, Estreno, Tecnología, Cifras y Arte" [level=2] [ref=e464]:
+                    - link "Toy Story 5 | Tráiler oficial, Estreno, Tecnología, Cifras y Arte" [ref=e465] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/toy-story-5-trailer-oficial-estreno-tecnologia-cifras-y-arte/
+                  - paragraph [ref=e466]: Un nuevo juguete a llegado a Toy Story 5. Pixar vuelve a sacar músculo con una premisa directa y muy actual:…
+                  - link "Leer más »" [ref=e467] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/toy-story-5-trailer-oficial-estreno-tecnologia-cifras-y-arte/
+              - listitem [ref=e468]:
+                - link "Anatomía de las Expresiones Faciales | Músculos de la cara para Artistas | WORKSHOP ONLINE GRATIS" [ref=e469] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/anatomia-de-las-expresiones-faciales-musculos-de-la-cara-para-dibujo-escultura-y-modelado-3d-de-personajes/
+                  - generic [ref=e471]: workshops de arte 3d
+                  - img "anatomía facial para artistas taller online gratis" [ref=e472]
+                - generic [ref=e473]:
+                  - heading "Anatomía de las Expresiones Faciales | Músculos de la cara para Artistas | WORKSHOP ONLINE GRATIS" [level=2] [ref=e474]:
+                    - link "Anatomía de las Expresiones Faciales | Músculos de la cara para Artistas | WORKSHOP ONLINE GRATIS" [ref=e475] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/anatomia-de-las-expresiones-faciales-musculos-de-la-cara-para-dibujo-escultura-y-modelado-3d-de-personajes/
+                  - paragraph [ref=e476]: Bienvenidos artistas digitales a un NUEVO TALLER GRATUITO DE ANATOMÍA FACIAL Y EXPRESIONES EN LA CREACIÓN DE PERSONAJES de la…
+                  - link "Leer más »" [ref=e477] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/anatomia-de-las-expresiones-faciales-musculos-de-la-cara-para-dibujo-escultura-y-modelado-3d-de-personajes/
+              - listitem [ref=e478]:
+                - link "Entrevista a Rafa Zabala | Modelador 3d de Personajes" [ref=e479] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/entrevista-a-rafa-zabala-modelador-3d-de-personajes/
+                  - generic [ref=e481]:
+                    - img [ref=e482]
+                    - text: "9"
+                  - generic [ref=e485]: 
+                  - generic [ref=e487]: entrevistas de animacion vfx y videojuegos
+                  - img "rafa zabala zbrush domestika" [ref=e488]
+                - generic [ref=e489]:
+                  - heading "Entrevista a Rafa Zabala | Modelador 3d de Personajes" [level=2] [ref=e490]:
+                    - link "Entrevista a Rafa Zabala | Modelador 3d de Personajes" [ref=e491] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/entrevista-a-rafa-zabala-modelador-3d-de-personajes/
+                  - paragraph [ref=e492]: Damos la bienvenida a notodoanimacion.es a uno de nuestros artistas mas internacionales. Rafa Zabala, modelador 3D en compañías de gran calibre…
+                  - link "Leer más »" [ref=e493] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/entrevista-a-rafa-zabala-modelador-3d-de-personajes/
+              - listitem [ref=e494]:
+                - 'link "Star Wars: Maul – Señor de las sombras | Nueva serie animada de Disney" [ref=e495] [cursor=pointer]':
+                  - /url: https://www.notodoanimacion.es/star-wars-maul-senor-de-las-sombras-nueva-serie-animada-de-disney/
+                  - generic [ref=e497]: estrenos de animación y cgi
+                - generic [ref=e498]:
+                  - 'heading "Star Wars: Maul – Señor de las sombras | Nueva serie animada de Disney" [level=2] [ref=e499]':
+                    - 'link "Star Wars: Maul – Señor de las sombras | Nueva serie animada de Disney" [ref=e500] [cursor=pointer]':
+                      - /url: https://www.notodoanimacion.es/star-wars-maul-senor-de-las-sombras-nueva-serie-animada-de-disney/
+                  - paragraph [ref=e501]: "Star Wars: Maul, Señor de las sombras es la nueva serie animada de Lucasfilm Animation que amplía el universo Star…"
+                  - link "Leer más »" [ref=e502] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/star-wars-maul-senor-de-las-sombras-nueva-serie-animada-de-disney/
+              - listitem [ref=e503]:
+                - link "Animation Sizzle Reel 2025 | La animación en tiempo real de Unreal Engine 5" [ref=e504] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/animation-sizzle-reel-2025-la-animacion-en-tiempo-real-de-unreal-engine-5/
+                  - generic [ref=e506]: showreels
+                  - img "Unreal Engine 5 Animation Reel 2025" [ref=e507]
+                - generic [ref=e508]:
+                  - heading "Animation Sizzle Reel 2025 | La animación en tiempo real de Unreal Engine 5" [level=2] [ref=e509]:
+                    - link "Animation Sizzle Reel 2025 | La animación en tiempo real de Unreal Engine 5" [ref=e510] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/animation-sizzle-reel-2025-la-animacion-en-tiempo-real-de-unreal-engine-5/
+                  - paragraph [ref=e511]: Tenemos nueva Animation Sizzle Reel 2025 publicada por Unreal Engine donde se muestra el trabajo reciente de animadores y estudios…
+                  - link "Leer más »" [ref=e512] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/animation-sizzle-reel-2025-la-animacion-en-tiempo-real-de-unreal-engine-5/
+              - listitem [ref=e513]:
+                - link "Curso de Unreal Engine 5 desde cero | Online y en Español" [ref=e514] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-unreal-engine-5-desde-cero-online-y-en-espanol/
+                  - generic [ref=e516]: becas & formación para artistas digitales
+                  - img "Curso de Unreal Engine 5 desde cero" [ref=e517]
+                - generic [ref=e518]:
+                  - heading "Curso de Unreal Engine 5 desde cero | Online y en Español" [level=2] [ref=e519]:
+                    - link "Curso de Unreal Engine 5 desde cero | Online y en Español" [ref=e520] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/curso-de-unreal-engine-5-desde-cero-online-y-en-espanol/
+                  - paragraph [ref=e521]: Este Curso de Unreal Engine 5 en español está diseñado para aprender Unreal Engine desde cero y dar el salto…
+                  - link "Leer más »" [ref=e522] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-unreal-engine-5-desde-cero-online-y-en-espanol/
+              - listitem [ref=e523]:
+                - link "Como ser animador en Disney | Entrevista a Ángela Iturriza" [ref=e524] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/como-ser-animador-en-disney-entrevista-a-angela-iturriza/
+                  - generic [ref=e526]: entrevistas de animacion vfx y videojuegos
+                  - img "como ser animador en Disney" [ref=e527]
+                - generic [ref=e528]:
+                  - heading "Como ser animador en Disney | Entrevista a Ángela Iturriza" [level=2] [ref=e529]:
+                    - link "Como ser animador en Disney | Entrevista a Ángela Iturriza" [ref=e530] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/como-ser-animador-en-disney-entrevista-a-angela-iturriza/
+                  - paragraph [ref=e531]: Ángela Iturriza, animadora y docente universitaria, es reconocida por ser la primera animadora española en trabajar en Walt Disney Animation.…
+                  - link "Leer más »" [ref=e532] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/como-ser-animador-en-disney-entrevista-a-angela-iturriza/
+              - listitem [ref=e533]:
+                - link "Curso de Anatomía Humana | 1. Cabeza y Cuello en ZBrush" [ref=e534] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-cabeza-y-cuello-en-zbrush/
+                  - generic [ref=e536]: becas & formación para artistas digitales
+                  - img "Curso de anatomía humana" [ref=e537]
+                - generic [ref=e538]:
+                  - heading "Curso de Anatomía Humana | 1. Cabeza y Cuello en ZBrush" [level=2] [ref=e539]:
+                    - link "Curso de Anatomía Humana | 1. Cabeza y Cuello en ZBrush" [ref=e540] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-cabeza-y-cuello-en-zbrush/
+                  - paragraph [ref=e541]: Este Curso de Anatomía Humana de Cabeza y Cuello en ZBrush para Artistas 3D está diseñado para aprender anatomía artística…
+                  - link "Leer más »" [ref=e542] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-cabeza-y-cuello-en-zbrush/
+              - listitem [ref=e543]:
+                - link "El Arte de David Fernández Barruz | Character Artist" [ref=e544] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/el-arte-de-david-fernandez-barruz/
+                  - generic [ref=e546]:
+                    - img [ref=e547]
+                    - text: "9"
+                  - generic [ref=e551]: artistas digitales (CGI)
+                - generic [ref=e552]:
+                  - heading "El Arte de David Fernández Barruz | Character Artist" [level=2] [ref=e553]:
+                    - link "El Arte de David Fernández Barruz | Character Artist" [ref=e554] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/el-arte-de-david-fernandez-barruz/
+                  - paragraph [ref=e555]: Os traigo algunos tutoriales y el alucinante trabajo de este grandérrimo artista y desde luego, uno de nuestros favoritos. 3D…
+                  - link "Leer más »" [ref=e556] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/el-arte-de-david-fernandez-barruz/
+              - listitem [ref=e557]:
+                - link "Creación de Personajes Estilizados con ZBrush | WORKSHOP GRATIS" [ref=e558] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/creacion-de-personajes-estilizados-con-zbrush-workshop-gratis/
+                  - generic [ref=e560]:
+                    - img [ref=e561]
+                    - text: "9"
+                  - generic [ref=e565]: workshops de arte 3d
+                  - img "creación de personajes estilizados 3d zbrush" [ref=e566]
+                - generic [ref=e567]:
+                  - heading "Creación de Personajes Estilizados con ZBrush | WORKSHOP GRATIS" [level=2] [ref=e568]:
+                    - link "Creación de Personajes Estilizados con ZBrush | WORKSHOP GRATIS" [ref=e569] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/creacion-de-personajes-estilizados-con-zbrush-workshop-gratis/
+                  - paragraph [ref=e570]: 03Creación de Personajes Estilizados con ZBrush, es el título de nuestro nuevo Workshop GRATUITO de la mano de David F.…
+                  - link "Leer más »" [ref=e571] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/creacion-de-personajes-estilizados-con-zbrush-workshop-gratis/
+              - listitem [ref=e572]:
+                - 'link "El Arte de Spiderman: Un nuevo Universo (Spider-verse) | Desarrollo Visual, Making of, concept art y diseño de personajes" [ref=e573] [cursor=pointer]':
+                  - /url: https://www.notodoanimacion.es/el-arte-de-spiderman-un-nuevo-universo-spider-verse-desarrollo-visual/
+                  - generic [ref=e575]:
+                    - img [ref=e576]
+                    - text: "9.8"
+                  - generic [ref=e579]: 
+                  - generic [ref=e581]: desarrollo visual | visual development
+                  - img "arte de spiderman - un nuevo universo desarrollo visual" [ref=e582]
+                - generic [ref=e583]:
+                  - 'heading "El Arte de Spiderman: Un nuevo Universo (Spider-verse) | Desarrollo Visual, Making of, concept art y diseño de personajes" [level=2] [ref=e584]':
+                    - 'link "El Arte de Spiderman: Un nuevo Universo (Spider-verse) | Desarrollo Visual, Making of, concept art y diseño de personajes" [ref=e585] [cursor=pointer]':
+                      - /url: https://www.notodoanimacion.es/el-arte-de-spiderman-un-nuevo-universo-spider-verse-desarrollo-visual/
+                  - paragraph [ref=e586]: "Era cuestión de tiempo. SPIDER-MAN: UN NUEVO UNIVERSO (Spiderverse) ha sido galardonada con el Oscar y el Globo de Oro 2019…"
+                  - link "Leer más »" [ref=e587] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/el-arte-de-spiderman-un-nuevo-universo-spider-verse-desarrollo-visual/
+              - listitem [ref=e588]:
+                - link "Tutorial Set extension (Extensión de Set) | Blender + After Effects" [ref=e589] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/tutorial-set-extension-extension-de-set-blender-after-effects/
+                  - generic [ref=e591]: tutoriales vfx
+                  - img "tutorial set extension 3d vfx" [ref=e592]
+                - generic [ref=e593]:
+                  - heading "Tutorial Set extension (Extensión de Set) | Blender + After Effects" [level=2] [ref=e594]:
+                    - link "Tutorial Set extension (Extensión de Set) | Blender + After Effects" [ref=e595] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/tutorial-set-extension-extension-de-set-blender-after-effects/
+                  - paragraph [ref=e596]: Interesantísimo tutorial en Español de Set Extensión (Extensión de Set). Una de las técnicas de VFX y composición digital mas…
+                  - link "Leer más »" [ref=e597] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/tutorial-set-extension-extension-de-set-blender-after-effects/
+              - listitem [ref=e598]:
+                - link "30 Consejos para hacer Animación | Por Ollie Johnston" [ref=e599] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/30-consejos-para-hacer-animacion-ollie-johnston/
+                  - generic [ref=e601]:
+                    - img [ref=e602]
+                    - text: "9.7"
+                  - generic [ref=e605]: 
+                  - generic [ref=e607]: recursos de animación 2d, 3d, ilustración y vfx
+                  - img "30 consejos para hacer animacion - La Animacion según Ollie Johnston" [ref=e608]
+                - generic [ref=e609]:
+                  - heading "30 Consejos para hacer Animación | Por Ollie Johnston" [level=2] [ref=e610]:
+                    - link "30 Consejos para hacer Animación | Por Ollie Johnston" [ref=e611] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/30-consejos-para-hacer-animacion-ollie-johnston/
+                  - paragraph [ref=e612]: Hoy os traemos 30 consejos de animación por Oliver Martin Johnston, Jr. uno de los grandes maestros de la animación. Perteneció…
+                  - link "Leer más »" [ref=e613] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/30-consejos-para-hacer-animacion-ollie-johnston/
+              - listitem [ref=e614]:
+                - link "Los 7 mejores Libros para aprender Animación (2026) ⭐⭐⭐⭐⭐" [ref=e615] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/los-5-mejores-libros-para-aprender-animacion-2d-3d/
+                  - generic [ref=e617]:
+                    - img [ref=e618]
+                    - text: "9.6"
+                  - generic [ref=e621]: 
+                  - generic [ref=e623]: recursos de animación 2d, 3d, ilustración y vfx
+                  - img "Los mejores Libros para aprender Animación 2d, 3d, stop motion, animacion tradicional y digital" [ref=e624]
+                - generic [ref=e625]:
+                  - heading "Los 7 mejores Libros para aprender Animación (2026) ⭐⭐⭐⭐⭐" [level=2] [ref=e626]:
+                    - link "Los 7 mejores Libros para aprender Animación (2026) ⭐⭐⭐⭐⭐" [ref=e627] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/los-5-mejores-libros-para-aprender-animacion-2d-3d/
+                  - paragraph [ref=e628]: Si quieres aprender animación no sabes ni por dónde empezar, hoy te traemos los 7 mejores libros que conozco para…
+                  - link "Leer más »" [ref=e629] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/los-5-mejores-libros-para-aprender-animacion-2d-3d/
+              - listitem [ref=e630]:
+                - link "Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) AVANZADO *20% DESCUENTO" [ref=e631] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz-avanzado/
+                  - generic [ref=e633]: becas & formación para artistas digitales
+                  - img "CURSO COMFYUI EN ESPAÑOL AVANZADO" [ref=e634]
+                - generic [ref=e635]:
+                  - heading "Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) AVANZADO *20% DESCUENTO" [level=2] [ref=e636]:
+                    - link "Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) AVANZADO *20% DESCUENTO" [ref=e637] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz-avanzado/
+                  - paragraph [ref=e638]: El Curso Avanzado de ComfyUI en Español aplicado a Archviz es la evolución natural del nivel Essentials y está pensado…
+                  - link "Leer más »" [ref=e639] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz-avanzado/
+              - listitem [ref=e640]:
+                - link "Cursos y Masters Online de Animación, Dibujo, 3D, VFX, Videojuegos, Archviz, y Arte Digital | *DESCUENTO 20%" [ref=e641] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/cursos-online-de-3d-animacion-vfx-y-videojuegos-oferton/
+                  - generic [ref=e643]:
+                    - img [ref=e644]
+                    - text: "9.1"
+                  - generic [ref=e647]: 
+                  - generic [ref=e649]: becas & formación para artistas digitales
+                  - img "CURSOS 2D, 3D Y VFX" [ref=e650]
+                - generic [ref=e651]:
+                  - heading "Cursos y Masters Online de Animación, Dibujo, 3D, VFX, Videojuegos, Archviz, y Arte Digital | *DESCUENTO 20%" [level=2] [ref=e652]:
+                    - link "Cursos y Masters Online de Animación, Dibujo, 3D, VFX, Videojuegos, Archviz, y Arte Digital | *DESCUENTO 20%" [ref=e653] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/cursos-online-de-3d-animacion-vfx-y-videojuegos-oferton/
+                  - paragraph [ref=e654]: Hemos conseguido un OFERTÓN en unos 50 cursos online para que puedas formarte en los principales programas de producción 3D, VFX…
+                  - link "Leer más »" [ref=e655] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/cursos-online-de-3d-animacion-vfx-y-videojuegos-oferton/
+              - listitem [ref=e656]:
+                - link "El Arte de KPop Demon Hunters | ArtBook completo" [ref=e657] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/el-arte-de-kpop-demon-hunters-artbook-completo/
+                  - generic [ref=e659]: desarrollo visual | visual development
+                  - img "the art of kpop demon hunters artbook" [ref=e660]
+                - generic [ref=e661]:
+                  - heading "El Arte de KPop Demon Hunters | ArtBook completo" [level=2] [ref=e662]:
+                    - link "El Arte de KPop Demon Hunters | ArtBook completo" [ref=e663] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/el-arte-de-kpop-demon-hunters-artbook-completo/
+                  - paragraph [ref=e664]: "Netflix acaba de soltar un pelotazo para fans y artistas: el nuevo libro The Art of KPop Demon Hunters, un…"
+                  - link "Leer más »" [ref=e665] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/el-arte-de-kpop-demon-hunters-artbook-completo/
+              - listitem [ref=e666]:
+                - link "Animayo Lanzarote 2025 | Festival, masterclasses, becas y proyecciones en la isla" [ref=e667] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/animayo-lanzarote-2025-festival-masterclasses-becas-y-proyecciones-en-la-isla/
+                  - generic [ref=e669]: Festivales y Eventos de Animación
+                  - img "ANIMAYO 2026" [ref=e670]
+                - generic [ref=e671]:
+                  - heading "Animayo Lanzarote 2025 | Festival, masterclasses, becas y proyecciones en la isla" [level=2] [ref=e672]:
+                    - link "Animayo Lanzarote 2025 | Festival, masterclasses, becas y proyecciones en la isla" [ref=e673] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/animayo-lanzarote-2025-festival-masterclasses-becas-y-proyecciones-en-la-isla/
+                  - paragraph [ref=e674]: El Festival Internacional de Animación, Efectos Visuales y Videojuegos Animayo Lanzarote 2025 regresa a la isla los días 11 y…
+                  - link "Leer más »" [ref=e675] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/animayo-lanzarote-2025-festival-masterclasses-becas-y-proyecciones-en-la-isla/
+              - listitem [ref=e676]:
+                - link "Posando Personajes Estilizados en ZBrush | Un Enfoque Artístico" [ref=e677] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/posando-personajes-estilizados-en-zbrush-un-enfoque-artistico/
+                  - generic [ref=e679]:
+                    - img [ref=e680]
+                    - text: "8.9"
+                  - generic [ref=e684]: tutoriales 3d
+                  - img "creación personajes 3d zbrush" [ref=e685]
+                - generic [ref=e686]:
+                  - heading "Posando Personajes Estilizados en ZBrush | Un Enfoque Artístico" [level=2] [ref=e687]:
+                    - link "Posando Personajes Estilizados en ZBrush | Un Enfoque Artístico" [ref=e688] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/posando-personajes-estilizados-en-zbrush-un-enfoque-artistico/
+                  - paragraph [ref=e689]: Creación de Personajes Estilizados con ZBrush, es el título del Workshop GRATUITO que realizamos hace unos días de la mano…
+                  - link "Leer más »" [ref=e690] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/posando-personajes-estilizados-en-zbrush-un-enfoque-artistico/
+              - listitem [ref=e691]:
+                - link "Top ofertas Black Friday 2025 | Para Artistas Digitales" [ref=e692] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/top-ofertas-black-friday-artistas-digitales/
+                  - generic [ref=e694]:
+                    - img [ref=e695]
+                    - text: "8.9"
+                  - generic [ref=e699]: ofertas
+                  - img "ofertas black friday arte digital" [ref=e700]
+                - generic [ref=e701]:
+                  - heading "Top ofertas Black Friday 2025 | Para Artistas Digitales" [level=2] [ref=e702]:
+                    - link "Top ofertas Black Friday 2025 | Para Artistas Digitales" [ref=e703] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/top-ofertas-black-friday-artistas-digitales/
+                  - paragraph [ref=e704]: ¿El Blackfriday te está volviendo loco? Un año más hemos querido aportar nuestro granito de arena recopilando las mejores ofertas…
+                  - link "Leer más »" [ref=e705] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/top-ofertas-black-friday-artistas-digitales/
+              - listitem [ref=e706]:
+                - 'link "GOAT: COMO CABRAS | Trailer, Making Of y Desarrollo Visual de la película" [ref=e707] [cursor=pointer]':
+                  - /url: https://www.notodoanimacion.es/goat-como-cabras-trailer-making-of-y-desarrollo-visual-de-la-pelicula/
+                  - generic [ref=e709]:
+                    - img [ref=e710]
+                    - text: "9"
+                  - generic [ref=e714]: estrenos de animación y cgi
+                  - img "GOAT CONCEPT ART" [ref=e715]
+                - generic [ref=e716]:
+                  - 'heading "GOAT: COMO CABRAS | Trailer, Making Of y Desarrollo Visual de la película" [level=2] [ref=e717]':
+                    - 'link "GOAT: COMO CABRAS | Trailer, Making Of y Desarrollo Visual de la película" [ref=e718] [cursor=pointer]':
+                      - /url: https://www.notodoanimacion.es/goat-como-cabras-trailer-making-of-y-desarrollo-visual-de-la-pelicula/
+                  - paragraph [ref=e719]: "GOAT: COMO CABRAS es la nueva comedia de acción animada de Sony Pictures Animation, el estudio responsable de joyas como…"
+                  - link "Leer más »" [ref=e720] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/goat-como-cabras-trailer-making-of-y-desarrollo-visual-de-la-pelicula/
+              - listitem [ref=e721]:
+                - link "Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) *20% DESCUENTO" [ref=e722] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz/
+                  - generic [ref=e724]: becas & formación para artistas digitales
+                  - img "Curso de ComfyUI en Español | Inteligencia Artificial para Archviz" [ref=e725]
+                - generic [ref=e726]:
+                  - heading "Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) *20% DESCUENTO" [level=2] [ref=e727]:
+                    - link "Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) *20% DESCUENTO" [ref=e728] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz/
+                  - paragraph [ref=e729]: Este Curso de ComfyUI en español aplicado a Archviz está diseñado para que artistas de visualización arquitectónica integren la inteligencia…
+                  - link "Leer más »" [ref=e730] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz/
+              - listitem [ref=e731]:
+                - link "Godot para retrasados | Tutorial completo en Godot 4 paso a paso" [ref=e732] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/godot-para-retrasados-tutorial-completo-en-godot-4-paso-a-paso/
+                  - generic [ref=e734]: tutoriales de arte digital
+                - generic [ref=e735]:
+                  - heading "Godot para retrasados | Tutorial completo en Godot 4 paso a paso" [level=2] [ref=e736]:
+                    - link "Godot para retrasados | Tutorial completo en Godot 4 paso a paso" [ref=e737] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/godot-para-retrasados-tutorial-completo-en-godot-4-paso-a-paso/
+                  - paragraph [ref=e738]: Seguro que conoces a algún retrasado que ya ha subido su propio videojuego a Steam. Y tu no. Porque tú…
+                  - link "Leer más »" [ref=e739] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/godot-para-retrasados-tutorial-completo-en-godot-4-paso-a-paso/
+              - listitem [ref=e740]:
+                - link "8 Mejores Tablets para dibujar con lápiz | Dibujo e Ilustración Digital (Principiantes y Profesionales) *2025" [ref=e741] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/mejores-tablets-con-lapiz-para-dibujo-e-ilustracion-digital/
+                  - generic [ref=e743]:
+                    - img [ref=e744]
+                    - text: "8.3"
+                  - generic [ref=e748]: recursos de animación 2d, 3d, ilustración y vfx
+                  - img "mejores Tablets para dibujar con lápiz" [ref=e749]
+                - generic [ref=e750]:
+                  - heading "8 Mejores Tablets para dibujar con lápiz | Dibujo e Ilustración Digital (Principiantes y Profesionales) *2025" [level=2] [ref=e751]:
+                    - link "8 Mejores Tablets para dibujar con lápiz | Dibujo e Ilustración Digital (Principiantes y Profesionales) *2025" [ref=e752] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/mejores-tablets-con-lapiz-para-dibujo-e-ilustracion-digital/
+                  - paragraph [ref=e753]: Si buscas una buena tablet para dibujar aquí tienes mi Top 8 Mejores Tablets con lápiz para Dibujar en 2025.…
+                  - link "Leer más »" [ref=e754] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/mejores-tablets-con-lapiz-para-dibujo-e-ilustracion-digital/
+              - listitem [ref=e755]:
+                - link "David | Tráiler, Estreno, Cifras, Arte y Desarrollo Visual" [ref=e756] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/david-trailer-oficial-estreno-tecnologia-cifras-y-arte/
+                  - generic [ref=e758]: estrenos de animación y cgi
+                - generic [ref=e759]:
+                  - heading "David | Tráiler, Estreno, Cifras, Arte y Desarrollo Visual" [level=2] [ref=e760]:
+                    - link "David | Tráiler, Estreno, Cifras, Arte y Desarrollo Visual" [ref=e761] [cursor=pointer]:
+                      - /url: https://www.notodoanimacion.es/david-trailer-oficial-estreno-tecnologia-cifras-y-arte/
+                  - paragraph [ref=e762]: "Lo confieso: David (2025) me ha sorprendido más de lo que pensaba. Angel Studios, junto a Sunrise Animation Studios, se…"
+                  - link "Leer más »" [ref=e763] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/david-trailer-oficial-estreno-tecnologia-cifras-y-arte/
+              - listitem [ref=e764]:
+                - 'link "Super Mario Galaxy: La Película | Tráiler oficial, fechas y datos de producción" [ref=e765] [cursor=pointer]':
+                  - /url: https://www.notodoanimacion.es/super-mario-galaxy-la-pelicula-trailer-oficial-fechas-y-datos-de-produccion/
+                  - generic [ref=e767]: estrenos de animación y cgi
+                  - img "SUPER MARIO GALAXY LA PELÍCULA Tráiler castellano" [ref=e768]
+                - generic [ref=e769]:
+                  - 'heading "Super Mario Galaxy: La Película | Tráiler oficial, fechas y datos de producción" [level=2] [ref=e770]':
+                    - 'link "Super Mario Galaxy: La Película | Tráiler oficial, fechas y datos de producción" [ref=e771] [cursor=pointer]':
+                      - /url: https://www.notodoanimacion.es/super-mario-galaxy-la-pelicula-trailer-oficial-fechas-y-datos-de-produccion/
+                  - paragraph [ref=e772]: "Universal Pictures y Nintendo presentan Super Mario Galaxy: La Película, la nueva película de animación basada en el universo de…"
+                  - link "Leer más »" [ref=e773] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/super-mario-galaxy-la-pelicula-trailer-oficial-fechas-y-datos-de-produccion/
+          - list [ref=e776]:
+            - listitem [ref=e777]:
+              - generic [ref=e778]: "1"
+            - listitem [ref=e779]:
+              - link "2" [ref=e780] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/page/2/
+            - listitem [ref=e781]:
+              - link "3" [ref=e782] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/page/3/
+            - listitem [ref=e783]:
+              - link "»" [ref=e784] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/page/2/
+            - listitem [ref=e785]:
+              - link "10" [ref=e786] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/page/10/
+            - listitem [ref=e787]:
+              - link "20" [ref=e788] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/page/20/
+            - listitem [ref=e789]:
+              - generic [ref=e790]: ...
+            - listitem [ref=e791]:
+              - link "Último" [ref=e792] [cursor=pointer]:
+                - /url: https://www.notodoanimacion.es/page/45/
+        - generic [ref=e794]:
+          - heading "Cursos de Dibujo & Ilustración digital para principiantes" [level=3] [ref=e796]:
+            - link "Cursos de Dibujo & Ilustración digital para principiantes" [ref=e797] [cursor=pointer]:
+              - /url: https://www.notodoanimacion.es/mejores-cursos-de-dibujo-ilustracion/
+          - paragraph [ref=e800]:
+            - link "CURSOS DE DIBUJO ONLINE PARA PRINCIPIANTES" [ref=e801] [cursor=pointer]:
+              - /url: https://www.notodoanimacion.es/mejores-cursos-de-dibujo-ilustracion/
+              - img "CURSOS DE DIBUJO ONLINE PARA PRINCIPIANTES" [ref=e802]
+      - complementary "Barra lateral principal" [ref=e803]:
+        - generic [ref=e804]:
+          - generic [ref=e805]:
+            - generic [ref=e807]: Suscriptores 💌
+            - generic [ref=e808]:
+              - generic [ref=e809]: 
+              - generic [ref=e810]:
+                - heading "¿Te has suscrito ya?" [level=4] [ref=e811]
+                - heading "si no lo has hecho ya, SUSCRÍBETE a notodoanimación.es" [level=3] [ref=e812]
+                - paragraph [ref=e813]: te avisaremos de nuestros WORKSHOPS GRATUITOS, tutoriales, recursos, BECAS y ofertas de empleo para artistas digitales
+              - generic [ref=e815]:
+                - text: 
+                - generic [ref=e816]:
+                  - generic [ref=e817]: Introduce tu dirección de correo
+                  - textbox "Introduce tu dirección de correo" [ref=e818]
+                - button "Suscribete" [ref=e819] [cursor=pointer]
+          - generic [ref=e820]:
+            - generic [ref=e822]: CURSO + POPULAR ❤️
+            - list [ref=e825]:
+              - listitem [ref=e826]:
+                - link "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [ref=e828] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+                  - generic [ref=e830]:
+                    - img [ref=e831]
+                    - text: "9.2"
+                  - generic [ref=e835]: recursos de animación 2d, 3d, ilustración y vfx
+                  - img "creación y diseño de personajes online" [ref=e836]
+                - generic [ref=e837]:
+                  - link "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [ref=e838] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+                  - generic [ref=e840]:  Hace 4 días
+          - generic [ref=e841]:
+            - generic [ref=e843]: Últimas Ofertas de Empleo | Arte Digital 💼
+            - list [ref=e844]:
+              - listitem [ref=e845]:
+                - link "Atlantis Animation Lighting TD Santa Cruz de Tenerife ‣ Atlantis Animation ‣ Tiempo completo" [ref=e846] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/ofertas-de-empleo/atlantis-animation-santa-cruz-de-tenerife-279-lighting-td-3/
+                  - img "Atlantis Animation" [ref=e848]
+                  - generic [ref=e849]:
+                    - heading "Lighting TD" [level=3] [ref=e851]
+                    - list [ref=e852]:
+                      - listitem [ref=e853]: Santa Cruz de Tenerife ‣
+                      - listitem [ref=e854]: Atlantis Animation ‣
+                      - listitem [ref=e855]: Tiempo completo
+              - listitem [ref=e856]:
+                - link "Cristina Oria Diseñador/a gráfico Madrid, Spain ‣ Cristina Oria ‣ Tiempo completo" [ref=e857] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/ofertas-de-empleo/disenador-a-grafico-3/
+                  - img "Cristina Oria" [ref=e859]
+                  - generic [ref=e860]:
+                    - heading "Diseñador/a gráfico" [level=3] [ref=e862]
+                    - list [ref=e863]:
+                      - listitem [ref=e864]: Madrid, Spain ‣
+                      - listitem [ref=e865]: Cristina Oria ‣
+                      - listitem [ref=e866]: Tiempo completo
+              - listitem [ref=e867]:
+                - link "3Doubles Producciones S.L. Lookdev Supervisor 38001, S/C de Tenerife, S/C de Tenerife, España ‣ 3Doubles Producciones S.L. ‣ Tiempo completo" [ref=e868] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/ofertas-de-empleo/lookdev-supervisor/
+                  - img "3Doubles Producciones S.L." [ref=e870]
+                  - generic [ref=e871]:
+                    - heading "Lookdev Supervisor" [level=3] [ref=e873]
+                    - list [ref=e874]:
+                      - listitem [ref=e875]: 38001, S/C de Tenerife, S/C de Tenerife, España ‣
+                      - listitem [ref=e876]: 3Doubles Producciones S.L. ‣
+                      - listitem [ref=e877]: Tiempo completo
+              - listitem [ref=e878]:
+                - link "REVEL | Renting de Coches Content Creator Automoción Madrid, Community of Madrid, Spain ‣ REVEL | Renting de Coches ‣ Tiempo completo" [ref=e879] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/ofertas-de-empleo/content-creator-automocion/
+                  - img "REVEL | Renting de Coches" [ref=e881]
+                  - generic [ref=e882]:
+                    - heading "Content Creator Automoción" [level=3] [ref=e884]
+                    - list [ref=e885]:
+                      - listitem [ref=e886]: Madrid, Community of Madrid, Spain ‣
+                      - listitem [ref=e887]: REVEL | Renting de Coches ‣
+                      - listitem [ref=e888]: Tiempo completo
+              - listitem [ref=e889]:
+                - link "Twine Storyboard Artist European Economic Area ‣ Twine ‣ Freelance / Remoto / Teletrabajo" [ref=e890] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/ofertas-de-empleo/storyboard-artist-4/
+                  - img "Twine" [ref=e892]
+                  - generic [ref=e893]:
+                    - heading "Storyboard Artist" [level=3] [ref=e895]
+                    - list [ref=e896]:
+                      - listitem [ref=e897]: European Economic Area ‣
+                      - listitem [ref=e898]: Twine ‣
+                      - listitem [ref=e899]: Freelance / Remoto / Teletrabajo
+              - listitem [ref=e900]:
+                - link "Pentasia Game Graphic Artist – Poker EMEA ‣ Pentasia ‣ Tiempo completo" [ref=e901] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/ofertas-de-empleo/game-graphic-artist-poker/
+                  - img "Pentasia" [ref=e903]
+                  - generic [ref=e904]:
+                    - heading "Game Graphic Artist – Poker" [level=3] [ref=e906]
+                    - list [ref=e907]:
+                      - listitem [ref=e908]: EMEA ‣
+                      - listitem [ref=e909]: Pentasia ‣
+                      - listitem [ref=e910]: Tiempo completo
+              - listitem [ref=e911]:
+                - link "Twine Freelance Animator – Part time European Economic Area ‣ Twine ‣ Freelance / Remoto / Teletrabajo" [ref=e912] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/ofertas-de-empleo/freelance-animator-part-time/
+                  - img "Twine" [ref=e914]
+                  - generic [ref=e915]:
+                    - heading "Freelance Animator – Part time" [level=3] [ref=e917]
+                    - list [ref=e918]:
+                      - listitem [ref=e919]: European Economic Area ‣
+                      - listitem [ref=e920]: Twine ‣
+                      - listitem [ref=e921]: Freelance / Remoto / Teletrabajo
+              - listitem [ref=e922]:
+                - link "Twine Animator – Freelance Project European Economic Area ‣ Twine ‣ Freelance / Remoto / Teletrabajo" [ref=e923] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/ofertas-de-empleo/animator-freelance-project-2/
+                  - img "Twine" [ref=e925]
+                  - generic [ref=e926]:
+                    - heading "Animator – Freelance Project" [level=3] [ref=e928]
+                    - list [ref=e929]:
+                      - listitem [ref=e930]: European Economic Area ‣
+                      - listitem [ref=e931]: Twine ‣
+                      - listitem [ref=e932]: Freelance / Remoto / Teletrabajo
+              - listitem [ref=e933]:
+                - link "Lodgify Senior Video Editor & Motion Designer Spain ‣ Lodgify ‣ Tiempo completo" [ref=e934] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/ofertas-de-empleo/senior-video-editor-motion-designer-8/
+                  - img "Lodgify" [ref=e936]
+                  - generic [ref=e937]:
+                    - heading "Senior Video Editor & Motion Designer" [level=3] [ref=e939]
+                    - list [ref=e940]:
+                      - listitem [ref=e941]: Spain ‣
+                      - listitem [ref=e942]: Lodgify ‣
+                      - listitem [ref=e943]: Tiempo completo
+              - listitem [ref=e944]:
+                - link "Hearst España Editor/a Gráfico/a (Temporal) Madrid, Community of Madrid, Spain ‣ Hearst España" [ref=e945] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/ofertas-de-empleo/editor-a-grafico-a-temporal/
+                  - img "Hearst España" [ref=e947]
+                  - generic [ref=e948]:
+                    - heading "Editor/a Gráfico/a (Temporal)" [level=3] [ref=e950]
+                    - list [ref=e951]:
+                      - listitem [ref=e952]: Madrid, Community of Madrid, Spain ‣
+                      - listitem [ref=e953]: Hearst España
+          - generic [ref=e954]:
+            - generic [ref=e956]: Tutoriales & Workshops 🎓
+            - list [ref=e959]:
+              - listitem [ref=e960]:
+                - link "Curso de Diseño y Creación de personajes GRATIS | Animación y Videojuegos" [ref=e962] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-diseno-y-creacion-de-personajes-gratis-animacion-y-videojuegos/
+                  - generic [ref=e964]:
+                    - img [ref=e965]
+                    - text: "9.5"
+                  - generic [ref=e969]: recursos de animación 2d, 3d, ilustración y vfx
+                  - img "diseño de personajes online gratis" [ref=e970]
+                - generic [ref=e971]:
+                  - link "Curso de Diseño y Creación de personajes GRATIS | Animación y Videojuegos" [ref=e972] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-diseno-y-creacion-de-personajes-gratis-animacion-y-videojuegos/
+                  - generic [ref=e974]:  Hace 4 días
+          - generic [ref=e975]:
+            - generic [ref=e977]: Recursos para Animadores 🍀
+            - list [ref=e980]:
+              - listitem [ref=e981]:
+                - link "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [ref=e983] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+                  - generic [ref=e985]:
+                    - img [ref=e986]
+                    - text: "9.2"
+                  - generic [ref=e990]: recursos de animación 2d, 3d, ilustración y vfx
+                  - img "creación y diseño de personajes online" [ref=e991]
+                - generic [ref=e992]:
+                  - link "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [ref=e993] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+                  - generic [ref=e995]:  Hace 4 días
+          - generic [ref=e996]:
+            - generic [ref=e998]: Estrenos de Animación 🎞️
+            - list [ref=e1001]:
+              - listitem [ref=e1002]:
+                - link "Tadeo Jones y la Lámpara Maravillosa | Teaser Tráiler e imágenes de la nueva película" [ref=e1004] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/tadeo-jones-y-la-lampara-maravillosa-teaser-trailer-e-imagenes-de-la-nueva-pelicula/
+                  - generic [ref=e1006]: estrenos de animación y cgi
+                - generic [ref=e1007]:
+                  - link "Tadeo Jones y la Lámpara Maravillosa | Teaser Tráiler e imágenes de la nueva película" [ref=e1008] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/tadeo-jones-y-la-lampara-maravillosa-teaser-trailer-e-imagenes-de-la-nueva-pelicula/
+                  - generic [ref=e1010]:  Hace 3 días
+          - generic [ref=e1011]:
+            - generic [ref=e1013]: Art Books | NOVEDADES Y OFERTAS 📕
+            - list [ref=e1016]:
+              - listitem [ref=e1017]:
+                - link "TOP 12 Artbooks Esenciales de Disney & Pixar" [ref=e1019] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/top-11-artbooks-esenciales-de-disney-pixar/
+                  - generic [ref=e1021]:
+                    - img [ref=e1022]
+                    - text: "8.8"
+                  - generic [ref=e1026]: artbooks
+                  - img "artbook disney" [ref=e1027]
+                - generic [ref=e1028]:
+                  - link "TOP 12 Artbooks Esenciales de Disney & Pixar" [ref=e1029] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/top-11-artbooks-esenciales-de-disney-pixar/
+                  - generic [ref=e1031]:  24 junio, 2025
+          - generic [ref=e1032]:
+            - generic [ref=e1034]: TOP 20 +Visto ⭐
+            - list [ref=e1037]:
+              - listitem [ref=e1038]:
+                - link "7 Libros de Anatomía Humana y Animal para artistas PDF ⭐⭐⭐⭐⭐" [ref=e1040] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/libros-de-anatomia-humana-y-animal-pdf-artistas/
+                  - strong [ref=e1041]: "9.5"
+                  - img "7 Libros de Anatomía Humana y Animal PDF" [ref=e1042]
+                - generic [ref=e1043]:
+                  - link "7 Libros de Anatomía Humana y Animal para artistas PDF ⭐⭐⭐⭐⭐" [ref=e1044] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/libros-de-anatomia-humana-y-animal-pdf-artistas/
+                  - generic [ref=e1046]:  23 febrero, 2026
+              - listitem [ref=e1047]:
+                - link "¿Por qué es tan Importante el Inktober? | Lista Oficial 2025 en Español" [ref=e1049] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/inktober-lista-oficial-en-espanol/
+                  - strong [ref=e1050]: "9.2"
+                  - img "inktober 2025 en español" [ref=e1051]
+                - generic [ref=e1052]:
+                  - link "¿Por qué es tan Importante el Inktober? | Lista Oficial 2025 en Español" [ref=e1053] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/inktober-lista-oficial-en-espanol/
+                  - generic [ref=e1055]:  1 octubre, 2025
+              - listitem [ref=e1056]:
+                - link "Los 8 mejores Libros para Aprender a Dibujar (2025) ⭐⭐⭐⭐⭐" [ref=e1058] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/mejores-libros-para-aprender-a-dibujar/
+                  - strong [ref=e1059]: "8.8"
+                  - img "libros para aprender a dibujar" [ref=e1060]
+                - generic [ref=e1061]:
+                  - link "Los 8 mejores Libros para Aprender a Dibujar (2025) ⭐⭐⭐⭐⭐" [ref=e1062] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/mejores-libros-para-aprender-a-dibujar/
+                  - generic [ref=e1064]:  27 febrero, 2025
+              - listitem [ref=e1065]:
+                - link "Los 12 principios de la Animación 3D y 2D | +PDF Y CURSO GRATIS" [ref=e1067] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/los-12-principios-de-la-animacion-disney-libro/
+                  - strong [ref=e1068]: "9.4"
+                  - img "Los 12 principios de la Animación 2018" [ref=e1069]
+                - generic [ref=e1070]:
+                  - link "Los 12 principios de la Animación 3D y 2D | +PDF Y CURSO GRATIS" [ref=e1071] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/los-12-principios-de-la-animacion-disney-libro/
+                  - generic [ref=e1073]:  13 noviembre, 2025
+              - listitem [ref=e1074]:
+                - link "19 Principios del Diseño de Personajes" [ref=e1076] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/principios-del-diseno-de-personajes/
+                  - strong [ref=e1077]: "9.1"
+                - generic [ref=e1078]:
+                  - link "19 Principios del Diseño de Personajes" [ref=e1079] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/principios-del-diseno-de-personajes/
+                  - generic [ref=e1081]:  13 noviembre, 2025
+              - listitem [ref=e1082]:
+                - link "8 Mejores Tablets para dibujar con lápiz | Dibujo e Ilustración Digital (Principiantes y Profesionales) *2025" [ref=e1084] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/mejores-tablets-con-lapiz-para-dibujo-e-ilustracion-digital/
+                  - strong [ref=e1085]: "8.3"
+                  - img "mejores Tablets para dibujar con lápiz" [ref=e1086]
+                - generic [ref=e1087]:
+                  - link "8 Mejores Tablets para dibujar con lápiz | Dibujo e Ilustración Digital (Principiantes y Profesionales) *2025" [ref=e1088] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/mejores-tablets-con-lapiz-para-dibujo-e-ilustracion-digital/
+                  - generic [ref=e1090]:  6 diciembre, 2025
+              - listitem [ref=e1091]:
+                - link "Cómo Aprender a Dibujar | 8 Consejos, Ejercicios, Trucos y Referencias" [ref=e1093] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/aprender-a-dibujar/
+                  - strong [ref=e1094]: "8.8"
+                  - img "consejos aprender a dibujar" [ref=e1095]
+                - generic [ref=e1096]:
+                  - link "Cómo Aprender a Dibujar | 8 Consejos, Ejercicios, Trucos y Referencias" [ref=e1097] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/aprender-a-dibujar/
+                  - generic [ref=e1099]:  1 octubre, 2025
+              - listitem [ref=e1100]:
+                - link "Animación | Qué es, Tipos y Técnicas, Software, Estudios y Salidas Profesionales" [ref=e1102] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/que-es-la-animacion-tipos-y-tecnicas/
+                  - strong [ref=e1103]: "8.8"
+                  - img "que es la animación técnicas 2d y 3d" [ref=e1104]
+                - generic [ref=e1105]:
+                  - link "Animación | Qué es, Tipos y Técnicas, Software, Estudios y Salidas Profesionales" [ref=e1106] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/que-es-la-animacion-tipos-y-tecnicas/
+                  - generic [ref=e1108]:  8 enero, 2026
+              - listitem [ref=e1109]:
+                - link "TOP 10 Programas de Animación 2D | GRATIS Y DE PAGO" [ref=e1111] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/top-10-programas-para-hacer-animacion-2d-gratis-y-de-pago/
+                  - strong [ref=e1112]: "9.2"
+                  - img "programas de animación 2d" [ref=e1113]
+                - generic [ref=e1114]:
+                  - link "TOP 10 Programas de Animación 2D | GRATIS Y DE PAGO" [ref=e1115] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/top-10-programas-para-hacer-animacion-2d-gratis-y-de-pago/
+                  - generic [ref=e1117]:  21 diciembre, 2024
+              - listitem [ref=e1118]:
+                - link "Las mejores Películas de Animación de 2019" [ref=e1120] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/peliculas-de-animacion-2019/
+                  - strong [ref=e1121]: "8.3"
+                  - img "peliculas animacion 2019" [ref=e1122]
+                - generic [ref=e1123]:
+                  - link "Las mejores Películas de Animación de 2019" [ref=e1124] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/peliculas-de-animacion-2019/
+                  - generic [ref=e1126]:  16 junio, 2020
+              - listitem [ref=e1127]:
+                - link "Guia de Portales de Empleo para Artistas Digitales *ACTUALIZADO 2025 ⭐⭐⭐⭐⭐" [ref=e1129] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/guia-de-portales-de-empleo-para-artistas-digitales/
+                  - strong [ref=e1130]: "9.5"
+                - generic [ref=e1131]:
+                  - link "Guia de Portales de Empleo para Artistas Digitales *ACTUALIZADO 2025 ⭐⭐⭐⭐⭐" [ref=e1132] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/guia-de-portales-de-empleo-para-artistas-digitales/
+                  - generic [ref=e1134]:  21 marzo, 2025
+              - listitem [ref=e1135]:
+                - link "El Proceso de la Animación Tradicional (2D)" [ref=e1137] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/proceso-crear-animacion-tradicional-2d/
+                  - strong [ref=e1138]: "9.1"
+                  - img "como crear un plano de animacion tradicional" [ref=e1139]
+                - generic [ref=e1140]:
+                  - link "El Proceso de la Animación Tradicional (2D)" [ref=e1141] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/proceso-crear-animacion-tradicional-2d/
+                  - generic [ref=e1143]:  20 diciembre, 2024
+              - listitem [ref=e1144]:
+                - link "Aprender a Dibujar en Español | Los 12 mejores canales de tutoriales dibujo en Youtube" [ref=e1146] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/aprender-a-dibujar-espanol-mejores-canales-youtube/
+                  - strong [ref=e1147]: "9.6"
+                  - img "aprender a dibujar" [ref=e1148]
+                - generic [ref=e1149]:
+                  - link "Aprender a Dibujar en Español | Los 12 mejores canales de tutoriales dibujo en Youtube" [ref=e1150] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/aprender-a-dibujar-espanol-mejores-canales-youtube/
+                  - generic [ref=e1152]:  21 diciembre, 2024
+              - listitem [ref=e1153]:
+                - link "Los 7 mejores Libros para aprender Animación (2026) ⭐⭐⭐⭐⭐" [ref=e1155] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/los-5-mejores-libros-para-aprender-animacion-2d-3d/
+                  - strong [ref=e1156]: "9.6"
+                  - img "Los mejores Libros para aprender Animación 2d, 3d, stop motion, animacion tradicional y digital" [ref=e1157]
+                - generic [ref=e1158]:
+                  - link "Los 7 mejores Libros para aprender Animación (2026) ⭐⭐⭐⭐⭐" [ref=e1159] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/los-5-mejores-libros-para-aprender-animacion-2d-3d/
+                  - generic [ref=e1161]:  8 enero, 2026
+              - listitem [ref=e1162]:
+                - link "Los 10 Mejores Estudios de Animación del Mundo" [ref=e1164] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/los-10-mejores-estudios-de-animacion-del-mundo/
+                  - strong [ref=e1165]: "8.3"
+                  - img "estudios de animacion" [ref=e1166]
+                - generic [ref=e1167]:
+                  - link "Los 10 Mejores Estudios de Animación del Mundo" [ref=e1168] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/los-10-mejores-estudios-de-animacion-del-mundo/
+                  - generic [ref=e1170]:  24 julio, 2024
+              - listitem [ref=e1171]:
+                - link "Cómo hacer una Biblia de Animación | Que es, Proceso y Elementos" [ref=e1173] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/como-hacer-una-biblia-de-animacion/
+                  - strong [ref=e1174]: "8.9"
+                  - img "Cómo hacer una Biblia de Animación - consejos" [ref=e1175]
+                - generic [ref=e1176]:
+                  - link "Cómo hacer una Biblia de Animación | Que es, Proceso y Elementos" [ref=e1177] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/como-hacer-una-biblia-de-animacion/
+                  - generic [ref=e1179]:  20 diciembre, 2024
+              - listitem [ref=e1180]:
+                - link "El Arte de KPop Demon Hunters | ArtBook completo" [ref=e1182] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/el-arte-de-kpop-demon-hunters-artbook-completo/
+                  - img "the art of kpop demon hunters artbook" [ref=e1183]
+                - generic [ref=e1184]:
+                  - link "El Arte de KPop Demon Hunters | ArtBook completo" [ref=e1185] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/el-arte-de-kpop-demon-hunters-artbook-completo/
+                  - generic [ref=e1187]:  16 diciembre, 2025
+              - listitem [ref=e1188]:
+                - link "Los 8 Mejores Programas de Animación 3D | ACTUALIZADO 2025" [ref=e1190] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/mejores-programas-de-animacion-3d/
+                  - strong [ref=e1191]: "9"
+                  - img "mejores programas de animacion 3d" [ref=e1192]
+                - generic [ref=e1193]:
+                  - link "Los 8 Mejores Programas de Animación 3D | ACTUALIZADO 2025" [ref=e1194] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/mejores-programas-de-animacion-3d/
+                  - generic [ref=e1196]:  21 diciembre, 2024
+              - listitem [ref=e1197]:
+                - link "8 Ejemplos de Biblias de Animación" [ref=e1199] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/ejemplos-de-biblias-de-animacion/
+                  - strong [ref=e1200]: "8.4"
+                  - img "biblia de animación" [ref=e1201]
+                - generic [ref=e1202]:
+                  - link "8 Ejemplos de Biblias de Animación" [ref=e1203] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/ejemplos-de-biblias-de-animacion/
+                  - generic [ref=e1205]:  26 abril, 2021
+              - listitem [ref=e1206]:
+                - link "Top 9 mejores Motores para crear Videojuegos 2D & 3D (Gratis y de Pago)" [ref=e1208] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/motores-para-crear-videojuegos/
+                  - strong [ref=e1209]: "8.1"
+                  - img "Motores de Videojuegos 2D y 3D Gratis" [ref=e1210]
+                - generic [ref=e1211]:
+                  - link "Top 9 mejores Motores para crear Videojuegos 2D & 3D (Gratis y de Pago)" [ref=e1212] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/motores-para-crear-videojuegos/
+                  - generic [ref=e1214]:  16 febrero, 2025
+          - generic [ref=e1215]:
+            - generic [ref=e1217]: Cursos de Animación y Arte Digital 🔥
+            - list [ref=e1220]:
+              - listitem [ref=e1221]:
+                - link "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [ref=e1223] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+                  - generic [ref=e1225]:
+                    - img [ref=e1226]
+                    - text: "9.2"
+                  - generic [ref=e1230]: recursos de animación 2d, 3d, ilustración y vfx
+                  - img "creación y diseño de personajes online" [ref=e1231]
+                - generic [ref=e1232]:
+                  - link "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [ref=e1233] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+                  - generic [ref=e1235]:  Hace 4 días
+              - listitem [ref=e1236]:
+                - link "Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush" [ref=e1238] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+                  - generic [ref=e1240]: becas & formación para artistas digitales
+                  - img "Curso de anatomía humana" [ref=e1241]
+                - generic [ref=e1242]:
+                  - link "Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush" [ref=e1243] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+                  - generic [ref=e1245]:  Hace 4 días
+              - listitem [ref=e1246]:
+                - link "Curso de Unreal Engine 5 desde cero | Online y en Español" [ref=e1248] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-unreal-engine-5-desde-cero-online-y-en-espanol/
+                  - generic [ref=e1250]: becas & formación para artistas digitales
+                  - img "Curso de Unreal Engine 5 desde cero" [ref=e1251]
+                - generic [ref=e1252]:
+                  - link "Curso de Unreal Engine 5 desde cero | Online y en Español" [ref=e1253] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-unreal-engine-5-desde-cero-online-y-en-espanol/
+                  - generic [ref=e1255]:  5 febrero, 2026
+              - listitem [ref=e1256]:
+                - link "Curso de Anatomía Humana | 1. Cabeza y Cuello en ZBrush" [ref=e1258] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-cabeza-y-cuello-en-zbrush/
+                  - generic [ref=e1260]: becas & formación para artistas digitales
+                  - img "Curso de anatomía humana" [ref=e1261]
+                - generic [ref=e1262]:
+                  - link "Curso de Anatomía Humana | 1. Cabeza y Cuello en ZBrush" [ref=e1263] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-cabeza-y-cuello-en-zbrush/
+                  - generic [ref=e1265]:  Hace 4 días
+              - listitem [ref=e1266]:
+                - link "Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) AVANZADO *20% DESCUENTO" [ref=e1268] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz-avanzado/
+                  - generic [ref=e1270]: becas & formación para artistas digitales
+                  - img "CURSO COMFYUI EN ESPAÑOL AVANZADO" [ref=e1271]
+                - generic [ref=e1272]:
+                  - link "Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) AVANZADO *20% DESCUENTO" [ref=e1273] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz-avanzado/
+                  - generic [ref=e1275]:  18 diciembre, 2025
+              - listitem [ref=e1276]:
+                - link "Cursos y Masters Online de Animación, Dibujo, 3D, VFX, Videojuegos, Archviz, y Arte Digital | *DESCUENTO 20%" [ref=e1278] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/cursos-online-de-3d-animacion-vfx-y-videojuegos-oferton/
+                  - generic [ref=e1280]:
+                    - img [ref=e1281]
+                    - text: "9.1"
+                  - generic [ref=e1285]: becas & formación para artistas digitales
+                  - img "CURSOS 2D, 3D Y VFX" [ref=e1286]
+                - generic [ref=e1287]:
+                  - link "Cursos y Masters Online de Animación, Dibujo, 3D, VFX, Videojuegos, Archviz, y Arte Digital | *DESCUENTO 20%" [ref=e1288] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/cursos-online-de-3d-animacion-vfx-y-videojuegos-oferton/
+                  - generic [ref=e1290]:  16 diciembre, 2025
+              - listitem [ref=e1291]:
+                - link "Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) *20% DESCUENTO" [ref=e1293] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz/
+                  - generic [ref=e1295]: becas & formación para artistas digitales
+                  - img "Curso de ComfyUI en Español | Inteligencia Artificial para Archviz" [ref=e1296]
+                - generic [ref=e1297]:
+                  - link "Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) *20% DESCUENTO" [ref=e1298] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz/
+                  - generic [ref=e1300]:  16 enero, 2026
+              - listitem [ref=e1301]:
+                - link "Máster de Dibujo y Pintura Digital desde Cero | ONLINE EN DIRECTO" [ref=e1303] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/master-de-dibujo-y-pintura-digital-desde-cero/
+                  - generic [ref=e1305]: becas & formación para artistas digitales
+                  - img "Curso de Dibujo Digital ONLINE" [ref=e1306]
+                - generic [ref=e1307]:
+                  - link "Máster de Dibujo y Pintura Digital desde Cero | ONLINE EN DIRECTO" [ref=e1308] [cursor=pointer]:
+                    - /url: https://www.notodoanimacion.es/master-de-dibujo-y-pintura-digital-desde-cero/
+                  - generic [ref=e1310]:  3 noviembre, 2025
+          - generic [ref=e1311]:
+            - generic [ref=e1313]: Síguenos en Redes Sociales
+            - list [ref=e1314]:
+              - listitem [ref=e1315]:
+                - link " Facebook" [ref=e1316] [cursor=pointer]:
+                  - /url: https://www.facebook.com/notodoanimacion/
+                  - generic [ref=e1317]: 
+                  - generic [ref=e1318]: Facebook
+              - listitem [ref=e1319]:
+                - link " X" [ref=e1320] [cursor=pointer]:
+                  - /url: https://twitter.com/notodoanimacion
+                  - generic [ref=e1321]: 
+                  - generic [ref=e1322]: X
+              - listitem [ref=e1323]:
+                - link " Pinterest" [ref=e1324] [cursor=pointer]:
+                  - /url: https://www.pinterest.es/animalstudios/notodoanimaciones/
+                  - generic [ref=e1325]: 
+                  - generic [ref=e1326]: Pinterest
+              - listitem [ref=e1327]:
+                - link " LinkedIn" [ref=e1328] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/notodoanimacion-es/
+                  - generic [ref=e1329]: 
+                  - generic [ref=e1330]: LinkedIn
+              - listitem [ref=e1331]:
+                - link " YouTube" [ref=e1332] [cursor=pointer]:
+                  - /url: https://www.youtube.com/c/notodoanimacion?sub_confirmation=1
+                  - generic [ref=e1333]: 
+                  - generic [ref=e1334]: YouTube
+              - listitem [ref=e1335]:
+                - link " Instagram" [ref=e1336] [cursor=pointer]:
+                  - /url: https://www.instagram.com/notodoanimacion.es/
+                  - generic [ref=e1337]: 
+                  - generic [ref=e1338]: Instagram
+              - listitem [ref=e1339]:
+                - link " Telegram" [ref=e1340] [cursor=pointer]:
+                  - /url: https://t.me/notodoanimacion
+                  - generic [ref=e1341]: 
+                  - generic [ref=e1342]: Telegram
+              - listitem [ref=e1343]:
+                - link " TikTok" [ref=e1344] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@jonatan.cortes
+                  - generic [ref=e1345]: 
+                  - generic [ref=e1346]: TikTok
+              - listitem [ref=e1347]:
+                - link " RSS" [ref=e1348] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/feed/
+                  - generic [ref=e1349]: 
+                  - generic [ref=e1350]: RSS
+    - contentinfo [ref=e1351]:
+      - generic [ref=e1357]:
+        - generic [ref=e1359]: BECAS Y FORMACIÓN ❤️
+        - generic [ref=e1361]:
+          - list [ref=e1362]:
+            - listitem:
+              - generic [ref=e1363] [cursor=pointer]: 
+            - listitem:
+              - generic [ref=e1364] [cursor=pointer]: 
+          - toolbar [ref=e1366]:
+            - listbox [ref=e1368]:
+              - generic [ref=e1369]:
+                - link [ref=e1370] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/master-de-dibujo-y-pintura-digital-desde-cero/
+                  - generic [ref=e1371]: Máster de Dibujo y Pintura Digital desde Cero | ONLINE EN DIRECTO
+                - generic [ref=e1372]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  3 noviembre, 2025
+                    - heading [level=3]:
+                      - link [ref=e1373] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/master-de-dibujo-y-pintura-digital-desde-cero/
+                        - text: Máster de Dibujo y Pintura Digital desde Cero | ONLINE EN DIRECTO
+              - generic [ref=e1374]:
+                - link [ref=e1375] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/master-en-animacion-3d/
+                  - generic [ref=e1376]: Máster en Animación 3D | ONLINE EN DIRECTO
+                - generic [ref=e1377]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  3 noviembre, 2025
+                    - heading [level=3]:
+                      - link [ref=e1378] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/master-en-animacion-3d/
+                        - text: Máster en Animación 3D | ONLINE EN DIRECTO
+              - generic [ref=e1379]:
+                - link [ref=e1380] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-direccion-y-creacion-de-cortometrajes-de-animacion-online/
+                  - generic [ref=e1381]: Curso de Dirección y Creación de Cortometrajes de Animación | ONLINE EN DIRECTO
+                - generic [ref=e1382]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  3 noviembre, 2025
+                    - heading [level=3]:
+                      - link [ref=e1383] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/curso-de-direccion-y-creacion-de-cortometrajes-de-animacion-online/
+                        - text: Curso de Dirección y Creación de Cortometrajes de Animación | ONLINE EN DIRECTO
+              - option "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos  Hace 4 días TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [ref=e1384]:
+                - link "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [ref=e1385] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+                  - generic [ref=e1386]: TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos
+                - generic [ref=e1387]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  Hace 4 días
+                    - heading "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [level=3]:
+                      - link "TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos" [ref=e1388] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+              - option "Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush  Hace 4 días Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush" [ref=e1389]:
+                - link "Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush" [ref=e1390] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+                  - generic [ref=e1391]: Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush
+                - generic [ref=e1392]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  Hace 4 días
+                    - heading "Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush" [level=3]:
+                      - link "Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush" [ref=e1393] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+              - option "Curso de Unreal Engine 5 desde cero | Online y en Español  5 febrero, 2026 Curso de Unreal Engine 5 desde cero | Online y en Español" [ref=e1394]:
+                - link "Curso de Unreal Engine 5 desde cero | Online y en Español" [ref=e1395] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-unreal-engine-5-desde-cero-online-y-en-espanol/
+                  - generic [ref=e1396]: Curso de Unreal Engine 5 desde cero | Online y en Español
+                - generic [ref=e1397]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  5 febrero, 2026
+                    - heading "Curso de Unreal Engine 5 desde cero | Online y en Español" [level=3]:
+                      - link "Curso de Unreal Engine 5 desde cero | Online y en Español" [ref=e1398] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/curso-de-unreal-engine-5-desde-cero-online-y-en-espanol/
+              - option [ref=e1399]:
+                - link [ref=e1400] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-cabeza-y-cuello-en-zbrush/
+                  - generic [ref=e1401]: Curso de Anatomía Humana | 1. Cabeza y Cuello en ZBrush
+                - generic [ref=e1402]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  Hace 4 días
+                    - heading [level=3]:
+                      - link [ref=e1403] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-cabeza-y-cuello-en-zbrush/
+                        - text: Curso de Anatomía Humana | 1. Cabeza y Cuello en ZBrush
+              - option [ref=e1404]:
+                - link [ref=e1405] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz-avanzado/
+                  - generic [ref=e1406]: Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) AVANZADO *20% DESCUENTO
+                - generic [ref=e1407]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  18 diciembre, 2025
+                    - heading [level=3]:
+                      - link [ref=e1408] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz-avanzado/
+                        - text: Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) AVANZADO *20% DESCUENTO
+              - option [ref=e1409]:
+                - link [ref=e1410] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/cursos-online-de-3d-animacion-vfx-y-videojuegos-oferton/
+                  - generic [ref=e1411]: Cursos y Masters Online de Animación, Dibujo, 3D, VFX, Videojuegos, Archviz, y Arte Digital | *DESCUENTO 20%
+                - generic [ref=e1412]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  16 diciembre, 2025
+                    - heading [level=3]:
+                      - link [ref=e1413] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/cursos-online-de-3d-animacion-vfx-y-videojuegos-oferton/
+                        - text: Cursos y Masters Online de Animación, Dibujo, 3D, VFX, Videojuegos, Archviz, y Arte Digital | *DESCUENTO 20%
+              - option [ref=e1414]:
+                - link [ref=e1415] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz/
+                  - generic [ref=e1416]: Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) *20% DESCUENTO
+                - generic [ref=e1417]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  16 enero, 2026
+                    - heading [level=3]:
+                      - link [ref=e1418] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/curso-de-ia-comfyui-para-arquitectura-archviz/
+                        - text: Curso de IA | ComfyUI para Arquitectura (ARCHVIZ) *20% DESCUENTO
+              - option [ref=e1419]:
+                - link [ref=e1420] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/master-de-dibujo-y-pintura-digital-desde-cero/
+                  - generic [ref=e1421]: Máster de Dibujo y Pintura Digital desde Cero | ONLINE EN DIRECTO
+                - generic [ref=e1422]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  3 noviembre, 2025
+                    - heading [level=3]:
+                      - link [ref=e1423] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/master-de-dibujo-y-pintura-digital-desde-cero/
+                        - text: Máster de Dibujo y Pintura Digital desde Cero | ONLINE EN DIRECTO
+              - option [ref=e1424]:
+                - link [ref=e1425] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/master-en-animacion-3d/
+                  - generic [ref=e1426]: Máster en Animación 3D | ONLINE EN DIRECTO
+                - generic [ref=e1427]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  3 noviembre, 2025
+                    - heading [level=3]:
+                      - link [ref=e1428] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/master-en-animacion-3d/
+                        - text: Máster en Animación 3D | ONLINE EN DIRECTO
+              - option [ref=e1429]:
+                - link [ref=e1430] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-direccion-y-creacion-de-cortometrajes-de-animacion-online/
+                  - generic [ref=e1431]: Curso de Dirección y Creación de Cortometrajes de Animación | ONLINE EN DIRECTO
+                - generic [ref=e1432]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  3 noviembre, 2025
+                    - heading [level=3]:
+                      - link [ref=e1433] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/curso-de-direccion-y-creacion-de-cortometrajes-de-animacion-online/
+                        - text: Curso de Dirección y Creación de Cortometrajes de Animación | ONLINE EN DIRECTO
+              - generic [ref=e1434]:
+                - link [ref=e1435] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+                  - generic [ref=e1436]: TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos
+                - generic [ref=e1437]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  Hace 4 días
+                    - heading [level=3]:
+                      - link [ref=e1438] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/cursos-diseno-creacion-personajes-trabajar-animacion-videojuegos/
+                        - text: TOP 6 Cursos de Diseño y Creación de Personajes | ONLINE para Animación y Videojuegos
+              - generic [ref=e1439]:
+                - link [ref=e1440] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+                  - generic [ref=e1441]: Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush
+                - generic [ref=e1442]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  Hace 4 días
+                    - heading [level=3]:
+                      - link [ref=e1443] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/curso-de-anatomia-humana-de-tronco-y-extremidades-en-zbrush/
+                        - text: Curso de Anatomía Humana | 2. Tronco y Extremidades en ZBrush
+              - generic [ref=e1444]:
+                - link [ref=e1445] [cursor=pointer]:
+                  - /url: https://www.notodoanimacion.es/curso-de-unreal-engine-5-desde-cero-online-y-en-espanol/
+                  - generic [ref=e1446]: Curso de Unreal Engine 5 desde cero | Online y en Español
+                - generic [ref=e1447]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:  5 febrero, 2026
+                    - heading [level=3]:
+                      - link [ref=e1448] [cursor=pointer]:
+                        - /url: https://www.notodoanimacion.es/curso-de-unreal-engine-5-desde-cero-online-y-en-espanol/
+                        - text: Curso de Unreal Engine 5 desde cero | Online y en Español
+      - generic [ref=e1452]:
+        - generic [ref=e1453]:
+          - text: © Copyright 2026, All Rights Reserved |
+          - generic [ref=e1454]: 
+          - text: ¿Buscas un buen
+          - link "Master en Animación?" [ref=e1455] [cursor=pointer]:
+            - /url: https://www.notodoanimacion.es/masteres-de-animacion-3d-2d-espana/
+          - text: 👈 ENTRA AQUÍ :)
+        - generic [ref=e1456]:
+          - link "Política de Privacidad" [ref=e1457] [cursor=pointer]:
+            - /url: https://www.notodoanimacion.es/politica-de-privacidad/
+          - text: "|"
+          - link "Cookies" [ref=e1458] [cursor=pointer]:
+            - /url: https://www.notodoanimacion.es/politica-de-coockies/
+          - text: "|"
+          - link "PUBLICIDAD" [ref=e1459] [cursor=pointer]:
+            - /url: https://www.notodoanimacion.es/publicidad-en-notodoanimacion-es/
+        - list [ref=e1460]:
+          - listitem [ref=e1461]:
+            - link " Facebook" [ref=e1462] [cursor=pointer]:
+              - /url: https://www.facebook.com/notodoanimacion/
+              - generic [ref=e1463]: 
+              - generic [ref=e1464]: Facebook
+          - listitem [ref=e1465]:
+            - link " X" [ref=e1466] [cursor=pointer]:
+              - /url: https://twitter.com/notodoanimacion
+              - generic [ref=e1467]: 
+              - generic [ref=e1468]: X
+          - listitem [ref=e1469]:
+            - link " Pinterest" [ref=e1470] [cursor=pointer]:
+              - /url: https://www.pinterest.es/animalstudios/notodoanimaciones/
+              - generic [ref=e1471]: 
+              - generic [ref=e1472]: Pinterest
+          - listitem [ref=e1473]:
+            - link " LinkedIn" [ref=e1474] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/notodoanimacion-es/
+              - generic [ref=e1475]: 
+              - generic [ref=e1476]: LinkedIn
+          - listitem [ref=e1477]:
+            - link " YouTube" [ref=e1478] [cursor=pointer]:
+              - /url: https://www.youtube.com/c/notodoanimacion?sub_confirmation=1
+              - generic [ref=e1479]: 
+              - generic [ref=e1480]: YouTube
+          - listitem [ref=e1481]:
+            - link " Instagram" [ref=e1482] [cursor=pointer]:
+              - /url: https://www.instagram.com/notodoanimacion.es/
+              - generic [ref=e1483]: 
+              - generic [ref=e1484]: Instagram
+          - listitem [ref=e1485]:
+            - link " Telegram" [ref=e1486] [cursor=pointer]:
+              - /url: https://t.me/notodoanimacion
+              - generic [ref=e1487]: 
+              - generic [ref=e1488]: Telegram
+          - listitem [ref=e1489]:
+            - link " TikTok" [ref=e1490] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@jonatan.cortes
+              - generic [ref=e1491]: 
+              - generic [ref=e1492]: TikTok
+          - listitem [ref=e1493]:
+            - link " RSS" [ref=e1494] [cursor=pointer]:
+              - /url: https://www.notodoanimacion.es/feed/
+              - generic [ref=e1495]: 
+              - generic [ref=e1496]: RSS
+  - text:    
+  - iframe [ref=e1499]:
+    - generic [ref=f19e5]:
+      - generic [ref=f19e6]:
+        - text: protección de
+        - strong [ref=f19e7]: reCAPTCHA
+      - generic [ref=f19e9]:
+        - text: reCAPTCHA va a cambiar sus términos del servicio.
+        - link "Toma medidas" [ref=f19e10] [cursor=pointer]:
+          - /url: https://google.com/recaptcha/admin/migrate
+        - text: .
+  - generic [ref=e1500]:
+    - button [ref=e1501] [cursor=pointer]:
+      - img [ref=e1502]
+    - generic:
+      - generic: Subscribe to notifications

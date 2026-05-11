@@ -205,3 +205,88 @@ Format:
 **Consequence:** Token budget exhausted mid-week, forcing emergency cadence reduction and disrupting scheduled agent work
 **Prevention:** Before enabling any heartbeat schedule on Opus/Sonnet agents, compute heartbeats/week × per-invocation cost and compare against weekly budget. Default to daily (or less frequent) heartbeats and rely on routine triggers for time-sensitive work
 ---
+
+## [pit-029] 2026-04-14 | helpful=0
+**Context:** When preparing a local repo with history (specs, config docs, agent designs) for first push to a new GitHub remote
+**Pitfall:** Committed all files without scanning for embedded secrets first — GitHub's secret scanning blocked the push due to a Notion API token buried in a spec document
+**Consequence:** Had to redact the token, amend the commit, and retry the push — and the secret now exists in local git history (reflog) even after the amend
+**Prevention:** Before the first git add, run a secrets scan (grep -rE for common token patterns like ntn_, sk-, ghp_, xoxb-) across all files, especially docs/specs that often contain real API tokens as examples or references
+---
+
+## [pit-030] 2026-05-07 | helpful=0
+**Context:** When the user starts dictating strategic pillars mid-sentence (e.g., 'el primer pilar es...') for a multi-pillar transformation document
+**Pitfall:** Treating the first pillar mentioned as the complete pillar set and proceeding to draft, instead of pausing to enumerate all pillars and confirm the umbrella scope
+**Consequence:** Prompt or document gets written around an incomplete pillar list, requiring a full restructure once the remaining pillars surface
+**Prevention:** Before drafting, explicitly ask the user to enumerate all pillars (or confirm the pillar list from sibling strategy docs) and lock the umbrella structure before writing any TODO blocks or section scaffolding
+---
+
+## [pit-031] 2026-05-07 | helpful=0
+**Context:** When the user corrects a proper noun mid-session (e.g., Northeus → Northius) that appears across multiple files and memory
+**Pitfall:** Treating the rename as a local edit and not immediately persisting the canonical spelling to auto-memory before spawning parallel agents
+**Consequence:** Background agents may use the stale spelling, requiring a sweep-and-replace after they complete
+**Prevention:** On any proper-noun correction, write the canonical name to MEMORY.md FIRST, then spawn downstream agents so they inherit the corrected term via project context
+---
+
+## [pit-032] 2026-05-07 | helpful=0
+**Context:** When a background sub-agent fails reading a large canonical document (>25K tokens) via Read
+**Pitfall:** Treating the sub-agent's Read failure as something the orchestrator must fix mid-flight, instead of trusting the sub-agent to retry with offset/limit
+**Consequence:** Orchestrator interferes with in-flight sub-agent work or wastes turns diagnosing a recoverable error
+**Prevention:** When spawning sub-agents that must read large docs, pre-instruct them to use Read with offset/limit pagination from the start; do not intervene when their Read fails — they own recovery
+---
+
+## [pit-033] 2026-05-07 | helpful=0
+**Context:** When in autopilot mode and waiting on background agents to finish writing, with ScheduleWakeup armed
+**Pitfall:** Idling with ScheduleWakeup while the autopilot stop hook keeps firing 'not complete' — treating the wakeup as sufficient and not advancing any productive subtask
+**Consequence:** Wasted turns where the stop hook re-prompts continuation but no work progresses; autopilot state stays stuck until agents finish
+**Prevention:** While background writers run, do not idle — pick up an independent productive subtask (pre-draft dependent doc prompts, verify prior outputs, update memory/index files). Only ScheduleWakeup when there is genuinely zero parallel work available.
+**Nuance:** TaskGet/TaskList track Team coordination tasks, not Agent tool background jobs — Agent tool jobs auto-notify on completion, so do not poll them; if you find yourself reaching for TaskGet/TaskList to monitor an Agent background job, that's the signal to instead pick up an independent productive subtask
+---
+
+## [pit-034] 2026-05-07 | helpful=0
+**Context:** When a writer agent self-reports tensions/concerns in its completion summary for a strategic document
+**Pitfall:** Treating the self-reported tensions as the writer's job to resolve, instead of routing them explicitly to the critic agent as validation inputs
+**Consequence:** Tensions get buried in the writer's notes and the critic reviews the doc without knowing which sections the writer itself flagged as uncertain
+**Prevention:** When spawning the critic after a writer flags tensions, pass the writer's tension list as explicit review focus areas in the critic prompt — turns writer-flagged uncertainty into targeted critic scrutiny
+---
+
+## [pit-035] 2026-05-07 | helpful=0
+**Context:** When a critic flags a missing concrete figure (e.g., the 35% cupón) that lives in a sibling canonical doc
+**Pitfall:** Treating the missing figure as something to fabricate or approximate in the umbrella doc instead of sourcing it verbatim from the canonical sibling
+**Consequence:** Numerical drift between umbrella and canonical docs; critic re-flags on next pass and trust in the cross-reference DAG erodes
+**Prevention:** Before applying critic fixes that involve concrete figures, grep the canonical sibling docs for the exact number and quote it with a citation — never let the executor invent or round figures in umbrella documents
+---
+
+## [pit-036] 2026-05-07 | helpful=0
+**Context:** When applying numbered-list edits (e.g., adding a 7th hito to a section originally containing six)
+**Pitfall:** Editing the list items but forgetting to update intro/summary phrases that hardcode the count ('seis hitos', 'los 6 pilares')
+**Consequence:** Document ships with internal contradiction between intro count and actual list length; reviewer or reader spots it and trust in the doc drops
+**Prevention:** After any list-length change, grep the document for the old count word/digit ('seis', 'six', '6') in surrounding prose and update all references in the same edit pass
+---
+
+## [pit-037] 2026-05-08 | helpful=0
+**Context:** When the user corrects the diagnosis in an umbrella strategy doc that has already cascaded into sibling pillar documents
+**Pitfall:** Editing only the umbrella doc to reflect the corrected diagnosis without immediately auditing the sibling pillar docs that inherited the original (now-wrong) framing
+**Consequence:** Sibling pillars retain the stale diagnosis, creating cross-document contradictions that surface later as rework when the user reads the next pillar
+**Prevention:** On any diagnosis correction to an umbrella doc, immediately grep the sibling pillar docs for the corrected concepts (e.g., 'contenido escaso', 'comoditizado') and queue a propagation pass before considering the correction applied
+---
+
+## [pit-038] 2026-05-08 | helpful=0
+**Context:** When an executor reports applying N changes plus discovering M residual inconsistencies in the same document
+**Pitfall:** Conflating the M residual inconsistencies with the N directed changes and treating both as 'done' in the completion summary
+**Consequence:** User loses visibility into which edits were directive-driven vs. executor-inferred, eroding trust and risking silent scope creep
+**Prevention:** In the completion report, separate 'applied per directive' from 'detected but deferred to user' — never auto-apply inferred fixes without explicit confirmation
+---
+
+## [pit-039] 2026-05-08 | helpful=0
+**Context:** When a user invokes /ultrawork with M discrete subtasks that all mutate the same file
+**Pitfall:** Treating 'M subtasks' as automatic justification for M parallel agents without checking whether the write surface is shared
+**Consequence:** Concurrent agents overwrite each other's edits on the same file, producing partial fixes, lost changes, or corrupted markdown that needs a reconciliation pass
+**Prevention:** Before spawning parallel agents under ultrawork, classify tasks by write target; if 2+ tasks write to the same file, serialize them into one executor invocation with the full fix list as input
+---
+
+## [pit-040] 2026-05-09 | helpful=0
+**Context:** When closing an ultrawork session with documented pending colaterals (e.g., 'Hito 6 still cites closed in-company training')
+**Pitfall:** Reporting the colaterals as 'user decision pending' without flagging which one is load-bearing for the directive just applied
+**Consequence:** User has to re-read the full colateral list to identify which fix is structurally required vs cosmetic, wasting a turn
+**Prevention:** When listing pending colaterals at session close, explicitly tag the one(s) that contradict the directive just applied as 'blocks coherence' vs 'cosmetic' — let the user triage by severity, not by reading order
+---

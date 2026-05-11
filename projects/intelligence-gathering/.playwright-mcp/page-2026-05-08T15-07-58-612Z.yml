@@ -1,0 +1,588 @@
+- generic [ref=e1]:
+  - region "Valoramos tu privacidad" [ref=e2]:
+    - generic [ref=e4]:
+      - heading "Valoramos tu privacidad" [level=1] [ref=e5]
+      - generic [ref=e6]:
+        - paragraph [ref=e8]:
+          - text: Usamos cookies para mejorar su experiencia de navegación, mostrarle anuncios o contenidos personalizados y analizar nuestro tráfico. Al hacer clic en “Aceptar todo” usted da su consentimiento a nuestro uso de las cookies.
+          - link "Política de cookies" [ref=e9] [cursor=pointer]:
+            - /url: ""
+        - generic [ref=e10]:
+          - button "Personalizar" [ref=e11] [cursor=pointer]
+          - button "Rechazar todo" [ref=e12] [cursor=pointer]
+          - button "Aceptar todo" [ref=e13] [cursor=pointer]
+  - dialog "Personalizar las preferencias de consentimiento" [ref=e14]:
+    - generic [ref=e15]:
+      - heading "Personalizar las preferencias de consentimiento" [level=1] [ref=e16]
+      - button "Cerca" [ref=e17] [cursor=pointer]:
+        - img "Close" [ref=e18]
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - paragraph [ref=e21]: Usamos cookies para ayudarle a navegar de manera eficiente y realizar ciertas funciones. Encontrará información detallada sobre cada una de las cookies bajo cada categoría de consentimiento a continuación.
+        - paragraph [ref=e22]:
+          - text: Las cookies categorizadas como “Necesarias” se guardan en su navegador, ya que son esenciales para permitir las funcionalidades básicas del sitio web....
+          - button "Mostrar más" [ref=e23] [cursor=pointer]
+      - generic [ref=e25]:
+        - generic [ref=e28] [cursor=pointer]:
+          - generic [ref=e29]:
+            - button "Necesaria" [ref=e30]
+            - generic [ref=e31]: Siempre activas
+          - paragraph [ref=e33]: Las cookies necesarias son cruciales para las funciones básicas del sitio web y el sitio web no funcionará de la forma prevista sin ellas.Estas cookies no almacenan ningún dato de identificación personal.
+        - generic [ref=e36] [cursor=pointer]:
+          - generic [ref=e37]:
+            - button "Funcional" [ref=e38]
+            - checkbox "Permitir Funcional" [ref=e40]
+          - paragraph [ref=e42]: Las cookies funcionales ayudan a realizar ciertas funcionalidades, como compartir el contenido del sitio web en plataformas de redes sociales, recopilar comentarios y otras características de terceros.
+        - generic [ref=e45] [cursor=pointer]:
+          - generic [ref=e46]:
+            - button "Analítica" [ref=e47]
+            - checkbox "Permitir Analítica" [ref=e49]
+          - paragraph [ref=e51]: Las cookies analíticas se utilizan para comprender cómo interactúan los visitantes con el sitio web. Estas cookies ayudan a proporcionar información sobre métricas el número de visitantes, el porcentaje de rebote, la fuente de tráfico, etc.
+        - generic [ref=e54] [cursor=pointer]:
+          - generic [ref=e55]:
+            - button "El rendimiento" [ref=e56]
+            - checkbox "Permitir El rendimiento" [ref=e58]
+          - paragraph [ref=e60]: Las cookies de rendimiento se utilizan para comprender y analizar los índices de rendimiento clave del sitio web, lo que ayuda a proporcionar una mejor experiencia de usuario para los visitantes.
+        - generic [ref=e63] [cursor=pointer]:
+          - generic [ref=e64]:
+            - button "Anuncio" [ref=e65]
+            - checkbox "Permitir Anuncio" [ref=e67]
+          - paragraph [ref=e69]: Las cookies publicitarias se utilizan para entregar a los visitantes anuncios personalizados basados en las páginas que visitaron antes y analizar la efectividad de la campaña publicitaria.
+        - generic [ref=e72] [cursor=pointer]:
+          - button "Sin categorizar" [ref=e74]
+          - paragraph [ref=e76]: Otras cookies no categorizadas son las que se están analizando y aún no se han clasificado en una categoría.
+    - generic [ref=e77]:
+      - generic [ref=e79]:
+        - button "Rechazar todo" [ref=e80] [cursor=pointer]
+        - button "Guardar mis preferencias" [ref=e81] [cursor=pointer]
+        - button "Aceptar todo" [ref=e82] [cursor=pointer]
+      - generic [ref=e83]:
+        - text: Powered by
+        - link "Cookieyes logo" [ref=e84] [cursor=pointer]:
+          - /url: https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=powered-by-cookieyes
+          - img "Cookieyes logo" [ref=e85]
+  - banner [ref=e86]:
+    - 'link "Logotipo de CEI: Centro de Estudios de Innovación en versión larga CEI" [active] [ref=e88] [cursor=pointer]':
+      - /url: https://cei.es
+      - 'img "Logotipo de CEI: Centro de Estudios de Innovación en versión larga" [ref=e89]'
+      - img "CEI" [ref=e90]
+    - generic [ref=e91]:
+      - generic: Diseña tu futuro
+    - button "Menu Cerrar" [ref=e92] [cursor=pointer]:
+      - text: Menu
+      - generic [ref=e93]: Cerrar
+    - navigation:
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Estudios por áreas":
+                - /url: "#"
+                - text: Estudios por áreas
+              - list:
+                - listitem:
+                  - link "Diseño gráfico y dirección de arte":
+                    - /url: https://cei.es/cursos-diseno-grafico/
+                - listitem:
+                  - link "Desarrollo y programación web":
+                    - /url: https://cei.es/cursos-diseno-web/
+                - listitem:
+                  - link "Post/producción audiovisual":
+                    - /url: https://cei.es/cursos-video-vfx-motion-graphics/
+                - listitem:
+                  - link "Marketing digital & Business":
+                    - /url: https://cei.es/cursos-marketing-digital/
+                - listitem:
+                  - link "Interiores y arquitectura BIM":
+                    - /url: https://cei.es/cursos-diseno-interiores-arquitectura/
+                - listitem:
+                  - link "Diseño y Desarrollo de Videojuegos":
+                    - /url: https://cei.es/cursos-videojuegos/
+                - listitem:
+                  - link "Tecnologías Emergentes (TechEmerge)":
+                    - /url: https://cei.es/tecnologias-emergentes/
+            - listitem:
+              - link "Estudios por tipo":
+                - /url: "#"
+                - text: Estudios por tipo
+              - list:
+                - listitem:
+                  - link "Cursos intensivos":
+                    - /url: https://cei.es/cursos-intensivos/
+                - listitem:
+                  - link "Estudios universitarios":
+                    - /url: https://cei.es/titulaciones-universitarias/
+                - listitem:
+                  - link "Grados superiores de FP":
+                    - /url: https://cei.es/fp-grado-superior/
+                - listitem:
+                  - link "Estudios en fin de semana":
+                    - /url: https://cei.es/estudios-fin-de-semana/
+                - listitem:
+                  - link "Estudios online (en directo)":
+                    - /url: https://cei.es/estudios-online/
+                - listitem:
+                  - link "A tu medida":
+                    - /url: https://cei.es/disena-tu-futuro/
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Formación para empresas":
+                - /url: "#"
+                - text: Formación para empresas
+              - list:
+                - listitem:
+                  - link "Formación para empresas":
+                    - /url: https://cei.es/formacion-para-empresas/
+                - listitem:
+                  - link "Formación bonificada (FUNDAE)":
+                    - /url: https://cei.es/fundacion-estatal-para-la-formacion-en-el-empleo/
+            - listitem:
+              - link "Conócenos":
+                - /url: "#"
+                - text: Conócenos
+              - list:
+                - listitem:
+                  - link "Sobre nosotros":
+                    - /url: https://cei.es/centro-formacion/
+                - listitem:
+                  - link "Sedes e instalaciones":
+                    - /url: https://cei.es/campus/
+                - listitem:
+                  - link "Profesorado":
+                    - /url: https://cei.es/profesorado/
+                - listitem:
+                  - link "Nuestro método":
+                    - /url: https://cei.es/nuestro-metodo/
+                - listitem:
+                  - link "Alumnos internacionales":
+                    - /url: https://cei.es/alumnos-extranjeros/
+                - listitem:
+                  - link "Preguntas frecuentes":
+                    - /url: https://cei.es/mas-informacion/
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Certificaciones":
+                - /url: "#"
+                - text: Certificaciones
+              - list:
+                - listitem:
+                  - link "Centro de formación oficial":
+                    - /url: https://cei.es/certificaciones/
+            - listitem:
+              - link "Repetición gratuita":
+                - /url: "#"
+                - text: Repetición gratuita
+              - list:
+                - listitem:
+                  - link "Enseñanza garantizada":
+                    - /url: https://cei.es/repeticion-gratuita-estudios/
+            - listitem:
+              - link "Empleo":
+                - /url: "#"
+                - text: Empleo
+              - list:
+                - listitem:
+                  - link "Bolsa de trabajo y prácticas para alumnos":
+                    - /url: https://cei.es/bolsa-de-trabajo/
+                - listitem:
+                  - link "Acceso de empresas a bolsa de empleo":
+                    - /url: https://cei.jobteaser.com/fr/recruiter_account/job_offers
+                - listitem:
+                  - link "Garantía laboral por escrito.":
+                    - /url: https://cei.es/garantia-laboral/
+            - listitem:
+              - link "CEI Alumnos":
+                - /url: "#"
+                - text: CEI Alumnos
+              - list:
+                - listitem:
+                  - link "Campus virtual":
+                    - /url: https://alumnos.cei.es/
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Garantía laboral":
+                - /url: https://cei.es/garantia-laboral/
+                - text: Garantía laboral
+              - list:
+                - listitem:
+                  - link "Garantizada por escrito":
+                    - /url: https://cei.es/garantia-laboral/
+            - listitem:
+              - link "Mantente informado":
+                - /url: https://cei.es/category/blog/
+                - text: Mantente informado
+              - list:
+                - listitem:
+                  - link "Blog":
+                    - /url: https://cei.es/categoria/blog/
+                - listitem:
+                  - link "Noticias":
+                    - /url: https://cei.es/categoria/blog/noticias/
+            - listitem:
+              - link "Contacto":
+                - /url: https://cei.es/contacto/
+                - text: Contacto
+              - list:
+                - listitem:
+                  - link "Formulario de información general":
+                    - /url: https://cei.es/contacto/
+                - listitem:
+                  - link "Cita de asesoramiento":
+                    - /url: https://escuelacei.zohobookings.eu/#/cei
+                - listitem:
+                  - link "Clase demo gratuita":
+                    - /url: https://cei.es/clase-gratuita/
+                - listitem:
+                  - link "Información telefónica y presencial":
+                    - /url: https://cei.es/informacion-telefonica-presencial/
+  - generic [ref=e95]:
+    - generic [ref=e96]:
+      - heading "Estudios de Producción y Postproducción Audiovisual" [level=1] [ref=e97]
+      - generic [ref=e98]:
+        - paragraph [ref=e99]: Estudia producción y postproducción audiovisual con una formación pensada para ayudarte a crear antes, dominar herramientas antes y convertir tu interés por el vídeo, los VFX y el motion graphics en resultados visibles desde el inicio. En CEI puedes elegir entre cursos, másteres y títulos superiores con una metodología práctica orientada a que cada aprendizaje tenga una aplicación real en proyectos audiovisuales.
+        - paragraph [ref=e100]: Esta área está dirigida a quienes quieren especializarse, actualizar su perfil creativo o dar un salto profesional en un sector donde la técnica, la agilidad y la capacidad de ejecución marcan la diferencia. Cuando el aprendizaje se traduce en piezas, procesos y portfolio, la decisión cuesta menos y el avance se percibe mucho antes.
+        - paragraph [ref=e101]: Fórmate online o presencialmente en un entorno que integra edición de vídeo, composición, motion graphics, 3D, corrección de color y producción audiovisual para que cada paso de tu formación sume valor real a tu perfil y a tu proyección profesional.
+      - generic [ref=e102]:
+        - list [ref=e103]:
+          - listitem [ref=e104]:
+            - link "INTENSIVOS" [ref=e105] [cursor=pointer]:
+              - /url: "#intensivo"
+            - text: "-"
+          - listitem [ref=e106]:
+            - link "CURSOS" [ref=e107] [cursor=pointer]:
+              - /url: "#curso"
+            - text: "-"
+          - listitem [ref=e108]:
+            - link "MáSTERES" [ref=e109] [cursor=pointer]:
+              - /url: "#master"
+            - text: "-"
+          - listitem [ref=e110]:
+            - link "MáSTERES AVANZADOS" [ref=e111] [cursor=pointer]:
+              - /url: "#master-avanzado"
+            - text: "-"
+          - listitem [ref=e112]:
+            - link "MáSTERES PROFESIONALES" [ref=e113] [cursor=pointer]:
+              - /url: "#master-profesional"
+            - text: "-"
+          - listitem [ref=e114]:
+            - link "TíTULOS SUPERIORES" [ref=e115] [cursor=pointer]:
+              - /url: "#titulo-superior"
+            - text: "-"
+          - listitem [ref=e116]:
+            - link "GLOBAL MASTER" [ref=e117] [cursor=pointer]:
+              - /url: "#global-master"
+        - img "Producción y Postproducción Audiovisual" [ref=e120]
+    - generic [ref=e121]:
+      - heading "Intensivos de Producción y Postproducción Audiovisual" [level=2] [ref=e122]
+      - generic [ref=e126]:
+        - 'link "IA-herramientas-diseno-y-creadores Curso de Inteligencia Artificial (IA): Herramientas para Diseño y Creadores Online 48 horas (12 días) A diario (de Lunes a Jueves) o Fin de semana" [ref=e128] [cursor=pointer]':
+          - /url: https://cei.es/cei-curso/curso-inteligencia-artificial-herramientas-diseno-creadores/
+          - img "IA-herramientas-diseno-y-creadores" [ref=e130]
+          - generic [ref=e131]:
+            - 'heading "Curso de Inteligencia Artificial (IA): Herramientas para Diseño y Creadores" [level=4] [ref=e132]'
+            - paragraph [ref=e133]: Online
+            - paragraph [ref=e134]: 48 horas (12 días)
+            - paragraph [ref=e135]: A diario (de Lunes a Jueves) o Fin de semana
+        - link "curso-adobe-after-effects Curso de Adobe After Effects Presencial / Online Certificación oficial de Adobe 69 horas (23 días) A diario (de Lunes a Jueves)" [ref=e137] [cursor=pointer]:
+          - /url: https://cei.es/cei-curso/curso-after-effects-madrid/
+          - img "curso-adobe-after-effects" [ref=e139]
+          - generic [ref=e140]:
+            - heading "Curso de Adobe After Effects" [level=4] [ref=e141]
+            - paragraph [ref=e142]: Presencial / Online
+            - paragraph [ref=e143]: Certificación oficial de Adobe
+            - paragraph [ref=e144]: 69 horas (23 días)
+            - paragraph [ref=e145]: A diario (de Lunes a Jueves)
+        - link "Curso de Adobe Premiere Curso Intensivo de Adobe Premiere Presencial / Online 51 horas (17 días) A diario (de Lunes a Jueves)" [ref=e147] [cursor=pointer]:
+          - /url: https://cei.es/cei-curso/curso-premiere-madrid/
+          - img "Curso de Adobe Premiere" [ref=e149]
+          - generic [ref=e150]:
+            - heading "Curso Intensivo de Adobe Premiere" [level=4] [ref=e151]
+            - paragraph [ref=e152]: Presencial / Online
+            - paragraph [ref=e153]: 51 horas (17 días)
+            - paragraph [ref=e154]: A diario (de Lunes a Jueves)
+        - link "curso-intensivo-cinema-4d Curso Intensivo de Cinema 4D Presencial / Online 36 horas (9-12 días) A diario (de Lunes a Jueves) o Fin de semana" [ref=e156] [cursor=pointer]:
+          - /url: https://cei.es/cei-curso/curso-intensivo-de-cinema-4d/
+          - img "curso-intensivo-cinema-4d" [ref=e158]
+          - generic [ref=e159]:
+            - heading "Curso Intensivo de Cinema 4D" [level=4] [ref=e160]
+            - paragraph [ref=e161]: Presencial / Online
+            - paragraph [ref=e162]: 36 horas (9-12 días)
+            - paragraph [ref=e163]: A diario (de Lunes a Jueves) o Fin de semana
+        - link "Curso de Corrección de Color con DaVinci Resolve Curso de Corrección de Color con DaVinci Resolve Presencial / Online 36 horas (9-12 días) A diario (de Lunes a Jueves) o Fin de semana" [ref=e165] [cursor=pointer]:
+          - /url: https://cei.es/cei-curso/davinci-resolve-correccion-color/
+          - img "Curso de Corrección de Color con DaVinci Resolve" [ref=e167]
+          - generic [ref=e168]:
+            - heading "Curso de Corrección de Color con DaVinci Resolve" [level=4] [ref=e169]
+            - paragraph [ref=e170]: Presencial / Online
+            - paragraph [ref=e171]: 36 horas (9-12 días)
+            - paragraph [ref=e172]: A diario (de Lunes a Jueves) o Fin de semana
+    - generic [ref=e173]:
+      - heading "Cursos de Producción y Postproducción Audiovisual" [level=2] [ref=e174]
+      - generic [ref=e178]:
+        - link "Curso de Cinema 4D Curso de Cinema 4D Presencial / Online Certificación oficial de Adobe y Maxon Experto Universitario (Sabal) 2-3 meses A diario (de Lunes a Jueves)" [ref=e180] [cursor=pointer]:
+          - /url: https://cei.es/cei-curso/curso-cinema-4d-madrid/
+          - img "Curso de Cinema 4D" [ref=e182]
+          - generic [ref=e183]:
+            - heading "Curso de Cinema 4D" [level=4] [ref=e184]
+            - paragraph [ref=e185]: Presencial / Online
+            - paragraph [ref=e186]: Certificación oficial de Adobe y Maxon
+            - paragraph [ref=e187]: Experto Universitario (Sabal)
+            - paragraph [ref=e188]: 2-3 meses
+            - paragraph [ref=e189]: A diario (de Lunes a Jueves)
+        - link "Curso de Edición y Postproducción de Vídeo Digital (VFX) y Motion Graphics Curso de Edición y Postproducción de Vídeo Digital (VFX) y Motion Graphics Presencial / Online Certificación oficial de Adobe y Maxon Experto Universitario (Sabal) 2-3 meses A diario (de Lunes a Jueves) o Fin de semana" [ref=e191] [cursor=pointer]:
+          - /url: https://cei.es/cei-curso/curso-edicion-video-madrid/
+          - img "Curso de Edición y Postproducción de Vídeo Digital (VFX) y Motion Graphics" [ref=e193]
+          - generic [ref=e194]:
+            - heading "Curso de Edición y Postproducción de Vídeo Digital (VFX) y Motion Graphics" [level=4] [ref=e195]
+            - paragraph [ref=e196]: Presencial / Online
+            - paragraph [ref=e197]: Certificación oficial de Adobe y Maxon
+            - paragraph [ref=e198]: Experto Universitario (Sabal)
+            - paragraph [ref=e199]: 2-3 meses
+            - paragraph [ref=e200]: A diario (de Lunes a Jueves) o Fin de semana
+        - link "curso-produccion-gestion-audiovisual Curso de Producción y Gestión Audiovisual Presencial / Online Certificación oficial de Adobe Experto Universitario (Sabal) 2-3 meses A diario (de Lunes a Jueves)" [ref=e202] [cursor=pointer]:
+          - /url: https://cei.es/cei-curso/curso-de-produccion-audiovisual/
+          - img "curso-produccion-gestion-audiovisual" [ref=e204]
+          - generic [ref=e205]:
+            - heading "Curso de Producción y Gestión Audiovisual" [level=4] [ref=e206]
+            - paragraph [ref=e207]: Presencial / Online
+            - paragraph [ref=e208]: Certificación oficial de Adobe
+            - paragraph [ref=e209]: Experto Universitario (Sabal)
+            - paragraph [ref=e210]: 2-3 meses
+            - paragraph [ref=e211]: A diario (de Lunes a Jueves)
+        - link "master-avanzado-motion-graphics Curso Avanzado de Motion Graphics Presencial / Online Certificación oficial de Adobe y Maxon Experto Universitario (Sabal) 3-4 meses A diario (de Lunes a Jueves)" [ref=e213] [cursor=pointer]:
+          - /url: https://cei.es/cei-curso/curso-de-motion-graphics-avanzado/
+          - img "master-avanzado-motion-graphics" [ref=e215]
+          - generic [ref=e216]:
+            - heading "Curso Avanzado de Motion Graphics" [level=4] [ref=e217]
+            - paragraph [ref=e218]: Presencial / Online
+            - paragraph [ref=e219]: Certificación oficial de Adobe y Maxon
+            - paragraph [ref=e220]: Experto Universitario (Sabal)
+            - paragraph [ref=e221]: 3-4 meses
+            - paragraph [ref=e222]: A diario (de Lunes a Jueves)
+    - generic [ref=e223]:
+      - heading "Másteres de Producción y Postproducción Audiovisual" [level=2] [ref=e224]
+      - generic [ref=e228]:
+        - link "master-video-digital-avanzado-vfx-motion-graphics Máster de Vídeo Digital Avanzado (VFX) y Motion Graphics Presencial / Online Certificación oficial de Adobe y Maxon Titulación Universitaria (Udima) 6-10 meses A diario (de Lunes a Jueves)" [ref=e230] [cursor=pointer]:
+          - /url: https://cei.es/cei-curso/master-vfx-madrid/
+          - img "master-video-digital-avanzado-vfx-motion-graphics" [ref=e232]
+          - generic [ref=e233]:
+            - heading "Máster de Vídeo Digital Avanzado (VFX) y Motion Graphics" [level=4] [ref=e234]
+            - paragraph [ref=e235]: Presencial / Online
+            - paragraph [ref=e236]: Certificación oficial de Adobe y Maxon
+            - paragraph [ref=e237]: Titulación Universitaria (Udima)
+            - paragraph [ref=e238]: 6-10 meses
+            - paragraph [ref=e239]: A diario (de Lunes a Jueves)
+        - link "master-produccion-postproduccion-gestion-audiovisual Máster en Producción, Postproducción y Gestión Audiovisual Presencial / Online Certificación oficial de Adobe y Maxon 6-7 meses A diario (de Lunes a Jueves)" [ref=e241] [cursor=pointer]:
+          - /url: https://cei.es/cei-curso/master-produccion-postproduccion-audiovisual/
+          - img "master-produccion-postproduccion-gestion-audiovisual" [ref=e243]
+          - generic [ref=e244]:
+            - heading "Máster en Producción, Postproducción y Gestión Audiovisual" [level=4] [ref=e245]
+            - paragraph [ref=e246]: Presencial / Online
+            - paragraph [ref=e247]: Certificación oficial de Adobe y Maxon
+            - paragraph [ref=e248]: 6-7 meses
+            - paragraph [ref=e249]: A diario (de Lunes a Jueves)
+        - link "master-diseno-grafico-postproduccion-audiovisual Máster de Diseño Gráfico y Postproducción Audiovisual Presencial / Online Certificación oficial de Adobe 6-7 meses A diario (de Lunes a Jueves)" [ref=e251] [cursor=pointer]:
+          - /url: https://cei.es/cei-curso/master-diseno-grafico-video/
+          - img "master-diseno-grafico-postproduccion-audiovisual" [ref=e253]
+          - generic [ref=e254]:
+            - heading "Máster de Diseño Gráfico y Postproducción Audiovisual" [level=4] [ref=e255]
+            - paragraph [ref=e256]: Presencial / Online
+            - paragraph [ref=e257]: Certificación oficial de Adobe
+            - paragraph [ref=e258]: 6-7 meses
+            - paragraph [ref=e259]: A diario (de Lunes a Jueves)
+    - generic [ref=e260]:
+      - heading "Másteres Avanzados de Producción y Postproducción Audiovisual" [level=2] [ref=e261]
+      - generic [ref=e265]:
+        - link "Máster Avanzado en Diseño Gráfico y Edición de Vídeo Digital Máster Avanzado en Diseño Gráfico y Edición de Vídeo Digital Presencial / Online Certificación oficial de Adobe y Maxon Titulación Universitaria (Udima) 10-18 meses A diario (de Lunes a Jueves) o Fin de semana" [ref=e267] [cursor=pointer]:
+          - /url: https://cei.es/cei-curso/master-diseno-grafico-video-digital/
+          - img "Máster Avanzado en Diseño Gráfico y Edición de Vídeo Digital" [ref=e269]
+          - generic [ref=e270]:
+            - heading "Máster Avanzado en Diseño Gráfico y Edición de Vídeo Digital" [level=4] [ref=e271]
+            - paragraph [ref=e272]: Presencial / Online
+            - paragraph [ref=e273]: Certificación oficial de Adobe y Maxon
+            - paragraph [ref=e274]: Titulación Universitaria (Udima)
+            - paragraph [ref=e275]: 10-18 meses
+            - paragraph [ref=e276]: A diario (de Lunes a Jueves) o Fin de semana
+        - link "Máster Avanzado de Motion Graphics Máster Avanzado de Motion Graphics Presencial / Online Certificación oficial de Adobe y Maxon Titulación Universitaria (Udima) 10-18 meses A diario (de Lunes a Jueves)" [ref=e278] [cursor=pointer]:
+          - /url: https://cei.es/cei-curso/master-motion-graphics/
+          - img "Máster Avanzado de Motion Graphics" [ref=e280]
+          - generic [ref=e281]:
+            - heading "Máster Avanzado de Motion Graphics" [level=4] [ref=e282]
+            - paragraph [ref=e283]: Presencial / Online
+            - paragraph [ref=e284]: Certificación oficial de Adobe y Maxon
+            - paragraph [ref=e285]: Titulación Universitaria (Udima)
+            - paragraph [ref=e286]: 10-18 meses
+            - paragraph [ref=e287]: A diario (de Lunes a Jueves)
+        - link "Máster Avanzado en Producción, Postproducción 3D y Gestión Audiovisual Máster Avanzado en Producción, Postproducción 3D y Gestión Audiovisual Presencial / Online Certificación oficial de Adobe y Maxon Titulación Universitaria (Udima) 10 meses A diario (de Lunes a Jueves)" [ref=e289] [cursor=pointer]:
+          - /url: https://cei.es/cei-curso/master-avanzado-en-produccion-postproduccion-3d-y-gestion-audiovisual/
+          - img "Máster Avanzado en Producción, Postproducción 3D y Gestión Audiovisual" [ref=e291]
+          - generic [ref=e292]:
+            - heading "Máster Avanzado en Producción, Postproducción 3D y Gestión Audiovisual" [level=4] [ref=e293]
+            - paragraph [ref=e294]: Presencial / Online
+            - paragraph [ref=e295]: Certificación oficial de Adobe y Maxon
+            - paragraph [ref=e296]: Titulación Universitaria (Udima)
+            - paragraph [ref=e297]: 10 meses
+            - paragraph [ref=e298]: A diario (de Lunes a Jueves)
+    - generic [ref=e299]:
+      - heading "Másteres Profesionales de Producción y Postproducción Audiovisual" [level=2] [ref=e300]
+      - link "master-profesional-diseno-grafico-y-motion-graphics Máster Profesional en Diseño Gráfico y Motion Graphics Presencial / Online Certificación oficial de Adobe y Maxon Titulación Universitaria (Udima) 12-24 meses A diario (de Lunes a Jueves)" [ref=e306] [cursor=pointer]:
+        - /url: https://cei.es/cei-curso/master-diseno-grafico-motion-graphics/
+        - img "master-profesional-diseno-grafico-y-motion-graphics" [ref=e308]
+        - generic [ref=e309]:
+          - heading "Máster Profesional en Diseño Gráfico y Motion Graphics" [level=4] [ref=e310]
+          - paragraph [ref=e311]: Presencial / Online
+          - paragraph [ref=e312]: Certificación oficial de Adobe y Maxon
+          - paragraph [ref=e313]: Titulación Universitaria (Udima)
+          - paragraph [ref=e314]: 12-24 meses
+          - paragraph [ref=e315]: A diario (de Lunes a Jueves)
+    - generic [ref=e316]:
+      - heading "Títulos Superiores de Producción y Postproducción Audiovisual" [level=2] [ref=e317]
+      - link "Título Superior en Diseño Digital Título Superior en Diseño Digital Presencial / Online Certificación oficial de Adobe, Autodesk y Maxon Titulación Universitaria (Udima) 15 meses A diario (de Lunes a Jueves)" [ref=e323] [cursor=pointer]:
+        - /url: https://cei.es/cei-curso/titulo-superior-en-diseno-digital/
+        - img "Título Superior en Diseño Digital" [ref=e325]
+        - generic [ref=e326]:
+          - heading "Título Superior en Diseño Digital" [level=4] [ref=e327]
+          - paragraph [ref=e328]: Presencial / Online
+          - paragraph [ref=e329]: Certificación oficial de Adobe, Autodesk y Maxon
+          - paragraph [ref=e330]: Titulación Universitaria (Udima)
+          - paragraph [ref=e331]: 15 meses
+          - paragraph [ref=e332]: A diario (de Lunes a Jueves)
+    - generic [ref=e333]:
+      - heading "Global Master de Producción y Postproducción Audiovisual" [level=2] [ref=e334]
+      - link "Global Master in AI & Visual Creativity Global Master in AI & Visual Creativity Presencial / Online Certificación oficial de Adobe y Google Experto Universitario (Sabal) Titulación Universitaria (Udima) 15 - 16 meses A diario (de Lunes a Jueves)" [ref=e340] [cursor=pointer]:
+        - /url: https://cei.es/cei-curso/global-master-in-ai-visual-creativity/
+        - img "Global Master in AI & Visual Creativity" [ref=e342]
+        - generic [ref=e343]:
+          - heading "Global Master in AI & Visual Creativity" [level=4] [ref=e344]
+          - paragraph [ref=e345]: Presencial / Online
+          - paragraph [ref=e346]: Certificación oficial de Adobe y Google
+          - paragraph [ref=e347]: Experto Universitario (Sabal)
+          - paragraph [ref=e348]: Titulación Universitaria (Udima)
+          - paragraph [ref=e349]: 15 - 16 meses
+          - paragraph [ref=e350]: A diario (de Lunes a Jueves)
+  - contentinfo [ref=e351]:
+    - generic [ref=e352]:
+      - generic [ref=e353]:
+        - list [ref=e354]:
+          - listitem [ref=e355] [cursor=pointer]: Madrid
+          - listitem [ref=e356] [cursor=pointer]: Sevilla
+          - listitem [ref=e357] [cursor=pointer]: Valencia
+          - listitem [ref=e358] [cursor=pointer]: Online
+        - generic [ref=e359]:
+          - generic [ref=e360]:
+            - link "madrid@cei.es" [ref=e361] [cursor=pointer]:
+              - /url: mailto:madrid@cei.es
+            - link "Rodríguez San Pedro, 2" [ref=e362] [cursor=pointer]:
+              - /url: https://cei.es/campus-madrid/
+            - link "+34 91 292 26 13" [ref=e363] [cursor=pointer]:
+              - /url: tel:+34 91 292 26 13
+          - generic:
+            - link "sevilla@cei.es":
+              - /url: mailto:sevilla@cei.es
+            - link "Conde de Cifuentes, 4":
+              - /url: https://cei.es/campus-sevilla/
+            - link "+34 95 499 15 58":
+              - /url: tel:+34 95 499 15 58
+          - generic:
+            - link "valencia@cei.es":
+              - /url: mailto:valencia@cei.es
+            - link "Av. Primado Reig, 189":
+              - /url: https://cei.es/campus-valencia/
+            - link "+34 96 007 77 13":
+              - /url: tel:+34 96 007 77 13
+          - generic:
+            - link "info@cei.es":
+              - /url: mailto:info@cei.es
+            - link "+34 91 292 26 13":
+              - /url: tel:+34 91 292 26 13
+        - list [ref=e364]:
+          - listitem [ref=e365]:
+            - link "Instagram" [ref=e366] [cursor=pointer]:
+              - /url: https://www.instagram.com/escuelacei/
+          - listitem [ref=e367]:
+            - link "Facebook" [ref=e368] [cursor=pointer]:
+              - /url: https://www.facebook.com/escuelacei/
+          - listitem [ref=e369]:
+            - link "Linkedin" [ref=e370] [cursor=pointer]:
+              - /url: https://www.linkedin.com/school/cei-centro-estudios-innovacion
+          - listitem [ref=e371]:
+            - link "Youtube" [ref=e372] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCFZq_CyVkQxD5oxYGBoLVsw/videos
+          - listitem [ref=e373]:
+            - link "Tiktok" [ref=e374] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@escuelacei?lang=es
+      - generic [ref=e375]:
+        - generic [ref=e376]:
+          - paragraph [ref=e377]:
+            - link "Entidades colaboradoras:" [ref=e378] [cursor=pointer]:
+              - /url: https://cei.es/certificaciones/
+              - generic [ref=e379]: Entidades
+              - generic [ref=e380]: "colaboradoras:"
+          - generic [ref=e382]:
+            - img "estudios oficiales autodesk" [ref=e384]
+            - img "UA 3" [ref=e387]
+            - img "Doctrina Qualitas" [ref=e390]
+            - img "Certificación Generación D" [ref=e392]
+            - img "Certificación Madrid Excelente" [ref=e394]
+            - img "centro colaborador IBM" [ref=e396]
+            - img "estudios oficiales apple" [ref=e398]
+            - img "estudios oficiales autodesk" [ref=e400]
+            - generic [ref=e401]:
+              - img "estudios oficiales autodesk"
+            - generic [ref=e402]:
+              - img "escuela premios excelencia educativa"
+            - generic [ref=e403]:
+              - generic:
+                - img "estudios oficiales microsoft"
+            - generic [ref=e404]:
+              - generic:
+                - img "cisco networking certification"
+            - generic [ref=e405]:
+              - generic:
+                - img "google partner certification"
+            - generic [ref=e406]:
+              - generic:
+                - img "maxon training oficial"
+            - generic [ref=e407]:
+              - generic:
+                - img "unity authorized training partner"
+            - img "estudios oficiales autodesk" [ref=e409]
+        - generic [ref=e410]:
+          - paragraph [ref=e411]:
+            - generic [ref=e412]: Centros
+            - generic [ref=e413]: "colaboradores:"
+          - generic [ref=e415]:
+            - link "universidad-udima" [ref=e417] [cursor=pointer]:
+              - /url: https://cei.es/titulaciones-universitarias-informacion/
+              - img "universidad-udima" [ref=e418]
+            - link "Sabal University" [ref=e420] [cursor=pointer]:
+              - /url: https://cei.es/informacion-diplomas-sabal/
+              - img "Sabal University" [ref=e422]
+      - generic [ref=e423]: "[sibwp_form id=1]"
+  - generic [ref=e425]:
+    - list [ref=e426]:
+      - listitem [ref=e427]:
+        - paragraph [ref=e428]: 1991 - 2026 CEI ®
+      - listitem [ref=e429]:
+        - paragraph [ref=e430]: TODOS LOS DERECHOS RESERVADOS
+      - listitem [ref=e431]:
+        - link "TÉRMINOS LEGALES" [ref=e432] [cursor=pointer]:
+          - /url: https://cei.es/terminos-legales/
+      - listitem [ref=e433]:
+        - link "TRABAJA CON NOSOTROS" [ref=e434] [cursor=pointer]:
+          - /url: https://zrec.eu/HNqbN
+    - generic [ref=e435]:
+      - separator [ref=e436]
+      - paragraph [ref=e437]: Omnes Education es una institución privada de educación superior e investigación multidisciplinar que ofrece programas educativos en los campos de la gestión, la ingeniería, la comunicación y los medios digitales y las ciencias políticas. Sus campus se encuentran en Abiyán, Barcelona, Beaune, Burdeos, Chambéry, Ginebra, Londres, Lyon, Madrid, Mónaco, Múnich, París, Rennes, San Francisco, Sevilla y Valencia, repartidos entre 14 escuelas y universidades diferentes. Con más de 40.000 estudiantes cada año y más de 200.000 antiguos alumnos, Omnes ocupa un lugar único en el panorama educativo internacional.
+      - link "OMNES Education" [ref=e438] [cursor=pointer]:
+        - /url: https://www.omneseducation.com/nos-etablissements/nos-ecoles/cei/
+        - img "OMNES Education" [ref=e439]
+  - button " ×" [ref=e440] [cursor=pointer]:
+    - generic [ref=e441]: 
+    - generic: ×

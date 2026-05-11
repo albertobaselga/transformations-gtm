@@ -1,0 +1,858 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e4]:
+      - button [ref=e5] [cursor=pointer]:
+        - generic [ref=e6]: Spain
+        - img [ref=e8]
+      - button [ref=e11] [cursor=pointer]:
+        - generic [ref=e12]: Movilidad Internacional
+        - img [ref=e14]
+      - link [ref=e17] [cursor=pointer]:
+        - /url: https://www.sae.edu/esp/contacto
+        - text: Contacto
+      - button [ref=e19] [cursor=pointer]:
+        - generic [ref=e20]: Estudiantes activos
+        - img [ref=e22]
+    - generic [ref=e25]:
+      - link [ref=e27] [cursor=pointer]:
+        - /url: https://www.sae.edu/esp/
+        - img [ref=e28]
+      - navigation [ref=e29]:
+        - button [ref=e31] [cursor=pointer]:
+          - img [ref=e33]
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - button:
+              - generic: Grado
+              - generic:
+                - img
+        - generic:
+          - generic:
+            - button:
+              - generic: Másters
+              - generic:
+                - img
+        - generic:
+          - generic:
+            - button:
+              - generic: Cursos
+              - generic:
+                - img
+        - generic:
+          - generic:
+            - button:
+              - generic: Admisiones
+              - generic:
+                - img
+        - generic:
+          - generic:
+            - button:
+              - generic: Eventos
+              - generic:
+                - img
+        - generic:
+          - generic:
+            - button:
+              - generic: Nosotros
+              - generic:
+                - img
+        - generic:
+          - button:
+            - generic: Spain
+            - generic:
+              - img
+          - button:
+            - generic: Movilidad Internacional
+            - generic:
+              - img
+          - link:
+            - /url: https://www.sae.edu/esp/contacto
+            - generic: Contacto
+          - button:
+            - generic: Estudiantes activos
+            - generic:
+              - img
+      - generic:
+        - button: Solicita Información
+        - link:
+          - /url: https://www.sae.edu/esp/contacto
+          - generic:
+            - img
+        - button:
+          - generic:
+            - img
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - button:
+                - img
+                - generic: All
+            - generic: Grado
+            - generic: Somos una Escuela Superior Privada de Enseñanzas Artísticas Superiores de Música, regulado por la AQU
+            - link:
+              - /url: https://www.sae.edu/esp/titulo-grado-en-musica/
+              - text: Enseñanzas Superiores en Música
+          - generic:
+            - img
+        - generic:
+          - button:
+            - generic: "Título de Grado en Música. Especialidades:"
+            - generic:
+              - img
+          - button:
+            - generic: Admisión a Grado
+            - generic:
+              - img
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - button:
+                - img
+                - generic: All
+            - generic: Másters
+            - generic: Desarrolla tu creatividad en la escuela líder mundial en educación en Medios Creativos.
+            - link:
+              - /url: https://www.sae.edu/esp/cursos
+              - text: Nuestros cursos
+          - generic:
+            - img
+        - generic:
+          - button:
+            - generic: Áreas de estudio
+            - generic:
+              - img
+          - button:
+            - generic: Campus Barcelona
+            - generic:
+              - img
+          - button:
+            - generic: Campus Madrid
+            - generic:
+              - img
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - button:
+                - img
+                - generic: All
+            - generic: Cursos
+          - generic:
+            - img
+        - generic:
+          - button:
+            - generic: Campus Barcelona
+            - generic:
+              - img
+          - button:
+            - generic: Campus Madrid
+            - generic:
+              - img
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - button:
+                - img
+                - generic: All
+            - generic: Admisiones
+          - generic:
+            - img
+        - generic:
+          - button:
+            - generic: Estudia con nosotros
+            - generic:
+              - img
+          - button:
+            - generic: Estudiantes internacionales
+            - generic:
+              - img
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - button:
+                - img
+                - generic: All
+            - generic: Eventos
+            - generic: Descubre nuestros eventos y noticias
+            - link:
+              - /url: https://www.sae.edu/esp/eventos/
+              - text: Ver todos
+            - link:
+              - /url: https://www.sae.edu/esp/novedades/
+              - text: Novedades
+          - generic:
+            - img
+        - generic:
+          - button:
+            - generic: Eventos
+            - generic:
+              - img
+          - button:
+            - generic: Noticias
+            - generic:
+              - img
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - button:
+                - img
+                - generic: All
+            - generic: Nosotros
+            - generic: Tu escuela de Sonido, Música e Industria Musical
+            - link:
+              - /url: https://www.sae.edu/esp/sobre-nosotros
+              - text: Saber más
+          - generic:
+            - img
+        - generic:
+          - button:
+            - generic: SAE | Creative Media Education
+            - generic:
+              - img
+          - button:
+            - generic: Campus
+            - generic:
+              - img
+      - generic:
+        - generic:
+          - generic:
+            - button:
+              - img
+              - generic: Menu
+          - generic: Choose your region
+          - generic:
+            - generic:
+              - generic:
+                - list:
+                  - listitem:
+                    - link:
+                      - /url: https://sae.edu.au/
+                      - generic:
+                        - img
+                      - generic: Australia
+                  - listitem:
+                    - button:
+                      - generic:
+                        - img
+                      - generic: Austria
+                  - listitem:
+                    - button:
+                      - generic:
+                        - img
+                      - generic: Belgium
+                  - listitem:
+                    - link:
+                      - /url: https://canada.sae.edu/
+                      - generic:
+                        - img
+                      - generic: Canada
+                  - listitem:
+                    - link:
+                      - /url: https://colombia.sae.edu/
+                      - generic:
+                        - img
+                      - generic: Colombia
+                  - listitem:
+                    - link:
+                      - /url: https://www.sae.edu/fra/
+                      - generic:
+                        - img
+                      - generic: France
+                  - listitem:
+                    - button:
+                      - generic:
+                        - img
+                      - generic: Germany
+                  - listitem:
+                    - link:
+                      - /url: https://www.sae.edu/grc/
+                      - generic:
+                        - img
+                      - generic: Greece
+                  - listitem:
+                    - link:
+                      - /url: https://indonesia.sae.edu/id/
+                      - generic:
+                        - img
+                      - generic: Indonesia
+                  - listitem:
+                    - button:
+                      - generic:
+                        - img
+                      - generic: Italy
+                  - listitem:
+                    - link:
+                      - /url: https://jordan.sae.edu/
+                      - generic:
+                        - img
+                      - generic: Jordan
+                  - listitem:
+                    - link:
+                      - /url: https://mexico.sae.edu/
+                      - generic:
+                        - img
+                      - generic: Mexico
+                  - listitem:
+                    - link:
+                      - /url: https://www.sae.edu/nld/
+                      - generic:
+                        - img
+                      - generic: Netherlands
+                  - listitem:
+                    - link:
+                      - /url: https://auckland.sae.edu/
+                      - generic:
+                        - img
+                      - generic: New Zealand
+                  - listitem:
+                    - link:
+                      - /url: https://belgrade.sae.edu/
+                      - generic:
+                        - img
+                      - generic: Serbia
+                  - listitem:
+                    - link:
+                      - /url: https://www.sae.edu.za/
+                      - generic:
+                        - img
+                      - generic: South Africa
+                  - listitem:
+                    - link:
+                      - /url: https://www.sae.edu/esp/
+                      - generic:
+                        - img
+                      - generic: Spain
+                  - listitem:
+                    - button:
+                      - generic:
+                        - img
+                      - generic: Switzerland
+                  - listitem:
+                    - link:
+                      - /url: https://dubai.sae.edu/
+                      - generic:
+                        - img
+                      - generic: United Arab Emirates
+                  - listitem:
+                    - link:
+                      - /url: https://www.sae.edu/gbr/
+                      - generic:
+                        - img
+                      - generic: United Kingdom
+                  - listitem:
+                    - link:
+                      - /url: https://usa.sae.edu/
+                      - generic:
+                        - img
+                      - generic: United States
+      - generic:
+        - generic:
+          - generic:
+            - button:
+              - img
+              - generic: Menu
+          - generic: Estudiantes activos
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: https://www.sae.edu/esp/student-portal
+                        - generic: Student Portal y Departamento de Supervisión
+      - generic:
+        - generic:
+          - generic:
+            - button:
+              - img
+              - generic: Menu
+          - generic: Movilidad Internacional
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - list:
+                    - listitem:
+                      - link:
+                        - /url: https://www.sae.edu/esp/admisiones/tu-visa-de-estudiante/
+                        - generic: Visado de Estudios
+                    - listitem:
+                      - link:
+                        - /url: https://www.sae.edu/esp/admisiones/vivir-en-espana/
+                        - generic: Vivir en Barcelona
+                    - listitem:
+                      - link:
+                        - /url: https://www.sae.edu/esp/erasmus/
+                        - generic: Erasmus+
+    - generic:
+      - generic:
+        - generic:
+          - button:
+            - img
+            - generic: Grado
+        - generic: "Título de Grado en Música. Especialidades:"
+        - link:
+          - /url: https://www.sae.edu/esp/courses/tsm-especialidad-sonologia/
+          - text: Sonología (Audio)
+        - link:
+          - /url: https://www.sae.edu/esp/courses/tsm-especialidad-interpretacion/
+          - text: Interpretación de Música Moderna
+        - link:
+          - /url: https://www.sae.edu/esp/courses/tsm-especialidad-produccion-gestion/
+          - text: Producción y Gestión de la Industria Musical
+        - link:
+          - /url: "https://www.sae.edu/esp/courses/tsm-especialidad-composicion/ "
+          - text: Composición de Música Electrónica
+      - generic:
+        - generic:
+          - button:
+            - img
+            - generic: Grado
+        - generic: Admisión a Grado
+        - link:
+          - /url: https://www.sae.edu/esp/admision-grados/
+          - text: Proceso de Admisión
+        - link:
+          - /url: https://www.sae.edu/esp/documentacion_titulo_grado/
+          - text: Requisitos de Acceso
+        - link:
+          - /url: https://www.sae.edu/esp/prueba-acceso-grado-musica/
+          - text: Prueba de Acceso
+        - link:
+          - /url: https://www.sae.edu/esp/courses/curso-preparatorio-a-la-prueba-de-acceso/
+          - text: Curso Preparatorio
+        - link:
+          - /url: https://www.sae.edu/esp/becas-y-ayudas/
+          - text: Becas y Ayudas
+      - generic:
+        - generic:
+          - button:
+            - img
+            - generic: Másters
+        - generic: Áreas de estudio
+        - link:
+          - /url: https://www.sae.edu/esp/audio/
+          - img
+          - generic: Audio
+        - link:
+          - /url: https://www.sae.edu/esp/cine-digital/
+          - img
+          - generic: Film
+        - link:
+          - /url: https://www.sae.edu/esp/industria-musical/
+          - img
+          - generic: Industria Musical
+      - generic:
+        - generic:
+          - button:
+            - img
+            - generic: Másters
+        - generic: Campus Barcelona
+        - link:
+          - /url: https://www.sae.edu/esp/courses/produccion-de-audio/
+          - text: Máster en Producción de Audio por UDIMA
+        - link:
+          - /url: https://www.sae.edu/esp/courses/master-en-industria-musical/
+          - text: Máster en Industria Musical por UDIMA
+        - link:
+          - /url: https://www.sae.edu/esp/courses/produccion-musica-electronica
+          - text: Máster en Producción de Música Electrónica por UDIMA
+        - link:
+          - /url: https://www.sae.edu/esp/courses/programa-en-produccion-de-musica-urbana
+          - text: Máster en Producción de Música Urbana por UDIMA
+        - link:
+          - /url: https://www.sae.edu/esp/campuses/sae-barcelona/
+          - text: Ver Campus
+      - generic:
+        - generic:
+          - button:
+            - img
+            - generic: Másters
+        - generic: Campus Madrid
+        - link:
+          - /url: https://www.sae.edu/esp/courses/produccion-de-audio/
+          - text: Máster en Producción de Audio por UDIMA
+        - link:
+          - /url: https://www.sae.edu/esp/courses/master-en-industria-musical/
+          - text: Máster en Industria Musical por UDIMA
+        - link:
+          - /url: https://www.sae.edu/esp/courses/produccion-musica-electronica/
+          - text: Máster en Producción de Música Electrónica por UDIMA
+        - link:
+          - /url: https://www.sae.edu/esp/courses/programa-en-produccion-de-musica-urbana/
+          - text: Máster en Producción de Música Urbana por UDIMA
+        - link:
+          - /url: https://www.sae.edu/esp/campuses/sae-madrid/
+          - text: Ver Campus
+      - generic:
+        - generic:
+          - button:
+            - img
+            - generic: Cursos
+        - generic: Campus Barcelona
+        - link:
+          - /url: https://www.sae.edu/esp/evento/sae-experience-composicion-bandas-sonora-sae-barcelona/
+          - text: Curso de Composición de Bandas Sonoras
+        - link:
+          - /url: https://sae.cev.com/sae-barcelona-curso-de-identidad-artistica-por-blanca-ross
+          - text: Curso de Identidad Artística
+      - generic:
+        - generic:
+          - button:
+            - img
+            - generic: Cursos
+        - generic: Campus Madrid
+        - link:
+          - /url: https://www.sae.edu/esp/courses/sonido-para-cine/
+          - text: Curso en Especialización en Sonido para Cine
+        - link:
+          - /url: https://sae.escuelaces.com/sae-madrid-curso-bandas-sonoras
+          - text: Curso de Composición de Bandas Sonoras
+      - generic:
+        - generic:
+          - button:
+            - img
+            - generic: Admisiones
+        - generic: Estudia con nosotros
+        - link:
+          - /url: https://www.sae.edu/esp/admision-grados/
+          - text: Admisión a Título Superior
+        - link:
+          - /url: https://www.sae.edu/esp/prueba-acceso-grado-musica/
+          - text: Prueba Acceso a Título Superior
+        - link:
+          - /url: https://www.sae.edu/esp/admisiones
+          - text: Inscripción Programas
+        - link:
+          - /url: https://www.sae.edu/esp/faqs
+          - text: Preguntas Fecuentes
+      - generic:
+        - generic:
+          - button:
+            - img
+            - generic: Admisiones
+        - generic: Estudiantes internacionales
+        - link:
+          - /url: https://www.sae.edu/esp/admisiones/admisiones-internacionales
+          - text: Admisiones Internacionales
+        - link:
+          - /url: https://www.sae.edu/esp/admisiones/estudiantes-internacionales
+          - text: Soporte para Internacionales
+        - link:
+          - /url: https://www.sae.edu/esp/admisiones/tu-visa-de-estudiante
+          - text: Tu visa de estudiante
+        - link:
+          - /url: "https://www.sae.edu/esp/admisiones/vivir-en-espana "
+          - text: Vivir en España
+      - generic:
+        - generic:
+          - button:
+            - img
+            - generic: Eventos
+        - generic: Eventos
+        - link:
+          - /url: https://www.sae.edu/esp/eventos/?fs_types=open day
+          - text: Open Days
+        - link:
+          - /url: https://www.sae.edu/esp/eventos/?fs_types=masterclass
+          - text: Masterclass
+        - link:
+          - /url: https://www.sae.edu/esp/eventos/?fs_types=meet the pros
+          - text: Meet The Pros
+        - link:
+          - /url: https://www.sae.edu/esp/eventos/?fs_types=music creative lab
+          - text: Music Creative Lab
+        - link:
+          - /url: https://www.sae.edu/esp/eventos/
+          - text: Eventos SAE Madrid
+        - link:
+          - /url: https://www.sae.edu/esp/eventos/
+          - text: Eventos SAE Barcelona
+      - generic:
+        - generic:
+          - button:
+            - img
+            - generic: Eventos
+        - generic: Noticias
+        - link:
+          - /url: https://www.sae.edu/esp/noticias
+          - text: Noticias
+      - generic:
+        - generic:
+          - button:
+            - img
+            - generic: Nosotros
+        - generic: SAE | Creative Media Education
+        - link:
+          - /url: https://www.sae.edu/esp/sobre-nosotros
+          - text: Sobre nosotros
+        - link:
+          - /url: https://www.sae.edu/esp/sobre-nosotros/vision
+          - text: Nuestra Visión
+        - link:
+          - /url: https://www.sae.edu/esp/sobre-nosotros/control-de-calidad
+          - text: Control de calidad
+        - link:
+          - /url: https://www.sae.edu/esp/ad-education
+          - text: AD Education
+        - link:
+          - /url: https://www.sae.edu/esp/por-que-sae
+          - text: ¿Por qué SAE?
+        - link:
+          - /url: https://www.sae.edu/esp/por-que-sae/instalaciones-equipos
+          - text: Instalaciones y equipos
+        - link:
+          - /url: https://www.sae.edu/esp/por-que-sae/360-tours
+          - text: Tour 360º
+      - generic:
+        - generic:
+          - button:
+            - img
+            - generic: Nosotros
+        - generic: Campus
+        - link:
+          - /url: https://www.sae.edu/esp/campuses/sae-barcelona
+          - text: SAE Barcelona campus
+        - link:
+          - /url: https://www.sae.edu/esp/campuses/sae-madrid
+          - text: SAE Madrid campus
+        - link:
+          - /url: https://www.sae.edu/esp/trabaja-con-nosotros/
+          - text: Trabaja con nosotros
+  - document [ref=e36]:
+    - main [ref=e38]:
+      - generic [ref=e40]:
+        - heading [level=1] [ref=e41]: Página no encontrada
+        - paragraph [ref=e42]: La página que estás buscando fue movida, eliminada, renombrada o es posible que nunca haya existido. Si todavía estás perdido, intenta usar nuestra búsqueda en el menú superior o regresa a la página de inicio.
+      - generic [ref=e44]:
+        - img [ref=e46]
+        - generic [ref=e47]:
+          - generic [ref=e48]: NUEVO CURSO DE IDENTIDAD ARTÍSTICA Un proceso creativo para descubrir tu singularidad artística y materializarla de forma profesional.
+          - link [ref=e50] [cursor=pointer]:
+            - /url: https://sae.cev.com/sae-barcelona-curso-de-identidad-artistica-por-blanca-ross?utm_source=web
+            - generic [ref=e51]: MÁS INFORMACIÓN
+        - img [ref=e53] [cursor=pointer]
+  - contentinfo [ref=e55]:
+    - button [ref=e59] [cursor=pointer]:
+      - img [ref=e61]
+    - generic [ref=e64]:
+      - button [ref=e67] [cursor=pointer]:
+        - img [ref=e69]
+        - generic [ref=e71]: Así suena SAE Spain
+      - generic [ref=e72]:
+        - img [ref=e73] [cursor=pointer]
+        - img [ref=e84] [cursor=pointer]
+        - img [ref=e95] [cursor=pointer]
+        - img [ref=e100] [cursor=pointer]
+        - img [ref=e105] [cursor=pointer]
+        - img [ref=e112] [cursor=pointer]
+    - generic [ref=e120]:
+      - generic [ref=e121]:
+        - link [ref=e122] [cursor=pointer]:
+          - /url: https://www.sae.edu/esp/
+          - img [ref=e123]
+        - generic [ref=e124]:
+          - link [ref=e125] [cursor=pointer]:
+            - /url: https://www.instagram.com/saespain/
+            - img [ref=e126]
+          - link [ref=e129] [cursor=pointer]:
+            - /url: https://www.facebook.com/saespain
+            - img [ref=e130]
+          - link [ref=e132] [cursor=pointer]:
+            - /url: https://twitter.com/SAEspain
+            - img [ref=e133]
+          - link [ref=e135] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/SAEspain
+            - img [ref=e136]
+          - link [ref=e138] [cursor=pointer]:
+            - /url: https://es.linkedin.com/company/sae-institute-spain
+            - img [ref=e139]
+      - generic [ref=e141]:
+        - generic [ref=e143]:
+          - heading [level=6] [ref=e144]: Título de Grado en Música
+          - list [ref=e145]:
+            - listitem [ref=e146]:
+              - link [ref=e147] [cursor=pointer]:
+                - /url: https://www.sae.edu/esp/courses/tsm-especialidad-sonologia/
+                - text: Sonología (Audio)
+            - listitem [ref=e148]:
+              - link [ref=e149] [cursor=pointer]:
+                - /url: https://www.sae.edu/esp/courses/tsm-especialidad-interpretacion/
+                - text: Interpretación de Música Moderna
+            - listitem [ref=e150]:
+              - link [ref=e151] [cursor=pointer]:
+                - /url: https://www.sae.edu/esp/courses/tsm-especialidad-produccion-gestion/
+                - text: Producción y Gestión
+            - listitem [ref=e152]:
+              - link [ref=e153] [cursor=pointer]:
+                - /url: https://www.sae.edu/esp/courses/tsm-especialidad-composicion/
+                - text: Composición de Música Electrónica
+        - generic [ref=e155]:
+          - heading [level=6] [ref=e156]: Programas y Cursos
+          - list [ref=e157]:
+            - listitem [ref=e158]:
+              - link [ref=e159] [cursor=pointer]:
+                - /url: https://www.sae.edu/esp/courses/produccion-de-audio/
+                - text: Producción de Audio
+            - listitem [ref=e160]:
+              - link [ref=e161] [cursor=pointer]:
+                - /url: https://www.sae.edu/esp/courses/master-en-industria-musical/
+                - text: Máster en Industria Musical
+            - listitem [ref=e162]:
+              - link [ref=e163] [cursor=pointer]:
+                - /url: https://www.sae.edu/esp/courses/industria-musical/
+                - text: Programa en Industria Musical
+            - listitem [ref=e164]:
+              - link [ref=e165] [cursor=pointer]:
+                - /url: https://www.sae.edu/esp/courses/produccion-musica-electronica/
+                - text: Máster en Producción de Música Electrónica
+            - listitem [ref=e166]:
+              - link [ref=e167] [cursor=pointer]:
+                - /url: https://www.sae.edu/esp/courses/programa-en-produccion-de-musica-urbana/
+                - text: Máster en Producción de Música Urbana
+            - listitem [ref=e168]:
+              - link [ref=e169] [cursor=pointer]:
+                - /url: https://www.sae.edu/esp/courses/produccion-avanzada-cine/
+                - text: Máster en Producción Avanzada de Cine
+        - generic [ref=e171]:
+          - heading [level=6] [ref=e172]: La vida en SAE
+          - list [ref=e173]:
+            - listitem [ref=e174]:
+              - link [ref=e175] [cursor=pointer]:
+                - /url: https://www.sae.edu/esp/student-showcase/?studyarea%5B%5D=Audio
+                - text: Proyectos de Audio
+            - listitem [ref=e176]:
+              - link [ref=e177] [cursor=pointer]:
+                - /url: https://www.sae.edu/esp/student-showcase/?studyarea%5B%5D=Industria Musical
+                - text: Proyectos de Industria Musical
+            - listitem [ref=e178]:
+              - link [ref=e179] [cursor=pointer]:
+                - /url: https://www.sae.edu/esp/beats-battle-spain
+                - text: Beats Battle | Spain 2021
+            - listitem [ref=e180]:
+              - link [ref=e181] [cursor=pointer]:
+                - /url: https://www.sae.edu/esp/creative-media-awards-2022/
+                - text: Creative Media Awards 2022
+        - generic [ref=e182]:
+          - generic [ref=e183]:
+            - heading [level=6] [ref=e184]: Cómo inscribirse
+            - list [ref=e185]:
+              - listitem [ref=e186]:
+                - link [ref=e187] [cursor=pointer]:
+                  - /url: https://www.sae.edu/esp/admisiones
+                  - text: Cómo inscribirse
+              - listitem [ref=e188]:
+                - link [ref=e189] [cursor=pointer]:
+                  - /url: https://www.sae.edu/esp/admisiones/admisiones-internacionales
+                  - text: Admisiones internacionales
+              - listitem [ref=e190]:
+                - link [ref=e191] [cursor=pointer]:
+                  - /url: https://www.sae.edu/esp/faqs
+                  - text: Preguntas frecuentes
+          - generic [ref=e192]:
+            - heading [level=6] [ref=e193]: Novedades
+            - list [ref=e194]:
+              - listitem [ref=e195]:
+                - link [ref=e196] [cursor=pointer]:
+                  - /url: https://www.sae.edu/esp/noticias
+                  - text: Noticias
+              - listitem [ref=e197]:
+                - link [ref=e198] [cursor=pointer]:
+                  - /url: https://www.sae.edu/esp/novedades
+                  - text: Eventos
+        - generic [ref=e199]:
+          - generic [ref=e200]:
+            - heading [level=6] [ref=e201]: Contacta con SAE Barcelona
+            - list [ref=e202]:
+              - listitem [ref=e203]:
+                - link [ref=e204] [cursor=pointer]:
+                  - /url: mailto:barcelona@sae.edu
+                  - text: barcelona@sae.edu
+              - listitem [ref=e205]:
+                - link [ref=e206] [cursor=pointer]:
+                  - /url: tel:+34932387258
+                  - text: +34 93 238 7258
+          - generic [ref=e207]:
+            - heading [level=6] [ref=e208]: Contacta con SAE Madrid
+            - list [ref=e209]:
+              - listitem [ref=e210]:
+                - link [ref=e211] [cursor=pointer]:
+                  - /url: mailto:madrid@sae.edu
+                  - text: madrid@sae.edu
+              - listitem [ref=e212]:
+                - link [ref=e213] [cursor=pointer]:
+                  - /url: tel:+34914057059
+                  - text: +34 91 405 7059
+    - generic [ref=e215]:
+      - generic [ref=e216]:
+        - text: "© SAE Technology Group Spain S.L - Con registro en Carrer Perú, 176 - 08020, Barcelona, España. CIF: B-82677758. Compañía sujeta a la dirección y coordinación de SAE Technology Group Holdings BV ubicada en Amsterdam, Johan van Hasseltweg 31, 1021KN."
+        - generic [ref=e217]: "Last update: undefined"
+      - list [ref=e218]:
+        - listitem [ref=e219]:
+          - link [ref=e220] [cursor=pointer]:
+            - /url: https://www.sae.edu/esp/terminos-y-condiciones
+            - text: Términos y Condiciones
+        - listitem [ref=e221]:
+          - link [ref=e222] [cursor=pointer]:
+            - /url: "#cookiepolicy"
+            - text: Política de cookies
+      - img [ref=e226]
+  - alertdialog "Preferencia de privacidad" [ref=e233]:
+    - document [ref=e234]:
+      - generic [ref=e235]:
+        - generic [ref=e236]:
+          - img [ref=e237]
+          - heading "Preferencia de privacidad" [level=2] [ref=e238]
+        - generic [ref=e239]:
+          - generic [ref=e240]:
+            - paragraph [ref=e241]: Necesitamos tu consentimiento para que puedas continuar en nuestro sitio web.
+            - paragraph [ref=e242]: Si tienes menos de 16 años y deseas dar tu consentimiento para servicios opcionales, debes pedir permiso a tus tutores legales.
+            - paragraph [ref=e243]: En nuestro sitio web utilizamos cookies y otras tecnologías. Algunas de ellas son esenciales, mientras que otras nos ayudan a mejorar este sitio web y tu experiencia.
+            - paragraph [ref=e244]: Se pueden tratar datos personales (como direcciones IP), por ejemplo, para anuncios y contenidos personalizados o medición de anuncios y contenidos.
+            - paragraph [ref=e245]:
+              - text: Puedes encontrar más información sobre el uso de tus datos en nuestra
+              - link "Política de privacidad" [ref=e246] [cursor=pointer]:
+                - /url: ""
+              - text: .
+            - paragraph [ref=e247]: No es obligatorio dar tu consentimiento al tratamiento de tus datos para utilizar esta oferta.
+            - paragraph [ref=e248]:
+              - text: Puedes revocar o ajustar tu selección en cualquier momento en
+              - button "Ajustes" [ref=e249] [cursor=pointer]
+              - text: .
+            - paragraph [ref=e250]: Ten en cuenta que, en función de los ajustes individuales, es posible que no todas las funciones del sitio estén disponibles.
+            - paragraph [ref=e251]: Algunos servicios tratan datos personales en los EE. UU. Con tu consentimiento para utilizar estos servicios, también das tu consentimiento para el tratamiento de sus datos en los EE. UU. de conformidad con el art. 49, apartado 1, letra a), del RGPD. El TJUE clasifica a los EE. UU. como un país con una protección de datos insuficiente según las normas de la UE. Por ejemplo, existe el riesgo de que las autoridades estadounidenses traten datos personales en programas de vigilancia sin que los europeos puedan emprender acciones legales.
+          - group "A continuación figura una lista de los grupos de servicios para los que puede darse el consentimiento. El primer grupo de servicios es esencial y no puede deseleccionarse." [ref=e253]:
+            - generic [ref=e254]: A continuación figura una lista de los grupos de servicios para los que puede darse el consentimiento. El primer grupo de servicios es esencial y no puede deseleccionarse.
+            - list [ref=e255]:
+              - listitem [ref=e256]:
+                - generic [ref=e257]:
+                  - checkbox "Esenciales" [checked] [disabled] [ref=e258] [cursor=pointer]
+                  - generic [ref=e261] [cursor=pointer]: Esenciales
+              - listitem [ref=e262]:
+                - generic [ref=e263]:
+                  - checkbox "Estadísticas" [ref=e264] [cursor=pointer]
+                  - generic [ref=e267] [cursor=pointer]: Estadísticas
+              - listitem [ref=e268]:
+                - generic [ref=e269]:
+                  - checkbox "Marketing" [ref=e270] [cursor=pointer]
+                  - generic [ref=e273] [cursor=pointer]: Marketing
+        - generic [ref=e275]:
+          - button "Acepto todo" [ref=e277] [cursor=pointer]
+          - button "Guardar consentimiento" [ref=e279] [cursor=pointer]
+          - button "Preferencias individuales de privacidad" [ref=e281] [cursor=pointer]
+      - generic [ref=e282]:
+        - button "Preferencias" [ref=e283] [cursor=pointer]
+        - link "Aviso legal" [ref=e284] [cursor=pointer]:
+          - /url: https://www.sae.edu/esp/terminos-y-condiciones/
+  - button [ref=e285] [cursor=pointer]:
+    - img [ref=e286]

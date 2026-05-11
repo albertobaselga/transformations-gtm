@@ -1,0 +1,235 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e5]:
+        - link "The Core" [ref=e7] [cursor=pointer]:
+          - /url: https://www.thecoreschool.com
+        - generic [ref=e8]:
+          - link "+34 910381844" [ref=e10] [cursor=pointer]:
+            - /url: tel:+34910381844
+            - generic [ref=e11]: +34 910381844
+          - button "Abrir formulario de búsqueda" [ref=e12] [cursor=pointer]:
+            - generic [ref=e13]: 
+          - button " Abrir Menú" [ref=e14] [cursor=pointer]:
+            - generic [ref=e15]: 
+            - generic [ref=e16]: Abrir Menú
+          - text: 
+    - main [ref=e17]:
+      - article [ref=e19]:
+        - generic [ref=e27]:
+          - generic [ref=e28]:
+            - generic [ref=e31]:
+              - heading "ADÉNTRATE EN EL MUNDO DE LA TV Y LA RADIO CON ATRESMEDIA Y THE CORE" [level=1] [ref=e33]
+              - paragraph [ref=e35]:
+                - text: El próximo
+                - strong [ref=e36]: 12 de junio a las 17:00h
+                - text: ", te invitamos a vivir una"
+                - strong [ref=e37]: jornada única junto a Atresmedia
+                - text: ", el grupo líder de comunicación y medios en España. Durante este evento organizado por The Core School, conocerás de cerca cómo es trabajar en la industria audiovisual a través de una experiencia exclusiva en sus instalaciones."
+              - paragraph [ref=e38]: Exploraremos juntos los entresijos del mundo de la televisión y la radio, hablaremos con profesionales que seleccionan talento para sus equipos y descubrirás cómo nuestros másteres especializados, creados en colaboración con Atresmedia, están conectando a nuestros estudiantes con oportunidades laborales reales en el sector. Además, nos acompañarán grandes referentes de los medios de comunicación, que compartirán su experiencia y debatirán sobre la realidad de la industria y cómo abrirse camino en ella. También contaremos con el testimonio de antiguos alumnos que hoy trabajan en Atresmedia tras su paso por The Core.
+              - generic [ref=e41]:
+                - figure [ref=e44]
+                - heading "PLAZAS MUY LIMITADAS" [level=2] [ref=e45]
+              - paragraph [ref=e46]:
+                - strong [ref=e47]: ·
+                - text: El acceso exclusivo a las instalaciones de Atresmedia implica un aforo reducido.
+              - button "INSCRÍBETE AHORA" [ref=e50] [cursor=pointer]
+            - figure [ref=e54]
+          - heading "¿EN QUÉ CONSISTE EL OPEN DAY CON ATRESMEDIA?" [level=2] [ref=e56]
+          - generic [ref=e58]:
+            - generic [ref=e60]:
+              - figure [ref=e61]
+              - heading "Presentación de The Core y Másteres" [level=3] [ref=e63]
+              - paragraph [ref=e64]: Descubre nuestra oferta formativa en televisión, radio y entretenimiento, creada junto a Atresmedia.
+            - generic [ref=e66]:
+              - figure [ref=e67]
+              - heading "Visita a Atresmedia" [level=3] [ref=e68]:
+                - text: Visita a
+                - text: Atresmedia
+              - paragraph [ref=e69]: "Recorre las instalaciones del grupo desde dentro: platós, salas de realización y mucho más."
+            - generic [ref=e71]:
+              - figure [ref=e72]
+              - heading "HABLA coN profesionales del sector" [level=3] [ref=e73]
+              - paragraph [ref=e74]: Conecta con los profesionales que están buscando nuevo talento para sus equipos en Atresmedia.
+            - generic [ref=e76]:
+              - figure [ref=e77]
+              - heading "Testimonios reales" [level=3] [ref=e78]:
+                - text: Testimonios
+                - text: reales
+              - paragraph [ref=e79]: Conoce la experiencia de antiguos alumnos que hoy trabajan en Atresmedia gracias a nuestra formación.
+          - generic [ref=e80]:
+            - generic [ref=e82]:
+              - generic [ref=e83]:
+                - figure [ref=e86]
+                - heading "CUÁNDO" [level=3] [ref=e87]
+              - paragraph [ref=e88]: Jueves, 12 de junio a las 17:00h.
+            - generic [ref=e90]:
+              - generic [ref=e91]:
+                - figure [ref=e94]
+                - heading "DIRIGIDO A" [level=2] [ref=e95]
+              - paragraph [ref=e96]: Personas interesadas en formarse y trabajar en el sector audiovisual.
+          - generic [ref=e100]:
+            - generic [ref=e101]:
+              - figure [ref=e104]
+              - heading "DÓNDE" [level=2] [ref=e105]
+            - paragraph [ref=e106]:
+              - text: "El punto de partida y final del evento será en la sede de The Core School:"
+              - text: Av. de España, 4, 28760 Tres Cantos, Madrid, España
+          - button "INSCRÍBETE AHORA" [ref=e111] [cursor=pointer]
+          - generic [ref=e116]:
+            - heading "CÓMO LLEGAR AL CAMPUS THE CORE" [level=2] [ref=e120]
+            - generic [ref=e122]:
+              - iframe [ref=e125]:
+                - link "Abrir en Maps (se abre en una nueva pestaña)" [ref=f57e4] [cursor=pointer]:
+                  - /url: about:invalid#zClosurez
+                  - text: Abrir en Maps
+                  - img [ref=f57e6]
+              - generic [ref=e127]:
+                - heading "SI VIENES DESDE MADRID:" [level=4] [ref=e128]
+                - paragraph [ref=e129]:
+                  - strong [ref=e130]: En coche o moto
+                  - text: Desde Plaza Castilla,
+                  - text: M-607 Salida 25
+                - paragraph [ref=e131]:
+                  - strong [ref=e132]: En tren
+                  - text: Línea C4 desde Atocha/Sol/Nuevos Ministerios.
+                - paragraph [ref=e133]:
+                  - strong [ref=e134]: En bus
+                  - text: ALSA 712 / ALSA 713 / ALSA 717 desde Plaza Castilla.
+                - paragraph [ref=e135]:
+                  - strong [ref=e136]: Transporte privado
+                  - text: Parking gratuito
+    - contentinfo [ref=e138]:
+      - generic [ref=e140]:
+        - generic [ref=e141]:
+          - generic [ref=e142]:
+            - link "The Core" [ref=e143] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com
+            - list [ref=e144]:
+              - listitem [ref=e145]:
+                - link " Facebook" [ref=e146] [cursor=pointer]:
+                  - /url: https://www.facebook.com/TheCoreSchool/
+                  - generic [ref=e147]: 
+                  - generic [ref=e148]: Facebook
+              - listitem [ref=e149]:
+                - link " Instagram" [ref=e150] [cursor=pointer]:
+                  - /url: https://www.instagram.com/thecoreschool/
+                  - generic [ref=e151]: 
+                  - generic [ref=e152]: Instagram
+              - listitem [ref=e153]:
+                - link " Linkedin" [ref=e154] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/school/the-core-school/
+                  - generic [ref=e155]: 
+                  - generic [ref=e156]: Linkedin
+              - listitem [ref=e157]:
+                - link " Youtube" [ref=e158] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@thecoreschool
+                  - generic [ref=e159]: 
+                  - generic [ref=e160]: Youtube
+              - listitem [ref=e161]:
+                - link "TikTok" [ref=e162] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@thecoreschool
+                  - generic [ref=e164]: TikTok
+            - paragraph [ref=e166]:
+              - generic [ref=e167]: "Admisiones:"
+              - link "+34 910381844" [ref=e168] [cursor=pointer]:
+                - /url: tel:+34910381844
+          - generic [ref=e169]:
+            - heading "Áreas de conocimiento" [level=3] [ref=e170]
+            - list [ref=e171]:
+              - listitem [ref=e172]:
+                - link "Animación y Videojuegos" [ref=e173] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/animacion-y-videojuegos/
+              - listitem [ref=e174]:
+                - link "Business y Management" [ref=e175] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/business-y-management/
+              - listitem [ref=e176]:
+                - link "Cine" [ref=e177] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/cine/
+              - listitem [ref=e178]:
+                - link "Contenidos" [ref=e179] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/contenidos/
+              - listitem [ref=e180]:
+                - link "Marketing" [ref=e181] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/marketing/
+              - listitem [ref=e182]:
+                - link "Tecnología Audiovisual" [ref=e183] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/tecnologia-audiovisual/
+              - listitem [ref=e184]:
+                - link "STEM" [ref=e185] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/ingenieria-creativa/
+              - listitem [ref=e186]:
+                - link "Comunicación y Medios" [ref=e187] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/formacion-comunicacion-y-medios/
+          - generic [ref=e188]:
+            - heading "Sobre The Core" [level=3] [ref=e189]
+            - list [ref=e190]:
+              - listitem [ref=e191]:
+                - link "Conócenos" [ref=e192] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/sobre-la-escuela/
+              - listitem [ref=e193]:
+                - link "Titulaciones con Atresmedia" [ref=e194] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/eventos/formacion-atresmedia/
+              - listitem [ref=e195]:
+                - link "Admisiones y ayudas" [ref=e196] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/admisiones/
+              - listitem [ref=e197]:
+                - link "Campus Tres Cantos" [ref=e198] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/campus-tres-cantos/
+              - listitem [ref=e199]:
+                - link "Noticias" [ref=e200] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/noticias/
+              - listitem [ref=e201]:
+                - link "Blog" [ref=e202] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/blog/
+              - listitem [ref=e203]:
+                - link "Contacto" [ref=e204] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/contacto/
+          - generic [ref=e205]:
+            - heading "SOMOS" [level=3] [ref=e206]
+            - list [ref=e207]:
+              - listitem [ref=e208]:
+                - link "Black Magic Trainig Partner" [ref=e209] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/programas/master-edicion-y-postproduccion-audiovisual/
+                  - img "Black Magic Trainig Partner" [ref=e210]
+              - listitem [ref=e211]:
+                - img "Adobe Certified Profesional" [ref=e212]
+              - listitem [ref=e213]:
+                - img "Autodesk Certified User" [ref=e214]
+        - list [ref=e217]:
+          - listitem [ref=e218]:
+            - link "Política de privacidad" [ref=e219] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/politica-de-privacidad/
+          - listitem [ref=e220]:
+            - link "Política de cookies" [ref=e221] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/politica-de-cookies/
+          - listitem [ref=e222]:
+            - link "Condiciones de uso" [ref=e223] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/condiciones-de-uso/
+          - listitem [ref=e224]:
+            - link "Normativa" [ref=e225] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/normativa/
+          - listitem [ref=e226]:
+            - link "Oficina de Buenas Prácticas" [ref=e227] [cursor=pointer]:
+              - /url: https://www.planeta.es/es/oficina-de-buenas-practicas
+      - paragraph [ref=e233]: © THE CORE Escuela Superior de Audiovisuales. Todos los derechos reservados
+  - text: 
+  - region "Cookie banner" [ref=e235]:
+    - dialog "Privacidad" [ref=e236]:
+      - generic [ref=e237]:
+        - generic [ref=e239]:
+          - img "Logotipo de la empresa" [ref=e241]
+          - generic [ref=e242]:
+            - paragraph [ref=e243]: ¡Hola! Nos importa tu privacidad.
+            - paragraph [ref=e244]: Configuración de Cookies
+            - paragraph [ref=e245]: Utilizamos cookies y tecnologías similares propias y de terceros para diferenciar tu experiencia de las de otros usuarios, para identificarte como usuario, para analizar el uso del Site, así como para elaborar modelos analíticos.
+            - paragraph [ref=e246]:
+              - text: Utilizamos también cookies para mostrarte publicidad personalizada relacionada con tus preferencias sobre la base de un perfil elaborado a partir de tus hábitos de navegación (por ejemplo, páginas visitadas) y la información que nos facilites (por ejemplo, en formularios de cursos). Puedes aceptar o rechazar todas las cookies pulsando el botón correspondiente o configurarlas mediante el enlace “Configuración de cookies”. Pulsa
+              - link "AQUÍ" [active] [ref=e247] [cursor=pointer]:
+                - /url: https://www.thecoreschool.com/politica-de-cookies/
+              - text: para consultar nuestra Política de Cookies.
+        - generic [ref=e249]:
+          - generic [ref=e250]:
+            - button "RECHAZAR" [ref=e251] [cursor=pointer]
+            - button "ACEPTAR" [ref=e252] [cursor=pointer]
+          - button "Configuración de cookies" [ref=e253] [cursor=pointer]

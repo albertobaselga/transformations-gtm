@@ -1,0 +1,614 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - 'link "Logotipo de CEI: Centro de Estudios de Innovación en versión larga CEI" [active] [ref=e4] [cursor=pointer]':
+      - /url: https://cei.es
+      - 'img "Logotipo de CEI: Centro de Estudios de Innovación en versión larga" [ref=e5]'
+      - img "CEI" [ref=e6]
+    - generic [ref=e7]:
+      - generic: Diseña tu futuro
+    - button "Menu Cerrar" [ref=e8] [cursor=pointer]:
+      - text: Menu
+      - generic [ref=e9]: Cerrar
+    - navigation:
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Estudios por áreas":
+                - /url: "#"
+                - text: Estudios por áreas
+              - list:
+                - listitem:
+                  - link "Diseño gráfico y dirección de arte":
+                    - /url: https://cei.es/cursos-diseno-grafico/
+                - listitem:
+                  - link "Desarrollo y programación web":
+                    - /url: https://cei.es/cursos-diseno-web/
+                - listitem:
+                  - link "Post/producción audiovisual":
+                    - /url: https://cei.es/cursos-video-vfx-motion-graphics/
+                - listitem:
+                  - link "Marketing digital & Business":
+                    - /url: https://cei.es/cursos-marketing-digital/
+                - listitem:
+                  - link "Interiores y arquitectura BIM":
+                    - /url: https://cei.es/cursos-diseno-interiores-arquitectura/
+                - listitem:
+                  - link "Diseño y Desarrollo de Videojuegos":
+                    - /url: https://cei.es/cursos-videojuegos/
+                - listitem:
+                  - link "Tecnologías Emergentes (TechEmerge)":
+                    - /url: https://cei.es/tecnologias-emergentes/
+            - listitem:
+              - link "Estudios por tipo":
+                - /url: "#"
+                - text: Estudios por tipo
+              - list:
+                - listitem:
+                  - link "Cursos intensivos":
+                    - /url: https://cei.es/cursos-intensivos/
+                - listitem:
+                  - link "Estudios universitarios":
+                    - /url: https://cei.es/titulaciones-universitarias/
+                - listitem:
+                  - link "Grados superiores de FP":
+                    - /url: https://cei.es/fp-grado-superior/
+                - listitem:
+                  - link "Estudios en fin de semana":
+                    - /url: https://cei.es/estudios-fin-de-semana/
+                - listitem:
+                  - link "Estudios online (en directo)":
+                    - /url: https://cei.es/estudios-online/
+                - listitem:
+                  - link "A tu medida":
+                    - /url: https://cei.es/disena-tu-futuro/
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Formación para empresas":
+                - /url: "#"
+                - text: Formación para empresas
+              - list:
+                - listitem:
+                  - link "Formación para empresas":
+                    - /url: https://cei.es/formacion-para-empresas/
+                - listitem:
+                  - link "Formación bonificada (FUNDAE)":
+                    - /url: https://cei.es/fundacion-estatal-para-la-formacion-en-el-empleo/
+            - listitem:
+              - link "Conócenos":
+                - /url: "#"
+                - text: Conócenos
+              - list:
+                - listitem:
+                  - link "Sobre nosotros":
+                    - /url: https://cei.es/centro-formacion/
+                - listitem:
+                  - link "Sedes e instalaciones":
+                    - /url: https://cei.es/campus/
+                - listitem:
+                  - link "Profesorado":
+                    - /url: https://cei.es/profesorado/
+                - listitem:
+                  - link "Nuestro método":
+                    - /url: https://cei.es/nuestro-metodo/
+                - listitem:
+                  - link "Alumnos internacionales":
+                    - /url: https://cei.es/alumnos-extranjeros/
+                - listitem:
+                  - link "Preguntas frecuentes":
+                    - /url: https://cei.es/mas-informacion/
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Certificaciones":
+                - /url: "#"
+                - text: Certificaciones
+              - list:
+                - listitem:
+                  - link "Centro de formación oficial":
+                    - /url: https://cei.es/certificaciones/
+            - listitem:
+              - link "Repetición gratuita":
+                - /url: "#"
+                - text: Repetición gratuita
+              - list:
+                - listitem:
+                  - link "Enseñanza garantizada":
+                    - /url: https://cei.es/repeticion-gratuita-estudios/
+            - listitem:
+              - link "Empleo":
+                - /url: "#"
+                - text: Empleo
+              - list:
+                - listitem:
+                  - link "Bolsa de trabajo y prácticas para alumnos":
+                    - /url: https://cei.es/bolsa-de-trabajo/
+                - listitem:
+                  - link "Acceso de empresas a bolsa de empleo":
+                    - /url: https://cei.jobteaser.com/fr/recruiter_account/job_offers
+                - listitem:
+                  - link "Garantía laboral por escrito.":
+                    - /url: https://cei.es/garantia-laboral/
+            - listitem:
+              - link "CEI Alumnos":
+                - /url: "#"
+                - text: CEI Alumnos
+              - list:
+                - listitem:
+                  - link "Campus virtual":
+                    - /url: https://alumnos.cei.es/
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Garantía laboral":
+                - /url: https://cei.es/garantia-laboral/
+                - text: Garantía laboral
+              - list:
+                - listitem:
+                  - link "Garantizada por escrito":
+                    - /url: https://cei.es/garantia-laboral/
+            - listitem:
+              - link "Mantente informado":
+                - /url: https://cei.es/category/blog/
+                - text: Mantente informado
+              - list:
+                - listitem:
+                  - link "Blog":
+                    - /url: https://cei.es/categoria/blog/
+                - listitem:
+                  - link "Noticias":
+                    - /url: https://cei.es/categoria/blog/noticias/
+            - listitem:
+              - link "Contacto":
+                - /url: https://cei.es/contacto/
+                - text: Contacto
+              - list:
+                - listitem:
+                  - link "Formulario de información general":
+                    - /url: https://cei.es/contacto/
+                - listitem:
+                  - link "Cita de asesoramiento":
+                    - /url: https://escuelacei.zohobookings.eu/#/cei
+                - listitem:
+                  - link "Clase demo gratuita":
+                    - /url: https://cei.es/clase-gratuita/
+                - listitem:
+                  - link "Información telefónica y presencial":
+                    - /url: https://cei.es/informacion-telefonica-presencial/
+  - generic [ref=e12]:
+    - heading "Global Master in AI & Visual Creativity" [level=1] [ref=e13]
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - paragraph [ref=e17]:
+          - link "Posibilidad de Certificación oficial de Adobe" [ref=e18] [cursor=pointer]:
+            - /url: https://cei.es/certificaciones/
+        - paragraph [ref=e19]:
+          - link "Posibilidad de Certificación oficial de Google" [ref=e20] [cursor=pointer]:
+            - /url: https://cei.es/certificaciones/
+        - paragraph [ref=e21]:
+          - link "Posibilidad de Experto Universitario (Sabal)" [ref=e22] [cursor=pointer]:
+            - /url: https://cei.es/informacion-diplomas-sabal/
+        - paragraph [ref=e23]:
+          - link "Posibilidad de Titulación Universitaria (Udima)" [ref=e24] [cursor=pointer]:
+            - /url: https://cei.es/titulaciones-universitarias-informacion/
+      - paragraph [ref=e26]: El objetivo del Global Master es formar profesionales capaces de combinar creatividad visual, producción audiovisual e inteligencia artificial, desarrollando proyectos innovadores que respondan a las nuevas necesidades de la industria creativa, la comunicación digital y los medios contemporáneos.
+      - generic [ref=e28]:
+        - link "Matricúlate" [ref=e29] [cursor=pointer]:
+          - /url: https://cei.es/matriculaciones/global-master-in-ai-visual-creativity/
+        - link "Programa académico y horarios" [ref=e30] [cursor=pointer]:
+          - /url: https://cei.es/wp-content/uploads/programa-educativo/global-master-in-ai-visual-creativity.pdf
+  - generic [ref=e33]:
+    - generic [ref=e34]:
+      - heading "Inicio y duración:" [level=3] [ref=e35]
+      - link "Abierto plazo de matriculaciones" [ref=e36] [cursor=pointer]:
+        - /url: "https://cei.es/informacion-matricula/ "
+      - list [ref=e37]:
+        - listitem [ref=e38]: "Próximo inicio (entre semana): 29 de junio de 2026 o 13 de octubre de 2026."
+        - listitem [ref=e39]: "Duración: 900 horas (12 meses)."
+    - generic [ref=e40]:
+      - heading "Modalidad de impartición:" [level=3] [ref=e41]
+      - paragraph
+      - paragraph [ref=e42]: "Presencial u online: puedes cursar el Global Master in AI & Visual Creativity de forma presencial en Madrid, Sevilla o Valencia o estudiarlo en modalidad online. La modalidad online se imparte siempre en directo (on live). En ambas modalidades se mantiene un repositorio de todas las clases grabadas a disposición del alumnado hasta 90 días después de terminar la convocatoria correspondiente."
+      - paragraph [ref=e43]: Algunas sesiones del módulo de IA No Code se imparten en modalidad 100% online, independientemente de la modalidad elegida.
+      - paragraph
+    - generic [ref=e44]:
+      - heading "Datos básicos" [level=3] [ref=e45]
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - heading "TITULACIÓN:" [level=4] [ref=e49]
+          - paragraph [ref=e50]: Global Master in AI & Visual Creativity
+        - generic [ref=e51]:
+          - heading "INCLUYE GRATIS:" [level=4] [ref=e52]
+          - paragraph [ref=e53]: "No aprenderás con teoría. Trabajarás con las herramientas que usa la industria: ChatGPT, Freepik, Claude y Elementor PRO, según el módulo."
+          - list [ref=e54]:
+            - listitem [ref=e55]: "Online: Adobe con hasta un 70–75% de descuento educativo (un año)"
+            - listitem [ref=e56]: "Presencial: Acceso directo a Adobe."
+        - generic [ref=e57]:
+          - heading "PRECIO:" [level=4] [ref=e58]
+          - paragraph [ref=e59]:
+            - text: 6.700 € (matrícula incluida). Consulta los
+            - link "descuentos disponibles" [ref=e61] [cursor=pointer]:
+              - /url: "#precio"
+            - text: de hasta el 40% para acceder en tu formación.
+        - generic [ref=e62]:
+          - heading "INICIO:" [level=4] [ref=e63]
+          - paragraph [ref=e64]: "Existen cuatro convocatorias o fechas de inicio anuales: Octubre, Enero, Abril y Junio."
+        - generic [ref=e65]:
+          - heading "MODALIDAD:" [level=4] [ref=e66]
+          - paragraph [ref=e67]: 100% presencial o 100% online. En modalidad presencial, el estudiante podrá asistir al centro y seguir online las sesiones a las que no pueda acudir físicamente (consulta más información). Además, tendrá acceso al repositorio de clases grabadas. Una metodología flexible para formarte en inteligencia artificial, producto e identidad visual desde cualquier ubicación.
+        - generic [ref=e68]:
+          - heading [level=4]
+    - generic [ref=e69]:
+      - heading "Contenido del Global Master in AI & Visual Creativity" [level=2] [ref=e70]
+      - generic [ref=e71]:
+        - paragraph [ref=e72]: El Máster en IA & Visual Creativity está diseñado para formar profesionales capaces de unir creatividad, diseño, narrativa visual e inteligencia artificial dentro de un mismo perfil. A lo largo del programa trabajarás las áreas clave del diseño gráfico, la producción gráfica, la dirección de arte, la edición y postproducción de vídeo, el motion graphics y la automatización con IA, desarrollando una visión transversal del proceso creativo contemporáneo.
+        - paragraph [ref=e73]: Durante una primera fase del máster profundizarás en diseño gráfico y comunicación visual con herramientas de Adobe como Illustrator, Photoshop e InDesign, abordando identidad visual, composición, tipografía, imagen digital, creatividad aplicada, branding, packaging, maquetación y producción gráfica. Esta base te permitirá construir proyectos visuales sólidos, entender los fundamentos del lenguaje gráfico y desarrollar piezas adaptadas a distintos soportes y objetivos de comunicación.
+        - paragraph [ref=e74]: En una segunda fase, el programa se centra en la dirección de arte y la producción audiovisual, trabajando la conceptualización creativa, el pensamiento visual, la construcción de universos de marca y la ejecución de proyectos en vídeo. Aprenderás a editar y postproducir piezas con Adobe Premiere, a crear composiciones, VFX y motion graphics con Adobe After Effects, y a integrar recursos visuales y narrativos en campañas, contenidos digitales y piezas audiovisuales de nivel profesional.
+        - paragraph [ref=e75]: Además, el máster incorpora una especialización en inteligencia artificial aplicada a la creatividad visual, donde trabajarás fundamentos de IA, LLMs, prompting, asistentes, automatizaciones no-code, agentes inteligentes, generación de imagen y vídeo, marketing con IA y vibe coding. El objetivo es que aprendas a utilizar la inteligencia artificial no solo como herramienta de apoyo, sino como parte activa de tus procesos de ideación, producción, optimización y experimentación creativa.
+        - paragraph [ref=e76]: Gracias a este enfoque, el alumno no solo aprende a diseñar, dirigir y producir proyectos visuales, sino también a construir flujos de trabajo creativos asistidos por IA, cada vez más demandados en estudios, agencias, productoras, departamentos de marketing y entornos digitales. El programa culmina con un proyecto final orientado a portfolio, pensado para integrar los conocimientos adquiridos en diseño, audiovisual, dirección de arte e inteligencia artificial aplicada.
+      - generic [ref=e77]:
+        - generic:
+          - 'link "Instalaciones en CEI: Centro de Estudios e Innovación"':
+            - /url: https://youtu.be/r0dSUUf6-7w
+            - generic:
+              - 'img "Instalaciones en CEI: Centro de Estudios e Innovación"'
+        - generic [ref=e80]:
+          - img "Formación cloud computing y big data" [ref=e83]
+          - generic [ref=e84]:
+            - generic:
+              - img "Formación cloud computing y big data"
+          - generic [ref=e85]:
+            - generic:
+              - img "Formación cloud computing y big data"
+          - generic [ref=e86]:
+            - generic:
+              - img "Formación cloud computing y big data"
+          - generic [ref=e87]:
+            - generic:
+              - img "Formación cloud computing y big data"
+          - generic [ref=e88]:
+            - generic:
+              - img "Formación cloud computing y big data"
+          - generic [ref=e89]:
+            - generic:
+              - img "Formación cloud computing y big data"
+          - generic [ref=e90]:
+            - generic:
+              - img "Formación cloud computing y big data"
+          - generic [ref=e91]:
+            - generic:
+              - img "Formación cloud computing y big data"
+    - generic [ref=e92]:
+      - link "Fórmate en la escuela líder en España:" [ref=e93] [cursor=pointer]:
+        - /url: https://cei.es/centro-formacion/
+        - heading "Fórmate en la escuela líder en España:" [level=3] [ref=e94]
+      - paragraph [ref=e95]: Somos el centro de formación con mayor número de estudiantes de España de nuestro sector, pasando por nuestras aulas aproximadamente 4.000 alumnos cada año, apasionados por el mundo del diseño, el marketing y las tecnologías emergentes. Ser la opción más elegida del país, junto a nuestra trayectoria de más de 30 años como escuela, es la máxima garantía de calidad que podemos ofrecer a cualquier interesado en estudiar en CEI.
+    - generic [ref=e96]:
+      - heading "Salidas profesionales:" [level=3] [ref=e97]
+      - paragraph [ref=e98]: "Realiza esta formación y te prepararemos para trabajar, tanto por cuenta ajena como propia, como profesional en las siguientes áreas:"
+      - list [ref=e99]:
+        - listitem [ref=e100]: "Director/a de Arte Digital: profesional especializado en conceptualización visual, dirección creativa y desarrollo de universos gráficos para campañas, marcas, contenidos digitales y proyectos audiovisuales apoyados en inteligencia artificial."
+        - listitem [ref=e101]: "Diseñador/a Gráfico/a con IA: perfil orientado a la creación de identidades visuales, piezas gráficas, composiciones editoriales y recursos de comunicación visual utilizando Adobe Creative Cloud e inteligencia artificial generativa."
+        - listitem [ref=e102]: "Motion Graphics Designer: especialista en animación gráfica, motion design, composición visual y desarrollo de piezas en movimiento para publicidad, redes sociales, branded content y entornos digitales."
+        - listitem [ref=e103]: "Editor/a y Postproductor/a de Vídeo: profesional centrado en edición audiovisual, postproducción, montaje, corrección visual, integración de VFX y optimización de flujos de trabajo con herramientas de IA aplicadas al vídeo."
+        - listitem [ref=e104]: "Content Creator Visual: creador/a de contenido especializado en producción de piezas visuales, vídeo, imagen y formatos creativos para medios digitales, redes sociales, campañas online y estrategias de comunicación de marca."
+    - generic [ref=e105]:
+      - heading "Precio:" [level=3] [ref=e106]
+      - paragraph [ref=e107]: 6.700 € (matrícula incluida).
+      - link "Hasta 40% de descuento" [ref=e108] [cursor=pointer]:
+        - /url: https://cei.es/informacion-becas-descuentos/
+      - heading "Financiación:" [level=4] [ref=e109]
+      - paragraph [ref=e110]:
+        - text: En 3 meses (gratis) o 6 meses o 9 meses
+        - link "Más información." [ref=e111] [cursor=pointer]:
+          - /url: https://cei.es/mas-informacion/
+      - link "Matricúlate" [ref=e112] [cursor=pointer]:
+        - /url: https://cei.es/matriculaciones/global-master-in-ai-visual-creativity/
+    - generic [ref=e113]:
+      - heading "Gratis con tus estudios:" [level=3] [ref=e114]
+      - list [ref=e115]:
+        - listitem [ref=e116]: 10 horas de formación adicional de fundamentos y herramientas de Inteligencia Artificial (IA).
+        - listitem [ref=e117]: 3 horas de orientación académica o profesional por alumno.
+        - listitem [ref=e118]: Formación online en protocolo de entrevistas de trabajo.
+        - listitem [ref=e119]: Varias masterclass y talleres cada mes.
+        - listitem [ref=e120]: Clases online (en directo, en la misma clase) los días que no puedas acudir presencialmente.
+        - listitem [ref=e121]: Bolsa de trabajo y/o garantía laboral por escrito.
+        - listitem [ref=e122]: Repetición total o parcial gratuita de los estudios, si el alumno lo solicita.
+        - listitem [ref=e123]: Espacio compartido de trabajo (coworking).
+        - listitem [ref=e124]: 100TB de almacenamiento conjunto en Google Drive, cuenta personal limitada a 50GB para cada alumno.
+        - listitem [ref=e125]: Repositorio de todas las clases grabadas, tanto en modalidad online como en modalidad presencial, hasta 90 días después de terminar cada asignatura.
+        - listitem [ref=e126]: Posibilidad de intercambio entre Madrid, Sevilla y Valencia, o entre modalidad presencial y online.
+        - listitem [ref=e127]: Dominio .com y hosting para cada alumno, durante un año.
+    - link "Profesorado:" [ref=e129] [cursor=pointer]:
+      - /url: https://cei.es/profesorado/
+      - heading "Profesorado:" [level=3] [ref=e130]
+    - paragraph [ref=e131]:
+      - text: Nuestro
+      - link "equipo de profesores" [ref=e132] [cursor=pointer]:
+        - /url: https://cei.es/profesorado/
+      - text: pone a tu disposición años de experiencia en sus disciplinas...
+    - generic [ref=e134]:
+      - generic [ref=e135]:
+        - img "Saúl Pedrosa" [ref=e137]
+        - generic [ref=e138]:
+          - heading "Saúl Pedrosa" [level=4] [ref=e139]
+          - paragraph [ref=e140]:
+            - text: Diseñador gráfico, autor del libro "Mucho diseñito, pero de arte final poquito" especializado en preimpresión.
+            - text: Profesor de diseño gráfico.
+      - generic [ref=e141]:
+        - img "Alfredo Vaz" [ref=e143]
+        - generic [ref=e144]:
+          - heading "Alfredo Vaz" [level=4] [ref=e145]
+          - paragraph [ref=e146]:
+            - text: Director de arte. Head of art de la oficina de DDB en Madrid y miembro de la cúpula directiva del departamento creativo.
+            - text: Profesor de diseño gráfico y dirección de arte.
+      - generic [ref=e147]:
+        - img "Borja González-Orus" [ref=e149]
+        - generic [ref=e150]:
+          - heading "Borja González-Orus" [level=4] [ref=e151]
+          - paragraph [ref=e152]: Borja Gonzalez-Orus. Socio fundador de estudio descapotable, docente y experto en Branding
+      - generic [ref=e153]:
+        - img "Antonio Román" [ref=e155]
+        - generic [ref=e156]:
+          - heading "Antonio Román" [level=4] [ref=e157]
+          - paragraph [ref=e158]:
+            - text: Director de Arte.
+            - text: Profesor de diseño gráfico.
+      - generic [ref=e159]:
+        - img "David Cantos" [ref=e161]
+        - generic [ref=e162]:
+          - heading "David Cantos" [level=4] [ref=e163]
+          - paragraph [ref=e164]:
+            - text: Diseñador gráfico y director de arte especializado en branding y comunicación gráfica para marcas.
+            - text: Profesor de diseño gráfico.
+      - generic [ref=e165]:
+        - img "Fernando Mendoza" [ref=e167]
+        - generic [ref=e168]:
+          - heading "Fernando Mendoza" [level=4] [ref=e169]
+          - paragraph [ref=e170]:
+            - text: Director de arte e ilustrador.
+            - text: Profesor de producción gráfica y creatividad.
+      - generic [ref=e171]:
+        - img "Alberto Solís" [ref=e173]
+        - generic [ref=e174]:
+          - heading "Alberto Solís" [level=4] [ref=e175]
+          - paragraph [ref=e176]:
+            - text: CEO de Pánico Estudio.
+            - text: Profesor de diseño gráfico.
+      - generic [ref=e177]:
+        - img "Chavo Roldán" [ref=e179]
+        - generic [ref=e180]:
+          - heading "Chavo Roldán" [level=4] [ref=e181]
+          - paragraph [ref=e182]: Director de arte y diseñador gráfico, especializado en identidad visual y conceptualización estratégica. Vocal de la junta directiva en la ADCV y miembro de la ADG-FAD.
+      - generic [ref=e183]:
+        - img "Paloma Rodríguez" [ref=e185]
+        - generic [ref=e186]:
+          - heading "Paloma Rodríguez" [level=4] [ref=e187]
+          - paragraph [ref=e188]: Directora de arte freelance con colaboraciones con Fox TV, Lenovo, Bankia, Visa. Profesora de Dirección de arte.
+      - generic [ref=e189]:
+        - img "Salva Dàries" [ref=e191]
+        - generic [ref=e192]:
+          - heading "Salva Dàries" [level=4] [ref=e193]
+          - paragraph [ref=e194]:
+            - text: Director creativo y planner de Wilson Agencia, copy, storytelling & good thinking.
+            - text: Profesor de dirección de arte.
+      - generic [ref=e195]:
+        - img "Lupe Morata" [ref=e197]
+        - generic [ref=e198]:
+          - heading "Lupe Morata" [level=4] [ref=e199]
+          - paragraph [ref=e200]:
+            - text: DEA en Categorías de la Modernidad.
+            - text: Profesora de producción gráfica y creatividad.
+      - generic [ref=e201]:
+        - img "Javier López Píriz" [ref=e202]
+        - generic [ref=e203]:
+          - heading "Javier López Píriz" [level=4] [ref=e204]
+          - paragraph [ref=e205]:
+            - text: Director Creativo en Agencia Jumpers. Experto en creatividad publicitaria.
+            - text: Profesor de dirección de arte.
+    - generic [ref=e206]:
+      - link "Bonificable por FUNDAE:" [ref=e207] [cursor=pointer]:
+        - /url: https://cei.es/fundacion-estatal-para-la-formacion-en-el-empleo/
+        - heading "Bonificable por FUNDAE:" [level=3] [ref=e208]
+      - paragraph [ref=e209]:
+        - text: Todos nuestros programas académicos (excepto los de FP) permiten a trabajadores en activo aprovechar los créditos de la Fundación Estatal para la Formación en el Empleo de sus empresas y, de esta manera, ahorrar gran parte del coste de los estudios de CEI o, incluso, no pagar nada (gratis). CEI dispone de un servicio que facilita esta gestión.
+        - link "Solicita más información aquí." [ref=e210] [cursor=pointer]:
+          - /url: https://cei.es/fundacion-estatal-para-la-formacion-en-el-empleo/
+    - generic [ref=e211]:
+      - link "Certificaciones 100% oficiales:" [ref=e212] [cursor=pointer]:
+        - /url: https://cei.es/certificaciones/
+        - heading "Certificaciones 100% oficiales:" [level=3] [ref=e213]
+      - paragraph [ref=e214]:
+        - text: CEI es un
+        - link "centro de formación reconocido oficialmente" [ref=e215] [cursor=pointer]:
+          - /url: https://cei.es/certificaciones/
+        - text: "y homologado por las compañías que lideran el sector de las artes digitales y las nuevas tecnologías: Adobe Certified Professional, Apple Authorized Training Center, Autodesk Authorized Training Center, Official Autodesk Certification Center, AWS Academy, Cisco Networking Academy, Maxon Training Provider, Microsoft Certified Educator,PlayStation Academy, Unity Certified User y Google Partner."
+      - link "Ver todas las certificaciones" [ref=e216] [cursor=pointer]:
+        - /url: https://cei.es/certificaciones/
+    - generic [ref=e217]:
+      - link "Empleo:" [ref=e218] [cursor=pointer]:
+        - /url: https://cei.es/bolsa-de-trabajo/
+        - heading "Empleo:" [level=3] [ref=e219]
+      - paragraph [ref=e220]:
+        - text: Ponemos a tu servicio nuestra
+        - link "bolsa de trabajo" [ref=e221] [cursor=pointer]:
+          - /url: https://cei.es/bolsa-de-trabajo/
+        - text: y nuestra
+        - link "garantía laboral" [ref=e222] [cursor=pointer]:
+          - /url: https://cei.es/garantia-laboral/
+        - text: ": una gran cantidad de facilidades orientadas a la obtención de empleo. En CEI: Centro de Estudios de Innovación todas nuestras ofertas de trabajo son remuneradas -no permitimos que nuestros estudiantes trabajen gratis- por lo que cualquiera de nuestras ofertas de empleo puede ser de tu interés. Entre nuestras empresas colaboradoras se encuentran compañías como KPMG, Forbes, Sr. Burns, Y&R, Ogilvy, Google, Samsung, Publicis, PWC..."
+    - generic [ref=e223]:
+      - heading "¿Dudas al orientar tu futuro académico?" [level=3] [ref=e224]
+      - paragraph [ref=e225]: Reserva una cita con uno de nuestros asesores de estudios, solicita más información por email o descarga el dossier con toda la información sobre CEI.
+      - link "Cita asesoramiento" [ref=e226] [cursor=pointer]:
+        - /url: https://cei.es/asesoramiento-academico/
+      - link "Solicitar más información" [ref=e227] [cursor=pointer]:
+        - /url: https://cei.es/contacto/
+      - link "Dossier con más información sobre CEI" [ref=e228] [cursor=pointer]:
+        - /url: https://cei.es/wp-content/uploads/CEI-Centro-de-Estudios-de-Innovacion.pdf
+  - generic [ref=e231]:
+    - heading "Estudios relacionados" [level=3] [ref=e232]
+    - paragraph [ref=e233]: "Otros estudios relacionados con este programa académico que quizás te puedan interesar:"
+    - generic [ref=e235]:
+      - link "Global Master in AI & Digital Product Global Master in AI & Digital Product 17 - 18 meses A diario (de Lunes a Jueves) Presencial u online" [ref=e237] [cursor=pointer]:
+        - /url: https://cei.es/cei-curso/master-digital-product-inteligencia-artificial/
+        - img "Global Master in AI & Digital Product" [ref=e240]
+        - generic [ref=e241]:
+          - heading "Global Master in AI & Digital Product" [level=4] [ref=e242]
+          - paragraph [ref=e243]: 17 - 18 meses
+          - paragraph [ref=e244]: A diario (de Lunes a Jueves)
+          - paragraph [ref=e245]: Presencial u online
+      - link "Máster Profesional en Diseño Digital e Inteligencia Artificial (IA) No-Code Máster Profesional en Diseño Digital e Inteligencia Artificial (IA) No-Code 12 meses A diario (de Lunes a Jueves) Presencial u online" [ref=e247] [cursor=pointer]:
+        - /url: https://cei.es/cei-curso/master-profesional-en-diseno-digital-e-inteligencia-artificial-ia-no-code/
+        - img "Máster Profesional en Diseño Digital e Inteligencia Artificial (IA) No-Code" [ref=e250]
+        - generic [ref=e251]:
+          - heading "Máster Profesional en Diseño Digital e Inteligencia Artificial (IA) No-Code" [level=4] [ref=e252]
+          - paragraph [ref=e253]: 12 meses
+          - paragraph [ref=e254]: A diario (de Lunes a Jueves)
+          - paragraph [ref=e255]: Presencial u online
+      - link "Máster Profesional en Diseño Gráfico y Motion Graphics Máster Profesional en Diseño Gráfico y Motion Graphics OFICIAL DE ADOBE Y MAXON POSIBILIDAD DE TITULACIÓN UNIVERSITARIA 12-24 meses A diario (de Lunes a Jueves) Presencial u online" [ref=e257] [cursor=pointer]:
+        - /url: https://cei.es/cei-curso/master-diseno-grafico-motion-graphics/
+        - img "Máster Profesional en Diseño Gráfico y Motion Graphics" [ref=e260]
+        - generic [ref=e261]:
+          - heading "Máster Profesional en Diseño Gráfico y Motion Graphics" [level=4] [ref=e262]
+          - paragraph [ref=e263]: OFICIAL DE ADOBE Y MAXON
+          - paragraph [ref=e264]: POSIBILIDAD DE TITULACIÓN UNIVERSITARIA
+          - paragraph [ref=e265]: 12-24 meses
+          - paragraph [ref=e266]: A diario (de Lunes a Jueves)
+          - paragraph [ref=e267]: Presencial u online
+      - link "Título Superior en Diseño Digital Título Superior en Diseño Digital OFICIAL DE ADOBE, MAXON Y AUTODESK POSIBILIDAD DE TITULACIÓN UNIVERSITARIA 15 meses A diario (de Lunes a Jueves) Presencial u online" [ref=e269] [cursor=pointer]:
+        - /url: https://cei.es/cei-curso/titulo-superior-en-diseno-digital/
+        - img "Título Superior en Diseño Digital" [ref=e272]
+        - generic [ref=e273]:
+          - heading "Título Superior en Diseño Digital" [level=4] [ref=e274]
+          - paragraph [ref=e275]: OFICIAL DE ADOBE, MAXON Y AUTODESK
+          - paragraph [ref=e276]: POSIBILIDAD DE TITULACIÓN UNIVERSITARIA
+          - paragraph [ref=e277]: 15 meses
+          - paragraph [ref=e278]: A diario (de Lunes a Jueves)
+          - paragraph [ref=e279]: Presencial u online
+  - link "Solicita más información" [ref=e281] [cursor=pointer]:
+    - /url: https://cei.es/elige-tu-asesoramiento/
+  - contentinfo [ref=e282]:
+    - generic [ref=e283]:
+      - generic [ref=e284]:
+        - list [ref=e285]:
+          - listitem [ref=e286] [cursor=pointer]: Madrid
+          - listitem [ref=e287] [cursor=pointer]: Sevilla
+          - listitem [ref=e288] [cursor=pointer]: Valencia
+          - listitem [ref=e289] [cursor=pointer]: Online
+        - generic [ref=e290]:
+          - generic [ref=e291]:
+            - link "madrid@cei.es" [ref=e292] [cursor=pointer]:
+              - /url: mailto:madrid@cei.es
+            - link "Rodríguez San Pedro, 2" [ref=e293] [cursor=pointer]:
+              - /url: https://cei.es/campus-madrid/
+            - link "+34 91 292 26 13" [ref=e294] [cursor=pointer]:
+              - /url: tel:+34 91 292 26 13
+          - generic:
+            - link "sevilla@cei.es":
+              - /url: mailto:sevilla@cei.es
+            - link "Conde de Cifuentes, 4":
+              - /url: https://cei.es/campus-sevilla/
+            - link "+34 95 499 15 58":
+              - /url: tel:+34 95 499 15 58
+          - generic:
+            - link "valencia@cei.es":
+              - /url: mailto:valencia@cei.es
+            - link "Av. Primado Reig, 189":
+              - /url: https://cei.es/campus-valencia/
+            - link "+34 96 007 77 13":
+              - /url: tel:+34 96 007 77 13
+          - generic:
+            - link "info@cei.es":
+              - /url: mailto:info@cei.es
+            - link "+34 91 292 26 13":
+              - /url: tel:+34 91 292 26 13
+        - list [ref=e295]:
+          - listitem [ref=e296]:
+            - link "Instagram" [ref=e297] [cursor=pointer]:
+              - /url: https://www.instagram.com/escuelacei/
+          - listitem [ref=e298]:
+            - link "Facebook" [ref=e299] [cursor=pointer]:
+              - /url: https://www.facebook.com/escuelacei/
+          - listitem [ref=e300]:
+            - link "Linkedin" [ref=e301] [cursor=pointer]:
+              - /url: https://www.linkedin.com/school/cei-centro-estudios-innovacion
+          - listitem [ref=e302]:
+            - link "Youtube" [ref=e303] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCFZq_CyVkQxD5oxYGBoLVsw/videos
+          - listitem [ref=e304]:
+            - link "Tiktok" [ref=e305] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@escuelacei?lang=es
+      - generic [ref=e306]:
+        - generic [ref=e307]:
+          - paragraph [ref=e308]:
+            - link "Entidades colaboradoras:" [ref=e309] [cursor=pointer]:
+              - /url: https://cei.es/certificaciones/
+              - generic [ref=e310]: Entidades
+              - generic [ref=e311]: "colaboradoras:"
+          - generic [ref=e313]:
+            - img "estudios oficiales autodesk" [ref=e315]
+            - img "UA 3" [ref=e318]
+            - img "Doctrina Qualitas" [ref=e321]
+            - img "Certificación Generación D" [ref=e323]
+            - img "Certificación Madrid Excelente" [ref=e325]
+            - img "centro colaborador IBM" [ref=e327]
+            - img "estudios oficiales apple" [ref=e329]
+            - img "estudios oficiales autodesk" [ref=e331]
+            - generic [ref=e332]:
+              - img "estudios oficiales autodesk"
+            - generic [ref=e333]:
+              - img "escuela premios excelencia educativa"
+            - generic [ref=e334]:
+              - generic:
+                - img "estudios oficiales microsoft"
+            - generic [ref=e335]:
+              - generic:
+                - img "cisco networking certification"
+            - generic [ref=e336]:
+              - generic:
+                - img "google partner certification"
+            - generic [ref=e337]:
+              - generic:
+                - img "maxon training oficial"
+            - generic [ref=e338]:
+              - generic:
+                - img "unity authorized training partner"
+            - img "estudios oficiales autodesk" [ref=e340]
+        - generic [ref=e341]:
+          - paragraph [ref=e342]:
+            - generic [ref=e343]: Centros
+            - generic [ref=e344]: "colaboradores:"
+          - generic [ref=e346]:
+            - link "universidad-udima" [ref=e348] [cursor=pointer]:
+              - /url: https://cei.es/titulaciones-universitarias-informacion/
+              - img "universidad-udima" [ref=e349]
+            - link "Sabal University" [ref=e351] [cursor=pointer]:
+              - /url: https://cei.es/informacion-diplomas-sabal/
+              - img "Sabal University" [ref=e353]
+      - generic [ref=e354]: "[sibwp_form id=1]"
+  - generic [ref=e356]:
+    - list [ref=e357]:
+      - listitem [ref=e358]:
+        - paragraph [ref=e359]: 1991 - 2026 CEI ®
+      - listitem [ref=e360]:
+        - paragraph [ref=e361]: TODOS LOS DERECHOS RESERVADOS
+      - listitem [ref=e362]:
+        - link "TÉRMINOS LEGALES" [ref=e363] [cursor=pointer]:
+          - /url: https://cei.es/terminos-legales/
+      - listitem [ref=e364]:
+        - link "TRABAJA CON NOSOTROS" [ref=e365] [cursor=pointer]:
+          - /url: https://zrec.eu/HNqbN
+    - generic [ref=e366]:
+      - separator [ref=e367]
+      - paragraph [ref=e368]: Omnes Education es una institución privada de educación superior e investigación multidisciplinar que ofrece programas educativos en los campos de la gestión, la ingeniería, la comunicación y los medios digitales y las ciencias políticas. Sus campus se encuentran en Abiyán, Barcelona, Beaune, Burdeos, Chambéry, Ginebra, Londres, Lyon, Madrid, Mónaco, Múnich, París, Rennes, San Francisco, Sevilla y Valencia, repartidos entre 14 escuelas y universidades diferentes. Con más de 40.000 estudiantes cada año y más de 200.000 antiguos alumnos, Omnes ocupa un lugar único en el panorama educativo internacional.
+      - link "OMNES Education" [ref=e369] [cursor=pointer]:
+        - /url: https://www.omneseducation.com/nos-etablissements/nos-ecoles/cei/
+        - img "OMNES Education" [ref=e370]
+  - button " ×" [ref=e371] [cursor=pointer]:
+    - generic [ref=e372]: 
+    - generic: ×

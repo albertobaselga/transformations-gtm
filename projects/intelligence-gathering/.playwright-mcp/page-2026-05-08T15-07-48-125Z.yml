@@ -1,0 +1,368 @@
+- generic [ref=e1]:
+  - region "Valoramos tu privacidad" [ref=e2]:
+    - generic [ref=e4]:
+      - heading "Valoramos tu privacidad" [level=1] [ref=e5]
+      - generic [ref=e6]:
+        - paragraph [ref=e8]:
+          - text: Usamos cookies para mejorar su experiencia de navegación, mostrarle anuncios o contenidos personalizados y analizar nuestro tráfico. Al hacer clic en “Aceptar todo” usted da su consentimiento a nuestro uso de las cookies.
+          - link "Política de cookies" [ref=e9] [cursor=pointer]:
+            - /url: ""
+        - generic [ref=e10]:
+          - button "Personalizar" [ref=e11] [cursor=pointer]
+          - button "Rechazar todo" [ref=e12] [cursor=pointer]
+          - button "Aceptar todo" [ref=e13] [cursor=pointer]
+  - dialog "Personalizar las preferencias de consentimiento" [ref=e14]:
+    - generic [ref=e15]:
+      - heading "Personalizar las preferencias de consentimiento" [level=1] [ref=e16]
+      - button "Cerca" [ref=e17] [cursor=pointer]:
+        - img "Close" [ref=e18]
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - paragraph [ref=e21]: Usamos cookies para ayudarle a navegar de manera eficiente y realizar ciertas funciones. Encontrará información detallada sobre cada una de las cookies bajo cada categoría de consentimiento a continuación.
+        - paragraph [ref=e22]:
+          - text: Las cookies categorizadas como “Necesarias” se guardan en su navegador, ya que son esenciales para permitir las funcionalidades básicas del sitio web....
+          - button "Mostrar más" [ref=e23] [cursor=pointer]
+      - generic [ref=e25]:
+        - generic [ref=e28] [cursor=pointer]:
+          - generic [ref=e29]:
+            - button "Necesaria" [ref=e30]
+            - generic [ref=e31]: Siempre activas
+          - paragraph [ref=e33]: Las cookies necesarias son cruciales para las funciones básicas del sitio web y el sitio web no funcionará de la forma prevista sin ellas.Estas cookies no almacenan ningún dato de identificación personal.
+        - generic [ref=e36] [cursor=pointer]:
+          - generic [ref=e37]:
+            - button "Funcional" [ref=e38]
+            - checkbox "Permitir Funcional" [ref=e40]
+          - paragraph [ref=e42]: Las cookies funcionales ayudan a realizar ciertas funcionalidades, como compartir el contenido del sitio web en plataformas de redes sociales, recopilar comentarios y otras características de terceros.
+        - generic [ref=e45] [cursor=pointer]:
+          - generic [ref=e46]:
+            - button "Analítica" [ref=e47]
+            - checkbox "Permitir Analítica" [ref=e49]
+          - paragraph [ref=e51]: Las cookies analíticas se utilizan para comprender cómo interactúan los visitantes con el sitio web. Estas cookies ayudan a proporcionar información sobre métricas el número de visitantes, el porcentaje de rebote, la fuente de tráfico, etc.
+        - generic [ref=e54] [cursor=pointer]:
+          - generic [ref=e55]:
+            - button "El rendimiento" [ref=e56]
+            - checkbox "Permitir El rendimiento" [ref=e58]
+          - paragraph [ref=e60]: Las cookies de rendimiento se utilizan para comprender y analizar los índices de rendimiento clave del sitio web, lo que ayuda a proporcionar una mejor experiencia de usuario para los visitantes.
+        - generic [ref=e63] [cursor=pointer]:
+          - generic [ref=e64]:
+            - button "Anuncio" [ref=e65]
+            - checkbox "Permitir Anuncio" [ref=e67]
+          - paragraph [ref=e69]: Las cookies publicitarias se utilizan para entregar a los visitantes anuncios personalizados basados en las páginas que visitaron antes y analizar la efectividad de la campaña publicitaria.
+        - generic [ref=e72] [cursor=pointer]:
+          - button "Sin categorizar" [ref=e74]
+          - paragraph [ref=e76]: Otras cookies no categorizadas son las que se están analizando y aún no se han clasificado en una categoría.
+    - generic [ref=e77]:
+      - generic [ref=e79]:
+        - button "Rechazar todo" [ref=e80] [cursor=pointer]
+        - button "Guardar mis preferencias" [ref=e81] [cursor=pointer]
+        - button "Aceptar todo" [ref=e82] [cursor=pointer]
+      - generic [ref=e83]:
+        - text: Powered by
+        - link "Cookieyes logo" [ref=e84] [cursor=pointer]:
+          - /url: https://www.cookieyes.com/product/cookie-consent/?ref=cypbcyb&utm_source=cookie-banner&utm_medium=powered-by-cookieyes
+          - img "Cookieyes logo" [ref=e85]
+  - banner [ref=e86]:
+    - 'link "Logotipo de CEI: Centro de Estudios de Innovación en versión larga CEI" [active] [ref=e88] [cursor=pointer]':
+      - /url: https://cei.es
+      - 'img "Logotipo de CEI: Centro de Estudios de Innovación en versión larga" [ref=e89]'
+      - img "CEI" [ref=e90]
+    - generic [ref=e91]:
+      - generic: Diseña tu futuro
+    - button "Menu Cerrar" [ref=e92] [cursor=pointer]:
+      - text: Menu
+      - generic [ref=e93]: Cerrar
+    - navigation:
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Estudios por áreas":
+                - /url: "#"
+                - text: Estudios por áreas
+              - list:
+                - listitem:
+                  - link "Diseño gráfico y dirección de arte":
+                    - /url: https://cei.es/cursos-diseno-grafico/
+                - listitem:
+                  - link "Desarrollo y programación web":
+                    - /url: https://cei.es/cursos-diseno-web/
+                - listitem:
+                  - link "Post/producción audiovisual":
+                    - /url: https://cei.es/cursos-video-vfx-motion-graphics/
+                - listitem:
+                  - link "Marketing digital & Business":
+                    - /url: https://cei.es/cursos-marketing-digital/
+                - listitem:
+                  - link "Interiores y arquitectura BIM":
+                    - /url: https://cei.es/cursos-diseno-interiores-arquitectura/
+                - listitem:
+                  - link "Diseño y Desarrollo de Videojuegos":
+                    - /url: https://cei.es/cursos-videojuegos/
+                - listitem:
+                  - link "Tecnologías Emergentes (TechEmerge)":
+                    - /url: https://cei.es/tecnologias-emergentes/
+            - listitem:
+              - link "Estudios por tipo":
+                - /url: "#"
+                - text: Estudios por tipo
+              - list:
+                - listitem:
+                  - link "Cursos intensivos":
+                    - /url: https://cei.es/cursos-intensivos/
+                - listitem:
+                  - link "Estudios universitarios":
+                    - /url: https://cei.es/titulaciones-universitarias/
+                - listitem:
+                  - link "Grados superiores de FP":
+                    - /url: https://cei.es/fp-grado-superior/
+                - listitem:
+                  - link "Estudios en fin de semana":
+                    - /url: https://cei.es/estudios-fin-de-semana/
+                - listitem:
+                  - link "Estudios online (en directo)":
+                    - /url: https://cei.es/estudios-online/
+                - listitem:
+                  - link "A tu medida":
+                    - /url: https://cei.es/disena-tu-futuro/
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Formación para empresas":
+                - /url: "#"
+                - text: Formación para empresas
+              - list:
+                - listitem:
+                  - link "Formación para empresas":
+                    - /url: https://cei.es/formacion-para-empresas/
+                - listitem:
+                  - link "Formación bonificada (FUNDAE)":
+                    - /url: https://cei.es/fundacion-estatal-para-la-formacion-en-el-empleo/
+            - listitem:
+              - link "Conócenos":
+                - /url: "#"
+                - text: Conócenos
+              - list:
+                - listitem:
+                  - link "Sobre nosotros":
+                    - /url: https://cei.es/centro-formacion/
+                - listitem:
+                  - link "Sedes e instalaciones":
+                    - /url: https://cei.es/campus/
+                - listitem:
+                  - link "Profesorado":
+                    - /url: https://cei.es/profesorado/
+                - listitem:
+                  - link "Nuestro método":
+                    - /url: https://cei.es/nuestro-metodo/
+                - listitem:
+                  - link "Alumnos internacionales":
+                    - /url: https://cei.es/alumnos-extranjeros/
+                - listitem:
+                  - link "Preguntas frecuentes":
+                    - /url: https://cei.es/mas-informacion/
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Certificaciones":
+                - /url: "#"
+                - text: Certificaciones
+              - list:
+                - listitem:
+                  - link "Centro de formación oficial":
+                    - /url: https://cei.es/certificaciones/
+            - listitem:
+              - link "Repetición gratuita":
+                - /url: "#"
+                - text: Repetición gratuita
+              - list:
+                - listitem:
+                  - link "Enseñanza garantizada":
+                    - /url: https://cei.es/repeticion-gratuita-estudios/
+            - listitem:
+              - link "Empleo":
+                - /url: "#"
+                - text: Empleo
+              - list:
+                - listitem:
+                  - link "Bolsa de trabajo y prácticas para alumnos":
+                    - /url: https://cei.es/bolsa-de-trabajo/
+                - listitem:
+                  - link "Acceso de empresas a bolsa de empleo":
+                    - /url: https://cei.jobteaser.com/fr/recruiter_account/job_offers
+                - listitem:
+                  - link "Garantía laboral por escrito.":
+                    - /url: https://cei.es/garantia-laboral/
+            - listitem:
+              - link "CEI Alumnos":
+                - /url: "#"
+                - text: CEI Alumnos
+              - list:
+                - listitem:
+                  - link "Campus virtual":
+                    - /url: https://alumnos.cei.es/
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Garantía laboral":
+                - /url: https://cei.es/garantia-laboral/
+                - text: Garantía laboral
+              - list:
+                - listitem:
+                  - link "Garantizada por escrito":
+                    - /url: https://cei.es/garantia-laboral/
+            - listitem:
+              - link "Mantente informado":
+                - /url: https://cei.es/category/blog/
+                - text: Mantente informado
+              - list:
+                - listitem:
+                  - link "Blog":
+                    - /url: https://cei.es/categoria/blog/
+                - listitem:
+                  - link "Noticias":
+                    - /url: https://cei.es/categoria/blog/noticias/
+            - listitem:
+              - link "Contacto":
+                - /url: https://cei.es/contacto/
+                - text: Contacto
+              - list:
+                - listitem:
+                  - link "Formulario de información general":
+                    - /url: https://cei.es/contacto/
+                - listitem:
+                  - link "Cita de asesoramiento":
+                    - /url: https://escuelacei.zohobookings.eu/#/cei
+                - listitem:
+                  - link "Clase demo gratuita":
+                    - /url: https://cei.es/clase-gratuita/
+                - listitem:
+                  - link "Información telefónica y presencial":
+                    - /url: https://cei.es/informacion-telefonica-presencial/
+  - generic [ref=e98]:
+    - 'heading "CEI: Página no encontrada" [level=1] [ref=e99]'
+    - paragraph [ref=e100]: No hemos entrado la página que estás buscando. 😢
+  - contentinfo [ref=e101]:
+    - generic [ref=e102]:
+      - generic [ref=e103]:
+        - list [ref=e104]:
+          - listitem [ref=e105] [cursor=pointer]: Madrid
+          - listitem [ref=e106] [cursor=pointer]: Sevilla
+          - listitem [ref=e107] [cursor=pointer]: Valencia
+          - listitem [ref=e108] [cursor=pointer]: Online
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - link "madrid@cei.es" [ref=e111] [cursor=pointer]:
+              - /url: mailto:madrid@cei.es
+            - link "Rodríguez San Pedro, 2" [ref=e112] [cursor=pointer]:
+              - /url: https://cei.es/campus-madrid/
+            - link "+34 91 292 26 13" [ref=e113] [cursor=pointer]:
+              - /url: tel:+34 91 292 26 13
+          - generic:
+            - link "sevilla@cei.es":
+              - /url: mailto:sevilla@cei.es
+            - link "Conde de Cifuentes, 4":
+              - /url: https://cei.es/campus-sevilla/
+            - link "+34 95 499 15 58":
+              - /url: tel:+34 95 499 15 58
+          - generic:
+            - link "valencia@cei.es":
+              - /url: mailto:valencia@cei.es
+            - link "Av. Primado Reig, 189":
+              - /url: https://cei.es/campus-valencia/
+            - link "+34 96 007 77 13":
+              - /url: tel:+34 96 007 77 13
+          - generic:
+            - link "info@cei.es":
+              - /url: mailto:info@cei.es
+            - link "+34 91 292 26 13":
+              - /url: tel:+34 91 292 26 13
+        - list [ref=e114]:
+          - listitem [ref=e115]:
+            - link "Instagram" [ref=e116] [cursor=pointer]:
+              - /url: https://www.instagram.com/escuelacei/
+          - listitem [ref=e117]:
+            - link "Facebook" [ref=e118] [cursor=pointer]:
+              - /url: https://www.facebook.com/escuelacei/
+          - listitem [ref=e119]:
+            - link "Linkedin" [ref=e120] [cursor=pointer]:
+              - /url: https://www.linkedin.com/school/cei-centro-estudios-innovacion
+          - listitem [ref=e121]:
+            - link "Youtube" [ref=e122] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCFZq_CyVkQxD5oxYGBoLVsw/videos
+          - listitem [ref=e123]:
+            - link "Tiktok" [ref=e124] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@escuelacei?lang=es
+      - generic [ref=e125]:
+        - generic [ref=e126]:
+          - paragraph [ref=e127]:
+            - link "Entidades colaboradoras:" [ref=e128] [cursor=pointer]:
+              - /url: https://cei.es/certificaciones/
+              - generic [ref=e129]: Entidades
+              - generic [ref=e130]: "colaboradoras:"
+          - generic [ref=e132]:
+            - img "estudios oficiales autodesk" [ref=e134]
+            - img "UA 3" [ref=e137]
+            - img "Doctrina Qualitas" [ref=e140]
+            - img "Certificación Generación D" [ref=e142]
+            - img "Certificación Madrid Excelente" [ref=e144]
+            - img "centro colaborador IBM" [ref=e146]
+            - generic [ref=e147]:
+              - img "estudios oficiales apple"
+            - generic [ref=e148]:
+              - img "estudios oficiales autodesk"
+            - generic [ref=e149]:
+              - img "estudios oficiales autodesk"
+            - generic [ref=e150]:
+              - img "escuela premios excelencia educativa"
+            - generic [ref=e151]:
+              - generic:
+                - img "estudios oficiales microsoft"
+            - generic [ref=e152]:
+              - generic:
+                - img "cisco networking certification"
+            - generic [ref=e153]:
+              - generic:
+                - img "google partner certification"
+            - generic [ref=e154]:
+              - generic:
+                - img "maxon training oficial"
+            - generic [ref=e155]:
+              - generic:
+                - img "unity authorized training partner"
+            - img "estudios oficiales autodesk" [ref=e157]
+        - generic [ref=e158]:
+          - paragraph [ref=e159]:
+            - generic [ref=e160]: Centros
+            - generic [ref=e161]: "colaboradores:"
+          - generic [ref=e163]:
+            - link "universidad-udima" [ref=e165] [cursor=pointer]:
+              - /url: https://cei.es/titulaciones-universitarias-informacion/
+              - img "universidad-udima" [ref=e166]
+            - link "Sabal University" [ref=e168] [cursor=pointer]:
+              - /url: https://cei.es/informacion-diplomas-sabal/
+              - img "Sabal University" [ref=e170]
+      - generic [ref=e171]: "[sibwp_form id=1]"
+  - generic [ref=e173]:
+    - list [ref=e174]:
+      - listitem [ref=e175]:
+        - paragraph [ref=e176]: 1991 - 2026 CEI ®
+      - listitem [ref=e177]:
+        - paragraph [ref=e178]: TODOS LOS DERECHOS RESERVADOS
+      - listitem [ref=e179]:
+        - link "TÉRMINOS LEGALES" [ref=e180] [cursor=pointer]:
+          - /url: https://cei.es/terminos-legales/
+      - listitem [ref=e181]:
+        - link "TRABAJA CON NOSOTROS" [ref=e182] [cursor=pointer]:
+          - /url: https://zrec.eu/HNqbN
+    - generic [ref=e183]:
+      - separator [ref=e184]
+      - paragraph [ref=e185]: Omnes Education es una institución privada de educación superior e investigación multidisciplinar que ofrece programas educativos en los campos de la gestión, la ingeniería, la comunicación y los medios digitales y las ciencias políticas. Sus campus se encuentran en Abiyán, Barcelona, Beaune, Burdeos, Chambéry, Ginebra, Londres, Lyon, Madrid, Mónaco, Múnich, París, Rennes, San Francisco, Sevilla y Valencia, repartidos entre 14 escuelas y universidades diferentes. Con más de 40.000 estudiantes cada año y más de 200.000 antiguos alumnos, Omnes ocupa un lugar único en el panorama educativo internacional.
+      - link "OMNES Education" [ref=e186] [cursor=pointer]:
+        - /url: https://www.omneseducation.com/nos-etablissements/nos-ecoles/cei/
+        - img "OMNES Education" [ref=e187]
+  - button " ×" [ref=e188] [cursor=pointer]:
+    - generic [ref=e189]: 
+    - generic: ×

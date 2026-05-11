@@ -1,0 +1,499 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "SIGLAS Instituto Nacional de Estadística" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "SIGLAS Instituto Nacional de Estadística" [ref=e7]
+      - generic [ref=e8]:
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - button "English" [ref=e13] [cursor=pointer]
+        - generic [ref=e15]:
+          - searchbox "Escriba el texto para buscar" [ref=e16]
+          - button "Acción de buscar en el sitio web" [ref=e17] [cursor=pointer]: 
+  - navigation "Menú Principal" [ref=e18]:
+    - generic [ref=e19]:
+      - link "Mostrar/ocultar el menú principal de navegación" [ref=e21] [cursor=pointer]:
+        - /url: /indiceweb.htm
+        - generic: 
+      - list [ref=e22]:
+        - listitem [ref=e23]:
+          - button "Censo Electoral" [ref=e24] [cursor=pointer]
+        - listitem [ref=e25]:
+          - button "Sede electrónica" [ref=e26] [cursor=pointer]
+        - listitem [ref=e27]:
+          - button "Compartir" [ref=e28] [cursor=pointer]:
+            - text: Compartir
+            - generic [ref=e29]: 
+          - text:      
+  - main [ref=e30]:
+    - generic [ref=e31]:
+      - navigation "Miga de pan" [ref=e34]:
+        - list [ref=e35]:
+          - listitem [ref=e36]:
+            - link "INEbase" [ref=e37] [cursor=pointer]:
+              - /url: /dyngs/INEbase/listaoperaciones.htm
+          - listitem [ref=e38]:
+            - text: /
+            - link "Mercado laboral" [ref=e39] [cursor=pointer]:
+              - /url: /dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254735976594
+          - listitem [ref=e40]:
+            - text: /
+            - heading "Actividad, ocupación y paro" [level=1] [ref=e41]
+      - link "Inicio INEbase" [ref=e42] [cursor=pointer]:
+        - /url: /dyngs/INEbase/listaoperaciones.htm
+        - img "Inicio INEbase" [ref=e43]
+    - generic [ref=e44]:
+      - generic [ref=e45]:
+        - link:
+          - /url: "#"
+        - list [ref=e46]:
+          - listitem [ref=e47]:
+            - link "Operaciones estadísticas por orden alfabético" [ref=e48] [cursor=pointer]:
+              - /url: /dyngs/INEbase/indiceAZ.htm
+          - listitem [ref=e49]:
+            - link "Lista completa de operaciones" [ref=e50] [cursor=pointer]:
+              - /url: /dyngs/INEbase/listaoperaciones.htm
+          - listitem [ref=e51]:
+            - link "Agricultura y medio ambiente" [ref=e52] [cursor=pointer]:
+              - /url: /dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254735570567
+          - listitem [ref=e53]:
+            - link "Ciencia y tecnología" [ref=e54] [cursor=pointer]:
+              - /url: /dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254735976151
+          - listitem [ref=e55]:
+            - link "Demografía y población" [ref=e56] [cursor=pointer]:
+              - /url: /dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254734710984
+          - listitem [ref=e57]:
+            - link "Economía" [ref=e58] [cursor=pointer]:
+              - /url: /dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254735570541
+          - listitem [ref=e59]:
+            - link "Industria, energía y construcción" [ref=e60] [cursor=pointer]:
+              - /url: /dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254735570688
+          - listitem [ref=e61]: Mercado laboral
+          - listitem [ref=e62]:
+            - link "Nivel y condiciones de vida (IPC)" [ref=e63] [cursor=pointer]:
+              - /url: /dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254735976604
+          - listitem [ref=e64]:
+            - link "Servicios" [ref=e65] [cursor=pointer]:
+              - /url: /dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254735570703
+          - listitem [ref=e66]:
+            - link "Sociedad" [ref=e67] [cursor=pointer]:
+              - /url: /dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254735971047
+          - listitem [ref=e68]:
+            - link "Estadísticas Experimentales" [ref=e69] [cursor=pointer]:
+              - /url: /experimental/experimental.htm
+          - listitem [ref=e70]:
+            - link "Covid-19" [ref=e71] [cursor=pointer]:
+              - /url: /covid/covid_inicio.htm
+          - listitem [ref=e72]:
+            - link "Síntesis estadística" [ref=e73] [cursor=pointer]:
+              - /url: /dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254735570837
+          - listitem [ref=e74]:
+            - link "Clasificaciones estadísticas" [ref=e75] [cursor=pointer]:
+              - /url: /dyngs/INEbase/categoria.htm?c=Estadistica_P&cid=1254735976613
+          - listitem [ref=e76]:
+            - link "Estadísticas territoriales" [ref=e77] [cursor=pointer]:
+              - /url: /dynInfo/Infografia/Territoriales/index.html
+          - listitem [ref=e78]:
+            - link "Información estadística europea" [ref=e79] [cursor=pointer]:
+              - /url: /dyngs/INE/es/index.htm?cid=545
+          - listitem [ref=e80]:
+            - link "ODS. Indicadores Agenda 2030" [ref=e81] [cursor=pointer]:
+              - /url: /dyngs/ODS/es/index.htm
+          - listitem [ref=e82]:
+            - link "Indicadores económicos. FMI" [ref=e83] [cursor=pointer]:
+              - /url: /dynt3/FMI/
+          - listitem [ref=e84]:
+            - link "Datos de alto valor. HVD" [ref=e85] [cursor=pointer]:
+              - /url: /HVD/
+          - listitem [ref=e86]:
+            - link "Inventario de Operaciones Estadísticas (IOE)" [ref=e87] [cursor=pointer]:
+              - /url: /dyngs/IOE/index.htm
+      - generic [ref=e88]:
+        - heading "Mercado laboral" [level=2] [ref=e89]
+        - list [ref=e90]:
+          - listitem [ref=e91]:
+            - generic [ref=e92] [cursor=pointer]:  Actividad, ocupación y paro
+            - list [ref=e93]:
+              - listitem [ref=e94]:
+                - list [ref=e95]:
+                  - listitem [ref=e96]:
+                    - table "Operaciones estadísticas que el INE elabora de forma periódica - Actividad, ocupación y paro" [ref=e97]:
+                      - rowgroup [ref=e98]:
+                        - row "Operaciones estadísticas que el INE elabora de forma periódica Últimos datos" [ref=e99]:
+                          - columnheader "Operaciones estadísticas que el INE elabora de forma periódica" [ref=e100]
+                          - columnheader "Últimos datos" [ref=e101]
+                      - rowgroup [ref=e102]:
+                        - row "Encuesta de población activa Trimestre 1/2026" [ref=e103]:
+                          - rowheader "Encuesta de población activa" [ref=e104]:
+                            - link "Encuesta de población activa" [ref=e105] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=ultiDatos&idp=1254735976595
+                          - cell "Trimestre 1/2026" [ref=e106]
+                        - row "Estadística de flujos de la población activa Trimestre 1/2026" [ref=e107]:
+                          - rowheader "Estadística de flujos de la población activa" [ref=e108]:
+                            - link "Estadística de flujos de la población activa" [ref=e109] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176907&menu=ultiDatos&idp=1254735976595
+                          - cell "Trimestre 1/2026" [ref=e110]
+                  - listitem [ref=e111]:
+                    - table "Operaciones estadísticas sin periodicidad establecida o que el INE ha dejado de elaborar - Actividad, ocupación y paro" [ref=e112]:
+                      - rowgroup [ref=e113]:
+                        - row "Operaciones estadísticas sin periodicidad establecida o que el INE ha dejado de elaborar Últimos datos" [ref=e114]:
+                          - columnheader "Operaciones estadísticas sin periodicidad establecida o que el INE ha dejado de elaborar" [ref=e115]
+                          - columnheader "Últimos datos" [ref=e116]
+                      - rowgroup [ref=e117]:
+                        - row "Proyecciones de tasas de actividad Serie 2016-2029" [ref=e118]:
+                          - rowheader "Proyecciones de tasas de actividad" [ref=e119]:
+                            - link "Proyecciones de tasas de actividad" [ref=e120] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176908&menu=resultados&idp=1254735976595
+                          - cell "Serie 2016-2029" [ref=e121]
+                        - row "Encuesta sobre el tiempo de trabajo Año 2000" [ref=e122]:
+                          - rowheader "Encuesta sobre el tiempo de trabajo" [ref=e123]:
+                            - link "Encuesta sobre el tiempo de trabajo" [ref=e124] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176829&menu=resultados&idp=1254735976595
+                          - cell "Año 2000" [ref=e125]
+                  - listitem [ref=e126]:
+                    - generic [ref=e127]: Operaciones elaboradas por otros organismos del sistema estadistico nacional
+                    - list [ref=e128]:
+                      - listitem [ref=e129]:
+                        - link "Estadística de Empleo Turístico según la EPA. (Explotación de Turespaña)" [ref=e130] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=16030
+                      - listitem [ref=e131]:
+                        - link "Estadística de Empleo Turístico según la Afiliación a la Seguridad Social. (Explotación de Turespaña)" [ref=e132] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=16031
+                      - listitem [ref=e133]:
+                        - link "Efectivos de Personal al Servicio del Sector Público Estatal" [ref=e134] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=31121
+                      - listitem [ref=e135]:
+                        - link "Estadística de Ventas, Empleo y Salarios en las Grandes Empresas" [ref=e136] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=32028
+                      - listitem [ref=e137]:
+                        - link "Estadística del Movimiento Laboral Registrado" [ref=e138] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=59021
+                      - listitem [ref=e139]:
+                        - link "Estadística de Personas Trabajadoras por Cuenta Propia Afiliadas a la Seguridad Social" [ref=e140] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=59003
+                      - listitem [ref=e141]:
+                        - link "Estadística del Personal al Servicio de las Administraciones Públicas" [ref=e142] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=80024
+                      - listitem [ref=e143]:
+                        - link "Estadística de Autorizaciones de Trabajo a Extranjeros" [ref=e144] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58002
+                      - listitem [ref=e145]:
+                        - link "Estadística de Afiliación de Trabajadores a la Seguridad Social" [ref=e146] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58015
+          - listitem [ref=e147]:
+            - generic [ref=e148] [cursor=pointer]:  Salarios y costes laborales
+            - list [ref=e149]:
+              - listitem [ref=e150]:
+                - list [ref=e151]:
+                  - listitem [ref=e152]:
+                    - table "Operaciones estadísticas que el INE elabora de forma periódica - Salarios y costes laborales" [ref=e153]:
+                      - rowgroup [ref=e154]:
+                        - row "Operaciones estadísticas que el INE elabora de forma periódica Últimos datos" [ref=e155]:
+                          - columnheader "Operaciones estadísticas que el INE elabora de forma periódica" [ref=e156]
+                          - columnheader "Últimos datos" [ref=e157]
+                      - rowgroup [ref=e158]:
+                        - row "Encuesta trimestral de coste laboral Trimestre 4/2025" [ref=e159]:
+                          - rowheader "Encuesta trimestral de coste laboral" [ref=e160]:
+                            - link "Encuesta trimestral de coste laboral" [ref=e161] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736045053&menu=ultiDatos&idp=1254735976596
+                          - cell "Trimestre 4/2025" [ref=e162]
+                        - row "Índice de coste laboral armonizado Trimestre 4/2025" [ref=e163]:
+                          - rowheader "Índice de coste laboral armonizado" [ref=e164]:
+                            - link "Índice de coste laboral armonizado" [ref=e165] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736053992&menu=ultiDatos&idp=1254735976596
+                          - cell "Trimestre 4/2025" [ref=e166]
+                        - row "Índice de precios del trabajo Año 2023" [ref=e167]:
+                          - rowheader "Índice de precios del trabajo" [ref=e168]:
+                            - link "Índice de precios del trabajo" [ref=e169] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177027&menu=ultiDatos&idp=1254735976596
+                          - cell "Año 2023" [ref=e170]
+                        - row "Encuesta anual de coste laboral Año 2024" [ref=e171]:
+                          - rowheader "Encuesta anual de coste laboral" [ref=e172]:
+                            - link "Encuesta anual de coste laboral" [ref=e173] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736060920&menu=ultiDatos&idp=1254735976596
+                          - cell "Año 2024" [ref=e174]
+                        - row "Encuestas de estructura salarial Año 2023" [ref=e175]:
+                          - rowheader "Encuestas de estructura salarial" [ref=e176]:
+                            - link "Encuestas de estructura salarial" [ref=e177] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177025&menu=ultiDatos&idp=1254735976596
+                          - cell "Año 2023" [ref=e178]
+                  - listitem [ref=e179]:
+                    - table "Operaciones estadísticas sin periodicidad establecida o que el INE ha dejado de elaborar - Salarios y costes laborales" [ref=e180]:
+                      - rowgroup [ref=e181]:
+                        - row "Operaciones estadísticas sin periodicidad establecida o que el INE ha dejado de elaborar Últimos datos" [ref=e182]:
+                          - columnheader "Operaciones estadísticas sin periodicidad establecida o que el INE ha dejado de elaborar" [ref=e183]
+                          - columnheader "Últimos datos" [ref=e184]
+                      - rowgroup [ref=e185]:
+                        - row "Encuesta de salarios en la industria y los servicios Trimestre 4/2000" [ref=e186]:
+                          - rowheader "Encuesta de salarios en la industria y los servicios" [ref=e187]:
+                            - link "Encuesta de salarios en la industria y los servicios" [ref=e188] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176831&menu=resultados&idp=1254735976596
+                          - cell "Trimestre 4/2000" [ref=e189]
+                  - listitem [ref=e190]:
+                    - generic [ref=e191]: Operaciones elaboradas por otros organismos del sistema estadistico nacional
+                    - list [ref=e192]:
+                      - listitem [ref=e193]:
+                        - link "Estadística de Ventas, Empleo y Salarios en las Grandes Empresas" [ref=e194] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=32028
+                      - listitem [ref=e195]:
+                        - link "Índices y Salarios Agrarios Trimestrales y Anuales" [ref=e196] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=01048
+          - listitem [ref=e197]:
+            - generic [ref=e198] [cursor=pointer]:  Discapacidad y mercado laboral
+            - list [ref=e199]:
+              - listitem [ref=e200]:
+                - list [ref=e201]:
+                  - listitem [ref=e202]:
+                    - table "Operaciones estadísticas que el INE elabora de forma periódica - Discapacidad y mercado laboral" [ref=e203]:
+                      - rowgroup [ref=e204]:
+                        - row "Operaciones estadísticas que el INE elabora de forma periódica Últimos datos" [ref=e205]:
+                          - columnheader "Operaciones estadísticas que el INE elabora de forma periódica" [ref=e206]
+                          - columnheader "Últimos datos" [ref=e207]
+                      - rowgroup [ref=e208]:
+                        - row "El empleo de las personas con discapacidad Año 2024" [ref=e209]:
+                          - rowheader "El empleo de las personas con discapacidad" [ref=e210]:
+                            - link "El empleo de las personas con discapacidad" [ref=e211] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736055502&menu=ultiDatos&idp=1254735976621
+                          - cell "Año 2024" [ref=e212]
+                        - row "El salario de las personas con discapacidad Año 2023" [ref=e213]:
+                          - rowheader "El salario de las personas con discapacidad" [ref=e214]:
+                            - link "El salario de las personas con discapacidad" [ref=e215] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176911&menu=ultiDatos&idp=1254735976621
+                          - cell "Año 2023" [ref=e216]
+                        - row "La vida laboral de las personas con discapacidad Año 2023" [ref=e217]:
+                          - rowheader "La vida laboral de las personas con discapacidad" [ref=e218]:
+                            - link "La vida laboral de las personas con discapacidad" [ref=e219] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177069&menu=ultiDatos&idp=1254735976621
+                          - cell "Año 2023" [ref=e220]
+          - listitem [ref=e221]:
+            - generic [ref=e222] [cursor=pointer]:  Otras operaciones de mercado laboral
+            - list [ref=e223]:
+              - listitem [ref=e224]:
+                - list [ref=e225]:
+                  - listitem [ref=e226]:
+                    - table "Operaciones estadísticas que el INE elabora de forma periódica - Otras operaciones de mercado laboral" [ref=e227]:
+                      - rowgroup [ref=e228]:
+                        - row "Operaciones estadísticas que el INE elabora de forma periódica Últimos datos" [ref=e229]:
+                          - columnheader "Operaciones estadísticas que el INE elabora de forma periódica" [ref=e230]
+                          - columnheader "Últimos datos" [ref=e231]
+                      - rowgroup [ref=e232]:
+                        - row "Encuesta de inserción laboral de titulados universitarios Año 2019" [ref=e233]:
+                          - rowheader "Encuesta de inserción laboral de titulados universitarios" [ref=e234]:
+                            - link "Encuesta de inserción laboral de titulados universitarios" [ref=e235] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176991&menu=ultiDatos&idp=1254735976597
+                          - cell "Año 2019" [ref=e236]
+                        - row "Encuesta de transición educativa-formativa e inserción laboral Año 2019" [ref=e237]:
+                          - rowheader "Encuesta de transición educativa-formativa e inserción laboral" [ref=e238]:
+                            - link "Encuesta de transición educativa-formativa e inserción laboral" [ref=e239] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736056996&menu=ultiDatos&idp=1254735976597
+                          - cell "Año 2019" [ref=e240]
+                  - listitem [ref=e241]:
+                    - table "Operaciones estadísticas sin periodicidad establecida o que el INE ha dejado de elaborar - Otras operaciones de mercado laboral" [ref=e242]:
+                      - rowgroup [ref=e243]:
+                        - row "Operaciones estadísticas sin periodicidad establecida o que el INE ha dejado de elaborar Últimos datos" [ref=e244]:
+                          - columnheader "Operaciones estadísticas sin periodicidad establecida o que el INE ha dejado de elaborar" [ref=e245]
+                          - columnheader "Últimos datos" [ref=e246]
+                      - rowgroup [ref=e247]:
+                        - row "Estadística de movilidad laboral y geográfica Año 2023" [ref=e248]:
+                          - rowheader "Estadística de movilidad laboral y geográfica" [ref=e249]:
+                            - link "Estadística de movilidad laboral y geográfica" [ref=e250] [cursor=pointer]:
+                              - /url: /dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176909&menu=ultiDatos&idp=1254735976597
+                          - cell "Año 2023" [ref=e251]
+                  - listitem [ref=e252]:
+                    - generic [ref=e253]: Operaciones elaboradas por otros organismos del sistema estadistico nacional
+                    - list [ref=e254]:
+                      - listitem [ref=e255]:
+                        - link "Estadística de Accidentes de Carácter Militar en las Fuerzas Armadas" [ref=e256] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=76022
+                      - listitem [ref=e257]:
+                        - link "Estadística de Movilidad del Mercado de Trabajo en las Fuentes Tributarias" [ref=e258] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=32067
+                      - listitem [ref=e259]:
+                        - link "Estadística del Mercado de Trabajo y Pensiones en las Fuentes Tributarias" [ref=e260] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=31062
+                      - listitem [ref=e261]:
+                        - link "Estadística de Cooperativas Constituidas" [ref=e262] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58003
+                      - listitem [ref=e263]:
+                        - link "Estadística de Regulación de Empleo" [ref=e264] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58006
+                      - listitem [ref=e265]:
+                        - link "Estadística de Apoyo a la Creación de Empleo" [ref=e266] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58007
+                      - listitem [ref=e267]:
+                        - link "Estadística de Accidentes de Trabajo" [ref=e268] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58012
+                      - listitem [ref=e269]:
+                        - link "Estadística de Prestaciones por Desempleo" [ref=e270] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58021
+                      - listitem [ref=e271]:
+                        - link "Estadística de Empresas Inscritas en la Seguridad Social" [ref=e272] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58028
+                      - listitem [ref=e273]:
+                        - link "Encuesta de Calidad de Vida en el Trabajo" [ref=e274] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58029
+                      - listitem [ref=e275]:
+                        - link "Encuesta de Formación Profesional para el Empleo en Empresas" [ref=e276] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58030
+                      - listitem [ref=e277]:
+                        - link "Estadística del Sistema de Formación en el Trabajo y Formación Programada por las Empresas para sus Trabajadores" [ref=e278] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=59022
+                      - listitem [ref=e279]:
+                        - link "Estadística de Sociedades Laborales Registradas" [ref=e280] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58004
+                      - listitem [ref=e281]:
+                        - link "Estadística de Mediación, Arbitraje y Conciliación Laboral" [ref=e282] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58008
+                      - listitem [ref=e283]:
+                        - link "Estadística de Asuntos Judiciales Sociales" [ref=e284] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58009
+                      - listitem [ref=e285]:
+                        - link "Estadística de Convenios Colectivos de Trabajo" [ref=e286] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58010
+                      - listitem [ref=e287]:
+                        - link "Estadística de Huelgas y Cierres Patronales" [ref=e288] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58011
+                      - listitem [ref=e289]:
+                        - link "Encuesta Comunitaria de Formación Profesional Continua" [ref=e290] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58014
+                      - listitem [ref=e291]:
+                        - link "Estadística de Ayudas a Trabajadores Afectados por Procesos de Reestructuración de Empresas" [ref=e292] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58020
+                      - listitem [ref=e293]:
+                        - link "Estadística de Empresas de Trabajo Temporal" [ref=e294] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=58026
+                      - listitem [ref=e295]:
+                        - link "Estadística del Fondo Social Europeo" [ref=e296] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=59001
+                      - listitem [ref=e297]:
+                        - link "Estadística de Entidades de Economía Social Inscritas en la Seguridad Social" [ref=e298] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=59002
+                      - listitem [ref=e299]:
+                        - link "Estadística de Enfermedades Profesionales" [ref=e300] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=63013
+                      - listitem [ref=e301]:
+                        - link "Estadística de Políticas de Mercado de Trabajo" [ref=e302] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=63014
+                      - listitem [ref=e303]:
+                        - link "Encuesta Nacional de Condiciones de Trabajo" [ref=e304] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=64050
+                      - listitem [ref=e305]:
+                        - link "Muestra Continua de Vidas Laborales" [ref=e306] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=64051
+                      - listitem [ref=e307]:
+                        - link "Estadística de Incapacidad Temporal" [ref=e308] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=64052
+                      - listitem [ref=e309]:
+                        - link "Encuesta de Gestión Preventiva en las Empresas" [ref=e310] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=64054
+                      - listitem [ref=e311]:
+                        - 'link "Explotación de las Variables Educativas en la Encuesta de Población Activa: Nivel de Formación y Formación Permanente" [ref=e312] [cursor=pointer]':
+                          - /url: /dyngs/IOE/operacion.htm?numinv=41027
+                      - listitem [ref=e313]:
+                        - link "Estadística de Inversiones y Empleo Generados por los Incentivos Económicos Regionales" [ref=e314] [cursor=pointer]:
+                          - /url: /dyngs/IOE/operacion.htm?numinv=29101
+  - contentinfo [ref=e315]:
+    - generic [ref=e316]:
+      - list [ref=e318]:
+        - listitem [ref=e319]:
+          - link " Contacto" [ref=e320] [cursor=pointer]:
+            - /url: /infoine/
+            - generic [ref=e321]: 
+            - strong [ref=e322]: Contacto
+        - listitem [ref=e323]:
+          - link "Mapa web" [ref=e324] [cursor=pointer]:
+            - /url: /indiceweb.htm
+        - listitem [ref=e325]:
+          - link "Aviso legal" [ref=e326] [cursor=pointer]:
+            - /url: /dyngs/AYU/index.htm?cid=125
+        - listitem [ref=e327]:
+          - link "Accesibilidad" [ref=e328] [cursor=pointer]:
+            - /url: /dyngs/AYU/index.htm?cid=127
+        - listitem [ref=e329]:
+          - link "Prensa" [ref=e330] [cursor=pointer]:
+            - /url: /prensa/seccion_prensa.htm
+        - listitem [ref=e331]:
+          - link "Clasificaciones y estándares" [ref=e332] [cursor=pointer]:
+            - /url: /dyngs/MYP/index.htm?cid=1
+        - listitem [ref=e333]:
+          - link "Nuevos proyectos" [ref=e334] [cursor=pointer]:
+            - /url: /dyngs/MYP/index.htm?cid=10
+      - list [ref=e336]:
+        - listitem [ref=e337]:
+          - link "El INE" [ref=e338] [cursor=pointer]:
+            - /url: /dyngs/INE/index.htm?cid=498
+        - listitem [ref=e339]:
+          - link "Transparencia" [ref=e340] [cursor=pointer]:
+            - /url: /dyngs/INE/index.htm?cid=401
+        - listitem [ref=e341]:
+          - link "Organización Estadística en España" [ref=e342] [cursor=pointer]:
+            - /url: /dyngs/INE/index.htm?cid=581
+        - listitem [ref=e343]:
+          - link "Calidad" [ref=e344] [cursor=pointer]:
+            - /url: /dyngs/MYP/es/index.htm?cid=35
+        - listitem [ref=e345]:
+          - link "Sistema Estadístico Europeo" [ref=e346] [cursor=pointer]:
+            - /url: /dyngs/INE/index.htm?cid=542
+      - list [ref=e348]:
+        - listitem [ref=e349]:
+          - link "Formación y empleo" [ref=e350] [cursor=pointer]:
+            - /url: /dyngs/FYE/index.htm?cid=1791
+        - listitem [ref=e351]:
+          - link "Prácticas universitarias" [ref=e352] [cursor=pointer]:
+            - /url: /dyngs/FYE/es/index.htm?cid=1802
+        - listitem [ref=e353]:
+          - link "Becas" [ref=e354] [cursor=pointer]:
+            - /url: /dyngs/FYE/es/index.htm?cid=1802
+        - listitem [ref=e355]:
+          - link "Oposiciones" [ref=e356] [cursor=pointer]:
+            - /url: /dyngs/FYE/index.htm?cid=166
+        - listitem [ref=e357]:
+          - link "Explica" [ref=e358] [cursor=pointer]:
+            - /url: /explica/explica.htm
+      - list [ref=e360]:
+        - listitem [ref=e361]:
+          - link "Atención al público" [ref=e362] [cursor=pointer]:
+            - /url: /dyngs/SER/index.htm?cid=1550
+        - listitem [ref=e363]:
+          - link "Datos abiertos" [ref=e364] [cursor=pointer]:
+            - /url: /dyngs/DAB/es/index.htm?cid=1722
+        - listitem [ref=e365]:
+          - link "Catalogo de Publicaciones" [ref=e366] [cursor=pointer]:
+            - /url: /dyngs/PUB/index.htm?cid=1440
+            - text: Publicaciones
+        - listitem [ref=e367]:
+          - link "Carta de servicios" [ref=e368] [cursor=pointer]:
+            - /url: /dyngs/SER/index.htm?cid=1391
+      - list [ref=e370]:
+        - listitem [ref=e371]: Síguenos
+        - listitem [ref=e372]:
+          - link " X" [ref=e373] [cursor=pointer]:
+            - /url: https://twitter.com/es_ine
+        - listitem [ref=e374]:
+          - link " Youtube" [ref=e375] [cursor=pointer]:
+            - /url: https://www.youtube.com/INEDifusion
+        - listitem [ref=e376]:
+          - link " Instagram" [ref=e377] [cursor=pointer]:
+            - /url: https://www.instagram.com/es_ine_/
+        - listitem [ref=e378]:
+          - link " LinkedIn" [ref=e379] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/ine-es
+        - listitem [ref=e380]:
+          - link " Canal RSS" [ref=e381] [cursor=pointer]:
+            - /url: /dyngs/AYU/index.htm?cid=1303
+        - listitem [ref=e382]:
+          - link " GitHub" [ref=e383] [cursor=pointer]:
+            - /url: https://github.com/es-ine
+      - paragraph [ref=e385]:
+        - generic [ref=e386]:
+          - text: © 2026
+          - link "INE. Instituto Nacional de Estadística" [ref=e387] [cursor=pointer]:
+            - /url: https://www.ine.es/
+          - link " " [ref=e388] [cursor=pointer]:
+            - /url: https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1
+            - generic [ref=e389]: 
+            - generic [ref=e390]: 
+        - text: "Avda. Manoteras, 52 - 28050 - Madrid - España Tlf: (+34) 91 583 91 00"
+    - button "Botón para volver arriba" [ref=e391] [cursor=pointer]:
+      - generic [ref=e392]: 

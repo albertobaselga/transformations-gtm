@@ -1,0 +1,813 @@
+- generic [active] [ref=e1]:
+  - text:  
+  - link "Declaración de accesibilidad" [ref=e2] [cursor=pointer]:
+    - /url: https://www.domestika.org/es/accessibility
+  - generic [ref=e4]:
+    - 'link "03 h : 47 m : 23 s Este precio tiene las horas contadas... " [ref=e7] [cursor=pointer]':
+      - /url: https://www.domestika.org/courses
+      - generic [ref=e10]:
+        - generic [ref=e12]:
+          - generic [ref=e13]: "03"
+          - text: "h :"
+          - generic [ref=e14]: "47"
+          - text: "m :"
+          - generic [ref=e15]: "23"
+          - text: s
+        - generic [ref=e17]:
+          - strong [ref=e19]: Este precio tiene las horas contadas...
+          - generic [ref=e20]: 
+    - banner:
+      - navigation [ref=e21]:
+        - generic [ref=e22]:
+          - link "DOMESTIKA" [ref=e23] [cursor=pointer]:
+            - /url: https://www.domestika.org/es
+          - link "Ver navegación" [ref=e24] [cursor=pointer]:
+            - /url: "#js-navigation-main-mobile"
+            - generic [ref=e25]: Ver navegación
+            - generic [ref=e26]: 
+          - text:  
+          - generic [ref=e27]:
+            - list [ref=e29]:
+              - listitem [ref=e30]:
+                - generic [ref=e32]: 
+                - text:  
+            - text:   
+            - list [ref=e34]:
+              - listitem [ref=e35]:
+                - link "Carrito" [ref=e36] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/cart/checkout
+                  - generic [ref=e37]: 
+              - listitem [ref=e38]:
+                - link "Entrar" [ref=e39] [cursor=pointer]:
+                  - /url: https://www.domestika.org/auth/login?locale=es&scope=directory&from_modal=true
+    - main [ref=e40]:
+      - navigation [ref=e43]:
+        - list [ref=e44]:
+          - listitem [ref=e45]:
+            - link "Todas las ubicaciones" [ref=e46] [cursor=pointer]:
+              - /url: javascript:void(0);
+          - listitem [ref=e47]:
+            - link "Todos los tipos de oferta" [ref=e48] [cursor=pointer]:
+              - /url: javascript:void(0);
+          - listitem [ref=e49]:
+            - link "Todas las disciplinas" [ref=e50] [cursor=pointer]:
+              - /url: javascript:void(0);
+          - listitem [ref=e51]:
+            - link "Este mes" [ref=e52] [cursor=pointer]:
+              - /url: javascript:void(0);
+      - generic [ref=e53]:
+        - generic [ref=e54]:
+          - link " Publica una oferta" [ref=e55] [cursor=pointer]:
+            - /url: https://www.domestika.org/es/jobs/new
+            - generic: 
+            - generic: Publica una oferta
+          - link "Seguir a Domestika Empleo" [ref=e57] [cursor=pointer]:
+            - /url: https://twitter.com/domestikaempleo
+        - generic [ref=e58]:
+          - generic [ref=e59]:
+            - heading "Empleos" [level=1] [ref=e60]
+            - paragraph [ref=e61]: Publicados este mes
+          - list [ref=e63]:
+            - listitem [ref=e64]:
+              - generic [ref=e65]:
+                - generic [ref=e66]:
+                  - link "FORMA 4D / Forma Disseny" [ref=e67] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/88550-generalista-3d-junior-artist-archviz-barcelona-espana
+                    - img "FORMA 4D / Forma Disseny" [ref=e68]
+                  - heading "Generalista 3D Junior Artist – ArchViz" [level=2] [ref=e69]:
+                    - link "Generalista 3D Junior Artist – ArchViz" [ref=e70] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/88550-generalista-3d-junior-artist-archviz-barcelona-espana
+                  - heading "FORMA 4D / Forma Disseny" [level=3] [ref=e71]
+                  - paragraph [ref=e72]: En Forma 4D (Forma Disseny) damos vida a la arquitectura a través de imágenes que emocionan. Somos un estudio de CGI especializado en visualización...
+                - generic [ref=e74]: Tiempo completo
+                - generic [ref=e75]: Barcelona, España
+                - generic [ref=e76]: 16/04/26
+            - listitem [ref=e77]:
+              - generic [ref=e78]:
+                - generic [ref=e79]:
+                  - link "Alex Funez" [ref=e80] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111700-food-props-creacion-de-replicas-hiperrealistas-de-comida-en-remoto
+                    - img "Alex Funez" [ref=e81]
+                  - heading "Food props (Creación de réplicas hiperrealistas de comida)" [level=2] [ref=e82]:
+                    - link "Food props (Creación de réplicas hiperrealistas de comida)" [ref=e83] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111700-food-props-creacion-de-replicas-hiperrealistas-de-comida-en-remoto
+                  - heading "Alex Funez" [level=3] [ref=e84]
+                  - paragraph [ref=e85]: Hola! Estoy buscando a alguien que sepa hacer props o modelado para crear 4 réplicas hiperrealistas de bowls de comida. La idea es hacer piezas no...
+                - generic [ref=e87]: Freelance
+                - generic [ref=e88]: En remoto
+                - generic [ref=e89]: 16/04/26
+            - listitem [ref=e90]:
+              - generic [ref=e91]:
+                - generic [ref=e92]:
+                  - link "Cornelia" [ref=e93] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111715-disenador-grafico-en-remoto
+                    - img "Cornelia" [ref=e94]
+                  - heading "Diseñador@ gráfico" [level=2] [ref=e95]:
+                    - link "Diseñador@ gráfico" [ref=e96] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111715-disenador-grafico-en-remoto
+                  - heading "Cornelia" [level=3] [ref=e97]
+                  - paragraph [ref=e98]: Buscamos diseñador/a freelance para colaborar en proyectos de branding En Cornelia Brands estamos creciendo y buscamos incorporar a nuestra red un...
+                - generic [ref=e100]: Freelance
+                - generic [ref=e101]: En remoto
+                - generic [ref=e102]: 16/04/26
+            - generic [ref=e105]: 
+            - listitem [ref=e106]:
+              - generic [ref=e107]:
+                - generic [ref=e108]:
+                  - link "Laura" [ref=e109] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111689-disenador-a-3d-junior-para-espacios-comerciales-y-retail-en-remoto
+                    - img "Laura" [ref=e110]
+                  - heading "Diseñador/a 3D Junior para Espacios Comerciales y Retail" [level=2] [ref=e111]:
+                    - link "Diseñador/a 3D Junior para Espacios Comerciales y Retail" [ref=e112] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111689-disenador-a-3d-junior-para-espacios-comerciales-y-retail-en-remoto
+                  - heading "Doblemente Media" [level=3] [ref=e113]
+                  - paragraph [ref=e114]: En DOBLE queremos incorporar un/a Diseñador/a 3D Junior para trabajar en proyectos de decoración de espacios, mobiliario promocional y elementos de...
+                - generic [ref=e116]: Tiempo completo
+                - generic [ref=e117]: En remoto
+                - generic [ref=e118]: 15/04/26
+            - listitem [ref=e119]:
+              - generic [ref=e120]:
+                - generic [ref=e121]:
+                  - link "Sandav" [ref=e122] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111694-motion-graphics-designer-idioma-italiano-nativo-madrid-espana
+                    - img "Sandav" [ref=e123]
+                  - heading "Motion Graphics Designer (Idioma Italiano nativo)" [level=2] [ref=e124]:
+                    - link "Motion Graphics Designer (Idioma Italiano nativo)" [ref=e125] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111694-motion-graphics-designer-idioma-italiano-nativo-madrid-espana
+                  - heading "Sandav" [level=3] [ref=e126]
+                  - paragraph [ref=e127]: "Sobre el puesto: Buscamos un/a Video Editor &amp; Motion Designer para incorporarse en plantilla de cliente final. Tu misión será crear vídeos de..."
+                - generic [ref=e129]: Tiempo completo
+                - generic [ref=e130]: Madrid, España
+                - generic [ref=e131]: 15/04/26
+            - listitem [ref=e132]:
+              - generic [ref=e133]:
+                - generic [ref=e134]:
+                  - link "ICÓNICO" [ref=e135] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111705-estrategia-marketing-cardedeu-espana
+                    - img "ICÓNICO" [ref=e136]
+                  - heading "Estrategia / Marketing" [level=2] [ref=e137]:
+                    - link "Estrategia / Marketing" [ref=e138] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111705-estrategia-marketing-cardedeu-espana
+                  - heading "ICÓNICO" [level=3] [ref=e139]
+                  - paragraph [ref=e140]: "Empresa: ICÓNICO y ÚNICO Ubicación: Av. Rei en Jaume, 191, 08440 Cardedeu, Barcelona Horario: Flexible, preferiblemente entre 8:00 y 17:00, adaptad..."
+                - generic [ref=e142]: Prácticas
+                - generic [ref=e143]: Cardedeu, España
+                - generic [ref=e144]: 15/04/26
+            - listitem [ref=e145]:
+              - generic [ref=e146]:
+                - generic [ref=e147]:
+                  - link "Message Heard" [ref=e148] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111706-spanish-and-english-speaking-podcast-producer-padel-sports-podcast-en-remoto
+                    - img "Message Heard" [ref=e149]
+                  - heading "Spanish and English Speaking Podcast Producer - Padel Sports ..." [level=2] [ref=e150]:
+                    - link "Spanish and English Speaking Podcast Producer - Padel Sports ..." [ref=e151] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111706-spanish-and-english-speaking-podcast-producer-padel-sports-podcast-en-remoto
+                  - heading "Message Heard" [level=3] [ref=e152]
+                  - paragraph [ref=e153]: "Location: Madrid or Spanish based, working with Production company remotely: working with a UK-based team Message Heard. Message Heard Media has ..."
+                - generic [ref=e155]: Proyecto
+                - generic [ref=e156]: En remoto
+                - generic [ref=e157]: 15/04/26
+            - listitem [ref=e158]:
+              - generic [ref=e159]:
+                - generic [ref=e160]:
+                  - link "BTS" [ref=e161] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/39480-graphic-designer-bilbao-espana
+                    - img "BTS" [ref=e162]
+                  - heading "Graphic Designer" [level=2] [ref=e163]:
+                    - link "Graphic Designer" [ref=e164] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/39480-graphic-designer-bilbao-espana
+                  - heading "BTS" [level=3] [ref=e165]
+                  - paragraph [ref=e166]: "En BTS SELAM estamos buscando un Graphic Designer para ocupar un puesto fijo en nuestro departamento de diseño en Bilbao. Buscamos alguien con: -..."
+                - generic [ref=e168]: Tiempo completo
+                - generic [ref=e169]: Bilbao, España
+                - generic [ref=e170]: 14/04/26
+            - listitem [ref=e171]:
+              - generic [ref=e172]:
+                - generic [ref=e173]:
+                  - link "factoria creativa" [ref=e174] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/73207-practicas-seo-barcelona-espana
+                    - img "factoria creativa" [ref=e175]
+                  - heading "Practicas SEO" [level=2] [ref=e176]:
+                    - link "Practicas SEO" [ref=e177] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/73207-practicas-seo-barcelona-espana
+                  - heading "factoria creativa" [level=3] [ref=e178]
+                  - paragraph [ref=e179]: Factoria Creativa es una pequeña agencia en el centro de Barcelona que desarrolla diseño de stands y web. Con una experiencia de más de 20 años, nu...
+                - generic [ref=e181]: Prácticas
+                - generic [ref=e182]: Barcelona, España
+                - generic [ref=e183]: 14/04/26
+            - listitem [ref=e184]:
+              - generic [ref=e185]:
+                - generic [ref=e186]:
+                  - link "Amanda" [ref=e187] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/110816-disenador-a-grafico-a-con-enfoque-en-ilustracion-y-merchandising-cultural-madrid-espana
+                    - img "Amanda" [ref=e188]
+                  - heading "Diseñador/a Gráfico/a con Enfoque en Ilustración y Merchandis..." [level=2] [ref=e189]:
+                    - link "Diseñador/a Gráfico/a con Enfoque en Ilustración y Merchandis..." [ref=e190] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/110816-disenador-a-grafico-a-con-enfoque-en-ilustracion-y-merchandising-cultural-madrid-espana
+                  - heading "Palacios y Museos SLU." [level=3] [ref=e191]
+                  - paragraph [ref=e192]: En Palacios y Museos buscamos incorporar a nuestro equipo un/a Diseñador/a Gráfico/a versátil y multidisciplinar, con especial enfoque en ilustraci...
+                - generic [ref=e194]: Tiempo completo
+                - generic [ref=e195]: Madrid, España
+                - generic [ref=e196]: 14/04/26
+            - listitem [ref=e197]:
+              - generic [ref=e198]:
+                - generic [ref=e199]:
+                  - link "Laura" [ref=e200] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111681-ejecutivo-a-de-cuentas-junior-madrid-espana
+                    - img "Laura" [ref=e201]
+                  - heading "Ejecutivo/a de Cuentas Junior" [level=2] [ref=e202]:
+                    - link "Ejecutivo/a de Cuentas Junior" [ref=e203] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111681-ejecutivo-a-de-cuentas-junior-madrid-espana
+                  - heading "Doblemente Media" [level=3] [ref=e204]
+                  - paragraph [ref=e205]: En DOBLE queremos incorporar un/a Ejecutivo/a de Cuentas Junior para formar parte de nuestro equipo y participar en proyectos de branding, diseño d...
+                - generic [ref=e207]: Tiempo completo
+                - generic [ref=e208]: Madrid, España
+                - generic [ref=e209]: 14/04/26
+            - listitem [ref=e210]:
+              - generic [ref=e211]:
+                - generic [ref=e212]:
+                  - link "SietePAR Agencia" [ref=e213] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111686-practicas-en-gestion-de-redes-sociales-madrid-espana
+                    - img "SietePAR Agencia" [ref=e214]
+                  - heading "Prácticas en Gestión de Redes Sociales" [level=2] [ref=e215]:
+                    - link "Prácticas en Gestión de Redes Sociales" [ref=e216] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111686-practicas-en-gestion-de-redes-sociales-madrid-espana
+                  - heading "SietePAR Agencia" [level=3] [ref=e217]
+                  - paragraph [ref=e218]: "Posición: Becario/a de Gestión de Redes Sociales Ubicación: 2 días teletrabajo Tipo de contrato: Convenio de prácticas Duración: 6 meses Descripci..."
+                - generic [ref=e220]: Prácticas
+                - generic [ref=e221]: Madrid, España
+                - generic [ref=e222]: 14/04/26
+            - listitem [ref=e223]:
+              - generic [ref=e224]:
+                - generic [ref=e225]:
+                  - link "Marta Rived" [ref=e226] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111691-sports-graphic-designer-barcelona-espana
+                    - img "Marta Rived" [ref=e227]
+                  - heading "Sports Graphic Designer" [level=2] [ref=e228]:
+                    - link "Sports Graphic Designer" [ref=e229] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111691-sports-graphic-designer-barcelona-espana
+                  - heading "Spodeal" [level=3] [ref=e230]
+                  - paragraph [ref=e231]: / Descripción de la empresa Spodeal es una consultora internacional especializada en deporte, entretenimiento y negocio. Su propósito es profesiona...
+                - generic [ref=e233]: Tiempo completo
+                - generic [ref=e234]: Barcelona, España
+                - generic [ref=e235]: 14/04/26
+            - listitem [ref=e236]:
+              - generic [ref=e237]:
+                - generic [ref=e238]:
+                  - link "Social Health" [ref=e239] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111692-social-media-executive-salud-madrid-espana
+                    - img "Social Health" [ref=e240]
+                  - heading "Social Media Executive - Salud" [level=2] [ref=e241]:
+                    - link "Social Media Executive - Salud" [ref=e242] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111692-social-media-executive-salud-madrid-espana
+                  - heading "Social Health" [level=3] [ref=e243]
+                  - paragraph [ref=e244]: Hola! Somos una agencia de social media especializada en salud. Actualmente buscamos un perfil profesional de SOCIAL MEDIA con ganas de trabajar, i...
+                - generic [ref=e246]: Tiempo completo
+                - generic [ref=e247]: Madrid, España
+                - generic [ref=e248]: 14/04/26
+            - listitem [ref=e249]:
+              - generic [ref=e250]:
+                - generic [ref=e251]:
+                  - link "larssonduprez" [ref=e252] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111676-social-media-manager-barcelona-espana
+                    - img "larssonduprez" [ref=e253]
+                  - heading "Social Media Manager" [level=2] [ref=e254]:
+                    - link "Social Media Manager" [ref=e255] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111676-social-media-manager-barcelona-espana
+                  - heading "LARSSON·DUPREZ" [level=3] [ref=e256]
+                  - paragraph [ref=e257]: El puesto Buscamos un Social Media Manager que sea al mismo tiempo estratega, planificador y community manager. Alguien que entiende qué hay que pu...
+                - generic [ref=e259]: Tiempo completo
+                - generic [ref=e260]: Barcelona, España
+                - generic [ref=e261]: 11/04/26
+            - listitem [ref=e262]:
+              - generic [ref=e263]:
+                - generic [ref=e264]:
+                  - link "Nacher" [ref=e265] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111677-disenador-grafico-madrid-espana
+                    - img "Nacher" [ref=e266]
+                  - heading "Diseñador@ Gráfico" [level=2] [ref=e267]:
+                    - link "Diseñador@ Gráfico" [ref=e268] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111677-disenador-grafico-madrid-espana
+                  - heading "Nacher" [level=3] [ref=e269]
+                  - paragraph [ref=e270]: Somos Nacher Un estudio creativo especializado en branding, dirección de arte y desarrollo de identidades visuales aplicadas a espacios, eventos y ...
+                - generic [ref=e272]: Tiempo completo
+                - generic [ref=e273]: Madrid, España
+                - generic [ref=e274]: 11/04/26
+            - listitem [ref=e275]:
+              - generic [ref=e276]:
+                - generic [ref=e277]:
+                  - link "Actimundi" [ref=e278] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111683-director-de-arte-senior-barcelona-espana
+                    - img "Actimundi" [ref=e279]
+                  - heading "Director de Arte Senior" [level=2] [ref=e280]:
+                    - link "Director de Arte Senior" [ref=e281] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111683-director-de-arte-senior-barcelona-espana
+                  - heading "Actimundi" [level=3] [ref=e282]
+                  - paragraph [ref=e283]: En Actimundi buscamos un/a Director/a de Arte senior con perfil 360º para incorporarse a nuestro equipo creativo. Buscamos a alguien con sensibili...
+                - generic [ref=e285]: Tiempo completo
+                - generic [ref=e286]: Barcelona, España
+                - generic [ref=e287]: 11/04/26
+            - listitem [ref=e288]:
+              - generic [ref=e289]:
+                - generic [ref=e290]:
+                  - link "Actimundi" [ref=e291] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111685-disenador-junior-barcelona-espana
+                    - img "Actimundi" [ref=e292]
+                  - heading "Diseñador junior" [level=2] [ref=e293]:
+                    - link "Diseñador junior" [ref=e294] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111685-disenador-junior-barcelona-espana
+                  - heading "Actimundi" [level=3] [ref=e295]
+                  - paragraph [ref=e296]: En Actimundi buscamos un/a Diseñador/a junior para incorporarse a nuestro equipo creativo. Buscamos una persona que le guste la comunicación y el ...
+                - generic [ref=e298]: Tiempo completo
+                - generic [ref=e299]: Barcelona, España
+                - generic [ref=e300]: 11/04/26
+            - listitem [ref=e301]:
+              - generic [ref=e302]:
+                - generic [ref=e303]:
+                  - link "Factoria Creativa" [ref=e304] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/99234-digital-marketing-y-ventas-barcelona-espana
+                    - img "Factoria Creativa" [ref=e305]
+                  - heading "Digital Marketing y ventas" [level=2] [ref=e306]:
+                    - link "Digital Marketing y ventas" [ref=e307] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/99234-digital-marketing-y-ventas-barcelona-espana
+                  - heading "Factoria Creativa" [level=3] [ref=e308]
+                  - paragraph [ref=e309]: "Somos una agencia creativa en el centro de Barcelona, buscamos un nuevo compañero/a de viaje en el área del mk y ventas. Ubicación: Centro de Barce..."
+                - generic [ref=e311]: Tiempo completo
+                - generic [ref=e312]: Barcelona, España
+                - generic [ref=e313]: 10/04/26
+            - listitem [ref=e314]:
+              - generic [ref=e315]:
+                - generic [ref=e316]:
+                  - link "Teka Group" [ref=e317] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/107273-graphic-designer-practicas-madrid-espana
+                    - img "Teka Group" [ref=e318]
+                  - heading "Graphic Designer - Prácticas" [level=2] [ref=e319]:
+                    - link "Graphic Designer - Prácticas" [ref=e320] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/107273-graphic-designer-practicas-madrid-espana
+                  - heading "Teka" [level=3] [ref=e321]
+                  - paragraph [ref=e322]: Teka Group, multinacional de origen alemán fundada en 1924, cuya principal actividad se basa en la fabricación y comercialización de electrodomésti...
+                - generic [ref=e324]: Prácticas
+                - generic [ref=e325]: Madrid, España
+                - generic [ref=e326]: 10/04/26
+            - listitem [ref=e327]:
+              - generic [ref=e328]:
+                - generic [ref=e329]:
+                  - link "Macadam" [ref=e330] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111625-senior-product-designer-barcelona-espana
+                    - img "Macadam" [ref=e331]
+                  - heading "Senior Product Designer" [level=2] [ref=e332]:
+                    - link "Senior Product Designer" [ref=e333] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111625-senior-product-designer-barcelona-espana
+                  - heading "Macadam" [level=3] [ref=e334]
+                  - paragraph [ref=e335]: WHO WE ARE Macadam is a movement powered by over 14 million users who walk every day with us. We’re here to make walking more rewarding, engaging,...
+                - generic [ref=e337]: Tiempo completo
+                - generic [ref=e338]: Barcelona, España
+                - generic [ref=e339]: 10/04/26
+            - listitem [ref=e340]:
+              - generic [ref=e341]:
+                - generic [ref=e342]:
+                  - link "KNN Digital Media" [ref=e343] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111668-ppc-specialist-en-remoto
+                    - img "KNN Digital Media" [ref=e344]
+                  - heading "PPC Specialist" [level=2] [ref=e345]:
+                    - link "PPC Specialist" [ref=e346] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111668-ppc-specialist-en-remoto
+                  - heading "KNN Digital Media" [level=3] [ref=e347]
+                  - paragraph [ref=e348]: 📍 Full-time | 100% Remote (CET-aligned) 🎯 Output &amp; performance-driven KNN Digital Media is a global eCommerce company founded by former Google...
+                - generic [ref=e350]: Tiempo completo
+                - generic [ref=e351]: En remoto
+                - generic [ref=e352]: 10/04/26
+            - listitem [ref=e353]:
+              - generic [ref=e354]:
+                - generic [ref=e355]:
+                  - link "Sdiaz" [ref=e356] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111674-video-ai-motion-designer-madrid-espana
+                    - img "Sdiaz" [ref=e357]
+                  - heading "Video, AI & Motion Designer" [level=2] [ref=e358]:
+                    - link "Video, AI & Motion Designer" [ref=e359] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111674-video-ai-motion-designer-madrid-espana
+                  - heading "Perez-Solero Raising Talent" [level=3] [ref=e360]
+                  - paragraph [ref=e361]: Buscamos un/a Video, AI &amp; Motion Designer con perfil técnico-creativo, capaz de llevar nuestras piezas audiovisuales al siguiente nivel mediant...
+                - generic [ref=e363]: Tiempo completo
+                - generic [ref=e364]: Madrid, España
+                - generic [ref=e365]: 10/04/26
+            - listitem [ref=e366]:
+              - generic [ref=e367]:
+                - generic [ref=e368]:
+                  - link "Bside Academy" [ref=e369] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111675-practicas-social-media-content-creator-barcelona-espana
+                    - img "Bside Academy" [ref=e370]
+                  - heading "Prácticas Social Media / Content Creator" [level=2] [ref=e371]:
+                    - link "Prácticas Social Media / Content Creator" [ref=e372] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111675-practicas-social-media-content-creator-barcelona-espana
+                  - heading "Bside Academy" [level=3] [ref=e373]
+                  - paragraph [ref=e374]: Buscamos una persona creativa, proactiva y con muchas ganas de aprender para unirse a nuestro equipo de marketing y comunicación de Bside Academy (...
+                - generic [ref=e376]: Tiempo parcial
+                - generic [ref=e377]: Barcelona, España
+                - generic [ref=e378]: 10/04/26
+            - listitem [ref=e379]:
+              - generic [ref=e380]:
+                - generic [ref=e381]:
+                  - link "Eliptic Group" [ref=e382] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/109017-director-a-de-arte-senior-barcelona-espana
+                    - img "Eliptic Group" [ref=e383]
+                  - heading "Director/a de Arte Senior" [level=2] [ref=e384]:
+                    - link "Director/a de Arte Senior" [ref=e385] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/109017-director-a-de-arte-senior-barcelona-espana
+                  - heading "Eliptic Group" [level=3] [ref=e386]
+                  - paragraph [ref=e387]: Somos una agencia creativa ubicada en Sant Cugat (Barcelona) y este año cumplimos ¡20 años! Estamos buscando Director@ de Arte capaz de trabajar c...
+                - generic [ref=e389]: Tiempo completo
+                - generic [ref=e390]: Barcelona, España
+                - generic [ref=e391]: 09/04/26
+            - listitem [ref=e392]:
+              - generic [ref=e393]:
+                - generic [ref=e394]:
+                  - link "EVIDENZE HEALTH ESPAÑA" [ref=e395] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111578-beca-copywriting-y-creatividad-en-remoto
+                    - img "EVIDENZE HEALTH ESPAÑA" [ref=e396]
+                  - heading "Beca Copywriting y Creatividad" [level=2] [ref=e397]:
+                    - link "Beca Copywriting y Creatividad" [ref=e398] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111578-beca-copywriting-y-creatividad-en-remoto
+                  - heading "EVIDENZE HEALTH ESPAÑA" [level=3] [ref=e399]
+                  - paragraph [ref=e400]: "Modalidad: Híbrida / Remota Tipo de prácticas: Convenio con universidad/escuela Duración: 12 meses preferiblemente Incorporación: Inmediata Sobre..."
+                - generic [ref=e402]: Prácticas
+                - generic [ref=e403]: En remoto
+                - generic [ref=e404]: 09/04/26
+            - listitem [ref=e405]:
+              - generic [ref=e406]:
+                - generic [ref=e407]:
+                  - link "RESTARTS STUDIO" [ref=e408] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111661-practicas-en-comuncacion-y-gestion-de-redes-barcelona-espana
+                    - img "RESTARTS STUDIO" [ref=e409]
+                  - heading "PRÁCTICAS EN COMUNCACIÓN Y GESTIÓN DE REDES" [level=2] [ref=e410]:
+                    - link "PRÁCTICAS EN COMUNCACIÓN Y GESTIÓN DE REDES" [ref=e411] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111661-practicas-en-comuncacion-y-gestion-de-redes-barcelona-espana
+                  - heading "RESTARTS STUDIO" [level=3] [ref=e412]
+                  - paragraph [ref=e413]: Hola! Somos RestArts Studio, una productora creativa especializada en deportes y aventura. Vivimos entre desiertos, montañas, sets y carreteras i...
+                - generic [ref=e415]: Prácticas
+                - generic [ref=e416]: Barcelona, España
+                - generic [ref=e417]: 09/04/26
+            - listitem [ref=e418]:
+              - generic [ref=e419]:
+                - generic [ref=e420]:
+                  - link "Taller de Antonio Santín" [ref=e421] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111665-asistente-a-en-taller-de-pintura-madrid-espana
+                    - img "Taller de Antonio Santín" [ref=e422]
+                  - heading "Asistente/a en taller de pintura" [level=2] [ref=e423]:
+                    - link "Asistente/a en taller de pintura" [ref=e424] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111665-asistente-a-en-taller-de-pintura-madrid-espana
+                  - heading "Taller de Antonio Santín" [level=3] [ref=e425]
+                  - paragraph [ref=e426]: El taller de pintura de Antonio Santín necesita un/a asistente para participar en el proceso de elaboración de diferentes obras de arte. Estamos ub...
+                - generic [ref=e428]: Tiempo completo
+                - generic [ref=e429]: Madrid, España
+                - generic [ref=e430]: 09/04/26
+            - listitem [ref=e431]:
+              - generic [ref=e432]:
+                - generic [ref=e433]:
+                  - link "OAKBERRY" [ref=e434] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/111667-social-media-content-creator-madrid-espana
+                    - img "OAKBERRY" [ref=e435]
+                  - heading "Social Media & Content Creator" [level=2] [ref=e436]:
+                    - link "Social Media & Content Creator" [ref=e437] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/111667-social-media-content-creator-madrid-espana
+                  - heading "OAKBERRY" [level=3] [ref=e438]
+                  - paragraph [ref=e439]: En OAKBERRY buscamos una persona creativa, proactiva y con muchas ganas de aprender para unirse a nuestro equipo de marketing 💜 La posición está e...
+                - generic [ref=e441]: Tiempo parcial
+                - generic [ref=e442]: Madrid, España
+                - generic [ref=e443]: 09/04/26
+            - listitem [ref=e444]:
+              - generic [ref=e445]:
+                - generic [ref=e446]:
+                  - link "uve2" [ref=e447] [cursor=pointer]:
+                    - /url: https://www.domestika.org/es/jobs/99306-especialista-seo-sem-media-jornada-agencia-de-marketing-madrid-espana
+                    - img "uve2" [ref=e448]
+                  - heading "Especialista SEO/SEM (media jornada) – Agencia de marketing" [level=2] [ref=e449]:
+                    - link "Especialista SEO/SEM (media jornada) – Agencia de marketing" [ref=e450] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/jobs/99306-especialista-seo-sem-media-jornada-agencia-de-marketing-madrid-espana
+                  - heading "uve2" [level=3] [ref=e451]
+                  - paragraph [ref=e452]: En uve2 buscamos una persona especialista en SEO/SEM a media jornada para incorporarse a nuestro equipo en Madrid. Queremos sumar un perfil analít...
+                - generic [ref=e454]: Tiempo parcial
+                - generic [ref=e455]: Madrid, España
+                - generic [ref=e456]: 08/04/26
+        - navigation [ref=e457]:
+          - list [ref=e458]:
+            - listitem [ref=e459]:
+              - generic: ←
+            - listitem [ref=e460]:
+              - generic [ref=e461]: "1"
+            - listitem [ref=e462]:
+              - link "2" [ref=e463] [cursor=pointer]:
+                - /url: /es/jobs?page=2
+            - listitem [ref=e464]:
+              - link "3" [ref=e465] [cursor=pointer]:
+                - /url: /es/jobs?page=3
+            - listitem [ref=e466]:
+              - link "4" [ref=e467] [cursor=pointer]:
+                - /url: /es/jobs?page=4
+            - listitem [ref=e468]:
+              - link "→" [ref=e469] [cursor=pointer]:
+                - /url: /es/jobs?page=2
+        - navigation "breadcrumb" [ref=e470]:
+          - list [ref=e471]:
+            - listitem [ref=e472]:
+              - link "Domestika - Inicio" [ref=e473] [cursor=pointer]:
+                - /url: /es
+                - generic "Domestika - Inicio" [ref=e474]: 
+            - listitem [ref=e475]:
+              - text: 
+              - link "Empleo" [ref=e476] [cursor=pointer]:
+                - /url: /es/jobs
+            - listitem [ref=e477]:  Empleos publicados este mes
+        - list [ref=e478]:
+          - listitem [ref=e479]:
+            - link " RSS" [ref=e480] [cursor=pointer]:
+              - /url: https://www.domestika.org/es/jobs.atom
+              - generic [ref=e481]: 
+              - text: RSS
+          - listitem [ref=e482]:
+            - link " Publica una oferta" [ref=e483] [cursor=pointer]:
+              - /url: https://www.domestika.org/es/jobs/new
+              - generic [ref=e484]: 
+              - text: Publica una oferta
+          - listitem [ref=e485]:
+            - link " Ver todas las ubicaciones de empleo" [ref=e486] [cursor=pointer]:
+              - /url: https://www.domestika.org/es/jobs/locations
+              - generic [ref=e487]: 
+              - text: Ver todas las ubicaciones de empleo
+    - contentinfo [ref=e488]:
+      - generic [ref=e490]:
+        - heading "Cursos de Domestika" [level=2] [ref=e491]
+        - generic [ref=e492]:
+          - region [ref=e494]:
+            - generic [ref=e495]:
+              - heading "Categorías" [level=3] [ref=e496]: Categorías 
+              - generic "Alternar Categorías" [ref=e497]:
+                - list [ref=e498]:
+                  - listitem [ref=e499]:
+                    - link "Cursos de Ilustración" [ref=e500] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/11-ilustracion
+                  - listitem [ref=e501]:
+                    - link "Cursos de Craft" [ref=e502] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/12-craft
+                  - listitem [ref=e503]:
+                    - link "Cursos de Marketing y Negocios" [ref=e504] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/17-marketing-y-negocios
+                  - listitem [ref=e505]:
+                    - link "Cursos de Fotografía y Vídeo" [ref=e506] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/8-fotografia-y-video
+                  - listitem [ref=e507]:
+                    - link "Cursos de Diseño" [ref=e508] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/3-diseno
+                  - listitem [ref=e509]:
+                    - link "Cursos de 3D y Animación" [ref=e510] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/13-3d-y-animacion
+                  - listitem [ref=e511]:
+                    - link "Cursos de Arquitectura y Espacios" [ref=e512] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/15-arquitectura-y-espacios
+                  - listitem [ref=e513]:
+                    - link "Cursos de Escritura" [ref=e514] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/18-escritura
+                  - listitem [ref=e515]:
+                    - link "Cursos de Moda" [ref=e516] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/20-moda
+                  - listitem [ref=e517]:
+                    - link "Cursos de Diseño Web y App" [ref=e518] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/9-diseno-web-y-app
+                  - listitem [ref=e519]:
+                    - link "Cursos de Caligrafía y Tipografía" [ref=e520] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/16-caligrafia-y-tipografia
+                  - listitem [ref=e521]:
+                    - link "Cursos de Música y Audio" [ref=e522] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/19-musica-y-audio
+                  - listitem [ref=e523]:
+                    - link "Cursos de Cocina" [ref=e524] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/21-cocina
+                  - listitem [ref=e525]:
+                    - link "Cursos de Inteligencia Artificial" [ref=e526] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/23-inteligencia-artificial
+                  - listitem [ref=e527]:
+                    - link "Cursos de Bienestar" [ref=e528] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/24-bienestar
+                  - listitem [ref=e529]:
+                    - link "Cursos de Cómo convertirse en" [ref=e530] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/category/22-como-convertirse-en
+            - generic [ref=e531]:
+              - heading "Áreas" [level=3] [ref=e532]:
+                - link "Áreas" [ref=e533] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/courses/area
+                - text: 
+              - generic "Alternar Áreas" [ref=e534]:
+                - list [ref=e535]:
+                  - listitem [ref=e536]:
+                    - link "Cursos de Ilustración tradicional" [ref=e537] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/area/2-ilustracion-tradicional
+                  - listitem [ref=e538]:
+                    - link "Cursos de Ilustración digital" [ref=e539] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/area/102-ilustracion-digital
+                  - listitem [ref=e540]:
+                    - link "Cursos de Dibujo" [ref=e541] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/area/92-dibujo
+                  - listitem [ref=e542]:
+                    - link "Cursos de Artesanía" [ref=e543] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/area/21-artesania
+                  - listitem [ref=e544]:
+                    - link "Cursos de Diseño gráfico" [ref=e545] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/area/34-diseno-grafico
+                  - listitem [ref=e546]:
+                    - link "Cursos de Bellas Artes" [ref=e547] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/area/30-bellas-artes
+                  - listitem [ref=e548]:
+                    - link "Cursos de Diseño" [ref=e549] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/area/1-diseno
+                  - listitem [ref=e550]:
+                    - link "Cursos de Inteligencia Artificial" [ref=e551] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/area/246-inteligencia-artificial
+                  - listitem [ref=e552]:
+                    - link "Cursos de SEO" [ref=e553] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/area/208-seo
+                  - listitem [ref=e554]:
+                    - link "Cursos de Programación" [ref=e555] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/area/7-programacion
+                  - listitem [ref=e556]:
+                    - link "Cursos de Marketing Digital" [ref=e557] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/area/110-marketing-digital
+                  - listitem [ref=e558]:
+                    - link "Cursos de Crochet" [ref=e559] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/area/203-crochet
+                  - listitem [ref=e560]:
+                    - link "Cursos de Amigurumi" [ref=e561] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/area/206-amigurumi
+            - generic [ref=e562]:
+              - heading "Software" [level=3] [ref=e563]:
+                - link "Software" [ref=e564] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/courses/software
+                - text: 
+              - generic "Alternar Software" [ref=e565]:
+                - list [ref=e566]:
+                  - listitem [ref=e567]:
+                    - link "Cursos de Adobe Photoshop" [ref=e568] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/software/2-adobe-photoshop
+                  - listitem [ref=e569]:
+                    - link "Cursos de Adobe Illustrator" [ref=e570] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/software/1-adobe-illustrator
+                  - listitem [ref=e571]:
+                    - link "Cursos de Procreate" [ref=e572] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/software/75-procreate
+                  - listitem [ref=e573]:
+                    - link "Cursos de Cinema 4D" [ref=e574] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/software/9-cinema-4d
+                  - listitem [ref=e575]:
+                    - link "Cursos de Adobe Premiere" [ref=e576] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/software/7-adobe-premiere
+                  - listitem [ref=e577]:
+                    - link "Cursos de Blender" [ref=e578] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/software/43-blender
+                  - listitem [ref=e579]:
+                    - link "Cursos de Figma" [ref=e580] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/software/176-figma
+            - generic [ref=e581]:
+              - heading "Listas" [level=3] [ref=e582]: Listas 
+              - 'generic "Alternar <span class=\"translation_missing\" title=\"translation missing: es.courses.shared.list\">List</span>" [ref=e583]':
+                - list [ref=e584]:
+                  - listitem [ref=e585]:
+                    - link "Cursos nuevos" [ref=e586] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/recent
+                  - listitem [ref=e587]:
+                    - link "Cursos mejor valorados" [ref=e588] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/highest_rated
+                  - listitem [ref=e589]:
+                    - link "Cursos populares" [ref=e590] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/popular
+                  - listitem [ref=e591]:
+                    - link "Cursos en promoción" [ref=e592] [cursor=pointer]:
+                      - /url: https://www.domestika.org/es/courses/on_sale
+          - generic [ref=e594]:
+            - heading "Descárgate la app de Domestika" [level=3] [ref=e595]
+            - list [ref=e596]:
+              - listitem [ref=e597]:
+                - link "Apple Store" [ref=e598] [cursor=pointer]:
+                  - /url: https://domestika.onelink.me/u8rW/4d311972es
+                  - img "Apple Store" [ref=e599]
+              - listitem [ref=e600]:
+                - link "Google Play" [ref=e601] [cursor=pointer]:
+                  - /url: https://domestika.onelink.me/u8rW/e083dec3es
+                  - img "Google Play" [ref=e602]
+      - generic [ref=e604]:
+        - generic [ref=e605]:
+          - generic [ref=e607]:
+            - heading "Secciones" [level=4] [ref=e608]
+            - list [ref=e609]:
+              - listitem [ref=e610]:
+                - link "Cursos" [ref=e611] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/courses
+              - listitem [ref=e612]:
+                - link "Proyectos" [ref=e613] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/projects
+              - listitem [ref=e614]:
+                - link "Empleo" [ref=e615] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/jobs
+              - listitem [ref=e616]:
+                - link "Foros" [ref=e617] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/forums
+              - listitem [ref=e618]:
+                - link "Creativos" [ref=e619] [cursor=pointer]:
+                  - /url: https://www.domestika.org/users
+              - listitem [ref=e620]:
+                - link "Escuelas" [ref=e621] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/schools
+              - listitem [ref=e622]:
+                - link "Domestika Podcasts" [ref=e623] [cursor=pointer]:
+                  - /url: /es/blog/tags/115-podcast-domestika
+              - listitem [ref=e624]:
+                - link "Domestika Plus" [ref=e625] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/plus
+          - generic [ref=e627]:
+            - heading "Información" [level=4] [ref=e628]
+            - list [ref=e629]:
+              - listitem [ref=e630]:
+                - link "Domestika" [ref=e631] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/about
+              - listitem [ref=e632]:
+                - link "Contacto" [ref=e633] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/about/contact
+              - listitem [ref=e634]:
+                - link "Noticias" [ref=e635] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/forums/@domestika
+              - listitem [ref=e636]:
+                - link "Blog" [ref=e637] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/blog
+              - listitem [ref=e638]:
+                - link "Ayuda" [ref=e639] [cursor=pointer]:
+                  - /url: https://support.domestika.org/hc/es
+            - list [ref=e640]:
+              - listitem [ref=e641]:
+                - link "Afiliados" [ref=e642] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/affiliates
+              - listitem [ref=e643]:
+                - link "Organizaciones" [ref=e644] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/organizations
+              - listitem [ref=e645]:
+                - link "Profesores" [ref=e646] [cursor=pointer]:
+                  - /url: https://www.domestika.org/es/teachers
+          - generic [ref=e648]:
+            - heading "Idioma" [level=4] [ref=e649]
+            - button "Español" [ref=e652] [cursor=pointer]
+          - generic [ref=e654]:
+            - heading "Conecta" [level=4] [ref=e655]
+            - list [ref=e656]:
+              - listitem [ref=e657]:
+                - link "Facebook" [ref=e658] [cursor=pointer]:
+                  - /url: https://www.facebook.com/domestika
+                  - img "Facebook" [ref=e659]: 
+              - listitem [ref=e660]:
+                - link "Twitter" [ref=e661] [cursor=pointer]:
+                  - /url: https://twitter.com/domestikaES
+                  - img "Twitter" [ref=e662]: 
+              - listitem [ref=e663]:
+                - link "Pinterest" [ref=e664] [cursor=pointer]:
+                  - /url: https://pinterest.com/domestika
+                  - img "Pinterest" [ref=e665]: 
+              - listitem [ref=e666]:
+                - link "Instagram" [ref=e667] [cursor=pointer]:
+                  - /url: https://www.instagram.com/domestika
+                  - img "Instagram" [ref=e668]: 
+              - listitem [ref=e669]:
+                - link "Vimeo" [ref=e670] [cursor=pointer]:
+                  - /url: https://vimeo.com/domestika
+                  - img "Vimeo" [ref=e671]: 
+              - listitem [ref=e672]:
+                - link "Youtube" [ref=e673] [cursor=pointer]:
+                  - /url: https://www.youtube.com/domestika
+                  - img "Youtube" [ref=e674]
+            - list [ref=e675]:
+              - listitem [ref=e676]:
+                - link " Seguir a domestika" [ref=e679] [cursor=pointer]:
+                  - /url: https://www.domestika.org/auth/login?from_modal=true&locale=es&scope=directory&from_modal=true
+                  - generic: 
+                  - generic: Seguir a domestika
+        - list [ref=e680]:
+          - listitem [ref=e681]: © Domestika 2026
+          - listitem [ref=e682]:
+            - link "Condiciones de Uso" [ref=e683] [cursor=pointer]:
+              - /url: https://www.domestika.org/es/terms
+          - listitem [ref=e684]:
+            - link "Política de privacidad" [ref=e685] [cursor=pointer]:
+              - /url: https://www.domestika.org/es/privacy
+          - listitem [ref=e686]:
+            - link "Política de cookies" [ref=e687] [cursor=pointer]:
+              - /url: https://www.domestika.org/es/cookies
+          - listitem [ref=e688]:
+            - link "Declaración de accesibilidad" [ref=e689] [cursor=pointer]:
+              - /url: https://www.domestika.org/es/accessibility
+  - region "pancarta de galletas" [ref=e690]:
+    - dialog "Privacidad" [ref=e691]:
+      - generic [ref=e692]:
+        - generic [ref=e694]:
+          - text: Usamos Cookies y otras tecnologías propias y de terceros para hacer funcionar de manera correcta y segura nuestra página web y personalizar su contenido. También las utilizamos para analizar la navegación de los usuarios y poder ajustar la publicidad a tus gustos y preferencias. Puedes aceptarlas todas, rechazarlas o elegir tu configuración pulsando los botones correspondientes. Para más información puedes consultar nuestra
+          - link "Más información sobre su privacidad, se abre en una nueva pestaña" [ref=e695] [cursor=pointer]:
+            - /url: https://www.domestika.org/es/cookies
+            - text: Política de Cookies
+        - generic [ref=e697]:
+          - button "Configuración de cookies" [ref=e698] [cursor=pointer]
+          - button "Aceptar todas las cookies" [ref=e700] [cursor=pointer]
+        - button "Continuar sin aceptar" [ref=e702] [cursor=pointer]

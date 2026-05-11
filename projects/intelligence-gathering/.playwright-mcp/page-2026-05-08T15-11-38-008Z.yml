@@ -1,0 +1,464 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "SIGLAS Instituto Nacional de Estadística" [ref=e6] [cursor=pointer]:
+        - /url: /
+        - img "SIGLAS Instituto Nacional de Estadística" [ref=e7]
+      - generic [ref=e8]:
+        - list [ref=e11]:
+          - listitem [ref=e12]:
+            - button "English" [ref=e13] [cursor=pointer]
+        - generic [ref=e15]:
+          - searchbox "Escriba el texto para buscar" [ref=e16]
+          - button "Acción de buscar en el sitio web" [ref=e17] [cursor=pointer]: 
+  - navigation "Menú Principal" [ref=e18]:
+    - generic [ref=e19]:
+      - link "Mostrar/ocultar el menú principal de navegación" [ref=e21] [cursor=pointer]:
+        - /url: /indiceweb.htm
+        - generic: 
+      - list [ref=e22]:
+        - listitem [ref=e23]:
+          - button "Censo Electoral" [ref=e24] [cursor=pointer]
+        - listitem [ref=e25]:
+          - button "Sede electrónica" [ref=e26] [cursor=pointer]
+        - listitem [ref=e27]:
+          - button "Compartir" [ref=e28] [cursor=pointer]:
+            - text: Compartir
+            - generic [ref=e29]: 
+          - text:      
+  - main [ref=e30]:
+    - generic [ref=e31]:
+      - navigation "Miga de pan" [ref=e33]:
+        - list [ref=e34]:
+          - listitem [ref=e35]:
+            - link "Inicio" [ref=e36] [cursor=pointer]:
+              - /url: /
+          - listitem [ref=e37]:
+            - text: 
+            - link "Sección prensa" [ref=e38] [cursor=pointer]:
+              - /url: /prensa/seccion_prensa.htm
+            - text: 
+          - listitem [ref=e39]:
+            - text: 
+            - link "Notas de prensa y comunicados publicados" [ref=e40] [cursor=pointer]:
+              - /url: /dyngs/Prensa/notasPrensa.htm
+      - img "Logo Notas de prensa" [ref=e42]
+    - generic [ref=e43]: 28 de abril de 2026
+    - generic [ref=e44]:
+      - button "切" [ref=e45] [cursor=pointer]:
+        - generic [ref=e46]: 切
+      - button "p" [ref=e47] [cursor=pointer]:
+        - generic [ref=e48]: p
+    - heading "Encuesta de Población Activa (EPA)" [level=1] [ref=e49]
+    - generic [ref=e50]: Primer trimestre 2026
+    - article [ref=e51]:
+      - heading "Principales resultados" [level=2] [ref=e52]
+      - list [ref=e55]:
+        - listitem [ref=e56]: El número de ocupados disminuyó en 170.300 personas respecto al trimestre anterior y se situó en 22.293.000. En términos desestacionalizados la tasa de variación trimestral fue del 0,43%. El empleo creció en 527.600 personas en los 12 últimos meses.
+        - listitem [ref=e57]: El paro subió en 231.500 personas, hasta 2.708.600. En términos desestacionalizados descendió un 0,40%. En los 12 últimos meses se redujo en 80.600 personas.
+        - listitem [ref=e58]: La tasa de paro fue del 10,83% este trimestre, 90 centésimas más que en el anterior.
+        - listitem [ref=e59]: El número de activos creció en 61.200, hasta 25.001.600. En el último año aumentó en 447.000 personas.
+    - article [ref=e60]:
+      - heading "Más información" [level=2] [ref=e61]
+      - list [ref=e64]:
+        - listitem [ref=e65]:
+          - link "Enlace al anexo de tablas" [ref=e66] [cursor=pointer]:
+            - /url: /prensa/anexo_tablas/es/EPA1T26.zip
+            - text: Anexo de tablas
+          - text: (incluye información de CCAA y provincias) y
+          - link "Enlace a categorías especiales de inactivos" [ref=e67] [cursor=pointer]:
+            - /url: /daco/daco42/daco4211/categorias_especiales.xlsx
+            - text: categorías especiales de inactivos
+        - listitem [ref=e68]:
+          - link "Enlace a resultados detallados" [ref=e69] [cursor=pointer]:
+            - /url: /dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=resultados&idp=1254735976595
+            - text: Resultados detallados
+          - text: "y"
+          - link "Enlace a módulos especiales" [ref=e70] [cursor=pointer]:
+            - /url: /dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=resultados&idp=1254735976595#_tabs-1254736195124
+            - text: módulos especiales
+          - text: .
+          - link "Enlace a vídeos" [ref=e71] [cursor=pointer]:
+            - /url: /dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=enlaces&idp=1254735976595
+            - text: Vídeos
+          - text: e
+          - link "Enlace a infografías" [ref=e72] [cursor=pointer]:
+            - /url: https://public.tableau.com/views/INE_EPA/Dashboard?%3AshowVizHome=no
+            - text: infografías
+        - listitem [ref=e73]:
+          - link "Enlace a los resultados de la Estadística de Flujos de la población activa" [ref=e74] [cursor=pointer]:
+            - /url: /dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176907&menu=resultados&idp=1254735976595
+            - text: Resultados de la Estadística de Flujos de la población activa
+    - article [ref=e75]:
+      - generic [ref=e76]:
+        - paragraph [ref=e78]: El número de ocupados disminuyó en 170.300 personas en el primer trimestre de 2026 y se situó en 22.293.000. La tasa de variación trimestral fue del -0,76%.
+        - generic [ref=e79]:
+          - text: Variación de la ocupación en el primer trimestre respecto al cuarto del año anterior
+          - paragraph [ref=e82]: Miles de personas
+        - generic [ref=e83]:
+          - paragraph [ref=e84]: Por sexo, el empleo se redujo este trimestre en 80.100 hombres y en 90.200 mujeres. Por nacionalidad, bajó en 111.300 entre los españoles -incluye doble nacionalidad- y en 59.000 entre los extranjeros.
+          - paragraph [ref=e85]:
+            - text: Por sectores, la ocupación aumentó en la
+            - emphasis [ref=e86]: Industria
+            - text: (28.100 más), la
+            - emphasis [ref=e87]: Construcción
+            - text: (17.500) y la
+            - emphasis [ref=e88]: Agricultura
+            - text: (12.500). Y bajó en los
+            - emphasis [ref=e89]: Servicios
+            - text: (228.400 menos). Estas diferencias se han calculado de acuerdo con la clasificación CNAE 2009 (ver apartado Revisiones y actualización de datos).
+          - paragraph [ref=e90]: El empleo a tiempo completo disminuyó en 116.500 personas y el de tiempo parcial en 53.800. Por su parte, el número de asalariados bajó en 102.900 -los que tenían contrato indefinido se redujeron en 17.600 y los de contrato temporal en 85.400-. El número de trabajadores por cuenta propia descendió en 68.600 personas.
+          - paragraph [ref=e91]: El empleo privado bajó este trimestre en 191.400 personas, hasta 18.630.500, mientras que el empleo público aumentó en 21.100, hasta 3.662.500.
+          - paragraph [ref=e92]:
+            - text: En los 12 últimos meses el empleo aumentó en 527.600 personas (un 2,42%), con incrementos de 313.200 hombres y 214.400 mujeres. Por sectores, el mayor crecimiento se dio en los
+            - emphasis [ref=e93]: Servicios
+            - text: (253.800 ocupados más) -esta diferencia se ha calculado de acuerdo con la clasificación CNAE 2009 (ver apartado Revisiones y actualización de datos)-.
+          - paragraph [ref=e94]: El empleo a tiempo completo subió en 567.600 personas en los 12 últimos meses, mientras que el empleo a tiempo parcial disminuyó en 40.000. Por su parte, el empleo asalariado indefinido aumentó en 539.700 personas y el temporal en 17.200.
+    - article [ref=e95]:
+      - heading "Desempleo y tasa de paro" [level=2] [ref=e96]
+      - generic [ref=e97]:
+        - paragraph [ref=e99]: El número de parados subió este trimestre en 231.500 personas, hasta 2.708.600. La variación trimestral del desempleo fue del 9,34%.
+        - generic [ref=e100]:
+          - text: Variación del paro en el primer trimestre respecto al cuarto del año anterior
+          - paragraph [ref=e103]: Miles de personas
+        - generic [ref=e104]:
+          - paragraph [ref=e105]: La tasa de paro aumentó 90 centésimas y se situó en el 10,83%.
+          - paragraph [ref=e106]: Por sexo, el número de hombres en paro creció en 94.500 este trimestre y el de mujeres en 137.000. La tasa de paro femenina subió 1,11 puntos -hasta el 12,35%- y la masculina en 71 centésimas -hasta el 9,47%-.
+          - paragraph [ref=e107]: Por nacionalidad, el paro se incrementó entre los españoles -incluye doble nacionalidad- en 106.700 y entre los extranjeros en 124.800.
+          - paragraph [ref=e108]:
+            - text: El desempleo subió este trimestre en los
+            - emphasis [ref=e109]: Servicios
+            - text: (162.100 más), la
+            - emphasis [ref=e110]: Industria
+            - text: (13.000) y la
+            - emphasis [ref=e111]: Agricultura
+            - text: (9.500). Y disminuyó en la
+            - emphasis [ref=e112]: Construcción
+            - text: (11.700 menos). Estas diferencias se han calculado de acuerdo con la CNAE 2009 (ver apartado Revisiones y actualización de datos).
+          - paragraph [ref=e113]: El paro aumentó en 39.500 entre los que perdieron su empleo hace más de un año y en 19.200 entre las personas que buscan su primer empleo.
+          - paragraph [ref=e114]: En los 12 últimos meses la cifra total de desempleados se redujo en 80.600 personas (62.200 hombres y 18.400 mujeres menos). La variación anual fue del -2,89%.
+          - paragraph [ref=e115]:
+            - text: Por sectores, el desempleo disminuyó en el último año en la
+            - emphasis [ref=e116]: Construcción
+            - text: (22.700 menos), los
+            - emphasis [ref=e117]: Servicios
+            - text: (-6.000) y la
+            - emphasis [ref=e118]: Industria
+            - text: (-3.900), y casi no varió en la
+            - emphasis [ref=e119]: Agricultura
+            - text: (300). Estas diferencias se han calculado de acuerdo con la clasificación CNAE 2009 (ver apartado Revisiones y actualización de datos).
+          - paragraph [ref=e120]: Por su parte, el número de parados que ha perdido su empleo hace más de un año bajó en 42.000 y el de parados que buscan su primer empleo en 6.100.
+    - article [ref=e121]:
+      - heading "Población activa y tasa de actividad" [level=2] [ref=e122]
+      - generic [ref=e124]:
+        - paragraph [ref=e125]: La población activa creció en 61.200 personas en el primer trimestre de 2026 y se situó en 25.001.600. El número de mujeres activas se incrementó en 46.700 y el de hombres en 14.400.
+        - paragraph [ref=e126]: Por nacionalidad, el número de activos disminuyó en el último trimestre en 4.600 entre los españoles, mientras que aumentó en 65.800 entre los extranjeros.
+        - paragraph [ref=e127]: La tasa de actividad bajó ocho centésimas, hasta el 58,86%. La de los españoles descendió también ocho centésimas, hasta el 57,21% y la de los extranjeros se redujo 25 centésimas, hasta el 68,49%. La diferencia entre ambas se debe, fundamentalmente, a la diferente estructura por edades.
+        - paragraph [ref=e128]: En términos anuales, la población activa aumentó en 447.000 personas. La tasa de variación anual fue del 1,82%.
+    - article [ref=e129]:
+      - heading "Hogares" [level=2] [ref=e130]
+      - generic [ref=e132]:
+        - paragraph [ref=e133]: Los hogares con todos sus miembros activos en paro se incrementaron en 78.500 este trimestre, hasta 850.700. Por su parte, los que tenían a todos sus miembros activos ocupados disminuyeron en 121.300 y se situaron en 12.045.000.
+        - paragraph [ref=e134]: En los 12 últimos meses el número de hogares con al menos un activo en los que todos los activos están en paro se redujo en 32.200, mientras que los que tienen a todos sus activos ocupados aumentó en 263.200.
+    - article [ref=e135]:
+      - heading "Resultados por comunidades autónomas y datos provinciales" [level=2] [ref=e136]
+      - generic [ref=e138]:
+        - paragraph [ref=e139]: El mayor incremento de empleo este trimestre se dio en Canarias (17.000 más). Y el mayor descenso en Cataluña (-46.300).
+        - paragraph [ref=e140]: En términos relativos, el mayor aumento también se dio en Canarias (1,63%) -las cifras de empleo se presentan, como el resto de los datos EPA, en función de la comunidad autónoma de residencia de los entrevistados, no en función de la ubicación del centro de trabajo-.
+        - paragraph [ref=e141]: En cuanto al paro, la mayor bajada se registró en Canarias (-14.400). Y el mayor incremento en Cataluña (84.400 más).
+        - paragraph [ref=e142]: Cantabria (7,49%) registró la tasa de paro más baja este trimestre. Andalucía (14,66%), la más elevada.
+        - paragraph [ref=e143]:
+          - text: A nivel provincial, se puede acceder a un resumen de resultados en este
+          - link "Enlace al resumen provincial" [ref=e144] [cursor=pointer]:
+            - /url: /prensa/anexo_tablas/es/EPA1T26_PRO.xlsx
+            - text: documento
+          - text: y a toda la información disponible desde este
+          - link "Enlace a los resultados provinciales" [ref=e145] [cursor=pointer]:
+            - /url: /dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=resultados&idp=1254735976595
+            - text: enlace.
+    - article [ref=e146]:
+      - heading "Series desestacionalizadas" [level=2] [ref=e147]
+      - generic [ref=e148]:
+        - paragraph [ref=e150]: La tasa de variación trimestral del empleo en términos desestacionalizados fue del 0,43%.
+        - generic [ref=e151]:
+          - text: Tasa de variación trimestral de la ocupación desestacionalizada
+          - paragraph [ref=e154]: Porcentaje
+    - article [ref=e155]:
+      - generic [ref=e156]:
+        - paragraph [ref=e158]: En cuanto a los resultados desestacionalizados de paro, se observó un descenso del 0,40%.
+        - generic [ref=e159]:
+          - text: Tasa de variación trimestral del paro desestacionalizado
+          - paragraph [ref=e162]: Porcentaje
+        - paragraph [ref=e164]:
+          - text: El modelo de desestacionalización y las series de empleo y paro figuran en este
+          - link "Enlace al documento" [ref=e165] [cursor=pointer]:
+            - /url: /daco/daco42/daco4211/epa_desestacional.xlsx
+            - text: enlace.
+    - article [ref=e166]:
+      - heading "Revisiones y actualización de datos" [level=2] [ref=e167]
+      - generic [ref=e169]:
+        - paragraph [ref=e170]:
+          - text: A partir de este primer trimestre de 2026 la EPA ha empezado a codificar la actividad económica con la nueva Clasificación de Actividades CNAE-2025, de acuerdo con el
+          - link "Enlace a Reglamento" [ref=e171] [cursor=pointer]:
+            - /url: https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:32023R0137
+            - text: Reglamento Delegado (UE) 2023/137 de la Comisión
+          - text: .
+        - paragraph [ref=e172]: No obstante, durante los cuatro trimestres de este año se realizará una doble codificación de la actividad, incorporando tanto el código de la CNAE-2025 como el de la CNAE-2009, utilizada hasta el cuarto trimestre de 2025. Esto permitirá comparar los resultados con los trimestres anteriores y disponer de un año completo de enlace entre ambas clasificaciones.
+        - paragraph [ref=e173]:
+          - text: Con esta doble codificación en
+          - link "Enlace a INEbase" [ref=e174] [cursor=pointer]:
+            - /url: https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=resultados&idp=1254735976595
+            - text: INEbase
+          - text: se publicarán resultados obtenidos con ambas clasificaciones para los cuatro trimestres de 2026 -los de CNAE 2025 en el sitio habitual y los de CNAE 2009 en el subapartado de
+          - emphasis [ref=e175]: Resultados con clasificaciones o metodologías no vigentes-
+          - text: .
+        - paragraph [ref=e176]: En las notas de prensa de la EPA referidas a 2026 la información por sectores económicos utilizará la clasificación antigua en todos los trimestres, para mantener la comparabilidad con el trimestre previo y el mismo de 2025.
+        - paragraph [ref=e177]: Por su parte, en las notas de prensa referidas al primer trimestre de 2027 y a trimestres posteriores las comparaciones en los datos por sectores se realizarán utilizando la nueva CNAE 2025.
+        - paragraph [ref=e178]:
+          - text: Los datos publicados hoy son definitivos. Todos los resultados de esta operación están disponibles en
+          - link "Enlace a INEbase" [ref=e179] [cursor=pointer]:
+            - /url: /dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=resultados&idp=1254735976595
+            - text: INEbase
+          - text: .
+    - article [ref=e180]:
+      - heading "Nota sobre la utilización de la nueva CNAE 2025 en la codificación de la EPA" [level=2] [ref=e181]
+      - generic [ref=e183]:
+        - paragraph [ref=e184]: La adaptación a la nueva clasificación de actividades económicas de la Unión Europea ha provocado una nueva codificación de las variables de la EPA relativas a la rama de actividad a partir del primer trimestre de 2026.
+        - paragraph [ref=e185]: "Las variables objeto de esta nueva codificación son las siguientes:"
+        - list [ref=e186]:
+          - listitem [ref=e187]: Actividad del empleo principal de las personas ocupadas
+          - listitem [ref=e188]: Actividad del segundo empleo (ocupados con más de un empleo)
+          - listitem [ref=e189]: Actividad en el último empleo (parados e inactivos que han dejado su último empleo hace menos de un año)
+        - paragraph [ref=e190]: La transición de CNAE-2009 a CNAE-2025 implica una redistribución de algunas ramas de actividad entre los grandes sectores económicos. Así, actividades que antes se clasificaban íntegramente dentro de un sector pasan a dividirse entre varios.
+        - paragraph [ref=e191]:
+          - text: Por ejemplo, la rama
+          - emphasis [ref=e192]: Reparación e instalación de maquinaria y equipo
+          - text: ", que en la CNAE-2009 se adscribía al sector de la"
+          - emphasis [ref=e193]: Industria
+          - text: ", se reparte en la CNAE-2025 entre la"
+          - emphasis [ref=e194]: Industria
+          - text: ", la"
+          - emphasis [ref=e195]: Agricultura
+          - text: y los
+          - emphasis [ref=e196]: Servicios
+          - text: .
+        - paragraph [ref=e197]:
+          - text: De forma similar, las ramas
+          - emphasis [ref=e198]: Construcción de edificios
+          - text: ","
+          - emphasis [ref=e199]: Ingeniería civil
+          - text: "y"
+          - emphasis [ref=e200]: Actividades de construcción especializada
+          - text: dejan de pertenecer exclusivamente al sector de la
+          - emphasis [ref=e201]: Construcción
+          - text: y pasan a distribuirse parcialmente entre este sector y el de los
+          - emphasis [ref=e202]: Servicios
+          - text: .
+        - paragraph [ref=e203]:
+          - text: Y determinadas ramas de
+          - emphasis [ref=e204]: Servicios
+          - text: ", como"
+          - emphasis [ref=e205]: Almacenamiento y actividades anexas al transporte
+          - text: ","
+          - emphasis [ref=e206]: Otras actividades profesionales, científicas y técnicas
+          - text: "y"
+          - emphasis [ref=e207]: Actividades administrativas de oficina y otros servicios auxiliares a las empresas
+          - text: ", incorporan ahora componentes que se asignan a los sectores de la"
+          - emphasis [ref=e208]: Industria
+          - text: y de la
+          - emphasis [ref=e209]: Construcción
+          - text: .
+        - paragraph [ref=e210]:
+          - text: En la página web del INE figura la información completa sobre
+          - link "Enlace todos los cambios que provoca la nueva codificación de ramas de actividad" [ref=e211] [cursor=pointer]:
+            - /url: https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736177032&menu=ultiDatos&idp=1254735976614
+            - text: todos los cambios que provoca la nueva codificación de ramas de actividad
+          - text: .
+    - article [ref=e212]:
+      - heading "Nota metodológica" [level=2] [ref=e213]
+      - generic [ref=e215]:
+        - paragraph [ref=e216]: La Encuesta de Población Activa (EPA) se realiza desde 1964. Su metodología vigente -de 2021- adapta la anterior a la nueva normativa de la Encuesta Europea de Fuerza de Trabajo.
+        - paragraph [ref=e217]: Se trata de una investigación continua y de periodicidad trimestral dirigida a las familias, cuya finalidad principal es obtener datos de la fuerza de trabajo y de sus diversas categorías (ocupados, parados), así como de la población ajena al mercado laboral (inactivos).
+        - paragraph [ref=e218]: A partir del tercer trimestre de 2025 y resuelto el convenio suscrito con el Instituto Galego de Estatística (IGE) una vez transcurrido el plazo de vigencia, desaparece de la EPA la muestra adicional de Galicia integrada en la encuesta desde el tercer trimestre de 2009.
+        - generic [ref=e219]:
+          - term [ref=e220]: "Tipo de operación:"
+          - definition [ref=e221]: continua de periodicidad trimestral.
+          - term [ref=e222]: "Ámbito poblacional:"
+          - definition [ref=e223]: población que reside en viviendas familiares.
+          - term [ref=e224]: "Ámbito geográfico:"
+          - definition [ref=e225]: todo el territorio nacional.
+          - term [ref=e226]: "Periodo de referencia de los resultados:"
+          - definition [ref=e227]: el trimestre.
+          - term [ref=e228]: "Periodo de referencia de la información:"
+          - definition [ref=e229]: la semana anterior a la entrevista.
+          - term [ref=e230]: "Tamaño muestral:"
+          - definition [ref=e231]: El número de secciones censales es de 5.010. El promedio de viviendas seleccionadas por sección pasará de 14 a 15 y el aumento se realizará de manera paulatina, con las correspondientes renovaciones de cada sexta parte de la muestra, desde el primer trimestre de 2026 hasta el segundo de 2027. Desde el tercer trimestre de 2025 hay alrededor de 46.000 viviendas y 110.000 personas de muestra efectiva.
+          - term [ref=e232]: "Tipo de muestreo:"
+          - definition [ref=e233]: bietápico con estratificación en las unidades de primera etapa, que son las secciones censales. Las unidades de segunda etapa son viviendas familiares habitadas.
+          - term [ref=e234]: "Método de recogida:"
+          - definition [ref=e235]: entrevista personal, telefónica y vía web.
+        - paragraph [ref=e236]:
+          - text: Para más información se puede tener acceso a la
+          - link "Enlace a la metodología de la Encuesta de Población Activa" [ref=e237] [cursor=pointer]:
+            - /url: /inebaseDYN/epa30308/docs/resumetepa21.pdf
+            - text: metodología
+          - text: y al
+          - link "Enlace al informe metodológico de la EPA" [ref=e238] [cursor=pointer]:
+            - /url: /dynt3/metadatos/es/RespuestaDatos.html?oe=30308
+            - text: informe metodológico estandarizado.
+        - paragraph [ref=e239]:
+          - text: Las estadísticas del INE se elaboran de acuerdo con el Código de Buenas Prácticas de las Estadísticas Europeas. Más información en
+          - link "Enlace al Código de Buenas Prácticas" [ref=e240] [cursor=pointer]:
+            - /url: /dyngs/MYP/es/index.htm?cid=35
+            - text: Calidad en el INE y Código de Buenas Prácticas.
+    - generic [ref=e241]:
+      - generic [ref=e242]:
+        - generic [ref=e243]:
+          - text: Más información en
+          - button "Enlace a INEbase" [ref=e244] [cursor=pointer]:
+            - img "Inicio INEbase" [ref=e245]
+        - generic [ref=e246]:
+          - text: Cuenta oficial del INE en
+          - button "Enlace a X" [ref=e247] [cursor=pointer]:
+            - generic [ref=e248]: 
+            - text: "@es_ine"
+      - generic [ref=e249]:
+        - term [ref=e250]: "Todas las notas de prensa en:"
+        - definition [ref=e251]:
+          - link "Enlace a Prensa" [ref=e252] [cursor=pointer]:
+            - /url: /prensa/prensa.htm
+            - text: www.ine.es/prensa/prensa.htm
+        - term [ref=e253]:
+          - generic [ref=e254] [cursor=pointer]: 
+          - text: "Gabinete de prensa:"
+        - definition [ref=e255]:
+          - link "Número de teléfono de Gabinete de prensa" [ref=e256] [cursor=pointer]:
+            - /url: tel:915839363
+            - text: 91 583 93 63
+          - text: /
+          - link "Número de teléfono de Gabinete de prensa" [ref=e257] [cursor=pointer]:
+            - /url: tel:661944540
+            - text: 661 944 540
+          - text: /
+          - link "Otro número de teléfono de Gabinete de prensa" [ref=e258] [cursor=pointer]:
+            - /url: tel:678168837
+            - text: 678 168 837
+          - text: –
+          - link "Escribir correo a Gabinete de prensa" [ref=e259] [cursor=pointer]:
+            - /url: mailto:gprensa@ine.es
+            - text: gprensa@ine.es
+        - term [ref=e260]:
+          - generic [ref=e261] [cursor=pointer]: 
+          - text: "Área de información:"
+        - definition [ref=e262]:
+          - link "Número de teléfono del área de información" [ref=e263] [cursor=pointer]:
+            - /url: tel:915839100
+            - text: 91 583 91 00
+          - text: –
+          - link "Enlace a Infoine" [ref=e264] [cursor=pointer]:
+            - /url: /infoine
+            - text: www.ine.es/infoine/
+  - contentinfo [ref=e265]:
+    - generic [ref=e266]:
+      - list [ref=e268]:
+        - listitem [ref=e269]:
+          - link " Contacto" [ref=e270] [cursor=pointer]:
+            - /url: /infoine/
+            - generic [ref=e271]: 
+            - strong [ref=e272]: Contacto
+        - listitem [ref=e273]:
+          - link "Mapa web" [ref=e274] [cursor=pointer]:
+            - /url: /indiceweb.htm
+        - listitem [ref=e275]:
+          - link "Aviso legal" [ref=e276] [cursor=pointer]:
+            - /url: /dyngs/AYU/index.htm?cid=125
+        - listitem [ref=e277]:
+          - link "Accesibilidad" [ref=e278] [cursor=pointer]:
+            - /url: /dyngs/AYU/index.htm?cid=127
+        - listitem [ref=e279]:
+          - link "Prensa" [ref=e280] [cursor=pointer]:
+            - /url: /prensa/seccion_prensa.htm
+        - listitem [ref=e281]:
+          - link "Clasificaciones y estándares" [ref=e282] [cursor=pointer]:
+            - /url: /dyngs/MYP/index.htm?cid=1
+        - listitem [ref=e283]:
+          - link "Nuevos proyectos" [ref=e284] [cursor=pointer]:
+            - /url: /dyngs/MYP/index.htm?cid=10
+      - list [ref=e286]:
+        - listitem [ref=e287]:
+          - link "El INE" [ref=e288] [cursor=pointer]:
+            - /url: /dyngs/INE/index.htm?cid=498
+        - listitem [ref=e289]:
+          - link "Transparencia" [ref=e290] [cursor=pointer]:
+            - /url: /dyngs/INE/index.htm?cid=401
+        - listitem [ref=e291]:
+          - link "Organización Estadística en España" [ref=e292] [cursor=pointer]:
+            - /url: /dyngs/INE/index.htm?cid=581
+        - listitem [ref=e293]:
+          - link "Calidad" [ref=e294] [cursor=pointer]:
+            - /url: /dyngs/MYP/es/index.htm?cid=35
+        - listitem [ref=e295]:
+          - link "Sistema Estadístico Europeo" [ref=e296] [cursor=pointer]:
+            - /url: /dyngs/INE/index.htm?cid=542
+      - list [ref=e298]:
+        - listitem [ref=e299]:
+          - link "Formación y empleo" [ref=e300] [cursor=pointer]:
+            - /url: /dyngs/FYE/index.htm?cid=1791
+        - listitem [ref=e301]:
+          - link "Prácticas universitarias" [ref=e302] [cursor=pointer]:
+            - /url: /dyngs/FYE/es/index.htm?cid=1802
+        - listitem [ref=e303]:
+          - link "Becas" [ref=e304] [cursor=pointer]:
+            - /url: /dyngs/FYE/es/index.htm?cid=1802
+        - listitem [ref=e305]:
+          - link "Oposiciones" [ref=e306] [cursor=pointer]:
+            - /url: /dyngs/FYE/index.htm?cid=166
+        - listitem [ref=e307]:
+          - link "Explica" [ref=e308] [cursor=pointer]:
+            - /url: /explica/explica.htm
+      - list [ref=e310]:
+        - listitem [ref=e311]:
+          - link "Atención al público" [ref=e312] [cursor=pointer]:
+            - /url: /dyngs/SER/index.htm?cid=1550
+        - listitem [ref=e313]:
+          - link "Datos abiertos" [ref=e314] [cursor=pointer]:
+            - /url: /dyngs/DAB/es/index.htm?cid=1722
+        - listitem [ref=e315]:
+          - link "Catalogo de Publicaciones" [ref=e316] [cursor=pointer]:
+            - /url: /dyngs/PUB/index.htm?cid=1440
+            - text: Publicaciones
+        - listitem [ref=e317]:
+          - link "Carta de servicios" [ref=e318] [cursor=pointer]:
+            - /url: /dyngs/SER/index.htm?cid=1391
+      - list [ref=e320]:
+        - listitem [ref=e321]: Síguenos
+        - listitem [ref=e322]:
+          - link " X" [ref=e323] [cursor=pointer]:
+            - /url: https://twitter.com/es_ine
+        - listitem [ref=e324]:
+          - link " Youtube" [ref=e325] [cursor=pointer]:
+            - /url: https://www.youtube.com/INEDifusion
+        - listitem [ref=e326]:
+          - link " Instagram" [ref=e327] [cursor=pointer]:
+            - /url: https://www.instagram.com/es_ine_/
+        - listitem [ref=e328]:
+          - link " LinkedIn" [ref=e329] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/ine-es
+        - listitem [ref=e330]:
+          - link " Canal RSS" [ref=e331] [cursor=pointer]:
+            - /url: /dyngs/AYU/index.htm?cid=1303
+        - listitem [ref=e332]:
+          - link " GitHub" [ref=e333] [cursor=pointer]:
+            - /url: https://github.com/es-ine
+      - paragraph [ref=e335]:
+        - generic [ref=e336]:
+          - text: © 2026
+          - link "INE. Instituto Nacional de Estadística" [ref=e337] [cursor=pointer]:
+            - /url: https://www.ine.es/
+          - link " " [ref=e338] [cursor=pointer]:
+            - /url: https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1
+            - generic [ref=e339]: 
+            - generic [ref=e340]: 
+        - text: "Avda. Manoteras, 52 - 28050 - Madrid - España Tlf: (+34) 91 583 91 00"
+    - button "Botón para volver arriba":
+      - generic [ref=e341] [cursor=pointer]: 

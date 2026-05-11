@@ -4,7 +4,7 @@
 **Confianza**: MUY ALTA (5/6 fuentes confirman)
 **Prioridad CEO**: P1 (accion sobre activo existente)
 **Fecha creacion**: 2026-04-09
-**Ultima actualizacion**: 2026-04-09
+**Ultima actualizacion**: 2026-04-17 (v2 — W16: DaVinci 21 gratis con 7 IA, AI video editor explosion, perfil motion+IA emergente)
 
 ---
 
@@ -67,6 +67,36 @@ Motion Graphics no es un cluster de producto nuevo — es un activo existente en
 ## Decision CEO
 
 **ACCION INMEDIATA — No requiere Fase 2** (no es producto nuevo). Reclasificar, actualizar temario y reposicionar marketing. Este es dinero en la mesa.
+
+## Actualizacion 2026-04-17 — Sintesis W16 (v2)
+
+### Nuevas senales W16
+
+- **Motion graphics designer LinkedIn ES**: 95 vacantes (primera medicion comparable D5)
+- **AI video editor LinkedIn ES**: 100+ (cap, >+117% en 5 dias) — refuerza perfil motion+IA
+- **"Video, AI & Motion Designer"** (Perez-Solero via Domestika): 7 dias activa sin cubrir — senal de dificultad reclutamiento para perfil motion+IA
+- **DaVinci Resolve 21**: beta publica gratis con 7 herramientas IA nativas. Herramienta formativa ideal para stack motion+IA
+- **Adobe Premiere Color Mode**: grading dedicado 32-bit — comprime ventaja historica DaVinci pero refuerza ecosistema Adobe
+- **Domestika commoditiza motion IA**: cursos Kling, Veo3, Seedance, Higgsfield (15-40 EUR). 35mm diferencia por profundidad de proyecto real
+
+### Perfil emergente: Motion Designer IA-Native
+
+Suficiente evidencia W16 para posicionar "Motion Designer IA-Native" como perfil de salida profesional del curso Motion Graphics actualizado:
+- 3 employers IA contratando perfiles motion en ES (ElevenLabs, Growmodo, Perez-Solero)
+- AI video editor en explosion (100+ cap LinkedIn)
+- 13 herramientas IA en JDs audiovisuales
+- DaVinci Resolve 21 con IA nativa como herramienta de base
+
+### Stack herramientas actualizado (propuesta W16)
+
+| Herramienta | Categoria | Estado en curriculo |
+|-------------|----------|-------------------|
+| After Effects | Core | Existente — mantener |
+| Blender | Core | Existente — mantener |
+| **DaVinci Resolve 21** | Core (nuevo) | **ANADIR** — gratis, 7 IA tools, supera Final Cut en JDs |
+| **Runway Gen-4.5** | IA premium | **ANADIR** — motion IA generativo |
+| **Adobe Firefly** | IA ecosystem | **ANADIR** — acceso 30+ modelos IA |
+| Plugins IA After Effects | IA complemento | **ANADIR** — integracion en workflow existente |
 
 ---
 

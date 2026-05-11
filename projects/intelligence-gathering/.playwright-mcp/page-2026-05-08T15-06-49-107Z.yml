@@ -1,0 +1,253 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - link "SHIFTA by Elisava" [ref=e6] [cursor=pointer]:
+        - /url: https://weareshifta.com
+        - img "escuela online de creadores digitales" [ref=e9]
+        - img "Elisava" [ref=e11]
+    - generic [ref=e17]:
+      - main:
+        - generic [ref=e18]:
+          - generic [ref=e19]:
+            - heading "Posgrados." [level=1] [ref=e21]
+            - generic [ref=e22]:
+              - generic [ref=e23]: Posgrados online
+              - generic [ref=e24]:
+                - paragraph [ref=e25]:
+                  - text: Los
+                  - strong [ref=e26]: Posgrados online
+                  - text: de SHIFTA son programas formativos de 30 ECTS respaldados por Elisava y la UVic-UCC, que proporcionan una especialización en una disciplina creativa gracias a la adquisición de nuevos conocimientos y habilidades concretos.
+                - paragraph [ref=e27]
+                - paragraph [ref=e28]: ¡Escoge el que más te encaje!
+            - generic [ref=e29]:
+              - generic [ref=e31] [cursor=pointer]:
+                - img "Master Creatividad Publicitaria" [ref=e33]
+                - generic [ref=e34]:
+                  - link "Posgrado en Creatividad Publicitaria" [ref=e35]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-creatividad-publicitaria/
+                  - generic [ref=e36]: "Inicio: 25 de mayo 2026."
+              - generic [ref=e38] [cursor=pointer]:
+                - img "Front End" [ref=e40]
+                - generic [ref=e41]:
+                  - link "Posgrado en Desarrollo Front End para Diseñadores" [ref=e42]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-frontend-para-disenadores/
+                  - generic [ref=e43]: "Inicio: 25 de mayo 2026."
+              - generic [ref=e45] [cursor=pointer]:
+                - img "Service_Design" [ref=e47]
+                - generic [ref=e48]:
+                  - link "Posgrado en Service Design" [ref=e49]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-service-design-y-design-thinking/
+                  - generic [ref=e50]: "Inicio: 19 de octubre 2026."
+              - generic [ref=e52] [cursor=pointer]:
+                - img "Liderazgo de equipos" [ref=e54]
+                - generic [ref=e55]:
+                  - link "Posgrado en Liderazgo y Estrategia de Negocios Creativos" [ref=e56]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-liderazgo-estrategia-negocios-creativos/
+                  - generic [ref=e57]: "Inicio: 25 de mayo 2026."
+              - generic [ref=e59] [cursor=pointer]:
+                - img "Posgrado Vídeo, audio e interactividad con Inteligencia Artificial" [ref=e61]
+                - generic [ref=e62]:
+                  - link "Posgrado en Producción Audiovisual con Inteligencia Artificial" [ref=e63]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-produccion-audiovisual-ia/
+                  - generic [ref=e64]: "Inicio: 19 de octubre 2026."
+              - generic [ref=e66] [cursor=pointer]:
+                - img "Posgrado Contenidos Visuales" [ref=e68]
+                - generic [ref=e69]:
+                  - link "Posgrado en Contenido Visual y Creativo" [ref=e70]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-contenido-visual-creativo/
+                  - generic [ref=e71]: "Inicio: 19 de octubre 2026."
+              - generic [ref=e73] [cursor=pointer]:
+                - img "Posgrado Gestión de Producto Digital" [ref=e75]
+                - generic [ref=e76]:
+                  - link "Posgrado en Gestión Estratégica de Producto Digital" [ref=e77]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-gestion-producto-digital/
+                  - generic [ref=e78]: "Inicio: 25 de mayo 2026."
+              - generic [ref=e80] [cursor=pointer]:
+                - img "Posgrado diseño del espacio interior para vivienda y trabajo" [ref=e82]
+                - generic [ref=e83]:
+                  - link "Posgrado en Diseño de Espacios para vivienda y trabajo" [ref=e84]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-diseno-espacio-vivienda-trabajo/
+                  - generic [ref=e85]: "Inicio: 19 de octubre 2026."
+              - generic [ref=e87] [cursor=pointer]:
+                - img "Posgrado Diseño de Espacios Comerciales" [ref=e89]
+                - generic [ref=e90]:
+                  - link "Posgrado en Diseño de Espacios Comerciales" [ref=e91]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-diseno-de-espacios-comerciales/
+                  - generic [ref=e92]: "Inicio: 19 de octubre 2026."
+              - generic [ref=e94] [cursor=pointer]:
+                - img "Posgrado en Diseño Espacios Hoteleros y Gastronómicos" [ref=e96]
+                - generic [ref=e97]:
+                  - link "Posgrado en Diseño de Espacios Hoteleros y Gastronómicos" [ref=e98]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-diseno-espacios-hoteleros-gastronomicos/
+                  - generic [ref=e99]: "Inicio: 19 de octubre 2026."
+              - generic [ref=e101] [cursor=pointer]:
+                - img "Posgrado Comunicación de Marca" [ref=e103]
+                - generic [ref=e104]:
+                  - link "Posgrado en Comunicación de Marca" [ref=e105]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-comunicacion-de-marca/
+                  - generic [ref=e106]: "Inicio: 19 de octubre 2026."
+              - generic [ref=e108] [cursor=pointer]:
+                - img "Posgrado en Estrategia de Marca" [ref=e110]
+                - generic [ref=e111]:
+                  - link "Posgrado en Estrategia de Marca" [ref=e112]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-estrategia-de-marca/
+                  - generic [ref=e113]: "Inicio: 25 de mayo 2026."
+              - generic [ref=e115] [cursor=pointer]:
+                - img "Posgrado Creatividad Visual con IA" [ref=e117]
+                - generic [ref=e118]:
+                  - link "Posgrado en Creatividad Visual con Inteligencia Artificial" [ref=e119]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-creatividad-visual-ia/
+                  - generic [ref=e120]: "Inicio: 25 de mayo 2026."
+              - generic [ref=e122] [cursor=pointer]:
+                - img "Posgrado diseño packaging" [ref=e124]
+                - generic [ref=e125]:
+                  - link "Posgrado en Diseño de Packaging" [ref=e126]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-diseno-de-packaging/
+                  - generic [ref=e127]: "Inicio: 25 de mayo 2026."
+              - generic [ref=e129] [cursor=pointer]:
+                - img "Posgrado en Business Innovation y Liderazgo en Diseño" [ref=e131]
+                - generic [ref=e132]:
+                  - link "Posgrado en Business Innovation" [ref=e133]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-business-innovation-y-liderazgo-en-diseno/
+                  - generic [ref=e134]: "Inicio: 25 de mayo 2026."
+              - generic [ref=e136] [cursor=pointer]:
+                - img "Posgrado en Diseño e Identidad de Marca" [ref=e138]
+                - generic [ref=e139]:
+                  - link "Posgrado en Diseño e Identidad de Marca" [ref=e140]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-diseno-identidad-marca/
+                  - generic [ref=e141]: "Inicio: 19 de octubre 2026."
+              - generic [ref=e143] [cursor=pointer]:
+                - img "branded content" [ref=e145]
+                - generic [ref=e146]:
+                  - link "Posgrado en Branded Content" [ref=e147]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-branded-content/
+                  - generic [ref=e148]: "Inicio: 19 de octubre 2026."
+              - generic [ref=e150] [cursor=pointer]:
+                - img "Posgrado Product Operations" [ref=e152]
+                - generic [ref=e153]:
+                  - link "Posgrado en Product Operations" [ref=e154]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-product-operations/
+                  - generic [ref=e155]: "Inicio: 19 de octubre 2026."
+              - generic [ref=e157] [cursor=pointer]:
+                - img "Posgrado Product Marketing" [ref=e159]
+                - generic [ref=e160]:
+                  - link "Posgrado en Digital Product Marketing" [ref=e161]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-product-marketing/
+                  - generic [ref=e162]: "Inicio: 19 de octubre 2026."
+              - generic [ref=e164] [cursor=pointer]:
+                - img "Posgrado en Narrativa y Estética Visual" [ref=e166]
+                - generic [ref=e167]:
+                  - link "Posgrado en Narrativa y Estética Visual" [ref=e168]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-narrativa-estetica-visual/
+                  - generic [ref=e169]: "Inicio: 25 de mayo 2026."
+              - generic [ref=e171] [cursor=pointer]:
+                - img "Gestión de equipos y proyectos" [ref=e173]
+                - generic [ref=e174]:
+                  - link "Posgrado en Gestión de equipos y proyectos creativos" [ref=e175]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-gestion-equipos-y-proyectos-creativos/
+                  - generic [ref=e176]: "Inicio: 19 de octubre 2026."
+              - generic [ref=e178] [cursor=pointer]:
+                - img "Posgrado en Motion Graphics" [ref=e180]
+                - generic [ref=e181]:
+                  - link "Posgrado en Motion Graphics" [ref=e182]:
+                    - /url: https://weareshifta.com/formaciones/posgrado-en-motion-graphics/
+                  - generic [ref=e183]: "Inicio: 25 de mayo 2026."
+          - contentinfo [ref=e184]:
+            - generic [ref=e185]:
+              - heading "Newsletter SHIFTA" [level=5] [ref=e186]
+              - generic [ref=e187]:
+                - generic [ref=e188]:
+                  - list
+                - form "Formulario de contacto" [ref=e189]:
+                  - paragraph [ref=e190]:
+                    - textbox "Escribe tu email" [ref=e192]
+                  - paragraph [ref=e194]:
+                    - generic [ref=e198]:
+                      - checkbox "He leído y acepto la Política de privacidad" [ref=e200] [cursor=pointer]
+                      - generic [ref=e201]:
+                        - text: He leído y acepto la
+                        - link "Política de privacidad" [ref=e202] [cursor=pointer]:
+                          - /url: /politica-privacidad/
+                    - generic [ref=e206]:
+                      - checkbox "Acepto recibir comunicaciones de SHIFTA" [ref=e208] [cursor=pointer]
+                      - generic [ref=e209]: Acepto recibir comunicaciones de SHIFTA
+                  - generic [ref=e210]:
+                    - paragraph
+                    - button "Suscribirme" [disabled] [ref=e211]
+                    - paragraph
+            - generic [ref=e213]:
+              - list [ref=e216]:
+                - listitem [ref=e217]:
+                  - link "Másters Online" [ref=e218] [cursor=pointer]:
+                    - /url: https://weareshifta.com/masters/
+                - listitem [ref=e219]:
+                  - link "Posgrados" [ref=e220] [cursor=pointer]:
+                    - /url: https://weareshifta.com/posgrados/
+                - listitem [ref=e221]:
+                  - link "Cursos" [ref=e222] [cursor=pointer]:
+                    - /url: https://weareshifta.com/cursos/
+                - listitem [ref=e223]:
+                  - link "Cápsulas" [ref=e224] [cursor=pointer]:
+                    - /url: https://weareshifta.com/capsulas/
+                - listitem [ref=e225]:
+                  - link "Comunidad" [ref=e226] [cursor=pointer]:
+                    - /url: https://weareshifta.com/comunidad/
+                - listitem [ref=e227]:
+                  - link "Blog" [ref=e228] [cursor=pointer]:
+                    - /url: https://weareshifta.com/blog/
+                - listitem [ref=e229]:
+                  - link "Sobre SHIFTA" [ref=e230] [cursor=pointer]:
+                    - /url: https://weareshifta.com/sobre-shifta/
+                - listitem [ref=e231]:
+                  - link "Contáctanos" [ref=e232] [cursor=pointer]:
+                    - /url: https://weareshifta.com/contactanos/
+              - list [ref=e235]:
+                - listitem [ref=e236]:
+                  - link "Instagram" [ref=e237] [cursor=pointer]:
+                    - /url: https://www.instagram.com/weareshifta/
+                - listitem [ref=e238]:
+                  - link "X" [ref=e239] [cursor=pointer]:
+                    - /url: https://twitter.com/weareshifta
+                - listitem [ref=e240]:
+                  - link "Facebook" [ref=e241] [cursor=pointer]:
+                    - /url: https://www.facebook.com/weareshifta/
+                - listitem [ref=e242]:
+                  - link "YouTube" [ref=e243] [cursor=pointer]:
+                    - /url: https://www.youtube.com/c/SHIFTAEscuelaOnlineCreadoresDigitales
+                - listitem [ref=e244]:
+                  - link "Vimeo" [ref=e245] [cursor=pointer]:
+                    - /url: https://vimeo.com/weareshifta
+                - listitem [ref=e246]:
+                  - link "LinkedIn" [ref=e247] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/school/shifta/
+            - generic [ref=e248]:
+              - text: W +34 638 600 955
+              - text: T +34 638 600 955
+              - text: hola@weareshifta.com
+              - text: Pl. de Pau Vila, 1, 08003
+              - text: (Barcelona)
+            - img "Elisava" [ref=e250]
+  - complementary [active]:
+    - dialog "Configuración de privacidad" [ref=e255]:
+      - generic [ref=e257]:
+        - generic [ref=e258]:
+          - heading "Configuración de privacidad" [level=2] [ref=e259]
+          - generic: Este sitio utiliza tecnologías de seguimiento de sitios web de terceros para proporcionar y mejorar continuamente nuestros servicios, y para mostrar anuncios de acuerdo con los intereses de los usuarios. Estoy de acuerdo y puedo revocar o cambiar mi consentimiento en cualquier momento en el futuro.
+        - button "Más información" [ref=e261] [cursor=pointer]
+        - generic [ref=e262]:
+          - generic [ref=e263] [cursor=pointer]:
+            - generic: Marketing
+            - switch "Marketing" [ref=e264]
+          - generic [ref=e265] [cursor=pointer]:
+            - generic: Funcional
+            - switch "Funcional" [ref=e266]
+          - generic [ref=e267]:
+            - generic: Esencial
+            - switch [checked] [disabled] [ref=e268]
+      - generic [ref=e269]:
+        - generic [ref=e271]:
+          - button "Guardar configuración" [ref=e272] [cursor=pointer]
+          - button "Denegar" [ref=e273] [cursor=pointer]
+          - button "Aceptar todo" [ref=e274] [cursor=pointer]
+        - link "Powered by Usercentrics Consent Management" [ref=e276] [cursor=pointer]:
+          - /url: https://usercentrics.com/es/consent-management-platform-powered-by-usercentrics/?utm_source=banner_uc&utm_medium=referral&utm_content=v3

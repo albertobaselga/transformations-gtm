@@ -1,0 +1,59 @@
+- generic [active] [ref=e1]:
+  - heading "Choose your region" [level=1] [ref=e5]
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - heading "Europe" [level=3] [ref=e8]
+      - generic [ref=e9]:
+        - link "Austria | Österreich" [ref=e10] [cursor=pointer]:
+          - /url: https://www.sae.edu/aut/
+        - link "France" [ref=e11] [cursor=pointer]:
+          - /url: https://www.sae.edu/fra/
+        - link "Germany | Deutschland" [ref=e12] [cursor=pointer]:
+          - /url: https://www.sae.edu/deu/
+        - link "Greece | Ελλάδα" [ref=e13] [cursor=pointer]:
+          - /url: https://www.sae.edu/grc/
+        - link "Italy | Italia" [ref=e14] [cursor=pointer]:
+          - /url: https://www.sae.edu/ita/
+        - link "Netherlands" [ref=e15] [cursor=pointer]:
+          - /url: https://www.sae.edu/nld/
+        - link "Serbia" [ref=e16] [cursor=pointer]:
+          - /url: https://belgrade.sae.edu/
+        - link "Spain | España" [ref=e17] [cursor=pointer]:
+          - /url: https://www.sae.edu/esp/
+        - link "Switzerland | Schweiz (Zürich)" [ref=e18] [cursor=pointer]:
+          - /url: https://www.sae.edu/che/
+        - link "Switzerland | Suisse (Genève)" [ref=e19] [cursor=pointer]:
+          - /url: https://www.sae.edu/ch-ge/
+        - link "United Kingdom" [ref=e20] [cursor=pointer]:
+          - /url: https://www.sae.edu/gbr/
+    - generic [ref=e21]:
+      - heading "Pacific" [level=3] [ref=e22]
+      - generic [ref=e23]:
+        - link "Australia" [ref=e24] [cursor=pointer]:
+          - /url: https://sae.edu.au/
+        - link "New Zealand" [ref=e25] [cursor=pointer]:
+          - /url: https://auckland.sae.edu/
+    - generic [ref=e26]:
+      - heading "North and South America" [level=3] [ref=e27]
+      - generic [ref=e28]:
+        - link "Canada" [ref=e29] [cursor=pointer]:
+          - /url: https://canada.sae.edu/
+        - link "Mexico" [ref=e30] [cursor=pointer]:
+          - /url: https://mexico.sae.edu/
+        - link "United States" [ref=e31] [cursor=pointer]:
+          - /url: https://usa.sae.edu/
+    - generic [ref=e32]:
+      - heading "Middle East" [level=3] [ref=e33]
+      - generic [ref=e34]:
+        - link "Jordan | الأردن" [ref=e35] [cursor=pointer]:
+          - /url: https://jordan.sae.edu/
+        - link "United Arab Emirates" [ref=e36] [cursor=pointer]:
+          - /url: https://dubai.sae.edu/
+    - generic [ref=e37]:
+      - heading "Africa" [level=3] [ref=e38]
+      - link "South Africa" [ref=e40] [cursor=pointer]:
+        - /url: https://www.sae.edu.za/
+    - generic [ref=e41]:
+      - heading "Asia" [level=3] [ref=e42]
+      - link "Indonesia" [ref=e44] [cursor=pointer]:
+        - /url: https://indonesia.sae.edu/id/

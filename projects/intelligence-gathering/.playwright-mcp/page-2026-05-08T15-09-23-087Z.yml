@@ -1,0 +1,557 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e6]:
+      - navigation "Utility menu"
+    - generic [ref=e7]:
+      - banner [ref=e8]:
+        - generic [ref=e9]:
+          - link "ECAM" [ref=e12] [cursor=pointer]:
+            - /url: https://ecam.es/
+            - img "ECAM" [ref=e13]
+          - generic [ref=e14]:
+            - button "Open mobile menu Close mobile menu" [ref=e16] [cursor=pointer]:
+              - generic [ref=e20]: Open mobile menu
+              - generic [ref=e21]: Close mobile menu
+            - text: MENU
+      - main [ref=e22]:
+        - generic [ref=e28]:
+          - generic [ref=e34]:
+            - heading "ADMISIÓN" [level=1] [ref=e35]:
+              - generic [ref=e36]: ADMISIÓN
+            - heading "Másteres" [level=2] [ref=e37]:
+              - generic [ref=e38]: Másteres
+          - paragraph [ref=e46]: Convocatoria abierta
+          - generic [ref=e51]:
+            - heading "Proceso de admisión" [level=2] [ref=e52]:
+              - generic [ref=e53]: Proceso de admisión
+            - generic [ref=e54]:
+              - generic [ref=e57]:
+                - figure [ref=e58]:
+                  - img "SOLICITUD DE INFORMACIÓN" [ref=e60]
+                - generic [ref=e62]: SOLICITUD DE INFORMACIÓN
+                - paragraph [ref=e65]: Solicita información en el formulario que encontrarás a continuación.
+              - generic [ref=e68]:
+                - figure [ref=e69]:
+                  - img "INSCRIPCIÓN" [ref=e71]
+                - generic [ref=e73]: INSCRIPCIÓN
+                - paragraph [ref=e76]: El departamento de admisiones te hará llegar toda la información relativa al Máster, así como la documentación que deberás de entregar.
+              - generic [ref=e79]:
+                - figure [ref=e80]:
+                  - img "ENTREVISTA PERSONAL" [ref=e82]
+                - generic [ref=e84]: ENTREVISTA PERSONAL
+                - paragraph [ref=e87]: Todos los aspirantes deberán de realizar una entrevista presencial u online.
+              - generic [ref=e90]:
+                - figure [ref=e91]:
+                  - img "ADMISIÓN Y RESERVA DE PLAZA" [ref=e93]
+                - generic [ref=e95]: ADMISIÓN Y RESERVA DE PLAZA
+                - paragraph [ref=e98]: Una vez admitido/a tendrás que realizar una reserva de tu plaza para el próximo curso.
+            - generic [ref=e99]:
+              - generic [ref=e102]:
+                - figure [ref=e103]:
+                  - img "MATRÍCULA" [ref=e105]
+                - generic [ref=e107]: MATRÍCULA
+                - paragraph [ref=e110]: Deberás de realizar la matrícula en los plazos indicados por el departamento de admisiones.
+              - generic [ref=e113]:
+                - figure [ref=e114]:
+                  - img "¡YA FORMAS PARTE DE LA COMUNIDAD ECAM!" [ref=e116]
+                - generic [ref=e118]: ¡YA FORMAS PARTE DE LA COMUNIDAD ECAM!
+                - paragraph [ref=e121]: Como alumno/a de la ECAM recibirás toda la información para comenzar tus estudios.
+          - generic [ref=e125]:
+            - heading "Reserva de plaza" [level=2] [ref=e126]:
+              - generic [ref=e127]: Reserva de plaza
+            - paragraph [ref=e130]: La reserva de plaza se abonará en el plazo de 10 días naturales tras la confirmación vía email de la aceptación de la candidatura por parte del departamento de admisiones. El importe de la reserva de plaza no es reembolsable en caso de anulación, pero sí será descontado de la cantidad total de la matrícula.
+          - generic [ref=e138]:
+            - group [ref=e139]:
+              - heading "Datos personales" [level=3] [ref=e141]
+            - group [ref=e142]:
+              - generic [ref=e143]:
+                - generic [ref=e144]: Nombre*
+                - textbox "Nombre*" [ref=e146]:
+                  - /placeholder: ""
+              - generic [ref=e147]:
+                - generic [ref=e148]: Primer apellido*
+                - textbox "Primer apellido*" [ref=e150]:
+                  - /placeholder: ""
+              - generic [ref=e151]:
+                - generic [ref=e152]: Segundo apellido
+                - textbox "Segundo apellido" [ref=e154]:
+                  - /placeholder: ""
+            - group [ref=e155]:
+              - generic [ref=e156]:
+                - generic [ref=e157]: Correo*
+                - textbox "Correo*" [ref=e159]:
+                  - /placeholder: ""
+              - generic [ref=e160]:
+                - generic [ref=e161]: Número de teléfono*
+                - textbox "Número de teléfono*" [ref=e163]:
+                  - /placeholder: ""
+            - group [ref=e164]:
+              - generic [ref=e165]:
+                - generic [ref=e166]: DNI*
+                - textbox "DNI*" [ref=e168]:
+                  - /placeholder: ""
+              - generic [ref=e169]:
+                - generic [ref=e170]: Genero persona*
+                - combobox "Genero persona*" [ref=e172]:
+                  - option "Selecciona" [disabled] [selected]
+                  - option "Hombre"
+                  - option "Mujer"
+                  - option "Otros"
+            - group [ref=e173]:
+              - generic [ref=e174]:
+                - generic [ref=e175]: Fecha de nacimiento*
+                - textbox "Fecha de nacimiento*" [ref=e178]
+              - generic [ref=e179]:
+                - generic [ref=e180]: Nacionalidad*
+                - textbox "Nacionalidad*" [ref=e182]:
+                  - /placeholder: ""
+            - group [ref=e183]:
+              - generic [ref=e184]:
+                - generic [ref=e185]: País nacimiento*
+                - combobox "País nacimiento*" [ref=e187]:
+                  - option "Selecciona" [disabled] [selected]
+                  - option "Afganistán"
+                  - option "Albania"
+                  - option "Alemania"
+                  - option "Andorra"
+                  - option "Angola"
+                  - option "Antigua y Barbuda"
+                  - option "Arabia Saudita"
+                  - option "Argelia"
+                  - option "Argentina"
+                  - option "Armenia"
+                  - option "Australia"
+                  - option "Austria"
+                  - option "Azerbaiyán"
+                  - option "Bahamas"
+                  - option "Bangladés"
+                  - option "Barbados"
+                  - option "Baréin"
+                  - option "Bélgica"
+                  - option "Belice"
+                  - option "Benín"
+                  - option "Bielorrusia"
+                  - option "Birmania"
+                  - option "Bolivia"
+                  - option "Bosnia y Herzegovina"
+                  - option "Botsuana"
+                  - option "Brasil"
+                  - option "Brunéi"
+                  - option "Bulgaria"
+                  - option "Burkina Faso"
+                  - option "Burundi"
+                  - option "Bután"
+                  - option "Cabo Verde"
+                  - option "Camboya"
+                  - option "Camerún"
+                  - option "Canadá"
+                  - option "Catar"
+                  - option "Chad"
+                  - option "Chile"
+                  - option "China"
+                  - option "Chipre"
+                  - option "Ciudad del Vaticano"
+                  - option "Colombia"
+                  - option "Comoras"
+                  - option "Corea del Norte"
+                  - option "Corea del Sur"
+                  - option "Costa de Marfil"
+                  - option "Costa Rica"
+                  - option "Croacia"
+                  - option "Cuba"
+                  - option "Dinamarca"
+                  - option "Dominica"
+                  - option "Ecuador"
+                  - option "Egipto"
+                  - option "El Salvador"
+                  - option "Emiratos Árabes Unidos"
+                  - option "Eritrea"
+                  - option "Eslovaquia"
+                  - option "Eslovenia"
+                  - option "España"
+                  - option "Estados Unidos"
+                  - option "Estonia"
+                  - option "Etiopía"
+                  - option "Filipinas"
+                  - option "Finlandia"
+                  - option "Fiyi"
+                  - option "Francia"
+                  - option "Gabón"
+                  - option "Gambia"
+                  - option "Georgia"
+                  - option "Ghana"
+                  - option "Granada"
+                  - option "Grecia"
+                  - option "Guatemala"
+                  - option "Guinea"
+                  - option "Guinea-Bisáu"
+                  - option "Guinea Ecuatorial"
+                  - option "Guyana"
+                  - option "Haití"
+                  - option "Honduras"
+                  - option "Hungría"
+                  - option "India"
+                  - option "Indonesia"
+                  - option "Irak"
+                  - option "Irán"
+                  - option "Irlanda"
+                  - option "Islandia"
+                  - option "Islas Marshall"
+                  - option "Islas Salomón"
+                  - option "Israel"
+                  - option "Italia"
+                  - option "Jamaica"
+                  - option "Japón"
+                  - option "Jordania"
+                  - option "Kazajistán"
+                  - option "Kenia"
+                  - option "Kirguistán"
+                  - option "Kiribati"
+                  - option "Kuwait"
+                  - option "Laos"
+                  - option "Lesoto"
+                  - option "Letonia"
+                  - option "Líbano"
+                  - option "Liberia"
+                  - option "Libia"
+                  - option "Liechtenstein"
+                  - option "Lituania"
+                  - option "Luxemburgo"
+                  - option "Macedonia del Norte"
+                  - option "Madagascar"
+                  - option "Malasia"
+                  - option "Malaui"
+                  - option "Maldivas"
+                  - option "Malí"
+                  - option "Malta"
+                  - option "Marruecos"
+                  - option "Mauricio"
+                  - option "Mauritania"
+                  - option "México"
+                  - option "Micronesia"
+                  - option "Moldavia"
+                  - option "Mónaco"
+                  - option "Mongolia"
+                  - option "Montenegro"
+                  - option "Mozambique"
+                  - option "Namibia"
+                  - option "Nauru"
+                  - option "Nepal"
+                  - option "Nicaragua"
+                  - option "Níger"
+                  - option "Nigeria"
+                  - option "Noruega"
+                  - option "Nueva Zelanda"
+                  - option "Omán"
+                  - option "Países Bajos"
+                  - option "Pakistán"
+                  - option "Palaos"
+                  - option "Panamá"
+                  - option "Papúa Nueva Guinea"
+                  - option "Paraguay"
+                  - option "Perú"
+                  - option "Polonia"
+                  - option "Portugal"
+                  - option "Reino Unido"
+                  - option "República Centroafricana"
+                  - option "República Checa"
+                  - option "República del Congo"
+                  - option "República Democrática del Congo"
+                  - option "República Dominicana"
+                  - option "Ruanda"
+                  - option "Rumanía"
+                  - option "Rusia"
+                  - option "Samoa"
+                  - option "San Cristóbal y Nieves"
+                  - option "San Marino"
+                  - option "San Vicente y las Granadinas"
+                  - option "Santa Lucía"
+                  - option "Santo Tomé y Príncipe"
+                  - option "Senegal"
+                  - option "Serbia"
+                  - option "Seychelles"
+                  - option "Sierra Leona"
+                  - option "Singapur"
+                  - option "Siria"
+                  - option "Somalia"
+                  - option "Sri Lanka"
+                  - option "Suazilandia"
+                  - option "Sudáfrica"
+                  - option "Sudán"
+                  - option "Sudán del Sur"
+                  - option "Suecia"
+                  - option "Suiza"
+                  - option "Surinam"
+                  - option "Tailandia"
+                  - option "Taiwán"
+                  - option "Tanzania"
+                  - option "Tayikistán"
+                  - option "Timor Oriental"
+                  - option "Togo"
+                  - option "Tonga"
+                  - option "Trinidad y Tobago"
+                  - option "Túnez"
+                  - option "Turkmenistán"
+                  - option "Turquía"
+                  - option "Tuvalu"
+                  - option "Ucrania"
+                  - option "Uganda"
+                  - option "Uruguay"
+                  - option "Uzbekistán"
+                  - option "Vanuatu"
+                  - option "Venezuela"
+                  - option "Vietnam"
+                  - option "Yemen"
+                  - option "Yibuti"
+                  - option "Zambia"
+                  - option "Zimbabue"
+              - generic [ref=e188]:
+                - generic [ref=e189]: Lugar nacimiento*
+                - textbox "Lugar nacimiento*" [ref=e191]:
+                  - /placeholder: ""
+            - group [ref=e192]:
+              - heading "Datos de residencia" [level=3] [ref=e194]
+            - group [ref=e195]:
+              - generic [ref=e196]:
+                - generic [ref=e197]: Dirección*
+                - textbox "Dirección*" [ref=e199]:
+                  - /placeholder: ""
+              - generic [ref=e200]:
+                - generic [ref=e201]: Ciudad*
+                - textbox "Ciudad*" [ref=e203]:
+                  - /placeholder: ""
+            - group [ref=e204]:
+              - generic [ref=e205]:
+                - generic [ref=e206]: Provincia*
+                - textbox "Provincia*" [ref=e208]:
+                  - /placeholder: ""
+              - generic [ref=e209]:
+                - generic [ref=e210]: Comunidad autónoma
+                - combobox "Comunidad autónoma" [ref=e212]:
+                  - option "Selecciona" [disabled] [selected]
+                  - option "Andalucía"
+                  - option "Aragón"
+                  - option "Canarias"
+                  - option "Cantabria"
+                  - option "Castilla y León"
+                  - option "Castilla-La Mancha"
+                  - option "Cataluña"
+                  - option "Ciudad Autónoma de Ceuta"
+                  - option "Ciudad Autónoma de Melilla"
+                  - option "Comunidad de Madrid"
+                  - option "Comunidad Foral de Navarra"
+                  - option "Comunitat Valenciana"
+                  - option "Extremadura"
+                  - option "Galicia"
+                  - option "Illes Balears"
+                  - option "La Rioja"
+                  - option "País Vasco"
+                  - option "Principado de Asturias"
+                  - option "Región de Murcia"
+            - group [ref=e213]:
+              - generic [ref=e214]:
+                - generic [ref=e215]: Código postal*
+                - textbox "Código postal*" [ref=e217]:
+                  - /placeholder: ""
+              - generic [ref=e218]:
+                - generic [ref=e219]: País/región*
+                - textbox "País/región*" [ref=e221]:
+                  - /placeholder: ""
+            - group [ref=e222]:
+              - heading "Datos académicos" [level=3] [ref=e224]
+            - group [ref=e225]:
+              - generic [ref=e226]:
+                - generic [ref=e227]: Idiomas*
+                - textbox "Idiomas*" [ref=e229]:
+                  - /placeholder: ""
+              - generic [ref=e230]:
+                - generic [ref=e231]: Nivel de estudios*
+                - combobox "Nivel de estudios*" [ref=e233]:
+                  - option "Selecciona" [disabled] [selected]
+                  - option "Sin estudios"
+                  - option "Primaria"
+                  - option "E.S.O"
+                  - option "Bachillerato"
+                  - option "Grado"
+                  - option "Diplomatura"
+                  - option "Licenciatura"
+                  - option "Máster"
+                  - option "Doctorado"
+            - group [ref=e234]:
+              - generic [ref=e235]:
+                - generic [ref=e236]: ¿Eres alumni?*
+                - checkbox "Si No" [ref=e238]:
+                  - radio "Si" [ref=e239]:
+                    - generic [ref=e240]:
+                      - radio "Si" [ref=e241]
+                      - text: Si
+                  - radio "No" [ref=e242]:
+                    - generic [ref=e243]:
+                      - radio "No" [ref=e244]
+                      - text: "No"
+              - generic [ref=e245]:
+                - generic [ref=e246]: Cómo nos has conocido*
+                - textbox "Cómo nos has conocido*" [ref=e248]:
+                  - /placeholder: ""
+            - group [ref=e249]:
+              - generic [ref=e250]:
+                - generic [ref=e251]: Resumen curricular*
+                - textbox "Resumen curricular*" [ref=e253]:
+                  - /placeholder: ""
+            - group [ref=e254]:
+              - heading "¿Qué quieres estudiar?" [level=3] [ref=e256]
+            - group [ref=e257]:
+              - generic [ref=e259]:
+                - generic [ref=e260]: Titulación*
+                - combobox "Titulación*" [ref=e262]:
+                  - option "Selecciona" [disabled] [selected]
+                  - option "Máster de Crítica Cinematográfica"
+                  - option "Máster de Diseño de Vestuario para Cine, Series y Teatro"
+                  - option "Máster de Distribución y Negocio en la Industria Audiovisual"
+                  - option "Máster en Color y en Etalonaje Digital"
+                  - option "Máster en Dirección de Fotografía Cinematográfica"
+                  - option "Máster en Gestión de Proyectos y Empresas Audiovisuales"
+                  - option "Máster en Guion de Series de Ficción"
+                  - option "Máster en Producción Ejecutiva para Cine y Series"
+                  - option "Máster en Restauración y preservación Fílmica"
+                  - option "Máster en Entertainment Marketing"
+                  - option "Máster Online en Supervisión de Posproducción"
+                  - option "Máster en Posproducción Audiovisual"
+            - group
+            - group
+            - group
+            - group [ref=e263]:
+              - heading "Política de privacidad" [level=3] [ref=e265]
+            - group [ref=e266]:
+              - generic [ref=e267]:
+                - paragraph [ref=e269]:
+                  - strong [ref=e270]: Información básica sobre Protección de Datos
+                  - text: "Responsable: ECAM - Escuela de Cinematografia y Audiovisual de la Comunidad de Madrid."
+                  - text: "Finalidad: Gestión de los servicios de formación que imparte la ECAM y gestión administrativa, económica e informativa."
+                  - text: "Legitimación: Contrato del servicio de formación, Legislación sobre centros de formación y consentimiento del interesado/a."
+                  - text: "Destinatarios: Organismos o Entidades públicos o privados y Profesionales libres."
+                  - text: "Derechos: Acceder, rectificar y suprimir los datos, así como otros derechos, según se indica en la información adicional."
+                  - strong [ref=e271]: Información adicional
+                  - text: Puedes consultar la información adicional en el siguiente
+                  - link "enlace." [ref=e272] [cursor=pointer]:
+                    - /url: https://ecam.es/rgpd-inscripciones/
+                - list [ref=e277]:
+                  - listitem [ref=e278]:
+                    - generic [ref=e279]:
+                      - checkbox "Acepto recibir otras comunicaciones de ECAM." [ref=e280]
+                      - generic [ref=e281]: Acepto recibir otras comunicaciones de ECAM.
+                - list [ref=e286]:
+                  - listitem [ref=e287]:
+                    - generic [ref=e288]:
+                      - checkbox "He leído y entiendo la información facilitada y consiento el tratamiento de mis datos conforme a lo indicado.*" [ref=e289]
+                      - generic [ref=e290]:
+                        - paragraph [ref=e291]: He leído y entiendo la información facilitada y consiento el tratamiento de mis datos conforme a lo indicado.
+                        - text: "*"
+            - button "Enviar" [ref=e294] [cursor=pointer]
+    - contentinfo [ref=e295]:
+      - generic [ref=e296]:
+        - generic [ref=e300]:
+          - heading "Patronos" [level=2] [ref=e301]:
+            - generic [ref=e302]: Patronos
+          - generic [ref=e304]:
+            - figure [ref=e306]
+            - figure [ref=e309]:
+              - img "Logo Egeda" [ref=e311]
+            - figure [ref=e313]:
+              - img "Logo SGAE - Sociedad General de Autores y Editores" [ref=e315]
+            - figure [ref=e317]:
+              - img "logo_DAMA" [ref=e319]
+            - figure [ref=e321]:
+              - img "Logo Academia de Cine" [ref=e323]
+        - generic [ref=e324]:
+          - generic [ref=e327]:
+            - figure [ref=e328]:
+              - img "Logo ECAM blanco - Escuela de cine y del audiovisual" [ref=e330]
+            - generic [ref=e332]:
+              - paragraph [ref=e333]: La ECAM es una escuela de cine y audiovisual cuyo mayor patrimonio son sus alumnos -antiguos y actuales-, sus profesores y su equipo.
+              - paragraph [ref=e334]: Cada año más de 300 profesionales en activo del cine, la televisión y la publicidad pasan por nuestras aulas, platós y salas de postproducción para transmitir su conocimiento a las nuevas generaciones de profesionales del sector.
+          - generic [ref=e337]:
+            - figure [ref=e338]:
+              - generic [ref=e339]:
+                - img "Icono - Titulaciones Play - ECAM"
+            - generic [ref=e341]:
+              - paragraph [ref=e342]:
+                - text: Información
+                - text: +34 915 121 060
+              - paragraph [ref=e343]:
+                - text: Prensa y comunicación
+                - link "comunicacion@ecam.es" [ref=e344] [cursor=pointer]:
+                  - /url: mailto:comunicacion@ecam.es
+            - figure [ref=e348]:
+              - img "Logo Certificado consumo 100% renovable" [ref=e350]
+          - generic [ref=e355]:
+            - paragraph [ref=e356]:
+              - text: C/ Juan de Orduña, 3
+              - text: Ciudad de la Imagen
+              - text: 28223 Pozuelo de Alarcón, Madrid
+            - paragraph [ref=e357]:
+              - text: Horario de atención al público (recepción)
+              - text: "lunes a jueves: 9:30 h a 18:00 h"
+              - text: "viernes: 9:30 h a 15:30 h"
+            - paragraph [ref=e358]:
+              - text: Horario de atención al público (admisiones)
+              - text: "lunes a jueves: 9:30 h a 16:00 h"
+              - text: "viernes: 9:30 h a 15:30 h"
+              - text: +34 647 468 402
+            - paragraph [ref=e359]:
+              - text: Horario de apertura de las instalaciones
+              - text: "lunes a viernes: 8:30h a 21:00 h"
+          - generic [ref=e362]:
+            - paragraph [ref=e365]:
+              - text: Síguenos en
+              - text: nuestras redes sociales
+            - list [ref=e369]:
+              - listitem [ref=e370]:
+                - link "Facebook" [ref=e371] [cursor=pointer]:
+                  - /url: https://es-la.facebook.com/La-ECAM-P%C3%A1gina-Oficial-142308959166225/
+                  - img [ref=e373]
+              - listitem [ref=e375]:
+                - link "Linkedin" [ref=e376] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/ecam-escuela-de-cinematograf-a-y-del-audiovisual-de-la-comunidad-de-madrid-/
+                  - img [ref=e378]
+              - listitem [ref=e380]:
+                - link "Twitter" [ref=e381] [cursor=pointer]:
+                  - /url: https://twitter.com/ecam_
+                  - img [ref=e383]
+              - listitem [ref=e385]:
+                - link "Instagram" [ref=e386] [cursor=pointer]:
+                  - /url: https://www.instagram.com/ecam_cine/
+                  - img [ref=e388]
+              - listitem [ref=e390]:
+                - link "Vimeo" [ref=e391] [cursor=pointer]:
+                  - /url: https://vimeo.com/ladistribuidora
+                  - img [ref=e393]
+              - listitem [ref=e395]:
+                - link "Youtube" [ref=e396] [cursor=pointer]:
+                  - /url: https://www.youtube.com/channel/UCkpBkvGs-zX6ayayKNhY5bw
+                  - img [ref=e398]
+              - listitem [ref=e400]:
+                - link "TikTok" [ref=e401] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@ecam.cine
+                  - img [ref=e403]
+            - paragraph [ref=e407]:
+              - link "Canal de denuncias" [ref=e408] [cursor=pointer]:
+                - /url: https://ecam.es/canal-de-denuncias/
+        - paragraph [ref=e415]:
+          - text: 2026 © Todos los derechos reservados |
+          - link "Política de privacidad" [ref=e416] [cursor=pointer]:
+            - /url: https://ecam.es/politica-de-privacidad
+          - text: "|"
+          - link "Política de cookies" [ref=e417] [cursor=pointer]:
+            - /url: https://ecam.es/politica-de-cookies
+  - dialog "cookieconsent" [ref=e418]:
+    - generic [ref=e421]:
+      - generic [ref=e422]:
+        - text: Utilizamos cookies propias y de terceros para analizar el uso del sitio web y mostrarte publicidad relacionada con tus preferencias sobre la base de un perfil elaborado a partir de tus hábitos de navegación (por ejemplo, páginas visitadas).
+        - link "Política de cookies" [active] [ref=e423] [cursor=pointer]:
+          - /url: https://ecam.es/politica-de-cookies/
+      - generic [ref=e424]:
+        - button "Rechazar cookies" [ref=e425] [cursor=pointer]
+        - button "Configurar" [ref=e426] [cursor=pointer]
+        - button "Aceptar cookies" [ref=e427] [cursor=pointer]
+  - status [ref=e428]

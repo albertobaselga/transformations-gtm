@@ -1,0 +1,998 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#gnav-header-end"
+  - main [ref=e3]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - dialog "Privacidad" [ref=e8]:
+          - generic [ref=e10]:
+            - generic [ref=e13]:
+              - text: Utilizamos cookies para personalizar el contenido y los anuncios, analizar el tráfico y mejorar nuestros servicios. También utilizamos cookies esenciales para informar a las empresas de los clics que se hacen en sus empleos. Usted reconoce que el uso que hace de Indeed está sujeto a nuestra la
+              - link "política de cookies" [ref=e14] [cursor=pointer]:
+                - /url: https://hrtechprivacy.com/es/brands/about-indeed
+              - text: ", la cual le animamos a revisar."
+            - generic [ref=e16]:
+              - button "Configuración de cookies, Abre el cuadro de diálogo del centro de preferencias." [ref=e17] [cursor=pointer]: Configuración de cookies
+              - button "Rechazar todas" [ref=e18] [cursor=pointer]
+              - button "Aceptar todas las cookies" [ref=e19] [cursor=pointer]
+        - navigation "Principal" [ref=e20]:
+          - generic [ref=e22]:
+            - generic [ref=e23]:
+              - generic [ref=e24]:
+                - button "Ir directamente al contenido principal" [ref=e25] [cursor=pointer]:
+                  - generic [ref=e26]: Ir directamente al contenido principal
+                - link "Página de inicio de Indeed" [ref=e27] [cursor=pointer]:
+                  - /url: /?from=gnav-jobsearch--indeedmobile
+                  - img [ref=e29]
+              - generic [ref=e31]:
+                - list [ref=e32]:
+                  - listitem [ref=e33]:
+                    - link "Iniciar sesión" [ref=e37] [cursor=pointer]:
+                      - /url: https://secure.indeed.com/auth?hl=es_ES&co=ES&continue=https%3A%2F%2Fes.indeed.com%2Fjobs%3Fq%3Dmotion%2Bdesigner%26l%3DEspa%25C3%25B1a%26sort%3Ddate&tmpl=desktop&from=gnav-util-jobsearch--indeedmobile&jsContinue=https%3A%2F%2Fonboarding.indeed.com%2Fonboarding%3Fhl%3Des_ES%26co%3DES%26from%3Dgnav-jobsearch--indeedmobile&empContinue=https%3A%2F%2Faccount.indeed.com%2Fmyaccess
+                      - img [ref=e38]
+                      - text: Iniciar sesión
+                - button "Navegación principal" [ref=e43] [cursor=pointer]:
+                  - generic [ref=e44]:
+                    - img [ref=e45]
+                    - generic [ref=e47]:
+                      - text: "1"
+                      - generic [ref=e48]: new update
+            - generic [ref=e49]: Inicio del contenido principal
+      - generic [ref=e51]:
+        - search [ref=e56]:
+          - generic [ref=e59]:
+            - generic [ref=e61]:
+              - generic [ref=e62]:
+                - generic [ref=e63]: "Keyword : all jobs"
+                - generic [ref=e66]:
+                  - img [ref=e68]
+                  - 'combobox "search: Job title, keywords, or company" [ref=e70]': motion designer
+                  - button "Clear what input" [ref=e72] [cursor=pointer]:
+                    - img [ref=e73]
+              - separator [ref=e75]:
+                - generic [ref=e76]: "&nbsp;"
+              - generic [ref=e77]:
+                - generic [ref=e78]: Edit location input box label
+                - generic [ref=e81]:
+                  - img [ref=e83]
+                  - combobox "Editar ubicación" [ref=e85]: España
+                  - button "Clear location input" [ref=e87] [cursor=pointer]:
+                    - img [ref=e88]
+            - button "Buscar ofertas" [ref=e91] [cursor=pointer]
+          - list [ref=e94]:
+            - button "Filtro Remoto" [ref=e96] [cursor=pointer]: Remoto
+            - button "Filtro Fecha de publicación" [ref=e98] [cursor=pointer]: Fecha de publicación
+            - button "Filtro Salario" [ref=e100] [cursor=pointer]: Salario
+            - button "Filtro Idioma de la oferta" [ref=e102] [cursor=pointer]: Idioma de la oferta
+            - button "Filtro Tipo de empleo" [ref=e104] [cursor=pointer]: Tipo de empleo
+            - button "Filtro Sector" [ref=e106] [cursor=pointer]: Sector
+            - button "Filtro Nivel de educación" [ref=e108] [cursor=pointer]: Nivel de educación
+            - button "Filtro Turno y horario" [ref=e110] [cursor=pointer]: Turno y horario
+        - generic [ref=e116]:
+          - generic [ref=e117]:
+            - generic [ref=e118]:
+              - link "Sube tu CV" [ref=e119] [cursor=pointer]:
+                - /url: /promo/resume?from=serptop3&subfrom=resprmrtop&trk.origin=jobsearch&trk.variant=resprmrtop&trk.tk=1jmaejks225en08d
+              - text: "- Deja que las empresas te encuentren"
+              - separator [ref=e120]:
+                - generic [ref=e121]: "&nbsp;"
+            - generic [ref=e122]:
+              - generic [ref=e123]:
+                - heading "Empleos de motion designer en España" [level=1] [ref=e124]
+                - button "icono de ayuda" [ref=e127] [cursor=pointer]:
+                  - img "icono de ayuda" [ref=e128]
+              - generic [ref=e132]:
+                - generic [ref=e133]: "Clasificar por:"
+                - generic [ref=e134]:
+                  - 'link "Clasificar por: relevancia" [ref=e135] [cursor=pointer]':
+                    - /url: /jobs?q=motion%20designer&l=Espa%C3%B1a
+                    - text: relevancia
+                  - text: "- fecha"
+            - list [ref=e139]:
+              - listitem
+              - listitem [ref=e140]:
+                - generic [ref=e142]:
+                  - generic:
+                    - generic [ref=e145]:
+                      - heading "detalles completos de Senior Manager, Creative" [level=2] [ref=e147]:
+                        - button "detalles completos de Senior Manager, Creative" [pressed] [ref=e148] [cursor=pointer]: Senior Manager, Creative
+                      - generic [ref=e149]:
+                        - generic [ref=e151]:
+                          - generic [ref=e153]: Coca-Cola
+                          - generic [ref=e154]: 28042 Madrid, Madrid provincia
+                        - list [ref=e156]:
+                          - listitem [ref=e157]:
+                            - generic [ref=e160]: Jornada completa
+                      - button "Save job Toggle" [ref=e164] [cursor=pointer]:
+                        - img [ref=e165]
+                    - generic [ref=e167]:
+                      - list [ref=e169]:
+                        - listitem [ref=e170]: The Senior Manager, Creative (Shopper) Spain is responsible for developing, localizing and executing shopper focused content and instore activation assets that…
+                      - list [ref=e174]:
+                        - listitem [ref=e175]:
+                          - generic [ref=e176]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Coca-Cola" [ref=e177] [cursor=pointer]:
+                              - /url: /q-coca-cola-empleos.html
+                            - text: "-"
+                            - link "trabajo en Madrid" [ref=e178] [cursor=pointer]:
+                              - /url: /l-madrid,-madrid-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Creative Manager en Madrid, Madrid provincia" [ref=e179] [cursor=pointer]:
+                              - /url: /q-creative-manager-l-madrid,-madrid-provincia-empleos.html
+                        - listitem [ref=e180]:
+                          - generic [ref=e181]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Senior Manager, Creative en Madrid, Madrid provincia" [ref=e182] [cursor=pointer]:
+                              - /url: /career/creative-manager/salaries/28042-Madrid--Madrid-provincia?campaignid=serp-more&fromjk=528c7a80ddea94f4&from=serp-more
+                        - listitem [ref=e183]:
+                          - generic [ref=e184]:
+                            - text: Ver
+                            - link "preguntas frecuentes sobre Coca-Cola" [ref=e185] [cursor=pointer]:
+                              - /url: /cmp/The-Coca--cola-Company/faq
+              - listitem [ref=e187]:
+                - generic [ref=e189]:
+                  - generic:
+                    - generic [ref=e192]:
+                      - generic [ref=e193]:
+                        - heading "detalles completos de Production Coordinator – Football Content & Studio Operations" [level=2] [ref=e194]:
+                          - button "detalles completos de Production Coordinator – Football Content & Studio Operations" [ref=e195] [cursor=pointer]: Production Coordinator – Football Content & Studio Operations
+                        - generic [ref=e200]: Solicitud rápida
+                      - generic [ref=e201]:
+                        - generic [ref=e203]:
+                          - generic [ref=e205]: Amber-Green Facilities SL
+                          - generic [ref=e206]: 28046 Madrid, Madrid provincia
+                        - list [ref=e208]:
+                          - listitem [ref=e209]:
+                            - generic [ref=e212]: Jornada completa
+                      - button "Save job Toggle" [ref=e216] [cursor=pointer]:
+                        - img [ref=e217]
+                    - generic [ref=e219]:
+                      - list [ref=e221]:
+                        - listitem [ref=e222]: Proven experience as a production coordinator in a motion design, CG/VFX, or 3D animation studio/agency setting.
+                        - listitem [ref=e223]: Proficient in Google Suite and Office.
+                      - list [ref=e227]:
+                        - listitem [ref=e228]:
+                          - generic [ref=e229]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Amber-Green Facilities SL" [ref=e230] [cursor=pointer]:
+                              - /url: /q-amber-green-facilities-sl-empleos.html
+                            - text: "-"
+                            - link "trabajo en Madrid" [ref=e231] [cursor=pointer]:
+                              - /url: /l-madrid,-madrid-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Production Coordinator en Madrid, Madrid provincia" [ref=e232] [cursor=pointer]:
+                              - /url: /q-production-coordinator-l-madrid,-madrid-provincia-empleos.html
+                        - listitem [ref=e233]:
+                          - generic [ref=e234]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Production Coordinator – Football Content & Studio Operations" [ref=e235] [cursor=pointer]:
+                              - /url: /career/salaries/Production%20Coordinator/Madrid,%20Madrid%20provincia?campaignid=serp-more&fromjk=81f90b87320f7f90&from=serp-more
+              - listitem [ref=e237]:
+                - generic [ref=e239]:
+                  - generic:
+                    - generic [ref=e242]:
+                      - heading "detalles completos de Motion Graphics Designer" [level=2] [ref=e244]:
+                        - button "detalles completos de Motion Graphics Designer" [ref=e245] [cursor=pointer]: Motion Graphics Designer
+                      - generic [ref=e246]:
+                        - generic [ref=e248]:
+                          - generic [ref=e250]: Adsmurai
+                          - generic [ref=e251]: Trabajo híbrido in 28010 Madrid, Madrid provincia
+                        - list [ref=e253]:
+                          - listitem [ref=e254]:
+                            - generic [ref=e257]: Contrato indefinido
+                          - listitem [ref=e258]:
+                            - generic [ref=e261]: Jornada intensiva los viernes
+                          - listitem [ref=e262]:
+                            - generic [ref=e265]: Día libre por cumpleaños
+                          - listitem [ref=e266]:
+                            - generic [ref=e269]: Plan de retribución flexible
+                      - button "Save job Toggle" [ref=e273] [cursor=pointer]:
+                        - img [ref=e274]
+                    - generic [ref=e276]:
+                      - list [ref=e278]:
+                        - listitem [ref=e279]: Incorporar gráficos en movimiento (motion graphics), animaciones y efectos visuales que refuercen el mensaje de las campañas y que sean efectivos en las…
+                      - list [ref=e283]:
+                        - listitem [ref=e284]:
+                          - generic [ref=e285]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Adsmurai" [ref=e286] [cursor=pointer]:
+                              - /url: /q-adsmurai-empleos.html
+                            - text: "-"
+                            - link "trabajo en Madrid" [ref=e287] [cursor=pointer]:
+                              - /url: /l-madrid,-madrid-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Diseñador/a multimedia en Madrid, Madrid provincia" [ref=e288] [cursor=pointer]:
+                              - /url: /q-dise%c3%b1ador-a-multimedia-l-madrid,-madrid-provincia-empleos.html
+                        - listitem [ref=e289]:
+                          - generic [ref=e290]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Motion Graphics Designer en Madrid, Madrid provincia" [ref=e291] [cursor=pointer]:
+                              - /url: /career/dise%C3%B1ador-multimedia/salaries/28010-Madrid--Madrid-provincia?campaignid=serp-more&fromjk=3d17d27960989c4c&from=serp-more
+                        - listitem [ref=e292]:
+                          - generic [ref=e293]:
+                            - text: Ver
+                            - link "preguntas frecuentes sobre Adsmurai" [ref=e294] [cursor=pointer]:
+                              - /url: /cmp/Adsmurai/faq
+              - listitem
+              - listitem [ref=e296]:
+                - generic [ref=e298]:
+                  - generic:
+                    - generic [ref=e301]:
+                      - generic [ref=e302]:
+                        - heading "detalles completos de Brand Designer - Barcelona" [level=2] [ref=e303]:
+                          - button "detalles completos de Brand Designer - Barcelona" [ref=e304] [cursor=pointer]: Brand Designer - Barcelona
+                        - generic [ref=e309]: Normalmente responde en 2 días
+                      - generic [ref=e312]:
+                        - generic [ref=e314]: Savills Spain
+                        - generic [ref=e315]: Trabajo híbrido in Barcelona, Barcelona provincia
+                      - button "Save job Toggle" [ref=e319] [cursor=pointer]:
+                        - img [ref=e320]
+                    - generic [ref=e322]:
+                      - list [ref=e324]:
+                        - listitem [ref=e325]: Desarrollo de materiales gráficos corporativos y de negocio en formatos offline y online (presentaciones, dossiers, branding, señalética, anuncios de publicidad…
+                      - list [ref=e329]:
+                        - listitem [ref=e330]:
+                          - generic [ref=e331]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Savills Spain" [ref=e332] [cursor=pointer]:
+                              - /url: /q-savills-spain-empleos.html
+                            - text: "-"
+                            - link "trabajo en Barcelona" [ref=e333] [cursor=pointer]:
+                              - /url: /l-barcelona,-barcelona-provincia-empleos.html
+                        - listitem [ref=e334]:
+                          - generic [ref=e335]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Brand Designer - Barcelona" [ref=e336] [cursor=pointer]:
+                              - /url: /career/salaries/Brand%20Designer%20-%20Barcelona/Barcelona,%20Barcelona%20provincia?campaignid=serp-more&fromjk=acdc12d1211e4074&from=serp-more
+                        - listitem [ref=e337]:
+                          - generic [ref=e338]:
+                            - text: Ver
+                            - link "preguntas frecuentes sobre Savills Spain" [ref=e339] [cursor=pointer]:
+                              - /url: /cmp/Savills/faq
+              - listitem [ref=e341]:
+                - generic [ref=e343]:
+                  - generic:
+                    - generic [ref=e346]:
+                      - heading "detalles completos de Motion Designer" [level=2] [ref=e348]:
+                        - button "detalles completos de Motion Designer" [ref=e349] [cursor=pointer]: Motion Designer
+                      - generic [ref=e352]:
+                        - generic [ref=e354]: Tripledot Studios
+                        - generic [ref=e355]: Barcelona, Barcelona provincia
+                      - button "Save job Toggle" [ref=e359] [cursor=pointer]:
+                        - img [ref=e360]
+                    - generic [ref=e362]:
+                      - list [ref=e364]:
+                        - listitem [ref=e365]: You will combine traditional motion graphics expertise with emerging AI tools to create impactful marketing creatives.
+                        - listitem [ref=e366]: Required Skills, Knowledge and Expertise.
+                      - list [ref=e370]:
+                        - listitem [ref=e371]:
+                          - generic [ref=e372]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Tripledot Studios" [ref=e373] [cursor=pointer]:
+                              - /url: /q-tripledot-studios-empleos.html
+                            - text: "-"
+                            - link "trabajo en Barcelona" [ref=e374] [cursor=pointer]:
+                              - /url: /l-barcelona,-barcelona-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Designer en Barcelona, Barcelona provincia" [ref=e375] [cursor=pointer]:
+                              - /url: /q-designer-l-barcelona,-barcelona-provincia-empleos.html
+                        - listitem [ref=e376]:
+                          - generic [ref=e377]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Motion Designer en Barcelona, Barcelona provincia" [ref=e378] [cursor=pointer]:
+                              - /url: /career/designer/salaries/Barcelona--Barcelona-provincia?campaignid=serp-more&fromjk=045057d1e453f615&from=serp-more
+              - listitem
+              - listitem [ref=e380]:
+                - generic [ref=e382]:
+                  - generic:
+                    - generic [ref=e385]:
+                      - generic [ref=e386]:
+                        - heading "detalles completos de Junior Creative Designer" [level=2] [ref=e387]:
+                          - button "detalles completos de Junior Creative Designer" [ref=e388] [cursor=pointer]: Junior Creative Designer
+                        - generic [ref=e393]: Solicitud rápida
+                      - generic [ref=e394]:
+                        - generic [ref=e396]:
+                          - generic [ref=e398]: Deblock
+                          - generic [ref=e399]: Teletrabajo in España
+                        - list [ref=e401]:
+                          - listitem [ref=e402]:
+                            - generic [ref=e405]: Jornada completa
+                          - listitem [ref=e406]:
+                            - generic [ref=e409]: Seguro dental
+                      - button "Save job Toggle" [ref=e413] [cursor=pointer]:
+                        - img [ref=e414]
+                    - generic [ref=e416]:
+                      - list [ref=e418]:
+                        - listitem [ref=e419]: "Performance Marketing Creatives: Design static and motion assets for paid acquisition campaigns across Meta, Google, TikTok, and other channels."
+                      - list [ref=e423]:
+                        - listitem [ref=e424]:
+                          - generic [ref=e425]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Deblock" [ref=e426] [cursor=pointer]:
+                              - /url: /q-deblock-empleos.html
+                            - text: "-"
+                            - link "trabajo en España" [ref=e427] [cursor=pointer]:
+                              - /url: /l-espa%c3%b1a-empleos.html
+                            - text: "-"
+                            - link "Empleos de Junior Designer en España" [ref=e428] [cursor=pointer]:
+                              - /url: /q-junior-designer-l-espa%c3%b1a-empleos.html
+                        - listitem [ref=e429]:
+                          - generic [ref=e430]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Junior Creative Designer en España" [ref=e431] [cursor=pointer]:
+                              - /url: /career/junior-designer/salaries?campaignid=serp-more&fromjk=c702f2dd81fd8d2b&from=serp-more
+              - listitem [ref=e433]:
+                - generic [ref=e435]:
+                  - generic:
+                    - generic [ref=e438]:
+                      - generic [ref=e439]:
+                        - heading "detalles completos de Motion Designer" [level=2] [ref=e440]:
+                          - button "detalles completos de Motion Designer" [ref=e441] [cursor=pointer]: Motion Designer
+                        - generic [ref=e443]:
+                          - generic [ref=e446]: Solicitud rápida
+                          - generic [ref=e449]: Normalmente responde en 1 día
+                      - generic [ref=e450]:
+                        - generic [ref=e452]:
+                          - generic [ref=e454]: Treatwell
+                          - generic [ref=e455]: Trabajo híbrido in Madrid, Madrid provincia
+                        - list [ref=e457]:
+                          - listitem [ref=e458]:
+                            - generic [ref=e461]: Jornada completa
+                      - button "Save job Toggle" [ref=e465] [cursor=pointer]:
+                        - img [ref=e466]
+                    - generic [ref=e468]:
+                      - list [ref=e470]:
+                        - listitem [ref=e471]: A motion obsessive with 2+years of experience and a killer portfolio or showreel.
+                        - listitem [ref=e472]: "Making things move with meaning: You’ll bring our brand to life in motion…"
+                      - list [ref=e476]:
+                        - listitem [ref=e477]:
+                          - generic [ref=e478]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Treatwell" [ref=e479] [cursor=pointer]:
+                              - /url: /q-treatwell-empleos.html
+                            - text: "-"
+                            - link "trabajo en Madrid" [ref=e480] [cursor=pointer]:
+                              - /url: /l-madrid,-madrid-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Designer en Madrid, Madrid provincia" [ref=e481] [cursor=pointer]:
+                              - /url: /q-designer-l-madrid,-madrid-provincia-empleos.html
+                        - listitem [ref=e482]:
+                          - generic [ref=e483]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Motion Designer en Madrid, Madrid provincia" [ref=e484] [cursor=pointer]:
+                              - /url: /career/designer/salaries/Madrid--Madrid-provincia?campaignid=serp-more&fromjk=8543c13ade08f391&from=serp-more
+              - listitem [ref=e486]:
+                - generic [ref=e488]:
+                  - generic:
+                    - generic [ref=e491]:
+                      - 'heading "detalles completos de Senior Designer: Packaging" [level=2] [ref=e493]':
+                        - 'button "detalles completos de Senior Designer: Packaging" [ref=e494] [cursor=pointer]': "Senior Designer: Packaging"
+                      - generic [ref=e495]:
+                        - generic [ref=e497]:
+                          - generic [ref=e499]: IQVIA
+                          - generic [ref=e500]: 08025 Barcelona, Barcelona provincia
+                        - list [ref=e502]:
+                          - listitem [ref=e503]:
+                            - generic [ref=e506]: Jornada completa
+                      - link "Ver empleos similares de esta empresa" [ref=e509] [cursor=pointer]:
+                        - /url: /addlLoc/redirect?tk=1jmaejks225en08d&jk=ca8168859add90b4&dest=%2Fjobs%3Fq%3Dmotion%2Bdesigner%26nl%3D%26l%3DEspa%25C3%25B1a%26radius%3D25%26sort%3Ddate%26grpKey%3D8gcFdG5mZWy4D-rehSaqECYKCW5vcm10aXRsZRoZc2VuaW9yIHBhY2thZ2luZyBkZXNpZ25lcg%253D%253D
+                      - button "Save job Toggle" [ref=e511] [cursor=pointer]:
+                        - img [ref=e512]
+                    - generic [ref=e514]:
+                      - list [ref=e516]:
+                        - listitem [ref=e517]: Ability to interact with creative and account management teams, generating impactful motion solutions built on solid strategic foundations.
+                      - list [ref=e521]:
+                        - listitem [ref=e522]:
+                          - generic [ref=e523]:
+                            - text: "Ver todo:"
+                            - link "Empleos de IQVIA" [ref=e524] [cursor=pointer]:
+                              - /url: /q-iqvia-empleos.html
+                            - text: "-"
+                            - link "trabajo en Barcelona" [ref=e525] [cursor=pointer]:
+                              - /url: /l-barcelona,-barcelona-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Senior Packaging Designer en Barcelona, Barcelona provincia" [ref=e526] [cursor=pointer]:
+                              - /url: /q-senior-packaging-designer-l-barcelona,-barcelona-provincia-empleos.html
+                        - listitem [ref=e527]:
+                          - generic [ref=e528]:
+                            - text: "Búsqueda de sueldos:"
+                            - 'link "sueldos de Senior Designer: Packaging" [ref=e529] [cursor=pointer]':
+                              - /url: /career/salaries/Senior%20Packaging%20Designer/Barcelona,%20Barcelona%20provincia?campaignid=serp-more&fromjk=ca8168859add90b4&from=serp-more
+                        - listitem [ref=e530]:
+                          - generic [ref=e531]:
+                            - text: Ver
+                            - link "preguntas frecuentes sobre IQVIA" [ref=e532] [cursor=pointer]:
+                              - /url: /cmp/Iqvia/faq
+              - listitem [ref=e534]:
+                - generic [ref=e536]:
+                  - generic:
+                    - generic [ref=e539]:
+                      - heading "detalles completos de Senior Digital Designer" [level=2] [ref=e541]:
+                        - button "detalles completos de Senior Digital Designer" [ref=e542] [cursor=pointer]: Senior Digital Designer
+                      - generic [ref=e543]:
+                        - generic [ref=e545]:
+                          - generic [ref=e547]: Adairs
+                          - generic [ref=e548]: Vic, Barcelona provincia
+                        - list [ref=e550]:
+                          - listitem [ref=e551]:
+                            - generic [ref=e554]: Jornada completa
+                          - listitem [ref=e555]:
+                            - generic [ref=e558]: Parking para empleados
+                      - button "Save job Toggle" [ref=e562] [cursor=pointer]:
+                        - img [ref=e563]
+                    - generic [ref=e565]:
+                      - list [ref=e567]:
+                        - listitem [ref=e568]: Provide leadership and mentorship to junior and mid‑weight designers, embedding best practices, elevating creative standards.
+                      - list [ref=e572]:
+                        - listitem [ref=e573]:
+                          - generic [ref=e574]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Adairs" [ref=e575] [cursor=pointer]:
+                              - /url: /q-adairs-empleos.html
+                            - text: "-"
+                            - link "trabajo en Vic" [ref=e576] [cursor=pointer]:
+                              - /url: /l-vic,-barcelona-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Digital Designer en Vic, Barcelona provincia" [ref=e577] [cursor=pointer]:
+                              - /url: /q-digital-designer-l-vic,-barcelona-provincia-empleos.html
+                        - listitem [ref=e578]:
+                          - generic [ref=e579]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Senior Digital Designer" [ref=e580] [cursor=pointer]:
+                              - /url: /career/salaries/Digital%20Designer/Vic,%20Barcelona%20provincia?campaignid=serp-more&fromjk=ee000c2437339999&from=serp-more
+              - listitem [ref=e582]:
+                - generic [ref=e584]:
+                  - generic:
+                    - generic [ref=e587]:
+                      - generic [ref=e588]:
+                        - heading "detalles completos de Senior Motion Graphics Designer / AI Specialist (Full-Time / On-Call)" [level=2] [ref=e589]:
+                          - button "detalles completos de Senior Motion Graphics Designer / AI Specialist (Full-Time / On-Call)" [ref=e590] [cursor=pointer]: Senior Motion Graphics Designer / AI Specialist (Full-Time / On-Call)
+                        - generic [ref=e595]: Solicitud rápida
+                      - generic [ref=e596]:
+                        - generic [ref=e598]:
+                          - generic [ref=e600]: Growmodo GmbH
+                          - generic [ref=e601]: Teletrabajo in Madrid, Madrid provincia
+                        - list [ref=e603]:
+                          - listitem [ref=e604]:
+                            - generic [ref=e607]: Jornada completa
+                          - listitem [ref=e608]:
+                            - generic [ref=e611]:
+                              - text: De lunes a viernes
+                              - generic [ref=e612]: "+1"
+                          - listitem [ref=e613]:
+                            - generic [ref=e616]: Teletrabajo opcional
+                      - button "Save job Toggle" [ref=e620] [cursor=pointer]:
+                        - img [ref=e621]
+                    - generic [ref=e623]:
+                      - list [ref=e625]:
+                        - listitem [ref=e626]: Strong understanding of design principles, timing, and storytelling through motion.
+                        - listitem [ref=e627]: Proven experience in motion graphics and animation, with a strong portfolio…
+                      - list [ref=e631]:
+                        - listitem [ref=e632]:
+                          - generic [ref=e633]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Growmodo GmbH" [ref=e634] [cursor=pointer]:
+                              - /url: /q-growmodo-gmbh-empleos.html
+                            - text: "-"
+                            - link "trabajo en Madrid" [ref=e635] [cursor=pointer]:
+                              - /url: /l-madrid,-madrid-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Senior Graphic Designer en Madrid, Madrid provincia" [ref=e636] [cursor=pointer]:
+                              - /url: /q-senior-graphic-designer-l-madrid,-madrid-provincia-empleos.html
+                        - listitem [ref=e637]:
+                          - generic [ref=e638]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Senior Motion Graphics Designer / AI Specialist (Full-Time / On-Call) en Madrid, Madrid provincia" [ref=e639] [cursor=pointer]:
+                              - /url: /career/senior-graphic-designer/salaries/Madrid--Madrid-provincia?campaignid=serp-more&fromjk=5bd965dfba704780&from=serp-more
+              - listitem
+              - listitem [ref=e641]:
+                - generic [ref=e643]:
+                  - generic:
+                    - generic [ref=e646]:
+                      - generic [ref=e647]:
+                        - heading "detalles completos de Graphic Designer - Barcelona - 40h" [level=2] [ref=e648]:
+                          - button "detalles completos de Graphic Designer - Barcelona - 40h" [ref=e649] [cursor=pointer]: Graphic Designer - Barcelona - 40h
+                        - generic [ref=e654]: Solicitud rápida
+                      - generic [ref=e655]:
+                        - generic [ref=e657]:
+                          - generic [ref=e659]: The Skin Lounge 012
+                          - generic [ref=e660]: Barcelona, Barcelona provincia
+                        - list [ref=e662]:
+                          - listitem [ref=e663]:
+                            - generic [ref=e666]: Jornada completa
+                      - button "Save job Toggle" [ref=e670] [cursor=pointer]:
+                        - img [ref=e671]
+                    - generic [ref=e673]:
+                      - list [ref=e675]:
+                        - listitem [ref=e676]: Knowledge of print production processes; motion graphics and video editing are a plus.
+                        - listitem [ref=e677]: Collaborate with senior designers to conceptualize and execute projects…
+                      - list [ref=e681]:
+                        - listitem [ref=e682]:
+                          - generic [ref=e683]:
+                            - text: "Ver todo:"
+                            - link "Empleos de The Skin Lounge 012" [ref=e684] [cursor=pointer]:
+                              - /url: /q-the-skin-lounge-012-empleos.html
+                            - text: "-"
+                            - link "trabajo en Barcelona" [ref=e685] [cursor=pointer]:
+                              - /url: /l-barcelona,-barcelona-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Graphic Designer en Barcelona, Barcelona provincia" [ref=e686] [cursor=pointer]:
+                              - /url: /q-graphic-designer-l-barcelona,-barcelona-provincia-empleos.html
+                        - listitem [ref=e687]:
+                          - generic [ref=e688]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Graphic Designer - Barcelona - 40h en Barcelona, Barcelona provincia" [ref=e689] [cursor=pointer]:
+                              - /url: /career/graphic-designer/salaries/Barcelona--Barcelona-provincia?campaignid=serp-more&fromjk=26b9b72c420dd649&from=serp-more
+              - listitem [ref=e691]:
+                - generic [ref=e693]:
+                  - generic:
+                    - generic [ref=e696]:
+                      - heading "detalles completos de Senior Graphic Designer" [level=2] [ref=e698]:
+                        - button "detalles completos de Senior Graphic Designer" [ref=e699] [cursor=pointer]: Senior Graphic Designer
+                      - generic [ref=e702]:
+                        - generic [ref=e704]: Sanofi
+                        - generic [ref=e705]: Barcelona, Barcelona provincia
+                      - button "Save job Toggle" [ref=e709] [cursor=pointer]:
+                        - img [ref=e710]
+                    - generic [ref=e712]:
+                      - list [ref=e714]:
+                        - listitem [ref=e715]: Collaborate with graphic designers and Scientific Writers to understand project requirements and execute accordingly.
+                      - list [ref=e719]:
+                        - listitem [ref=e720]:
+                          - generic [ref=e721]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Sanofi" [ref=e722] [cursor=pointer]:
+                              - /url: /q-sanofi-empleos.html
+                            - text: "-"
+                            - link "trabajo en Barcelona" [ref=e723] [cursor=pointer]:
+                              - /url: /l-barcelona,-barcelona-provincia-empleos.html
+                        - listitem [ref=e724]:
+                          - generic [ref=e725]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Senior Graphic Designer en Barcelona, Barcelona provincia" [ref=e726] [cursor=pointer]:
+                              - /url: /career/senior-graphic-designer/salaries/Barcelona--Barcelona-provincia?campaignid=serp-more&fromjk=4c1838e30cd43a8f&from=serp-more
+                        - listitem [ref=e727]:
+                          - generic [ref=e728]:
+                            - text: Ver
+                            - link "preguntas frecuentes sobre Sanofi" [ref=e729] [cursor=pointer]:
+                              - /url: /cmp/Sanofi/faq
+              - listitem [ref=e731]:
+                - generic [ref=e733]:
+                  - generic:
+                    - generic [ref=e736]:
+                      - heading "detalles completos de Senior Field Application Specialist - Lab Automation - EMEA" [level=2] [ref=e738]:
+                        - button "detalles completos de Senior Field Application Specialist - Lab Automation - EMEA" [ref=e739] [cursor=pointer]: Senior Field Application Specialist - Lab Automation - EMEA
+                      - generic [ref=e740]:
+                        - generic [ref=e742]:
+                          - generic [ref=e744]: Thermo Fisher Scientific
+                          - generic [ref=e746]: Teletrabajo
+                        - list [ref=e748]:
+                          - listitem [ref=e749]:
+                            - generic [ref=e752]: Jornada completa
+                          - listitem [ref=e753]:
+                            - generic [ref=e756]: De lunes a viernes
+                      - button "Save job Toggle" [ref=e760] [cursor=pointer]:
+                        - img [ref=e761]
+                    - generic [ref=e763]:
+                      - list [ref=e765]:
+                        - listitem [ref=e766]: Teach and optimize robot/mover motion and workflows for efficiency and reliability.
+                        - listitem [ref=e767]: Our team designs, manufactures, and installs robotic solutions globally,…
+                      - list [ref=e771]:
+                        - listitem [ref=e772]:
+                          - generic [ref=e773]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Thermo Fisher Scientific" [ref=e774] [cursor=pointer]:
+                              - /url: /q-thermo-fisher-scientific-empleos.html
+                            - text: "-"
+                            - link "trabajo en En remoto" [ref=e775] [cursor=pointer]:
+                              - /url: /l-en-remoto-empleos.html
+                            - text: "-"
+                            - link "Empleos de Senior Application Specialist en En remoto" [ref=e776] [cursor=pointer]:
+                              - /url: /q-senior-application-specialist-l-en-remoto-empleos.html
+                        - listitem [ref=e777]:
+                          - generic [ref=e778]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Senior Field Application Specialist - Lab Automation - EMEA" [ref=e779] [cursor=pointer]:
+                              - /url: /career/salaries/Senior%20Application%20Specialist/En%20remoto?campaignid=serp-more&fromjk=b0cdac7c7ec313ec&from=serp-more
+              - listitem [ref=e781]:
+                - generic [ref=e783]:
+                  - generic:
+                    - generic [ref=e786]:
+                      - generic [ref=e787]:
+                        - heading "detalles completos de Senior Account Manager fluent in French" [level=2] [ref=e788]:
+                          - button "detalles completos de Senior Account Manager fluent in French" [ref=e789] [cursor=pointer]: Senior Account Manager fluent in French
+                        - generic [ref=e791]:
+                          - generic [ref=e794]: Solicitud rápida
+                          - generic [ref=e797]: Normalmente responde en 1 día
+                      - generic [ref=e798]:
+                        - generic [ref=e800]:
+                          - generic [ref=e802]: Dragons Group
+                          - generic [ref=e803]: Barcelona, Barcelona provincia
+                        - list [ref=e805]:
+                          - listitem [ref=e806]:
+                            - generic [ref=e809]: Jornada completa
+                      - button "Save job Toggle" [ref=e813] [cursor=pointer]:
+                        - img [ref=e814]
+                    - generic [ref=e816]:
+                      - list [ref=e818]:
+                        - listitem [ref=e819]: Collaborate closely with cross-functional teams, including traffic managers, designers, copywriters, and motion editors.
+                        - listitem [ref=e820]: Any other languages are a plus.
+                      - list [ref=e824]:
+                        - listitem [ref=e825]:
+                          - generic [ref=e826]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Dragons Group" [ref=e827] [cursor=pointer]:
+                              - /url: /q-dragons-group-empleos.html
+                            - text: "-"
+                            - link "trabajo en Barcelona" [ref=e828] [cursor=pointer]:
+                              - /url: /l-barcelona,-barcelona-provincia-empleos.html
+                            - text: "-"
+                            - link "Empleos de Senior Account Manager en Barcelona, Barcelona provincia" [ref=e829] [cursor=pointer]:
+                              - /url: /q-senior-account-manager-l-barcelona,-barcelona-provincia-empleos.html
+                        - listitem [ref=e830]:
+                          - generic [ref=e831]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de Senior Account Manager fluent in French en Barcelona, Barcelona provincia" [ref=e832] [cursor=pointer]:
+                              - /url: /career/senior-account-manager/salaries/Barcelona--Barcelona-provincia?campaignid=serp-more&fromjk=4c2a4bb2296e2f2c&from=serp-more
+              - listitem [ref=e834]:
+                - generic [ref=e836]:
+                  - generic:
+                    - generic [ref=e839]:
+                      - generic [ref=e840]:
+                        - heading "detalles completos de User Acquisition Manager (Russian speaking)" [level=2] [ref=e841]:
+                          - button "detalles completos de User Acquisition Manager (Russian speaking)" [ref=e842] [cursor=pointer]: User Acquisition Manager (Russian speaking)
+                        - generic [ref=e844]:
+                          - generic [ref=e847]: Solicitud rápida
+                          - generic [ref=e850]: Normalmente responde en 1 día
+                      - generic [ref=e851]:
+                        - generic [ref=e853]:
+                          - generic [ref=e855]: Quadcode
+                          - generic [ref=e857]: Teletrabajo
+                        - list [ref=e859]:
+                          - listitem [ref=e860]:
+                            - generic [ref=e863]: Jornada completa
+                      - button "Save job Toggle" [ref=e867] [cursor=pointer]:
+                        - img [ref=e868]
+                    - generic [ref=e870]:
+                      - list [ref=e872]:
+                        - listitem [ref=e873]: Collaborating with creatives and motion designers to develop and refine ad content.
+                        - listitem [ref=e874]: Coordinating with analytics teams, product managers, and designers to align…
+                      - list [ref=e878]:
+                        - listitem [ref=e879]:
+                          - generic [ref=e880]:
+                            - text: "Ver todo:"
+                            - link "Empleos de Quadcode" [ref=e881] [cursor=pointer]:
+                              - /url: /q-quadcode-empleos.html
+                            - text: "-"
+                            - link "trabajo en En remoto" [ref=e882] [cursor=pointer]:
+                              - /url: /l-en-remoto-empleos.html
+                            - text: "-"
+                            - link "Empleos de Marketing Manager en En remoto" [ref=e883] [cursor=pointer]:
+                              - /url: /q-marketing-manager-l-en-remoto-empleos.html
+                        - listitem [ref=e884]:
+                          - generic [ref=e885]:
+                            - text: "Búsqueda de sueldos:"
+                            - link "sueldos de User Acquisition Manager (Russian speaking) en En remoto" [ref=e886] [cursor=pointer]:
+                              - /url: /career/marketing-manager/salaries?campaignid=serp-more&fromjk=d049d9324fcce5d8&from=serp-more
+              - listitem
+            - navigation "pagination" [ref=e888]:
+              - list [ref=e889]:
+                - listitem [ref=e890]:
+                  - link "1" [ref=e891] [cursor=pointer]:
+                    - /url: "#"
+                - listitem [ref=e892]:
+                  - link "2" [ref=e893] [cursor=pointer]:
+                    - /url: /jobs?q=motion+designer&l=Espa%C3%B1a&radius=25&sort=date&start=10
+                - listitem [ref=e894]:
+                  - link "3" [ref=e895] [cursor=pointer]:
+                    - /url: /jobs?q=motion+designer&l=Espa%C3%B1a&radius=25&sort=date&start=20
+                - listitem [ref=e896]:
+                  - link "4" [ref=e897] [cursor=pointer]:
+                    - /url: /jobs?q=motion+designer&l=Espa%C3%B1a&radius=25&sort=date&start=30
+                - listitem [ref=e898]:
+                  - link "5" [ref=e899] [cursor=pointer]:
+                    - /url: /jobs?q=motion+designer&l=Espa%C3%B1a&radius=25&sort=date&start=40
+                - listitem [ref=e900]:
+                  - link "Página siguiente" [ref=e901] [cursor=pointer]:
+                    - /url: /jobs?q=motion+designer&l=Espa%C3%B1a&radius=25&sort=date&start=10
+                    - img [ref=e902]
+            - generic [ref=e908]:
+              - generic [ref=e909]:
+                - generic [ref=e911]:
+                  - text: Quiero recibir las últimas ofertas de
+                  - strong [ref=e912]: motion designer
+                  - text: en
+                  - strong [ref=e913]: España
+                  - text: por email
+                - generic [ref=e914] [cursor=pointer]:
+                  - switch [ref=e915]
+                  - img [ref=e918]
+              - paragraph [ref=e921]:
+                - text: Al crear una alerta de empleo, aceptas nuestras
+                - link "Terms (se abre en una pestaña nueva)" [ref=e922] [cursor=pointer]:
+                  - /url: /legal?hl=es
+                  - text: Condiciones
+                  - img [ref=e923]
+                - text: . Puedes cambiar tu decisión en cualquier momento cancelando la suscripción o como se indica en nuestras condiciones.
+            - generic [ref=e926]:
+              - heading "Otros candidatos también buscaron:" [level=3] [ref=e927]
+              - list [ref=e928]:
+                - listitem [ref=e929]:
+                  - link "diseñador" [ref=e930] [cursor=pointer]:
+                    - /url: /q-dise%c3%b1ador-empleos.html
+                    - generic [ref=e932]: diseñador
+                - listitem [ref=e933]:
+                  - link "diseñador gráfico" [ref=e934] [cursor=pointer]:
+                    - /url: /q-dise%c3%b1ador-gr%c3%a1fico-empleos.html
+                    - generic [ref=e936]: diseñador gráfico
+                - listitem [ref=e937]:
+                  - link "diseño" [ref=e938] [cursor=pointer]:
+                    - /url: /q-dise%c3%b1o-empleos.html
+                    - generic [ref=e940]: diseño
+                - listitem [ref=e941]:
+                  - link "english" [ref=e942] [cursor=pointer]:
+                    - /url: /q-english-empleos.html
+                    - generic [ref=e944]: english
+                - listitem [ref=e945]:
+                  - link "fashion" [ref=e946] [cursor=pointer]:
+                    - /url: /q-fashion-empleos.html
+                    - generic [ref=e948]: fashion
+                - listitem [ref=e949]:
+                  - link "fashion designer" [ref=e950] [cursor=pointer]:
+                    - /url: /q-fashion-designer-empleos.html
+                    - generic [ref=e952]: fashion designer
+                - listitem [ref=e953]:
+                  - link "graphic designer" [ref=e954] [cursor=pointer]:
+                    - /url: /q-graphic-designer-empleos.html
+                    - generic [ref=e956]: graphic designer
+                - listitem [ref=e957]:
+                  - link "product designer" [ref=e958] [cursor=pointer]:
+                    - /url: /q-product-designer-empleos.html
+                    - generic [ref=e960]: product designer
+                - listitem [ref=e961]:
+                  - link "3d" [ref=e962] [cursor=pointer]:
+                    - /url: /q-3d-empleos.html
+                    - generic [ref=e964]: 3d
+          - generic "Job Post Details" [ref=e966]:
+            - button "Return to Search Result" [ref=e967]
+            - heading "Job Post Details" [level=2] [ref=e968]
+            - generic [ref=e972]:
+              - generic [ref=e974]:
+                - generic [ref=e975]:
+                  - heading "Senior Manager, Creative - job post" [level=2] [ref=e977]:
+                    - generic [ref=e978]:
+                      - text: Senior Manager, Creative
+                      - generic [ref=e979]: "- job post"
+                  - generic [ref=e983]:
+                    - generic [ref=e984]:
+                      - link "Coca-Cola (se abre en una pestaña nueva)" [ref=e987] [cursor=pointer]:
+                        - /url: https://es.indeed.com/cmp/The-Coca--cola-Company?campaignid=mobvjcmp&from=mobviewjob&tk=1jmaejl2g25en003&fromjk=528c7a80ddea94f4
+                        - text: Coca-Cola
+                        - img [ref=e988]
+                      - generic [ref=e990]:
+                        - generic [ref=e991]: · 3.8
+                        - generic [ref=e992]: 3.8 de 5 estrellas
+                        - img [ref=e993]
+                    - generic [ref=e996]: 28042 Madrid, Madrid provincia
+                - generic [ref=e998]:
+                  - generic [ref=e999]: Crea una cuenta de Indeed antes de continuar a la página web de la empresa
+                  - button "Solicitar en la página de la empresa (se abre en una pestaña nueva)" [ref=e1005] [cursor=pointer]:
+                    - generic [ref=e1006]: Solicitar en la página de la empresa
+                    - img [ref=e1007]
+                  - button "Guardar empleo" [ref=e1012] [cursor=pointer]:
+                    - img "icono-guardar" [ref=e1013]
+                  - button "Compartir empleo" [ref=e1015] [cursor=pointer]
+              - generic [ref=e1018]:
+                - generic [ref=e1019]:
+                  - generic [ref=e1025]:
+                    - generic [ref=e1026]:
+                      - heading "Detalles del empleo" [level=2] [ref=e1028]
+                      - group "Tipo de empleo" [ref=e1030]:
+                        - img [ref=e1031]
+                        - generic [ref=e1034]:
+                          - heading "Tipo de empleo" [level=3] [ref=e1035]
+                          - list [ref=e1037]:
+                            - listitem [ref=e1038]:
+                              - generic [ref=e1043]: Jornada completa
+                    - separator [ref=e1044]:
+                      - generic [ref=e1045]: "&nbsp;"
+                  - generic [ref=e1046]:
+                    - heading "Ubicación" [level=2] [ref=e1047]
+                    - generic [ref=e1048]:
+                      - img [ref=e1049]
+                      - generic [ref=e1052]: 28042 Madrid, Madrid provincia
+                    - separator [ref=e1053]:
+                      - generic [ref=e1054]: "&nbsp;"
+                  - heading "Descripción completa del empleo" [level=2] [ref=e1056]
+                  - generic [ref=e1057]:
+                    - paragraph
+                    - generic [ref=e1058]:
+                      - generic [ref=e1060]:
+                        - paragraph [ref=e1061]: Role Purpose
+                        - paragraph [ref=e1062]: The Senior Manager, Creative (Shopper) Spain is responsible for developing, localizing and executing shopper focused content and instore activation assets that bring Coca-Cola brands to life across the retail and away from home landscape.
+                        - paragraph [ref=e1063]: This is a new local role, introduced only in Top 9 markets to enhance local relevance, commercial integration, and end to end creative excellence from sell-in to shelf.
+                        - paragraph [ref=e1064]: This role ensures that local brand plans translate into breakthrough, insight driven shopper assets, optimized for POS, retail media, grocery multiples, convenience, forecourts, and foodservice outlets.
+                        - paragraph [ref=e1065]: Working within the Spain IMX team, this Senior Manager collaborates closely with local brand teams, Commercial, Shopper, RGM, bottler partners, and external agencies to deliver shopper-ready creative that converts demand into purchase, while strengthening brand equity at the point of choice.
+                        - paragraph [ref=e1066]: This role is hands-on, executional, and requires a strong understanding of shopper communication principles, design know-how, creative judgment, channel and retail understanding, familiarity of bottlers dynamics and the ability to work autonomously without central support.
+                        - paragraph
+                        - paragraph [ref=e1067]: What You’ll Do for Us
+                        - paragraph [ref=e1068]: Shopper Strategy & Development
+                        - list [ref=e1069]:
+                          - listitem [ref=e1070]:
+                            - paragraph [ref=e1071]: Develop shopper-focused creative ideas and activation concepts that connect brand strategy to retail execution across customers and channels.
+                          - listitem [ref=e1072]:
+                            - paragraph [ref=e1073]: Translate brand narratives, global creative ideas, and IMX plans into channels specific simple and break-through shopper creative that drives conversion and visibility.
+                          - listitem [ref=e1074]:
+                            - paragraph [ref=e1075]: Ensure creative solutions reflect shopper insights and principles, category triggers, customer needs, and consumption occasions.
+                          - listitem [ref=e1076]:
+                            - paragraph [ref=e1077]: Work and collaborate with central Shopper team to scale and deploy best in class shopper toolkits
+                        - paragraph
+                        - paragraph [ref=e1078]: POS, Retail & Customer Specific Creative
+                        - list [ref=e1079]:
+                          - listitem [ref=e1080]:
+                            - paragraph [ref=e1081]: Lead creation or adaptation of instore and POS assets including shelf strips, gondola ends, wobblers, barkers, display units, digital commerce assets, retail media assets, and promotional material
+                          - listitem [ref=e1082]:
+                            - paragraph [ref=e1083]: Work with bottlers to localize central shopper material to local realities mastering Coca-Cola Tech tools (like ShopX)
+                          - listitem [ref=e1084]:
+                            - paragraph [ref=e1085]: Implement local campaigns leveraging 360 integrated activation eco-system, when applicable
+                          - listitem [ref=e1086]:
+                            - paragraph [ref=e1087]: Adapt master creative assets into contextually relevant, retailers specific executions that respect customer guidelines while maintaining brand integrity.
+                          - listitem [ref=e1088]:
+                            - paragraph [ref=e1089]: Develop or adapt creative for sell-in materials (customer decks, visuals, mockups, display concepts) working closely with Commercial and Shopper teams.
+                        - paragraph
+                        - paragraph [ref=e1090]: Cross Functional Collaboration
+                        - list [ref=e1091]:
+                          - listitem [ref=e1092]:
+                            - paragraph [ref=e1093]: Partner with local brand teams to ensure end-to-end integration of creative across brand, shopper, and commercial plans.
+                          - listitem [ref=e1094]:
+                            - paragraph [ref=e1095]: Work closely with Commercial & Channel, RGM, Shopper Marketing, Insights, and bottler partners to optimize creative impact at point of choice.
+                          - listitem [ref=e1096]:
+                            - paragraph [ref=e1097]: Ensure creative assets ladder up to IMX and Total Connections plans.
+                          - listitem [ref=e1098]:
+                            - paragraph [ref=e1099]: Partner and align with central shopper team to ensure local plans are utilising best practice and latest insights
+                          - listitem [ref=e1100]:
+                            - paragraph [ref=e1101]: Deploy latest shopper tools to streamline and increase efficiencies and speed
+                        - paragraph
+                        - paragraph [ref=e1102]: Agency & Partner Management
+                        - list [ref=e1103]:
+                          - listitem [ref=e1104]:
+                            - paragraph [ref=e1105]: Manage external creative, design, and production agencies to execute high-quality shopper assets efficiently and on-time.
+                          - listitem [ref=e1106]:
+                            - paragraph [ref=e1107]: Provide clear briefs, feedback loops, and creative direction to ensure output meets strategic and executional standards.
+                          - listitem [ref=e1108]:
+                            - paragraph [ref=e1109]: When needed, produce or adapt lightweight creative content using design tools (Illustrator, Photoshop, etc.).
+                        - paragraph
+                        - paragraph [ref=e1110]: Creative Excellence & Performance
+                        - list [ref=e1111]:
+                          - listitem [ref=e1112]:
+                            - paragraph [ref=e1113]: Ensure all shopper creative adheres to brand guidelines, design systems, VIS, and packaging principles outlined by central OU shopper team
+                          - listitem [ref=e1114]:
+                            - paragraph [ref=e1115]: Evaluate creative effectiveness through A/B testing, AI testing tools and shopper behavioural studies.
+                          - listitem [ref=e1116]:
+                            - paragraph [ref=e1117]: Identify opportunities to innovate with new shopper formats, retail technologies, digital signage, and retail media platforms.
+                        - paragraph
+                        - paragraph [ref=e1118]: Ways of Working & Leadership Behaviours
+                        - list [ref=e1119]:
+                          - listitem [ref=e1120]:
+                            - paragraph [ref=e1121]: Operate independently as a hands-on Shopper expert within the local network model (no central support).
+                          - listitem [ref=e1122]:
+                            - paragraph [ref=e1123]: Collaborate, share and act as key community member with Central OU Shopper/IMX team
+                          - listitem [ref=e1124]:
+                            - paragraph [ref=e1125]: Bring curiosity, problems solving, and “startup mindset” to unlock shopper impact with limited budgets.
+                          - listitem [ref=e1126]:
+                            - paragraph [ref=e1127]: Influence without authority, partnering with cross-functional teams and bottlers to champion creative excellence at shelf.
+                        - paragraph
+                        - paragraph [ref=e1128]: Qualifications & Requirements
+                        - list [ref=e1129]:
+                          - listitem [ref=e1130]:
+                            - paragraph [ref=e1131]: Associate’s or Bachelor’s degree in Creative Design, Graphic Design, Marketing, Communications, or related field.
+                          - listitem [ref=e1132]:
+                            - paragraph [ref=e1133]: 5+ years of creative experience in agency or client-side roles with shopper, retail, or POS content development.
+                          - listitem [ref=e1134]:
+                            - paragraph [ref=e1135]: Demonstrated experience creating shopper, retailer, digital, social, experiential creative assets.
+                          - listitem [ref=e1136]:
+                            - paragraph [ref=e1137]: Strong conceptual and design skills, with the ability to both ideate and execute.
+                          - listitem [ref=e1138]:
+                            - paragraph [ref=e1139]: Understanding of print and production guidelines and confidence with Adobe Creative Suite (Illustrator, Photoshop, InDesign)
+                          - listitem [ref=e1140]:
+                            - paragraph [ref=e1141]: Experience working with agencies, printers, production partners, and cross-functional teams.
+                          - listitem [ref=e1142]:
+                            - paragraph [ref=e1143]: Strong understanding of bottlers’ dynamics of retail environments, shopper behaviour, and customer specific creative requirements.
+                          - listitem [ref=e1144]:
+                            - paragraph [ref=e1145]: Excellent collaboration, communication, and stakeholder influencing skills.
+                          - listitem [ref=e1146]:
+                            - paragraph [ref=e1147]: Ability to manage multiple creative projects simultaneously under tight deadlines.
+                          - listitem [ref=e1148]:
+                            - paragraph [ref=e1149]: Comfortable working in a fast paced, multicultural, highly networked environment.
+                        - paragraph
+                        - paragraph [ref=e1150]: What We Can Do for You
+                        - list [ref=e1151]:
+                          - listitem [ref=e1152]:
+                            - paragraph [ref=e1153]: "Shopper Impact: Drive how consumers experience Coca-Cola brands at the most critical moment — the point of purchase."
+                          - listitem [ref=e1154]:
+                            - paragraph [ref=e1155]: "Creative Playground: Opportunity to experiment with shopper formats, retail innovation, and new creative technologies."
+                          - listitem [ref=e1156]:
+                            - paragraph [ref=e1157]: "Local Empowerment: Full ownership of GB shopper creative — a new, high visibility capability in a Top 9 market."
+                          - listitem [ref=e1158]:
+                            - paragraph [ref=e1159]: "Creative Culture: Work alongside best in class brand leaders, agencies, and designers in a creative, innovative environment."
+                        - paragraph
+                        - paragraph [ref=e1160]: Confidentiality Notice
+                        - paragraph [ref=e1161]: This job description outlines the general nature and key responsibilities of the role. Duties may evolve based on business needs. All information is confidential and intended solely for internal hiring purposes within the Europe Operating Unit.
+                      - paragraph
+                      - text: Adobe Illustrator, Adobe Photoshop, Agency Management, Arts Education, Creative Briefs, Creative Design, Creative Directing, Graphic Design, Motion Graphics, Photography, Relationship Building, Storyboards, Strategic Thinking, UI UX (Inactive), User Experience (UX) Design, Visual Design, Visual Graphics (Inactive), Waterfall Model
+                      - paragraph
+                      - paragraph [ref=e1162]: "Location(s):"
+                      - text: Spain
+                      - paragraph
+                      - paragraph [ref=e1163]: "City/Cities:"
+                      - text: Madrid
+                      - paragraph
+                      - paragraph [ref=e1164]: "Travel Required:"
+                      - text: 00% - 25%
+                      - paragraph
+                      - paragraph [ref=e1165]: "Relocation Provided:"
+                      - text: "No"
+                      - paragraph
+                      - paragraph [ref=e1166]: "Job Posting End Date:"
+                      - text: April 20, 2026
+                      - paragraph
+                      - paragraph [ref=e1167]: "Our Purpose and Growth Culture:"
+                      - paragraph
+                      - paragraph [ref=e1168]: We are taking deliberate action to nurture an inclusive culture that is grounded in our company purpose, to refresh the world and make a difference. We act with a growth mindset, take an expansive approach to what’s possible and believe in continuous learning to improve our business and ourselves. We focus on four key behaviors – curious, empowered, inclusive and agile – and value how we work as much as what we achieve. We believe that our culture is one of the reasons our company continues to thrive after 130+ years. Visit Our Purpose and Vision to learn more about these behaviors and how you can bring them to life in your next role at Coca-Cola.
+                      - paragraph
+                      - text: Annual Incentive Reference Value Percentage:15
+                      - text: Annual Incentive reference value is a market-based competitive value for your role. It falls in the middle of the range for your role, indicating performance at target.
+                  - separator [ref=e1169]:
+                    - generic [ref=e1170]: "&nbsp;"
+                - button "Denunciar empleo" [ref=e1177] [cursor=pointer]: Denunciar empleo
+            - button "Return to Search Result" [ref=e1179]
+      - contentinfo [ref=e1184]:
+        - generic [ref=e1185]:
+          - list [ref=e1186]:
+            - listitem [ref=e1187]:
+              - link "Orientación laboral" [ref=e1189] [cursor=pointer]:
+                - /url: https://es.indeed.com/orientacion-laboral
+            - listitem [ref=e1190]:
+              - link "Ver empleos" [ref=e1192] [cursor=pointer]:
+                - /url: https://es.indeed.com/browsejobs
+            - listitem [ref=e1193]:
+              - link "Ver empresas" [ref=e1195] [cursor=pointer]:
+                - /url: https://es.indeed.com/companies/browse-companies
+            - listitem [ref=e1196]:
+              - link "Sueldos" [ref=e1198] [cursor=pointer]:
+                - /url: https://es.indeed.com/career/salaries
+            - listitem [ref=e1199]:
+              - link "Eventos Indeed" [ref=e1201] [cursor=pointer]:
+                - /url: https://www.indeedevents.com/es-es/
+            - listitem [ref=e1202]:
+              - link "Países" [ref=e1204] [cursor=pointer]:
+                - /url: https://es.indeed.com/worldwide
+            - listitem [ref=e1205]:
+              - link "Acerca de" [ref=e1207] [cursor=pointer]:
+                - /url: https://es.indeed.com/about
+            - listitem [ref=e1208]:
+              - link "Ayuda" [ref=e1210] [cursor=pointer]:
+                - /url: https://es.indeed.com/help
+          - list [ref=e1211]:
+            - listitem [ref=e1212]: © 2026 Indeed
+            - listitem [ref=e1213]:
+              - link "Accesibilidad en Indeed" [ref=e1215] [cursor=pointer]:
+                - /url: https://es.indeed.com/esg/accessibility?hl=es
+            - listitem [ref=e1216]:
+              - link "Centro de privacidad y Opciones de publicidad" [ref=e1218] [cursor=pointer]:
+                - /url: https://hrtechprivacy.com/es/brands/indeed#privacypolicy
+            - listitem [ref=e1219]:
+              - link "Denuncias conforme a la Ley de Servicios Digitales" [ref=e1221] [cursor=pointer]:
+                - /url: https://dsa-reporting-and-appeals.indeed.com/
+            - listitem [ref=e1222]:
+              - link "Página de seguridad en línea" [ref=e1224] [cursor=pointer]:
+                - /url: https://es.indeed.com/legal/online-safety-page
+            - listitem [ref=e1225]:
+              - link "Cookies" [ref=e1227] [cursor=pointer]:
+                - /url: https://es.indeed.com/legal/cookies?hl=es&showOneTrustModal=true
+            - listitem [ref=e1228]:
+              - link "Condiciones" [ref=e1230] [cursor=pointer]:
+                - /url: https://es.indeed.com/legal?hl=es
+          - list:
+            - listitem

@@ -1,0 +1,1075 @@
+- generic [ref=e1]:
+  - alert [ref=e2]:
+    - generic [ref=e4]:
+      - img [ref=e7]
+      - generic [ref=e9]:
+        - heading [level=2] [ref=e10]: LinkedIn respects your privacy
+        - generic [ref=e12]:
+          - paragraph [ref=e13]:
+            - text: LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our
+            - link [ref=e14] [cursor=pointer]:
+              - /url: https://www.linkedin.com/legal/cookie-policy
+              - text: Cookie Policy
+            - text: .
+          - paragraph [ref=e15]:
+            - text: Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your
+            - link [ref=e16] [cursor=pointer]:
+              - /url: https://www.linkedin.com/mypreferences/g/guest-cookies
+              - text: settings
+            - text: .
+        - generic [ref=e17]:
+          - button [ref=e18] [cursor=pointer]: Accept
+          - button [ref=e19] [cursor=pointer]: Reject
+  - generic [ref=e20]:
+    - link [ref=e21] [cursor=pointer]:
+      - /url: "#main-content"
+      - text: Skip to main content
+    - banner [ref=e22]:
+      - navigation [ref=e23]:
+        - link [ref=e24] [cursor=pointer]:
+          - /url: /?trk=public_jobs_nav-header-logo
+          - generic [ref=e25]: LinkedIn
+          - img [ref=e27]
+        - generic [ref=e38]:
+          - button [ref=e39]:
+            - img [ref=e41]
+            - generic [ref=e43]: Motion Graphics Designer in Spain
+            - generic [ref=e44]: Expand search
+          - status [ref=e45]
+        - generic [ref=e46]:
+          - link [ref=e47] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch%2F%3Fkeywords%3Dmotion%2Bgraphics%2Bdesigner%26location%3DEspa%25C3%25B1a%26geoId%3D105646813&trk=public_jobs_nav-header-signin
+            - text: Sign in
+          - link [ref=e48] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch%2F%3Fkeywords%3Dmotion%2Bgraphics%2Bdesigner%26location%3DEspa%25C3%25B1a%26geoId%3D105646813&trk=public_jobs_nav-header-join
+            - text: Join now
+    - list [ref=e54]:
+      - listitem [ref=e55]:
+        - button [ref=e58] [cursor=pointer]:
+          - text: Any time
+          - img [ref=e60]
+      - listitem [ref=e62]:
+        - button [ref=e65] [cursor=pointer]:
+          - text: Company
+          - img [ref=e67]
+      - listitem [ref=e69]:
+        - button [ref=e72] [cursor=pointer]:
+          - text: Job type
+          - img [ref=e74]
+      - listitem [ref=e76]:
+        - button [ref=e79] [cursor=pointer]:
+          - text: Experience level
+          - img [ref=e81]
+      - listitem [ref=e83]:
+        - button [ref=e86] [cursor=pointer]:
+          - text: Location
+          - img [ref=e88]
+      - listitem [ref=e90]:
+        - button [ref=e93] [cursor=pointer]:
+          - text: Remote
+          - img [ref=e95]
+    - main [ref=e98]:
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - img [ref=e104]
+          - generic [ref=e106]: Get notified when a new job is posted.
+        - generic [ref=e107]:
+          - button [ref=e108]
+          - generic [ref=e109]: Set alert
+      - heading [level=1] [ref=e111]: 2,000+ Motion Graphics Designer Jobs in Spain
+      - generic [ref=e112]:
+        - list [ref=e113]:
+          - listitem [ref=e114]:
+            - generic [ref=e115]:
+              - link [ref=e116] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-brand-at-notion-4393255729?position=1&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=K9b7mvGt67LhZn3tHjbzRA%3D%3D
+                - generic [ref=e117]: Motion Designer, Brand
+              - img [ref=e119]
+              - generic [ref=e120]:
+                - heading [level=3] [ref=e121]: Motion Designer, Brand
+                - heading [level=4] [ref=e122]:
+                  - link [ref=e123] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/notionhq?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Notion
+                - generic [ref=e124]:
+                  - generic [ref=e125]: New York, NY
+                  - generic [ref=e126]:
+                    - img [ref=e128]
+                    - generic [ref=e130]: Actively Hiring
+                  - time [ref=e131]: 2 weeks ago
+          - listitem [ref=e132]:
+            - generic [ref=e133]:
+              - link [ref=e134] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-graphics-designer-at-cnn-4386536271?position=2&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=miOnbWddRMtLDw11eVJlqQ%3D%3D
+                - generic [ref=e135]: Motion Graphics Designer
+              - img [ref=e137]
+              - generic [ref=e138]:
+                - heading [level=3] [ref=e139]: Motion Graphics Designer
+                - heading [level=4] [ref=e140]:
+                  - link [ref=e141] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/cnn?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: CNN
+                - generic [ref=e142]:
+                  - generic [ref=e143]: New York, NY
+                  - generic [ref=e144]:
+                    - img [ref=e146]
+                    - generic [ref=e148]: Actively Hiring
+                  - time [ref=e149]: 1 week ago
+          - listitem [ref=e150]:
+            - generic [ref=e151]:
+              - link [ref=e152] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-brand-at-notion-4393262384?position=3&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=%2F62XTVDiaGQlSzvFKJGBtA%3D%3D
+                - generic [ref=e153]: Motion Designer, Brand
+              - img [ref=e155]
+              - generic [ref=e156]:
+                - heading [level=3] [ref=e157]: Motion Designer, Brand
+                - heading [level=4] [ref=e158]:
+                  - link [ref=e159] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/notionhq?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Notion
+                - generic [ref=e160]:
+                  - generic [ref=e161]: San Francisco, CA
+                  - generic [ref=e162]:
+                    - img [ref=e164]
+                    - generic [ref=e166]: Actively Hiring
+                  - time [ref=e167]: 2 weeks ago
+          - listitem [ref=e168]:
+            - generic [ref=e169]:
+              - link [ref=e170] [cursor=pointer]:
+                - /url: https://in.linkedin.com/jobs/view/motion-designer-at-adobe-4359292687?position=4&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=co7OlQ0sJrC%2FY6yjeX3WIQ%3D%3D
+                - generic [ref=e171]: Motion Designer
+              - img [ref=e173]
+              - generic [ref=e174]:
+                - heading [level=3] [ref=e175]: Motion Designer
+                - heading [level=4] [ref=e176]:
+                  - link [ref=e177] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/adobe?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Adobe
+                - generic [ref=e178]:
+                  - generic [ref=e179]: Noida, Uttar Pradesh, India
+                  - generic [ref=e180]:
+                    - img [ref=e182]
+                    - generic [ref=e184]: Actively Hiring
+                  - time [ref=e185]: 4 days ago
+          - listitem [ref=e186]:
+            - generic [ref=e187]:
+              - link [ref=e188] [cursor=pointer]:
+                - /url: https://in.linkedin.com/jobs/view/motion-designer-at-maya-4379425372?position=5&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=6ilujzKxTfi86gZ8R5J%2FnQ%3D%3D
+                - generic [ref=e189]: Motion Designer
+              - img [ref=e191]
+              - generic [ref=e192]:
+                - heading [level=3] [ref=e193]: Motion Designer
+                - heading [level=4] [ref=e194]:
+                  - link [ref=e195] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/mayaresearch?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Maya
+                - generic [ref=e196]:
+                  - generic [ref=e197]: Bengaluru, Karnataka, India
+                  - time [ref=e198]: 1 month ago
+          - listitem [ref=e199]:
+            - generic [ref=e200]:
+              - link [ref=e201] [cursor=pointer]:
+                - /url: https://in.linkedin.com/jobs/view/motion-graphics-designer-at-capgemini-4399407250?position=6&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=GCX6qL%2FbCJVkAG%2BqaF13tA%3D%3D
+                - generic [ref=e202]: Motion Graphics Designer
+              - generic [ref=e204]:
+                - heading [level=3] [ref=e205]: Motion Graphics Designer
+                - heading [level=4] [ref=e206]:
+                  - link [ref=e207] [cursor=pointer]:
+                    - /url: https://fr.linkedin.com/company/capgemini?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Capgemini
+                - generic [ref=e208]:
+                  - generic [ref=e209]: Sion, Maharashtra, India
+                  - generic [ref=e212]: Actively Hiring
+                  - time [ref=e213]: 1 week ago
+          - listitem [ref=e214]:
+            - generic [ref=e215]:
+              - link [ref=e216] [cursor=pointer]:
+                - /url: https://lt.linkedin.com/jobs/view/motion-designer-at-flo-health-inc-4401709938?position=7&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=gfXeTCx%2FnUyndPDp59H0uA%3D%3D
+                - generic [ref=e217]: Motion Designer
+              - generic [ref=e219]:
+                - heading [level=3] [ref=e220]: Motion Designer
+                - heading [level=4] [ref=e221]:
+                  - link [ref=e222] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/flohealth?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Flo Health Inc.
+                - generic [ref=e223]:
+                  - generic [ref=e224]: Vilnius, Vilniaus, Lithuania
+                  - generic [ref=e227]: Be an early applicant
+                  - time [ref=e228]: 1 day ago
+          - listitem [ref=e229]:
+            - generic [ref=e230]:
+              - link [ref=e231] [cursor=pointer]:
+                - /url: https://in.linkedin.com/jobs/view/motion-graphic-designer-at-meesho-4304917080?position=8&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=dAJkfsTBAEg6KYJ8WPxopw%3D%3D
+                - generic [ref=e232]: Motion Graphic Designer
+              - generic [ref=e234]:
+                - heading [level=3] [ref=e235]: Motion Graphic Designer
+                - heading [level=4] [ref=e236]:
+                  - link [ref=e237] [cursor=pointer]:
+                    - /url: https://in.linkedin.com/company/meesho?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Meesho
+                - generic [ref=e238]:
+                  - generic [ref=e239]: Bengaluru, Karnataka, India
+                  - generic [ref=e242]: Actively Hiring
+                  - time [ref=e243]: 2 weeks ago
+          - listitem [ref=e244]:
+            - generic [ref=e245]:
+              - link [ref=e246] [cursor=pointer]:
+                - /url: https://uk.linkedin.com/jobs/view/junior-motion-designer-at-catalyst-4399939591?position=9&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=qoFUev%2BR3S9CYCGuJ8PTDw%3D%3D
+                - generic [ref=e247]: Junior Motion Designer
+              - generic [ref=e249]:
+                - heading [level=3] [ref=e250]: Junior Motion Designer
+                - heading [level=4] [ref=e251]:
+                  - link [ref=e252] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/catalystgrowthx?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Catalyst
+                - generic [ref=e253]:
+                  - generic [ref=e254]: London Area, United Kingdom
+                  - time [ref=e255]: 21 hours ago
+          - listitem [ref=e256]:
+            - generic [ref=e257]:
+              - link [ref=e258] [cursor=pointer]:
+                - /url: https://br.linkedin.com/jobs/view/motion-designer-junior-at-brivia-4399668881?position=10&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=aIigvPwYsohcYN09ZW2nfg%3D%3D
+                - generic [ref=e259]: Motion Designer Junior
+              - generic [ref=e261]:
+                - heading [level=3] [ref=e262]: Motion Designer Junior
+                - heading [level=4] [ref=e263]:
+                  - link [ref=e264] [cursor=pointer]:
+                    - /url: https://br.linkedin.com/company/briviagroup?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Brivia
+                - generic [ref=e265]:
+                  - generic [ref=e266]: Barueri, São Paulo, Brazil
+                  - generic [ref=e269]: Be an early applicant
+                  - time [ref=e270]: 3 days ago
+          - listitem [ref=e271]:
+            - generic [ref=e272]:
+              - link [ref=e273] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/junior-motion-designer-at-solomon-page-4399050338?position=11&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=B4khiXbfmbnPB5AFGXuc6A%3D%3D
+                - generic [ref=e274]: Junior Motion Designer
+              - generic [ref=e276]:
+                - heading [level=3] [ref=e277]: Junior Motion Designer
+                - heading [level=4] [ref=e278]:
+                  - link [ref=e279] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/solomon-page-group?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Solomon Page
+                - generic [ref=e280]:
+                  - generic [ref=e281]: United States
+                  - generic [ref=e284]: Actively Hiring
+                  - time [ref=e285]: 5 days ago
+          - listitem [ref=e286]:
+            - generic [ref=e287]:
+              - link [ref=e288] [cursor=pointer]:
+                - /url: https://uk.linkedin.com/jobs/view/motion-designer-at-treatwell-4400228486?position=12&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=G6qrlahSknA4lq8OEzDMyw%3D%3D
+                - generic [ref=e289]: Motion Designer
+              - generic [ref=e291]:
+                - heading [level=3] [ref=e292]: Motion Designer
+                - heading [level=4] [ref=e293]:
+                  - link [ref=e294] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/treatwell-com?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Treatwell
+                - generic [ref=e295]:
+                  - generic [ref=e296]: London, England, United Kingdom
+                  - generic [ref=e299]: Actively Hiring
+                  - time [ref=e300]: 6 days ago
+          - listitem [ref=e301]:
+            - generic [ref=e302]:
+              - link [ref=e303] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-graphics-designer-shopbop-at-shopbop-4376136720?position=13&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=iYztlECpff0%2Be%2BKi4lKMEg%3D%3D
+                - generic [ref=e304]: Motion Graphics Designer, Shopbop
+              - generic [ref=e306]:
+                - heading [level=3] [ref=e307]: Motion Graphics Designer, Shopbop
+                - heading [level=4] [ref=e308]:
+                  - link [ref=e309] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/shopbop?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Shopbop
+                - generic [ref=e310]:
+                  - generic [ref=e311]: New York, United States
+                  - time [ref=e312]: 1 week ago
+          - listitem [ref=e313]:
+            - generic [ref=e314]:
+              - link [ref=e315] [cursor=pointer]:
+                - /url: https://in.linkedin.com/jobs/view/motion-designer-at-licious-4376032898?position=14&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=2bBmKII4dTLXjofRyvmogw%3D%3D
+                - generic [ref=e316]: Motion Designer
+              - generic [ref=e318]:
+                - heading [level=3] [ref=e319]: Motion Designer
+                - heading [level=4] [ref=e320]:
+                  - link [ref=e321] [cursor=pointer]:
+                    - /url: https://in.linkedin.com/company/licious?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Licious
+                - generic [ref=e322]:
+                  - generic [ref=e323]: Bengaluru, Karnataka, India
+                  - generic [ref=e326]: Actively Hiring
+                  - time [ref=e327]: 3 weeks ago
+          - listitem [ref=e328]:
+            - generic [ref=e329]:
+              - link [ref=e330] [cursor=pointer]:
+                - /url: https://uk.linkedin.com/jobs/view/motion-designer-at-the-portfolio-group-4399769322?position=15&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=g1iB0Yy9C%2Bm5eINxyibW7w%3D%3D
+                - generic [ref=e331]: Motion Designer
+              - generic [ref=e333]:
+                - heading [level=3] [ref=e334]: Motion Designer
+                - heading [level=4] [ref=e335]:
+                  - link [ref=e336] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/the-portfolio-group?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: The Portfolio Group
+                - generic [ref=e337]:
+                  - generic [ref=e338]: London Area, United Kingdom
+                  - generic [ref=e341]: Actively Hiring
+                  - time [ref=e342]: 1 day ago
+          - listitem [ref=e343]:
+            - generic [ref=e344]:
+              - link [ref=e345] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/video-editor-motion-designer-freelance-at-ralph-4395900336?position=16&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=7n20TXx8kWs0vxsfrIAhcA%3D%3D
+                - generic [ref=e346]: Video Editor / Motion Designer (Freelance)
+              - generic [ref=e348]:
+                - heading [level=3] [ref=e349]: Video Editor / Motion Designer (Freelance)
+                - heading [level=4] [ref=e350]:
+                  - link [ref=e351] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/ralph?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Ralph
+                - generic [ref=e352]:
+                  - generic [ref=e353]: Los Angeles Metropolitan Area
+                  - time [ref=e354]: 1 week ago
+          - listitem [ref=e355]:
+            - generic [ref=e356]:
+              - link [ref=e357] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/freelance-video-editor-motion-graphics-designer-at-workgenius-group-4401191077?position=17&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=CCngV0Y91uqObmGXAr0gjA%3D%3D
+                - generic [ref=e358]: Freelance Video Editor / Motion Graphics Designer
+              - generic [ref=e360]:
+                - heading [level=3] [ref=e361]: Freelance Video Editor / Motion Graphics Designer
+                - heading [level=4] [ref=e362]:
+                  - link [ref=e363] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/workgenius-group?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: WorkGenius Group
+                - generic [ref=e364]:
+                  - generic [ref=e365]: United States
+                  - generic [ref=e368]: Actively Hiring
+                  - time [ref=e369]: 1 day ago
+          - listitem [ref=e370]:
+            - generic [ref=e371]:
+              - link [ref=e372] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/junior-motion-designer-at-universal-music-group-4387480002?position=18&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=nh%2BWtlBYAnYs8tm6KjTjlQ%3D%3D
+                - generic [ref=e373]: Junior Motion Designer
+              - generic [ref=e375]:
+                - heading [level=3] [ref=e376]: Junior Motion Designer
+                - heading [level=4] [ref=e377]:
+                  - link [ref=e378] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/universalmusicgroup?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Universal Music Group
+                - generic [ref=e379]:
+                  - generic [ref=e380]: Santa Monica, CA
+                  - generic [ref=e383]: Actively Hiring
+                  - time [ref=e384]: 6 days ago
+          - listitem [ref=e385]:
+            - generic [ref=e386]:
+              - link [ref=e387] [cursor=pointer]:
+                - /url: https://in.linkedin.com/jobs/view/motion-graphic-designer-hyd-at-varun-digital-media-4396460672?position=19&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=qKhlPVgmhzt3hf%2Fu%2FwV10g%3D%3D
+                - generic [ref=e388]: Motion Graphic Designer | HYD
+              - generic [ref=e390]:
+                - heading [level=3] [ref=e391]: Motion Graphic Designer | HYD
+                - heading [level=4] [ref=e392]:
+                  - link [ref=e393] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/varun-digital-media?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Varun Digital Media
+                - generic [ref=e394]:
+                  - generic [ref=e395]: Hyderabad, Telangana, India
+                  - time [ref=e396]: 2 weeks ago
+          - listitem [ref=e397]:
+            - generic [ref=e398]:
+              - link [ref=e399] [cursor=pointer]:
+                - /url: https://in.linkedin.com/jobs/view/motion-graphics-at-connect-infosoft-technologies-pvt-ltd-4355246710?position=20&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=0vSlltuN7u5Cc5MTM2au1w%3D%3D
+                - generic [ref=e400]: Motion Graphics
+              - generic [ref=e402]:
+                - heading [level=3] [ref=e403]: Motion Graphics
+                - heading [level=4] [ref=e404]:
+                  - link [ref=e405] [cursor=pointer]:
+                    - /url: https://in.linkedin.com/company/connect-infosoft-technologies?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Connect Infosoft Technologies Pvt. Ltd.
+                - generic [ref=e406]:
+                  - generic [ref=e407]: Faridabad, Haryana, India
+                  - time [ref=e408]: 2 months ago
+          - listitem [ref=e409]:
+            - generic [ref=e410]:
+              - link [ref=e411] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-at-robert-half-4401747853?position=21&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=YnPLrvZJwNvroI9G193IbA%3D%3D
+                - generic [ref=e412]: Motion Designer
+              - generic [ref=e414]:
+                - heading [level=3] [ref=e415]: Motion Designer
+                - heading [level=4] [ref=e416]:
+                  - link [ref=e417] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/robert-half-international?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Robert Half
+                - generic [ref=e418]:
+                  - generic [ref=e419]: Houston, TX
+                  - generic [ref=e422]: Be an early applicant
+                  - time [ref=e423]: 1 day ago
+          - listitem [ref=e424]:
+            - generic [ref=e425]:
+              - link [ref=e426] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-at-doordash-4398378428?position=22&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=xSqmi%2B4lyfJQ17v3ilRN4w%3D%3D
+                - generic [ref=e427]: Motion Designer
+              - generic [ref=e429]:
+                - heading [level=3] [ref=e430]: Motion Designer
+                - heading [level=4] [ref=e431]:
+                  - link [ref=e432] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/doordash?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: DoorDash
+                - generic [ref=e433]:
+                  - generic [ref=e434]: New York, NY
+                  - generic [ref=e437]: Actively Hiring
+                  - time [ref=e438]: 1 week ago
+          - listitem [ref=e439]:
+            - generic [ref=e440]:
+              - link [ref=e441] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/video-editor-motion-designer-at-ralph-4395484873?position=23&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=gKJxOK5qvAH094cHhY3NTw%3D%3D
+                - generic [ref=e442]: Video Editor / Motion Designer
+              - generic [ref=e444]:
+                - heading [level=3] [ref=e445]: Video Editor / Motion Designer
+                - heading [level=4] [ref=e446]:
+                  - link [ref=e447] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/ralph?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Ralph
+                - generic [ref=e448]:
+                  - generic [ref=e449]: Los Angeles Metropolitan Area
+                  - time [ref=e450]: 1 week ago
+          - listitem [ref=e451]:
+            - generic [ref=e452]:
+              - link [ref=e453] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-at-inspyr-solutions-4392921895?position=24&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=ArYeqhESgFatNSy5%2Fp0%2BrQ%3D%3D
+                - generic [ref=e454]: Motion Designer
+              - generic [ref=e456]:
+                - heading [level=3] [ref=e457]: Motion Designer
+                - heading [level=4] [ref=e458]:
+                  - link [ref=e459] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/inspyrsolutions?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: INSPYR Solutions
+                - generic [ref=e460]:
+                  - generic [ref=e461]: United States
+                  - generic [ref=e464]: Actively Hiring +4 benefits
+                  - time [ref=e465]: 2 weeks ago
+          - listitem [ref=e466]:
+            - generic [ref=e467]:
+              - link [ref=e468] [cursor=pointer]:
+                - /url: https://in.linkedin.com/jobs/view/motion-graphics-expert-job-at-advertflair-4198822011?position=25&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=tFVp%2BHS0jJ%2B52%2B2qe1I34w%3D%3D
+                - generic [ref=e469]: Motion Graphics Expert - Job
+              - generic [ref=e471]:
+                - heading [level=3] [ref=e472]: Motion Graphics Expert - Job
+                - heading [level=4] [ref=e473]:
+                  - link [ref=e474] [cursor=pointer]:
+                    - /url: https://in.linkedin.com/company/advertflair?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Advertflair
+                - generic [ref=e475]:
+                  - generic [ref=e476]: Greater Chennai Area
+                  - time [ref=e477]: 1 year ago
+          - listitem [ref=e478]:
+            - generic [ref=e479]:
+              - link [ref=e480] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/video-editor-motion-designer-at-simplepractice-4396575209?position=26&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=u27VDqHiMQZxGNP6EILKEw%3D%3D
+                - generic [ref=e481]: Video Editor & Motion Designer
+              - generic [ref=e483]:
+                - heading [level=3] [ref=e484]: Video Editor & Motion Designer
+                - heading [level=4] [ref=e485]:
+                  - link [ref=e486] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/simplepractice?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: SimplePractice
+                - generic [ref=e487]:
+                  - generic [ref=e488]: United States
+                  - generic [ref=e491]: Actively Hiring
+                  - time [ref=e492]: 1 week ago
+          - listitem [ref=e493]:
+            - generic [ref=e494]:
+              - link [ref=e495] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-at-clear-4387875770?position=27&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=ctRfDKyfHPqA40P7amrwBA%3D%3D
+                - generic [ref=e496]: Motion Designer
+              - generic [ref=e498]:
+                - heading [level=3] [ref=e499]: Motion Designer
+                - heading [level=4] [ref=e500]:
+                  - link [ref=e501] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/clear-by-alclear-llc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: CLEAR
+                - generic [ref=e502]:
+                  - generic [ref=e503]: New York, NY
+                  - time [ref=e504]: 5 days ago
+          - listitem [ref=e505]:
+            - generic [ref=e506]:
+              - link [ref=e507] [cursor=pointer]:
+                - /url: https://th.linkedin.com/jobs/view/brand-designer-graphic-motion-thailand-6-month-contract-at-canva-4401097206?position=28&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=9O10lqaJAJsztWQVKYhRag%3D%3D
+                - generic [ref=e508]: Brand Designer (Graphic & Motion), Thailand (6-month Contract)
+              - generic [ref=e510]:
+                - heading [level=3] [ref=e511]: Brand Designer (Graphic & Motion), Thailand (6-month Contract)
+                - heading [level=4] [ref=e512]:
+                  - link [ref=e513] [cursor=pointer]:
+                    - /url: https://au.linkedin.com/company/canva?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Canva
+                - generic [ref=e514]:
+                  - generic [ref=e515]: Bangkok, Bangkok City, Thailand
+                  - generic [ref=e518]: Actively Hiring
+                  - time [ref=e519]: 2 days ago
+          - listitem [ref=e520]:
+            - generic [ref=e521]:
+              - link [ref=e522] [cursor=pointer]:
+                - /url: https://in.linkedin.com/jobs/view/motion-designer-at-amaha-4392278761?position=29&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=Hth58VsDybB73%2B73wAxnHg%3D%3D
+                - generic [ref=e523]: Motion Designer
+              - generic [ref=e525]:
+                - heading [level=3] [ref=e526]: Motion Designer
+                - heading [level=4] [ref=e527]:
+                  - link [ref=e528] [cursor=pointer]:
+                    - /url: https://in.linkedin.com/company/amaha?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Amaha
+                - generic [ref=e529]:
+                  - generic [ref=e530]: Mumbai, Maharashtra, India
+                  - generic [ref=e533]: Actively Hiring
+                  - time [ref=e534]: 1 week ago
+          - listitem [ref=e535]:
+            - generic [ref=e536]:
+              - link [ref=e537] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-social-at-athena-global-advisors-4400215215?position=30&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=gkKvTphe0ZBg9SXCtLyl1g%3D%3D
+                - generic [ref=e538]: Motion Designer, Social
+              - generic [ref=e540]:
+                - heading [level=3] [ref=e541]: Motion Designer, Social
+                - heading [level=4] [ref=e542]:
+                  - link [ref=e543] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/athena-global-advisors?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Athena Global Advisors
+                - generic [ref=e544]:
+                  - generic [ref=e545]: Philadelphia, PA
+                  - generic [ref=e548]: Be an early applicant
+                  - time [ref=e549]: 6 days ago
+          - listitem [ref=e550]:
+            - generic [ref=e551]:
+              - link [ref=e552] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-at-doordash-4398366911?position=31&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=nkzsS1RKXKfYRXMIqRuP1g%3D%3D
+                - generic [ref=e553]: Motion Designer
+              - generic [ref=e555]:
+                - heading [level=3] [ref=e556]: Motion Designer
+                - heading [level=4] [ref=e557]:
+                  - link [ref=e558] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/doordash?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: DoorDash
+                - generic [ref=e559]:
+                  - generic [ref=e560]: Los Angeles, CA
+                  - generic [ref=e563]: Actively Hiring
+                  - time [ref=e564]: 1 week ago
+          - listitem [ref=e565]:
+            - generic [ref=e566]:
+              - link [ref=e567] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-at-ursus-inc-4391922710?position=32&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=BDv%2FsE1oeEs2v2SGue5XNg%3D%3D
+                - generic [ref=e568]: Motion Designer
+              - generic [ref=e570]:
+                - heading [level=3] [ref=e571]: Motion Designer
+                - heading [level=4] [ref=e572]:
+                  - link [ref=e573] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/ursus-incorporated?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Ursus, Inc.
+                - generic [ref=e574]:
+                  - generic [ref=e575]: San Francisco, CA
+                  - generic [ref=e578]: Actively Hiring
+                  - time [ref=e579]: 2 weeks ago
+          - listitem [ref=e580]:
+            - generic [ref=e581]:
+              - link [ref=e582] [cursor=pointer]:
+                - /url: https://nl.linkedin.com/jobs/view/motion-designer-at-treatwell-4400229694?position=33&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=D46IIfnVpNj7QCYFyQ39GA%3D%3D
+                - generic [ref=e583]: Motion Designer
+              - generic [ref=e585]:
+                - heading [level=3] [ref=e586]: Motion Designer
+                - heading [level=4] [ref=e587]:
+                  - link [ref=e588] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/treatwell-com?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Treatwell
+                - generic [ref=e589]:
+                  - generic [ref=e590]: Amsterdam, North Holland, Netherlands
+                  - generic [ref=e593]: Actively Hiring
+                  - time [ref=e594]: 6 days ago
+          - listitem [ref=e595]:
+            - generic [ref=e596]:
+              - link [ref=e597] [cursor=pointer]:
+                - /url: https://in.linkedin.com/jobs/view/motion-graphic-designer-at-zepto-4395064184?position=34&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=91%2FEXLaPYd%2ByDDmkyY%2BgXA%3D%3D
+                - generic [ref=e598]: Motion Graphic Designer
+              - generic [ref=e600]:
+                - heading [level=3] [ref=e601]: Motion Graphic Designer
+                - heading [level=4] [ref=e602]:
+                  - link [ref=e603] [cursor=pointer]:
+                    - /url: https://in.linkedin.com/company/zeptonow?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Zepto
+                - generic [ref=e604]:
+                  - generic [ref=e605]: Bengaluru, Karnataka, India
+                  - generic [ref=e608]: Actively Hiring
+                  - time [ref=e609]: 2 weeks ago
+          - listitem [ref=e610]:
+            - generic [ref=e611]:
+              - link [ref=e612] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/2d-motion-designer-at-ibotta-4392892973?position=35&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=f6e6re4gGUE7XKFFisYTRw%3D%3D
+                - generic [ref=e613]: 2D Motion Designer
+              - generic [ref=e615]:
+                - heading [level=3] [ref=e616]: 2D Motion Designer
+                - heading [level=4] [ref=e617]:
+                  - link [ref=e618] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/ibotta-inc-?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Ibotta
+                - generic [ref=e619]:
+                  - generic [ref=e620]: Denver, CO
+                  - time [ref=e621]: 2 weeks ago
+          - listitem [ref=e622]:
+            - generic [ref=e623]:
+              - link [ref=e624] [cursor=pointer]:
+                - /url: https://es.linkedin.com/jobs/view/motion-designer-at-treatwell-4400247025?position=36&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=0r7euNwMvDOSi61JhGlTfg%3D%3D
+                - generic [ref=e625]: Motion Designer
+              - generic [ref=e627]:
+                - heading [level=3] [ref=e628]: Motion Designer
+                - heading [level=4] [ref=e629]:
+                  - link [ref=e630] [cursor=pointer]:
+                    - /url: https://uk.linkedin.com/company/treatwell-com?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Treatwell
+                - generic [ref=e631]:
+                  - generic [ref=e632]: Madrid, Community of Madrid, Spain
+                  - generic [ref=e635]: Actively Hiring
+                  - time [ref=e636]: 6 days ago
+          - listitem [ref=e637]:
+            - generic [ref=e638]:
+              - link [ref=e639] [cursor=pointer]:
+                - /url: https://in.linkedin.com/jobs/view/motion-graphic-designer-at-cube-4399674920?position=37&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=a%2BhLRpYbpM%2BwH0UTsgLsuw%3D%3D
+                - generic [ref=e640]: Motion Graphic Designer
+              - generic [ref=e642]:
+                - heading [level=3] [ref=e643]: Motion Graphic Designer
+                - heading [level=4] [ref=e644]:
+                  - link [ref=e645] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/cubehqai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Cube
+                - generic [ref=e646]:
+                  - generic [ref=e647]: Bengaluru, Karnataka, India
+                  - generic [ref=e650]: Actively Hiring
+                  - time [ref=e651]: 2 days ago
+          - listitem [ref=e652]:
+            - generic [ref=e653]:
+              - link [ref=e654] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-remote-at-telnyx-4361174584?position=38&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=U4Zp8gI%2B%2FVjR2aPVd%2FapcQ%3D%3D
+                - generic [ref=e655]: Motion Designer (Remote)
+              - generic [ref=e657]:
+                - heading [level=3] [ref=e658]: Motion Designer (Remote)
+                - heading [level=4] [ref=e659]:
+                  - link [ref=e660] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/telnyx?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Telnyx
+                - generic [ref=e661]:
+                  - generic [ref=e662]: Austin, TX
+                  - generic [ref=e665]: Actively Hiring
+                  - time [ref=e666]: 1 week ago
+          - listitem [ref=e667]:
+            - generic [ref=e668]:
+              - link [ref=e669] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-remote-at-telnyx-4361244497?position=39&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=uTZ180TRYCe91%2Fkal5mhvQ%3D%3D
+                - generic [ref=e670]: Motion Designer (Remote)
+              - generic [ref=e672]:
+                - heading [level=3] [ref=e673]: Motion Designer (Remote)
+                - heading [level=4] [ref=e674]:
+                  - link [ref=e675] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/telnyx?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Telnyx
+                - generic [ref=e676]:
+                  - generic [ref=e677]: Dallas, TX
+                  - generic [ref=e680]: Actively Hiring
+                  - time [ref=e681]: 1 week ago
+          - listitem [ref=e682]:
+            - generic [ref=e683]:
+              - link [ref=e684] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/visual-motion-designer-lonely-planet-at-lonely-planet-4389916099?position=40&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=bl62EkMbGbbuGc2LgiZb4w%3D%3D
+                - generic [ref=e685]: Visual & Motion Designer | Lonely Planet
+              - generic [ref=e687]:
+                - heading [level=3] [ref=e688]: Visual & Motion Designer | Lonely Planet
+                - heading [level=4] [ref=e689]:
+                  - link [ref=e690] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lonelyplanet?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Lonely Planet
+                - generic [ref=e691]:
+                  - generic [ref=e692]: New York, NY
+                  - time [ref=e693]: 12 hours ago
+          - listitem [ref=e694]:
+            - generic [ref=e695]:
+              - link [ref=e696] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-at-doordash-4398365908?position=41&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=T6ZAiql%2BanN5lHeNBwpHtg%3D%3D
+                - generic [ref=e697]: Motion Designer
+              - generic [ref=e699]:
+                - heading [level=3] [ref=e700]: Motion Designer
+                - heading [level=4] [ref=e701]:
+                  - link [ref=e702] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/doordash?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: DoorDash
+                - generic [ref=e703]:
+                  - generic [ref=e704]: San Francisco, CA
+                  - generic [ref=e707]: Actively Hiring
+                  - time [ref=e708]: 1 week ago
+          - listitem [ref=e709]:
+            - generic [ref=e710]:
+              - link [ref=e711] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-at-superpower-4371060761?position=42&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=sVK4hzIZeViFrrbdolyl7w%3D%3D
+                - generic [ref=e712]: Motion Designer
+              - generic [ref=e714]:
+                - heading [level=3] [ref=e715]: Motion Designer
+                - heading [level=4] [ref=e716]:
+                  - link [ref=e717] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/superpower?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Superpower
+                - generic [ref=e718]:
+                  - generic [ref=e719]: San Francisco, CA
+                  - time [ref=e720]: 2 months ago
+          - listitem [ref=e721]:
+            - generic [ref=e722]:
+              - link [ref=e723] [cursor=pointer]:
+                - /url: https://in.linkedin.com/jobs/view/motion-graphic-artist-at-jio-creative-labs-4391830166?position=43&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=pz%2BPw%2FvBo7%2Be1D31iQcMMQ%3D%3D
+                - generic [ref=e724]: Motion Graphic Artist
+              - generic [ref=e726]:
+                - heading [level=3] [ref=e727]: Motion Graphic Artist
+                - heading [level=4] [ref=e728]:
+                  - link [ref=e729] [cursor=pointer]:
+                    - /url: https://in.linkedin.com/company/jio-creative-labs?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Jio Creative Labs
+                - generic [ref=e730]:
+                  - generic [ref=e731]: Mumbai Metropolitan Region
+                  - time [ref=e732]: 2 weeks ago
+          - listitem [ref=e733]:
+            - generic [ref=e734]:
+              - link [ref=e735] [cursor=pointer]:
+                - /url: https://in.linkedin.com/jobs/view/motion-graphic-artist-at-light-wonder-4389743645?position=44&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=WOMTpT0mDNkmrXugx4EFYw%3D%3D
+                - generic [ref=e736]: Motion Graphic Artist
+              - generic [ref=e738]:
+                - heading [level=3] [ref=e739]: Motion Graphic Artist
+                - heading [level=4] [ref=e740]:
+                  - link [ref=e741] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lightnwonder?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Light & Wonder
+                - generic [ref=e742]:
+                  - generic [ref=e743]: Bengaluru, Karnataka, India
+                  - generic [ref=e746]: Actively Hiring
+                  - time [ref=e747]: 12 hours ago
+          - listitem [ref=e748]:
+            - generic [ref=e749]:
+              - link [ref=e750] [cursor=pointer]:
+                - /url: https://ph.linkedin.com/jobs/view/motion-graphics-designer-at-blueberry-4396146897?position=45&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=QxDFyPz9719KVytltx1CZQ%3D%3D
+                - generic [ref=e751]: Motion Graphics Designer
+              - generic [ref=e753]:
+                - heading [level=3] [ref=e754]: Motion Graphics Designer
+                - heading [level=4] [ref=e755]:
+                  - link [ref=e756] [cursor=pointer]:
+                    - /url: https://au.linkedin.com/company/blueberry-markets?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Blueberry
+                - generic [ref=e757]:
+                  - generic [ref=e758]: Taguig, National Capital Region, Philippines
+                  - generic [ref=e761]: Be an early applicant
+                  - time [ref=e762]: 2 weeks ago
+          - listitem [ref=e763]:
+            - generic [ref=e764]:
+              - link [ref=e765] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-at-i-d-w-4292939810?position=46&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=TuYL%2Byfa%2FhhwLOVpJ%2BvNBA%3D%3D
+                - generic [ref=e766]: Motion Designer
+              - generic [ref=e768]:
+                - heading [level=3] [ref=e769]: Motion Designer
+                - heading [level=4] [ref=e770]:
+                  - link [ref=e771] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/idw-studio?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: I/D.W
+                - generic [ref=e772]:
+                  - generic [ref=e773]: Oakland, CA
+                  - time [ref=e774]: 7 months ago
+          - listitem [ref=e775]:
+            - generic [ref=e776]:
+              - link [ref=e777] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-at-doordash-4398367848?position=47&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=OBobnylWtEbIsmn0gLWyOQ%3D%3D
+                - generic [ref=e778]: Motion Designer
+              - generic [ref=e780]:
+                - heading [level=3] [ref=e781]: Motion Designer
+                - heading [level=4] [ref=e782]:
+                  - link [ref=e783] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/doordash?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: DoorDash
+                - generic [ref=e784]:
+                  - generic [ref=e785]: Sunnyvale, CA
+                  - generic [ref=e788]: Actively Hiring
+                  - time [ref=e789]: 1 week ago
+          - listitem [ref=e790]:
+            - generic [ref=e791]:
+              - link [ref=e792] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-graphic-designer-at-two-sigma-4354291087?position=48&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=e6Tex%2ByP4kxxBmbBmXjA0A%3D%3D
+                - generic [ref=e793]: Motion & Graphic Designer
+              - generic [ref=e795]:
+                - heading [level=3] [ref=e796]: Motion & Graphic Designer
+                - heading [level=4] [ref=e797]:
+                  - link [ref=e798] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/two-sigma-investments?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Two Sigma
+                - generic [ref=e799]:
+                  - generic [ref=e800]: New York, United States
+                  - generic [ref=e803]: Actively Hiring
+                  - time [ref=e804]: 2 weeks ago
+          - listitem [ref=e805]:
+            - generic [ref=e806]:
+              - link [ref=e807] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-at-roblox-4381774579?position=49&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=nx6QmqYC8qDhaw%2FhRGKrGw%3D%3D
+                - generic [ref=e808]: Motion Designer
+              - generic [ref=e810]:
+                - heading [level=3] [ref=e811]: Motion Designer
+                - heading [level=4] [ref=e812]:
+                  - link [ref=e813] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/roblox?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Roblox
+                - generic [ref=e814]:
+                  - generic [ref=e815]: San Mateo, CA
+                  - generic [ref=e818]: Actively Hiring
+                  - time [ref=e819]: 2 weeks ago
+          - listitem [ref=e820]:
+            - generic [ref=e821]:
+              - link [ref=e822] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-video-designer-at-varonis-4402591012?position=50&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=z55hx0gDNArJsWF6iXLHLQ%3D%3D
+                - generic [ref=e823]: Motion & Video Designer
+              - generic [ref=e825]:
+                - heading [level=3] [ref=e826]: Motion & Video Designer
+                - heading [level=4] [ref=e827]:
+                  - link [ref=e828] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/varonis?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Varonis
+                - generic [ref=e829]:
+                  - generic [ref=e830]: United States
+                  - generic [ref=e833]: Actively Hiring
+                  - time [ref=e834]: 10 hours ago
+          - listitem [ref=e835]:
+            - generic [ref=e836]:
+              - link [ref=e837] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-at-doordash-4398377487?position=51&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=EkSt0zTbTHmzi1ZeDGEV%2Fw%3D%3D
+                - generic [ref=e838]: Motion Designer
+              - generic [ref=e840]:
+                - heading [level=3] [ref=e841]: Motion Designer
+                - heading [level=4] [ref=e842]:
+                  - link [ref=e843] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/doordash?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: DoorDash
+                - generic [ref=e844]:
+                  - generic [ref=e845]: Seattle, WA
+                  - generic [ref=e848]: Actively Hiring
+                  - time [ref=e849]: 1 week ago
+          - listitem [ref=e850]:
+            - generic [ref=e851]:
+              - link [ref=e852] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-at-doordash-4398364948?position=52&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=6fDHEwYxBb30bOlM5bKebA%3D%3D
+                - generic [ref=e853]: Motion Designer
+              - generic [ref=e855]:
+                - heading [level=3] [ref=e856]: Motion Designer
+                - heading [level=4] [ref=e857]:
+                  - link [ref=e858] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/doordash?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: DoorDash
+                - generic [ref=e859]:
+                  - generic [ref=e860]: Austin, TX
+                  - generic [ref=e863]: Actively Hiring
+                  - time [ref=e864]: 1 week ago
+          - listitem [ref=e865]:
+            - generic [ref=e866]:
+              - link [ref=e867] [cursor=pointer]:
+                - /url: https://it.linkedin.com/jobs/view/video-editor-motion-designer-at-hello-4398544023?position=53&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=dDn%2B1qaXOCGTGggS1UJ0Dg%3D%3D
+                - generic [ref=e868]: Video Editor & Motion Designer
+              - generic [ref=e870]:
+                - heading [level=3] [ref=e871]: Video Editor & Motion Designer
+                - heading [level=4] [ref=e872]:
+                  - link [ref=e873] [cursor=pointer]:
+                    - /url: https://it.linkedin.com/company/thisishello?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Hello,
+                - generic [ref=e874]:
+                  - generic [ref=e875]: Milan, Lombardy, Italy
+                  - time [ref=e876]: 1 week ago
+          - listitem [ref=e877]:
+            - generic [ref=e878]:
+              - link [ref=e879] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-designer-at-doordash-4398365906?position=54&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=SJi1omLaxokXESbo0va3oA%3D%3D
+                - generic [ref=e880]: Motion Designer
+              - generic [ref=e882]:
+                - heading [level=3] [ref=e883]: Motion Designer
+                - heading [level=4] [ref=e884]:
+                  - link [ref=e885] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/doordash?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: DoorDash
+                - generic [ref=e886]:
+                  - generic [ref=e887]: Chicago, IL
+                  - generic [ref=e890]: Actively Hiring
+                  - time [ref=e891]: 1 week ago
+          - listitem [ref=e892]:
+            - generic [ref=e893]:
+              - link [ref=e894] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-brand-designer-at-luma-4387652352?position=55&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=blziLYWdI0ynKhHt9rW0qQ%3D%3D
+                - generic [ref=e895]: Motion & Brand Designer
+              - generic [ref=e897]:
+                - heading [level=3] [ref=e898]: Motion & Brand Designer
+                - heading [level=4] [ref=e899]:
+                  - link [ref=e900] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/lumalabsai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Luma
+                - generic [ref=e901]:
+                  - generic [ref=e902]: Palo Alto, CA
+                  - time [ref=e903]: 2 weeks ago
+          - listitem [ref=e904]:
+            - generic [ref=e905]:
+              - link [ref=e906] [cursor=pointer]:
+                - /url: https://ec.linkedin.com/jobs/view/maestro-de-ilustraci%C3%B3n-digital-at-kodland-latinoam%C3%A9rica-4399580379?position=56&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=uaq3n0HJBLaqLcBYnz7Ikg%3D%3D
+                - generic [ref=e907]: Maestro de ilustración digital
+              - generic [ref=e909]:
+                - heading [level=3] [ref=e910]: Maestro de ilustración digital
+                - heading [level=4] [ref=e911]:
+                  - link [ref=e912] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/kodland-latinoam%C3%A9rica?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Kodland Latinoamérica
+                - generic [ref=e913]:
+                  - generic [ref=e914]: Ecuador
+                  - time [ref=e915]: 2 days ago
+          - listitem [ref=e916]:
+            - generic [ref=e917]:
+              - link [ref=e918] [cursor=pointer]:
+                - /url: https://uk.linkedin.com/jobs/view/motion-designer-contract-to-perm-at-monad-foundation-4398034565?position=57&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=fyCragWZ8Yb5EMl0Xkj%2BFw%3D%3D
+                - generic [ref=e919]: Motion Designer [Contract-to-Perm]
+              - generic [ref=e921]:
+                - heading [level=3] [ref=e922]: Motion Designer [Contract-to-Perm]
+                - heading [level=4] [ref=e923]:
+                  - link [ref=e924] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/monad-foundation?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Monad Foundation
+                - generic [ref=e925]:
+                  - generic [ref=e926]: United Kingdom
+                  - time [ref=e927]: 1 week ago
+          - listitem [ref=e928]:
+            - generic [ref=e929]:
+              - link [ref=e930] [cursor=pointer]:
+                - /url: https://ng.linkedin.com/jobs/view/animator-text-and-motion-graphics-at-pulse-nigeria-at-pulse-nigeria-4166240221?position=58&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=deXZl%2BGXGlF0x9uxoGJPlA%3D%3D
+                - generic [ref=e931]: Animator (Text and Motion Graphics) at Pulse Nigeria
+              - generic [ref=e933]:
+                - heading [level=3] [ref=e934]: Animator (Text and Motion Graphics) at Pulse Nigeria
+                - heading [level=4] [ref=e935]:
+                  - link [ref=e936] [cursor=pointer]:
+                    - /url: https://ng.linkedin.com/company/pulsenigeria247?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Pulse Nigeria
+                - generic [ref=e937]:
+                  - generic [ref=e938]: Lagos, Lagos State, Nigeria
+                  - time [ref=e939]: 1 year ago
+          - listitem [ref=e940]:
+            - generic [ref=e941]:
+              - link [ref=e942] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/view/motion-graphics-artist-video-editor-at-eclaro-4397572883?position=59&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=cjcmSsk612FY%2FJ0PHePjcQ%3D%3D
+                - generic [ref=e943]: Motion Graphics Artist / Video Editor
+              - generic [ref=e945]:
+                - heading [level=3] [ref=e946]: Motion Graphics Artist / Video Editor
+                - heading [level=4] [ref=e947]:
+                  - link [ref=e948] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/eclaro?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: ECLARO
+                - generic [ref=e949]:
+                  - generic [ref=e950]: New York, NY
+                  - generic [ref=e953]: Be an early applicant
+                  - time [ref=e954]: 1 week ago
+          - listitem [ref=e955]:
+            - generic [ref=e956]:
+              - link [ref=e957] [cursor=pointer]:
+                - /url: https://ca.linkedin.com/jobs/view/motion-designer-contract-to-perm-at-monad-foundation-4398027707?position=60&pageNum=0&refId=A4T06%2F2fdxsM%2FbpzM40u9g%3D%3D&trackingId=ADbsbzljo4BGIWouiZeCjQ%3D%3D
+                - generic [ref=e958]: Motion Designer [Contract-to-Perm]
+              - generic [ref=e960]:
+                - heading [level=3] [ref=e961]: Motion Designer [Contract-to-Perm]
+                - heading [level=4] [ref=e962]:
+                  - link [ref=e963] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/company/monad-foundation?trk=public_jobs_jserp-result_job-search-card-subtitle
+                    - text: Monad Foundation
+                - generic [ref=e964]:
+                  - generic [ref=e965]: Canada
+                  - time [ref=e966]: 1 week ago
+        - generic [ref=e967]:
+          - heading [level=3] [ref=e968]: Search similar titles
+          - list [ref=e969]:
+            - listitem [ref=e970]:
+              - link [ref=e971] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/animator-jobs?trk=public_jobs_similar-title
+                - text: Animator jobs
+            - listitem [ref=e972]:
+              - link [ref=e973] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/3d-animator-jobs?trk=public_jobs_similar-title
+                - text: 3D Animator jobs
+            - listitem [ref=e974]:
+              - link [ref=e975] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/illustrator-jobs?trk=public_jobs_similar-title
+                - text: Illustrator jobs
+    - button [ref=e979] [cursor=pointer]: More searches
+    - contentinfo [ref=e981]:
+      - list [ref=e982]:
+        - listitem [ref=e983]:
+          - generic [ref=e984]: LinkedIn
+          - generic [ref=e986]: © 2026
+        - listitem [ref=e987]:
+          - link [ref=e988] [cursor=pointer]:
+            - /url: https://about.linkedin.com?trk=public_jobs_footer-about
+            - text: About
+        - listitem [ref=e989]:
+          - link [ref=e990] [cursor=pointer]:
+            - /url: https://www.linkedin.com/accessibility?trk=public_jobs_footer-accessibility
+            - text: Accessibility
+        - listitem [ref=e991]:
+          - link [ref=e992] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/user-agreement?trk=public_jobs_footer-user-agreement
+            - text: User Agreement
+        - listitem [ref=e993]:
+          - link [ref=e994] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/privacy-policy?trk=public_jobs_footer-privacy-policy
+            - text: Privacy Policy
+        - listitem [ref=e995]:
+          - link [ref=e996] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/cookie-policy?trk=public_jobs_footer-cookie-policy
+            - text: Cookie Policy
+        - listitem [ref=e997]:
+          - link [ref=e998] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/copyright-policy?trk=public_jobs_footer-copyright-policy
+            - text: Copyright Policy
+        - listitem [ref=e999]:
+          - link [ref=e1000] [cursor=pointer]:
+            - /url: https://brand.linkedin.com/policies?trk=public_jobs_footer-brand-policy
+            - text: Brand Policy
+        - listitem [ref=e1001]:
+          - link [ref=e1002] [cursor=pointer]:
+            - /url: https://www.linkedin.com/psettings/guest-controls?trk=public_jobs_footer-guest-controls
+            - text: Guest Controls
+        - listitem [ref=e1003]:
+          - link [ref=e1004] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/professional-community-policies?trk=public_jobs_footer-community-guide
+            - text: Community Guidelines
+        - listitem [ref=e1005]:
+          - button [ref=e1007]: Language
+  - dialog "Join now to view more jobs" [active] [ref=e1010]:
+    - button "Dismiss" [ref=e1011] [cursor=pointer]:
+      - img [ref=e1013]
+    - generic [ref=e1016]:
+      - generic [ref=e1017]:
+        - img [ref=e1018]
+        - heading "Join now to view more jobs" [level=2] [ref=e1019]
+      - generic [ref=e1020]:
+        - button "Continue with google" [ref=e1023]:
+          - generic [ref=e1024]:
+            - button "Continue with Google" [ref=e1026] [cursor=pointer]:
+              - generic [ref=e1028]:
+                - img [ref=e1031]
+                - generic [ref=e1038]: Continue with Google
+            - iframe
+        - link "Join with email" [ref=e1039] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-with-email-cta
+          - img [ref=e1041]
+          - generic [ref=e1043]: Join with email
+        - paragraph [ref=e1045]: or
+        - button "Continue with google" [ref=e1047]:
+          - generic [ref=e1048]:
+            - button "Continue with Google" [ref=e1050] [cursor=pointer]:
+              - generic [ref=e1052]:
+                - img [ref=e1054]
+                - generic [ref=e1061]: Continue with Google
+            - iframe
+        - paragraph [ref=e1062]:
+          - text: Already on LinkedIn?
+          - link "Sign in" [ref=e1063] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?trk=public_jobs_contextual-sign-in-modal_sign-in-link
+        - paragraph [ref=e1064]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=e1065] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=e1066] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=e1067] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

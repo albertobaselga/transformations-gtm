@@ -1,0 +1,498 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - list [ref=e9]:
+        - listitem [ref=e10]:
+          - generic [ref=e11]: "Búsquedas TOP:"
+        - listitem [ref=e12]:
+          - link "Empleo público" [ref=e13] [cursor=pointer]:
+            - /url: https://www.tecnoempleo.com/empleo-publico-it.php
+        - listitem [ref=e14]:
+          - link "Amazon Web Services" [ref=e15] [cursor=pointer]:
+            - /url: https://www.tecnoempleo.com/aws-trabajo/
+        - listitem [ref=e16]:
+          - link "Buscar sueldos" [ref=e17] [cursor=pointer]:
+            - /url: https://www.tecnoempleo.com/tecnocalculadora.php
+      - generic [ref=e18]:
+        - text:  
+        - navigation [ref=e19]:
+          - generic [ref=e20]:
+            - link [ref=e21] [cursor=pointer]:
+              - /url: "#aside-main"
+              - img [ref=e24]
+            - link "tecnoempleo.com" [ref=e28] [cursor=pointer]:
+              - /url: https://www.tecnoempleo.com
+              - img "tecnoempleo.com" [ref=e29]
+          - list [ref=e30]:
+            - listitem [ref=e31]:
+              - link "Acceso Empresas" [ref=e32] [cursor=pointer]:
+                - /url: https://www.tecnoempleo.com/accemp.php
+            - listitem [ref=e33]:
+              - link "Acceso Candidatos" [ref=e34] [cursor=pointer]:
+                - /url: https://www.tecnoempleo.com/demanda-trabajo-informatica.php
+            - listitem [ref=e35]:
+              - link "website search" [ref=e36] [cursor=pointer]:
+                - /url: "#"
+                - generic: 
+            - listitem [ref=e37]:
+              - link "" [ref=e38] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e40]: 
+              - text:    
+    - generic [ref=e43]:
+      - heading "Encuentra las mejores ofertas de empleo en informática y telecomunicaciones" [level=2] [ref=e44]
+      - generic [ref=e46]:
+        - textbox "Buscar por" [ref=e48]: audiovisual
+        - combobox [ref=e50]:
+          - option "Selecciona una provincia" [selected]
+          - option "A Coruña"
+          - option "Álava"
+          - option "Albacete"
+          - option "Alicante"
+          - option "Almería"
+          - option "Asturias"
+          - option "Ávila"
+          - option "Badajoz"
+          - option "Baleares"
+          - option "Barcelona"
+          - option "Bizkaia"
+          - option "Burgos"
+          - option "Cáceres"
+          - option "Cádiz"
+          - option "Cantabria"
+          - option "Castellón"
+          - option "Ceuta"
+          - option "Ciudad Real"
+          - option "Córdoba"
+          - option "Cuenca"
+          - option "Gipuzkoa"
+          - option "Girona"
+          - option "Granada"
+          - option "Guadalajara"
+          - option "Huelva"
+          - option "Huesca"
+          - option "Jaén"
+          - option "La Rioja"
+          - option "Las Palmas"
+          - option "León"
+          - option "Lugo"
+          - option "Lleida"
+          - option "Madrid"
+          - option "Málaga"
+          - option "Melilla"
+          - option "Murcia"
+          - option "Navarra"
+          - option "Ourense"
+          - option "Palencia"
+          - option "Pontevedra"
+          - option "Salamanca"
+          - option "Sta. Cruz de Tenerife"
+          - option "Segovia"
+          - option "Sevilla"
+          - option "Soria"
+          - option "Tarragona"
+          - option "Teruel"
+          - option "Toledo"
+          - option "Valencia"
+          - option "Valladolid"
+          - option "Zamora"
+          - option "Zaragoza"
+        - button "Buscar Empleo" [ref=e52] [cursor=pointer]
+    - generic [ref=e54]:
+      - generic: 
+      - generic [ref=e55]:
+        - heading "7 Ofertas Trabajo de audiovisual" [level=1] [ref=e56]
+        - generic [ref=e58] [cursor=pointer]:
+          - figure [ref=e60]:
+            - img "Logo Page Personnel" [ref=e61]
+          - generic [ref=e62]:
+            - heading "FPGA engineer - Audiovisual industry" [level=3] [ref=e63]:
+              - link "FPGA engineer - Audiovisual industry" [ref=e64]:
+                - /url: https://www.tecnoempleo.com/fpga-engineer-audiovisual-industry-page-personnel/xilinx-vivado/rf-7731148b921c832b6046
+            - link "Page Personnel" [ref=e65]:
+              - /url: https://www.tecnoempleo.com/pagepersonnel-trabajo
+            - generic [ref=e66]:
+              - text: Barcelona - 13/04/2026
+              - text: 48.000€ - 60.000€ b/a
+            - generic [ref=e67]:
+              - text: • Design and implement FPGA-based systems using Xilinx devices • Develop and maintain designs in VHDL • Architect and optimize digital hardware for video processing ...
+              - generic [ref=e68]: FPGA
+              - generic [ref=e69]: Xilinx
+              - generic [ref=e70]: Vivado
+          - generic [ref=e71]:
+            - text: 13/04/2026
+            - text: Barcelona
+            - text: Electrónica
+            - text: 48.000€ - 60.000€ b/a
+        - generic [ref=e73] [cursor=pointer]:
+          - generic [ref=e75]:
+            - heading "Técnico/a de soporte multimedia" [level=3] [ref=e76]:
+              - link "Técnico/a de soporte multimedia" [ref=e77]:
+                - /url: https://www.tecnoempleo.com/tecnico-soporte-multimedia/multimedia/rf-6f971f4a229de32b6042
+            - link "Empresa tecnologica" [ref=e78]:
+              - /url: https://www.tecnoempleo.com/micrositec.php?refer=6f971f4a229de32b6042
+            - generic [ref=e79]:
+              - text: Barcelona (Presencial) - 16/04/2026
+              - generic [ref=e80]: Actualizada
+            - generic [ref=e81]:
+              - text: Buscamos incorporar un/a Técnico/a de Soporte Audiovisual para colaborar en un proyecto de servicios informáticos orientado a la gestión y operación de sistemas en el á...
+              - generic [ref=e82]: Multimedia
+          - generic [ref=e83]:
+            - text: 16/04/2026
+            - generic [ref=e84]: Actualizada
+            - text: Barcelona (Presencial)
+            - text: Soporte Técnico
+            - text: Jornada media jornada
+        - generic [ref=e86] [cursor=pointer]:
+          - figure [ref=e88]:
+            - img "Logo Page Personnel" [ref=e89]
+          - generic [ref=e90]:
+            - heading "Dieseñador/a Gráfico/a" [level=3] [ref=e91]:
+              - link "Dieseñador/a Gráfico/a" [ref=e92]:
+                - /url: https://www.tecnoempleo.com/diesenador-grafico-a-page-personnel/illustrator-photoshop/rf-edc210fd42fb63951f42
+            - link "Page Personnel" [ref=e93]:
+              - /url: https://www.tecnoempleo.com/pagepersonnel-trabajo
+            - generic [ref=e94]:
+              - text: Madrid (Presencial) - 10/04/2026
+              - text: 27.000€ - 33.000€ b/a
+            - generic [ref=e95]:
+              - text: • Producción de materiales comerciales (presentaciones, fichas técnicas, dossiers). • Diseño, adaptación y desarrollo de packaging (etiquetas, formatos industriales, ...
+              - generic [ref=e96]: Illustrator
+              - generic [ref=e97]: Photoshop
+              - generic [ref=e98]: InDesign
+          - generic [ref=e99]:
+            - text: 10/04/2026
+            - text: Madrid (Presencial)
+            - text: Diseño gráfico
+            - text: 27.000€ - 33.000€ b/a
+        - generic [ref=e101] [cursor=pointer]:
+          - figure [ref=e103]:
+            - img "Logo HAYS" [ref=e104]
+          - generic [ref=e105]:
+            - heading "Project Lead" [level=3] [ref=e106]:
+              - link "Project Lead" [ref=e107]:
+                - /url: https://www.tecnoempleo.com/project-lead-hays/autocad-visio/rf-e20815a60277d3bbef45
+            - link "HAYS" [ref=e108]:
+              - /url: https://www.tecnoempleo.com/hays-trabajo
+            - generic [ref=e109]:
+              - text: Barcelona - 02/04/2026
+              - text: 54.000€ - 60.000€ b/a
+            - generic [ref=e110]:
+              - text: Tu nueva empresa Project Lead - Ingeniería Preventa Audiovisual (AV) Responsable de liderar un equipo de 5-7 ingenieros AV garantizando la calidad, consistencia y viabilidad...
+              - generic [ref=e111]: AutoCAD
+              - generic [ref=e112]: Visio
+              - generic [ref=e113]: Office
+          - generic [ref=e114]:
+            - text: 02/04/2026
+            - text: Barcelona
+            - text: Jefe de Equipo
+            - text: 54.000€ - 60.000€ b/a
+        - generic [ref=e116] [cursor=pointer]:
+          - figure [ref=e118]:
+            - img "Logo Michael Page" [ref=e119]
+          - generic [ref=e120]:
+            - heading "Técnico/a de Marketing y eventos" [level=3] [ref=e121]:
+              - link "Técnico/a de Marketing y eventos" [ref=e122]:
+                - /url: https://www.tecnoempleo.com/tecnico-marketing-eventos-michael-page/adobe-powerpoint/rf-05a5136fe2a2a31ae44d
+            - link "Michael Page" [ref=e123]:
+              - /url: https://www.tecnoempleo.com/michaelpage-trabajo
+            - generic [ref=e124]:
+              - text: Barcelona (Híbrido) - 27/03/2026
+              - text: 30.000€ - 33.000€ b/a
+            - generic [ref=e125]:
+              - text: • Reforzar la visibilidad y la propuesta de valor de la empresa, sus productos, servicios, actividad y logros mediante contenidos y materiales orientados a negocio. • ...
+              - generic [ref=e126]: Adobe
+              - generic [ref=e127]: PowerPoint
+          - generic [ref=e128]:
+            - text: 27/03/2026
+            - text: Barcelona (Híbrido)
+            - text: Marketing
+            - text: 30.000€ - 33.000€ b/a
+        - generic [ref=e130] [cursor=pointer]:
+          - figure [ref=e132]:
+            - img "Logo Page Personnel" [ref=e133]
+          - generic [ref=e134]:
+            - heading "Técnico/a de Marketing y eventos" [level=3] [ref=e135]:
+              - link "Técnico/a de Marketing y eventos" [ref=e136]:
+                - /url: https://www.tecnoempleo.com/tecnico-marketing-eventos-page-personnel/adobe-suite-powerpoint/rf-20071a2f9246233d5341
+            - link "Page Personnel" [ref=e137]:
+              - /url: https://www.tecnoempleo.com/pagepersonnel-trabajo
+            - generic [ref=e138]:
+              - text: Barcelona (Híbrido) - 20/03/2026
+              - text: 30.000€ - 33.000€ b/a
+            - generic [ref=e139]:
+              - text: • Reforzar la visibilidad y la propuesta de valor de la empresa, sus productos, servicios, actividad y logros mediante contenidos y materiales orientados a negocio. • ...
+              - generic [ref=e140]: Adobe Suite
+              - generic [ref=e141]: PowerPoint
+          - generic [ref=e142]:
+            - text: 20/03/2026
+            - text: Barcelona (Híbrido)
+            - text: Marketing
+            - text: 30.000€ - 33.000€ b/a
+        - generic [ref=e144] [cursor=pointer]:
+          - figure [ref=e146]:
+            - img "Logo HAYS" [ref=e147]
+          - generic [ref=e148]:
+            - heading "Project Engineer" [level=3] [ref=e149]:
+              - link "Project Engineer" [ref=e150]:
+                - /url: https://www.tecnoempleo.com/project-engineer-hays/audio-video/rf-4e38118c623d236cff4a
+            - link "HAYS" [ref=e151]:
+              - /url: https://www.tecnoempleo.com/hays-trabajo
+            - generic [ref=e152]: Madrid - 13/03/2026
+            - generic [ref=e153]:
+              - text: PROJECT MANAGER - INGENIERÍA DE PROYECTOS (ESPECIALIZACIÓN AV) ¿Eres un perfil técnico con experiencia en grandes instalaciones audiovisuales? ¿Te motiva combinar ...
+              - generic [ref=e154]: audio
+              - generic [ref=e155]: video
+          - generic [ref=e156]:
+            - text: 13/03/2026
+            - text: Madrid
+            - text: Jefe de Proyecto
+        - text: 1-7 de 7 Ofertas de Empleo
+    - generic [ref=e159]:
+      - generic [ref=e160]:
+        - heading "TOP empleo Tecnologías" [level=5] [ref=e161]
+        - link "Ofertas de empleo de java" [ref=e162] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/java
+        - link "Ofertas de empleo de python" [ref=e163] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/python
+        - link "Ofertas de empleo de sql" [ref=e164] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/sql
+        - link "Ofertas de empleo de aws" [ref=e165] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/aws
+        - link "Ofertas de empleo de sap" [ref=e166] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/sap
+        - link "Ofertas de empleo de angular" [ref=e167] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/angular
+        - link "Ofertas de empleo de javascript" [ref=e168] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/javascript
+        - link "Ofertas de empleo de spring" [ref=e169] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/spring
+        - link "Ofertas de empleo de azure" [ref=e170] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/azure
+        - link "Ofertas de empleo de linux" [ref=e171] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/linux
+      - generic [ref=e172]:
+        - heading "TOP empleo funciones profesionales" [level=5] [ref=e173]
+        - link "Empleo de Analista" [ref=e174] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/analista
+        - link "Empleo de Analista Programador" [ref=e175] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/analista-programador
+        - link "Empleo de Arquitecto TIC" [ref=e176] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/arquitecto-tic
+        - link "Empleo de Base de Datos/DBA" [ref=e177] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/base-de-datos-dba
+        - link "Empleo de Big Data" [ref=e178] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/big-data
+        - link "Empleo de Ciberseguridad" [ref=e179] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/ciberseguridad
+        - link "Empleo de Consultor" [ref=e180] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/consultor
+        - link "Empleo de Desarrollador Web" [ref=e181] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/desarrollador-web
+        - link "Empleo de DevOps" [ref=e182] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/devops
+        - link "Empleo de Electrónica" [ref=e183] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/electronica
+      - generic [ref=e184]:
+        - heading "TOP empleo búsquedas de empleo" [level=5] [ref=e185]
+        - link "Ofertas de Teletrabajo en Informática" [ref=e186] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/teletrabajo
+        - link "Trabajo de Programador Java" [ref=e187] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/programador/java
+        - link "Trabajo de Programador en Madrid" [ref=e188] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/madrid/programador
+        - link "Trabajo de Programador en Barcelona" [ref=e189] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/barcelona/programador
+        - link "Empleo de Javascript en Madrid" [ref=e190] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/madrid/javascript
+        - link "Empleo de Java en Madrid" [ref=e191] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/madrid/java
+        - link "Empleo de Java en Barcelona" [ref=e192] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/barcelona/java
+        - link "Empleo en Telefónica" [ref=e193] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/telefonica/re-195442
+        - link "Empleo de Marketing" [ref=e194] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/marketing
+        - link "Empleo con tecnología Photoshop" [ref=e195] [cursor=pointer]:
+          - /url: https://www.tecnoempleo.com/ofertas-trabajo/photoshop
+    - text:  
+    - button "Filtros" [ref=e196] [cursor=pointer]:
+      - generic: 
+    - contentinfo [ref=e197]:
+      - generic [ref=e199]:
+        - generic [ref=e200]:
+          - generic [ref=e202]: tecnoempleo.com
+          - paragraph [ref=e203]: Portal de empleo especializado en informática y telecomunicaciones
+          - generic [ref=e204]:
+            - link "facebook page" [ref=e205] [cursor=pointer]:
+              - /url: https://www.facebook.com/tecnoempleo
+              - generic: 
+            - link "twitter page" [ref=e206] [cursor=pointer]:
+              - /url: https://twitter.com/tecnoempleo
+              - img
+            - link "linkedin page" [ref=e207] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/tecnoempleo-com
+              - generic: 
+            - link "youtube page" [ref=e208] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/tecnoempleo
+              - generic: 
+            - link "blog page" [ref=e209] [cursor=pointer]:
+              - /url: https://blog.tecnoempleo.com/candidatos
+              - img
+          - generic [ref=e210]:
+            - link "Disponible en Google Play" [ref=e211] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=tecnoempleo.com
+              - generic:
+                - img
+              - generic [ref=e212]:
+                - generic [ref=e213]: Disponible en
+                - generic [ref=e214]: Google Play
+            - link "Disponible en App Store" [ref=e215] [cursor=pointer]:
+              - /url: https://apps.apple.com/es/app/id408693426
+              - generic:
+                - img
+              - generic [ref=e216]:
+                - generic [ref=e217]: Disponible en
+                - generic [ref=e218]: App Store
+          - generic [ref=e219]:
+            - text: Valoración App
+            - generic [ref=e220]: 
+            - generic [ref=e221]: 
+            - generic [ref=e222]: 
+            - generic [ref=e223]: 
+            - generic [ref=e224]: 
+        - generic [ref=e226]:
+          - generic [ref=e227]:
+            - text: Sobre nosotros
+            - list [ref=e228]:
+              - listitem [ref=e229]:
+                - link "Acerca de tecnoempleo.com" [ref=e230] [cursor=pointer]:
+                  - /url: https://www.tecnoempleo.com/servicios-tecnoempleo.php
+              - listitem [ref=e231]:
+                - link "Publica tu Oferta. Selección IT" [ref=e232] [cursor=pointer]:
+                  - /url: https://www.tecnoempleo.com/servicios-publicacion-ofertas.php
+              - listitem [ref=e233]:
+                - link "Contrata publicidad" [ref=e234] [cursor=pointer]:
+                  - /url: https://www.tecnoempleo.com/corporativo/publicidad.php
+              - listitem [ref=e235]:
+                - link "App de tecnoempleo.com" [ref=e236] [cursor=pointer]:
+                  - /url: https://www.tecnoempleo.com/app
+              - listitem [ref=e237]:
+                - link "API, integraciones y partners" [ref=e238] [cursor=pointer]:
+                  - /url: https://www.tecnoempleo.com/api-integraciones.php
+              - listitem [ref=e239]:
+                - link "Programa de ayudas Kit Digital" [ref=e240] [cursor=pointer]:
+                  - /url: https://www.tecnoempleo.com/kitdigital
+              - listitem [ref=e241]:
+                - link "Formación IT tecnosaber" [ref=e242] [cursor=pointer]:
+                  - /url: https://www.tecnosaber.com
+          - generic [ref=e243]:
+            - text: Buscar Empleo
+            - list [ref=e244]:
+              - listitem [ref=e245]:
+                - link "Buscar Empleo" [ref=e246] [cursor=pointer]:
+                  - /url: https://www.tecnoempleo.com/ofertas-trabajo/
+              - listitem [ref=e247]:
+                - link "Buscar Empleo Alto Nivel" [ref=e248] [cursor=pointer]:
+                  - /url: https://www.tecnoempleo.com/ofertas-trabajo/empleo-directivos-managers
+              - listitem [ref=e249]:
+                - link "Ofertas Trabajo Extranjero" [ref=e250] [cursor=pointer]:
+                  - /url: https://www.tecnoempleo.com/ofertas-trabajo/extranjero
+              - listitem [ref=e251]:
+                - link "Buscar Empleo freelance" [ref=e252] [cursor=pointer]:
+                  - /url: https://www.tecnoempleo.com/ofertas-trabajo/freelance
+              - listitem [ref=e253]:
+                - link "Primer Empleo Informática" [ref=e254] [cursor=pointer]:
+                  - /url: https://www.tecnoempleo.com/ofertas-trabajo/primer-empleo
+              - listitem [ref=e255]:
+                - link "Empleo por funciones profesionales" [ref=e256] [cursor=pointer]:
+                  - /url: https://www.tecnoempleo.com/trabajo-funciones-profesionales.php
+              - listitem [ref=e257]:
+                - link "Empleo por provincias" [ref=e258] [cursor=pointer]:
+                  - /url: https://www.tecnoempleo.com/trabajo-provincias.php
+        - generic [ref=e259]:
+          - text: Contacto
+          - list [ref=e261]:
+            - listitem [ref=e262]:
+              - link " (+34) 983 219 239" [ref=e263] [cursor=pointer]:
+                - /url: tel:+34-983219239
+                - generic: 
+                - text: (+34) 983 219 239
+            - listitem [ref=e264]:
+              - link " Info y contacto" [ref=e265] [cursor=pointer]:
+                - /url: https://www.tecnoempleo.com/corporativo/contacta.php
+                - generic: 
+                - text: Info y contacto
+            - listitem [ref=e266]:
+              - link " Contacta por email" [ref=e267] [cursor=pointer]:
+                - /url: mailto:info@tecnoempleo.com
+                - generic: 
+                - text: Contacta por email
+      - generic [ref=e269]:
+        - generic [ref=e270]:
+          - text: tecnoempleo.com ® | © 2000 - 2026 |
+          - link "Normas de Uso, Privacidad y cookies" [ref=e271] [cursor=pointer]:
+            - /url: https://www.tecnoempleo.com/politicaymarco.php
+          - text: "|"
+          - link "Sitemap" [ref=e272] [cursor=pointer]:
+            - /url: https://www.tecnoempleo.com/sitemap.php
+          - text: "|"
+          - link "Ayuda" [ref=e273] [cursor=pointer]:
+            - /url: https://www.tecnoempleo.com/ayuda.php
+          - text: "|"
+          - link "Contacto" [ref=e274] [cursor=pointer]:
+            - /url: https://www.tecnoempleo.com/corporativo/contacta.php
+        - generic [ref=e275]:
+          - link "facebook page" [ref=e276] [cursor=pointer]:
+            - /url: https://www.facebook.com/tecnoempleo
+            - generic: 
+          - link "twitter page" [ref=e277] [cursor=pointer]:
+            - /url: https://twitter.com/tecnoempleo
+            - img
+          - link "linkedin page" [ref=e278] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/tecnoempleo-com
+            - generic: 
+          - link "youtube page" [ref=e279] [cursor=pointer]:
+            - /url: https://www.youtube.com/user/tecnoempleo
+            - generic: 
+          - link "Google Play" [ref=e280] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=tecnoempleo.com
+            - generic: 
+          - link "App store" [ref=e281] [cursor=pointer]:
+            - /url: https://apps.apple.com/es/app/id408693426
+            - generic: 
+        - button "Español" [ref=e286] [cursor=pointer]
+  - generic [ref=e287]:
+    - link "Info Cookies " [ref=e289] [cursor=pointer]:
+      - /url: "#collapseCookies"
+      - text: Info Cookies
+      - generic: 
+    - generic [ref=e290]:
+      - link "Aceptar" [ref=e292] [cursor=pointer]:
+        - /url: "#"
+      - link "Configurar" [ref=e294] [cursor=pointer]:
+        - /url: "#"
+  - complementary [ref=e295]:
+    - navigation [ref=e297]:
+      - list [ref=e298]:
+        - listitem [ref=e299]:
+          - link "Buscar Ofertas de empleo" [ref=e300] [cursor=pointer]:
+            - /url: https://www.tecnoempleo.com/busqueda-empleo.php
+        - listitem [ref=e301]:
+          - link "Acceso Empresas" [ref=e302] [cursor=pointer]:
+            - /url: https://www.tecnoempleo.com/accemp.php
+        - listitem [ref=e303]:
+          - link "Acceso Candidatos" [ref=e304] [cursor=pointer]:
+            - /url: https://www.tecnoempleo.com/demanda-trabajo-informatica.php
+        - listitem [ref=e305]:
+          - link "Employer Branding" [ref=e306] [cursor=pointer]:
+            - /url: https://www.tecnoempleo.com/employer-branding.php
+        - listitem [ref=e307]:
+          - link "Servicios Candidatos" [ref=e308] [cursor=pointer]:
+            - /url: https://www.tecnoempleo.com/buscar-trabajo/encontrar-trabajo.php
+        - listitem [ref=e309]:
+          - link "Alta Candidatos" [ref=e310] [cursor=pointer]:
+            - /url: https://www.tecnoempleo.com/newcand.php
+        - listitem [ref=e311]:
+          - link "Alta Empresas" [ref=e312] [cursor=pointer]:
+            - /url: https://www.tecnoempleo.com/newemp.php

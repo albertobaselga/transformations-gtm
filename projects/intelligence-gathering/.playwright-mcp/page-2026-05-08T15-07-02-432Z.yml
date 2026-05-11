@@ -1,0 +1,420 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - link "SHIFTA by Elisava" [ref=e6] [cursor=pointer]:
+        - /url: https://weareshifta.com
+        - img "escuela online de creadores digitales" [ref=e9]
+        - img "Elisava" [ref=e11]
+    - generic [ref=e17]:
+      - main:
+        - generic [ref=e19]:
+          - generic [ref=e22]:
+            - link "Formaciones" [ref=e24] [cursor=pointer]:
+              - /url: https://weareshifta.com/formaciones/
+            - text: / Máster en Inteligencia Artificial Generativa para creativos
+          - heading "Máster en Inteligencia Artificial Generativa para creativos." [level=1] [ref=e26]
+          - generic [ref=e27]:
+            - generic [ref=e28]:
+              - generic [ref=e29] [cursor=pointer]: Índice
+              - generic [ref=e34]:
+                - heading "Datos clave" [level=3] [ref=e37]: Datos clave
+                - list [ref=e43]:
+                  - listitem [ref=e44]: "→ Inicio: 25 de mayo 2026."
+                  - listitem [ref=e45]: "→ Finalización: 28 de marzo 2027."
+                  - listitem [ref=e46]: "→ Idioma: Español."
+                  - listitem [ref=e47]: "→ Metodología: Online."
+                  - listitem [ref=e48]: "→ Créditos ECTS: 60."
+                  - listitem [ref=e49]: "→ Titulación: Máster propio emitido por Elisava y por la Universidad de Vic - Universidad Central de Cataluña."
+                  - listitem [ref=e50]: "→ Dirección: Armand Montserrat."
+                  - listitem [ref=e51]: → Plazas limitadas.
+              - generic [ref=e53]:
+                - heading "Presentación" [level=3] [ref=e56]: Presentación
+                - generic [ref=e60]:
+                  - 'heading "Máster en Inteligencia Artificial Generativa para creativos: creación de contenidos audiovisuales con IA" [level=2] [ref=e61]'
+                  - paragraph [ref=e62]:
+                    - text: La Inteligencia Artificial ha evolucionado de manera sorprendente en los últimos años, generando nuevas oportunidades laborales que requieren de profesionales capaces de dominar estas herramientas. Sin embargo, no todo versa en saber utilizar herramientas de
+                    - strong [ref=e63]: IA Generativa
+                    - text: como Stable Diffusion, Midjourney, DALL.E, ChatGPT, Luma AI o Comfy UI, sino que el verdadero reto está en comprender a fondo su funcionamiento para aprovechar todo su potencial creativo y desarrollar proyectos de alto nivel.
+                  - paragraph [ref=e64]:
+                    - text: El
+                    - strong [ref=e65]: Máster en IA Generativa
+                    - text: te permitirá dominar la creación de contenidos audiovisuales -imágenes, vídeos y piezas musicales- a través del uso y la combinación de diferentes herramientas de
+                    - strong [ref=e66]: IA Generativa
+                    - text: . Para ello, aprenderás a generar y encadenar prompts técnicos que incluyan referencias históricas, cinematográficas y culturales, que te permitirán construir el proyecto de forma progresiva y coherente.
+                  - paragraph [ref=e67]:
+                    - img "ia" [ref=e68]
+                  - paragraph [ref=e69]: Además, en el Máster también verás cómo emplear otras herramientas de postproducción avanzada para ajustar y retocar los contenidos generados con IA y obtener así un resultado profesional de calidad listo para ser exhibido y/o distribuido. Todo ello, con un enfoque integral que abarca desde la coherencia estética y narrativa, hasta los aspectos técnicos, éticos y de responsabilidad social del uso de la Inteligencia Artificial en los proyectos creativos.
+                  - paragraph [ref=e70]:
+                    - text: Esta
+                    - strong [ref=e71]: formación en Inteligencia Artificial
+                    - text: está diseñada para ofrecerte un aprendizaje práctico y especializado, permitiéndote desarrollar las habilidades necesarias para destacar en el sector creativo.
+              - generic [ref=e73]:
+                - heading "Objetivos" [level=3] [ref=e76]: Objetivos
+                - generic [ref=e80]:
+                  - paragraph [ref=e81]: "Los objetivos del Máster en Inteligencia Artificial Generativa para creativos son:"
+                  - list [ref=e83]:
+                    - listitem [ref=e84]: Comprender los fundamentos técnicos y conceptuales de la IA Generativa.
+                    - listitem [ref=e85]: Analizar el impacto de los datos y los sesgos en el uso profesional de la IA.
+                    - listitem [ref=e86]: Dominar el prompt engineering para obtener resultados audiovisuales precisos y creativos.
+                    - listitem [ref=e87]: Enriquecer la creación visual con IA a través de referencias históricas, cinematográficas y culturales.
+                    - listitem [ref=e88]: Aplicar postproducción digital en imágenes, vídeos, animaciones y música generada con IA.
+                    - listitem [ref=e89]: Integrar la IA Generativa en proyectos audiovisuales, multimedia e interactivos.
+                    - listitem [ref=e90]: Conocer los aspectos legales, éticos y de responsabilidad social del uso de la IA.
+              - generic [ref=e92]:
+                - heading "Plan de estudios" [level=3] [ref=e95]: Plan de estudios
+                - generic [ref=e99]:
+                  - paragraph [ref=e100]: "El plan de estudios del Máster en IA Generativa para creativos de SHIFTA está formado por los siguientes bloques de contenido:"
+                  - list [ref=e102]:
+                    - listitem [ref=e103]: Fundamentos de la Inteligencia Artificial y contexto creativo.
+                    - listitem [ref=e104]: El papel de los datos en la IA Generativa.
+                    - listitem [ref=e105]: Prompt Engineering Avanzado y dominio de las IAs Generativas.
+                    - listitem [ref=e106]: Teoría del arte, la imagen y la estética para la IA.
+                    - listitem [ref=e107]: Diseño y postproducción Digital.
+                    - listitem [ref=e108]: Generación de vídeo y narrativas audiovisuales con Inteligencia Artificial.
+                    - listitem [ref=e109]: Audio, música y diseño sonoro generativo.
+                    - listitem [ref=e110]: Programación creativa e interactividad con IA Generativa.
+                    - listitem [ref=e111]: Integración multimodal, flujos complejos y proyectos reales.
+                    - listitem [ref=e112]: Profesionalización, ética, regulación y futuro de la IA Generativa multimodal.
+                    - listitem [ref=e113]: Trabajo Final.
+              - generic [ref=e115]:
+                - heading "Recursos adicionales" [level=3] [ref=e118]: Recursos adicionales
+                - generic [ref=e122]:
+                  - paragraph [ref=e123]:
+                    - text: Además de los contenidos específicos del
+                    - strong [ref=e124]: Máster en Inteligencia Artificial Generativa para creativos
+                    - text: ", disfrutarás de una serie de ventajas diseñadas para potenciar tu aprendizaje y conectar con la comunidad creativa:"
+                  - list [ref=e125]:
+                    - listitem [ref=e126]:
+                      - text: →
+                      - strong [ref=e127]: Descuento del 70% en la licencia anual de Adobe Creative Cloud©
+                      - text: ", para que explores y crees con las mejores herramientas del sector."
+                    - listitem [ref=e128]:
+                      - text: →
+                      - strong [ref=e129]: Acceso durante un año a Elisava Alumni Bold
+                      - text: ", una comunidad formada por alumnos y antiguos alumnos de la escuela."
+                    - listitem [ref=e130]:
+                      - text: →
+                      - strong [ref=e131]:
+                        - text: Dos
+                        - link "cápsulas formativas" [ref=e132] [cursor=pointer]:
+                          - /url: https://weareshifta.com/capsulas/
+                        - text: gratuitas
+                      - text: ", enfocadas en herramientas y metodologías relacionadas con el mundo de la creación y el diseño."
+                      - img "cápsulas diseño" [ref=e133]
+              - generic [ref=e135]:
+                - heading "Proyectos de estudiantes" [level=3] [ref=e138]: Proyectos de estudiantes
+                - generic [ref=e143]:
+                  - generic [ref=e145]:
+                    - generic [ref=e146]: Futurimage
+                    - generic [ref=e147]: Daniel Caja
+                    - button "saber más" [ref=e149] [cursor=pointer]
+                  - generic [ref=e150]:
+                    - button [ref=e151] [cursor=pointer]
+                    - generic [ref=e154]: Futurimage
+                    - generic [ref=e155]: Daniel Caja
+                    - link "Máster en Inteligencia Artificial Generativa para creativos" [ref=e157] [cursor=pointer]:
+                      - /url: https://weareshifta.com/formaciones/master-en-ia-generativa-para-creativos/
+                    - paragraph [ref=e159]: Creación de piezas audiovisuales experimentales dentro de un enfoque de diseño especulativo, a través de un laboratorio que combina diferentes medios y procesos creativos.
+              - generic [ref=e161]:
+                - heading "A quién va dirigido" [level=3] [ref=e164]: A quién va dirigido
+                - generic [ref=e168]:
+                  - paragraph [ref=e169]: El Máster en Inteligencia Artificial Generativa para creativos de SHIFTA está dirigido a personas interesadas en la innovación tecnológica aplicada al diseño y la creatividad.
+                  - list [ref=e171]:
+                    - listitem [ref=e172]: → Graduados o licenciados en diseño, arte, comunicación o áreas afines.
+                    - listitem [ref=e173]: → Profesionales de la creatividad que desean explorar nuevas formas de expresión con IA.
+                    - listitem [ref=e174]: → Creadores y productores de contenido interesados en experimentar con la IA Generativa.
+                    - listitem [ref=e175]: → Personas del ámbito del branding, la publicidad o los contenidos que quieren aplicar la IA en la creación de contenidos.
+              - generic [ref=e177]:
+                - heading "Salidas profesionales" [level=3] [ref=e180]: Salidas profesionales
+                - generic [ref=e184]:
+                  - paragraph [ref=e185]: "Una vez finalizada la formación en Inteligencia Artificial podrás trabajar como:"
+                  - list [ref=e187]:
+                    - listitem [ref=e188]: → Diseñador especializado en la creación de contenidos con IA Generativa.
+                    - listitem [ref=e189]: → Director de arte con enfoque en proyectos de IA.
+                    - listitem [ref=e190]: → Productor y desarrollador de contenidos audiovisuales y multimedia.
+                    - listitem [ref=e191]: → Creador de narrativas visuales con herramientas de IA.
+                    - listitem [ref=e192]: → Consultor en Inteligencia Artificial creativa.
+              - generic [ref=e194]:
+                - heading "Metodología" [level=3] [ref=e197]: Metodología
+                - generic [ref=e201]:
+                  - paragraph [ref=e202]: La metodología del Máster en IA Generativa para creativos de SHIFTA está diseñada para brindar una experiencia formativa transversal e innovadora, adaptada a las necesidades particulares de los estudiantes.
+                  - list [ref=e204]:
+                    - listitem [ref=e205]: → Formación online con acceso al Campus Virtual desde dónde y cuándo quieras.
+                    - listitem [ref=e206]: → Modelo metodológico diseñado por Elisava y la Universitat de Vic - Central de Catalunya.
+                    - listitem [ref=e207]: → Metodología basada en el Learning by Doing con realización de proyectos reales.
+                    - listitem [ref=e208]: → Modelo flexible que combina la formación síncrona y asíncrona.
+                    - listitem [ref=e209]: → Videoconferencias en directo semanales con los docentes a partir de las 18:30h (CET).
+                    - listitem [ref=e210]: → Grabación de las sesiones en directo para visualizarlas posteriormente.
+                    - listitem [ref=e211]: → Seguimiento y tutorización personalizados por un equipo especializado.
+              - generic [ref=e213]:
+                - heading "Claustro docente" [level=3] [ref=e216]: Claustro docente
+                - generic [ref=e220]:
+                  - link "Armand Montserrat Armand Montserrat Director. Director del departamento de diseño en Amalgama Agencia." [ref=e222] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/armand-montserrat-2b3a1740/
+                    - img "Armand Montserrat" [ref=e224]
+                    - generic [ref=e226]:
+                      - generic [ref=e227]: Armand Montserrat
+                      - generic [ref=e228]:
+                        - generic [ref=e229]: Director.
+                        - text: Director del departamento de diseño en Amalgama Agencia.
+                  - link "Albert Vergés Albert Vergés Docente. Director en Sunomono Films." [ref=e231] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/albertverges/?originalSubdomain=es
+                    - img "Albert Vergés" [ref=e233]
+                    - generic [ref=e235]:
+                      - generic [ref=e236]: Albert Vergés
+                      - generic [ref=e237]:
+                        - generic [ref=e238]: Docente.
+                        - text: Director en Sunomono Films.
+                  - link "Andrés Gil Andrés Gil Docente. Director de arte." [ref=e240] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/andresgilpi/
+                    - img "Andrés Gil" [ref=e242]
+                    - generic [ref=e244]:
+                      - generic [ref=e245]: Andrés Gil
+                      - generic [ref=e246]:
+                        - generic [ref=e247]: Docente.
+                        - text: Director de arte.
+                  - link "Asier Rohde Asier Rohde Docente. Experto en IA y fundador de 5Dev." [ref=e249] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/asier-rohde/
+                    - img "Asier Rohde" [ref=e251]
+                    - generic [ref=e253]:
+                      - generic [ref=e254]: Asier Rohde
+                      - generic [ref=e255]:
+                        - generic [ref=e256]: Docente.
+                        - text: Experto en IA y fundador de 5Dev.
+                  - link "Clara Asanza Clara Asanza Docente. Fotógrafa y comunicadora visual." [ref=e258] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/claraasanza/
+                    - img "Clara Asanza" [ref=e260]
+                    - generic [ref=e262]:
+                      - generic [ref=e263]: Clara Asanza
+                      - generic [ref=e264]:
+                        - generic [ref=e265]: Docente.
+                        - text: Fotógrafa y comunicadora visual.
+                  - link "Daniel Guillén Daniel Guillén Docente. Diseñador gráfico en Tigrelab." [ref=e267] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/daniel-guill%C3%A9n-del-rey-41066b13b/?originalSubdomain=es
+                    - img "Daniel Guillén" [ref=e269]
+                    - generic [ref=e271]:
+                      - generic [ref=e272]: Daniel Guillén
+                      - generic [ref=e273]:
+                        - generic [ref=e274]: Docente.
+                        - text: Diseñador gráfico en Tigrelab.
+                  - link "Marina Chillon Marina Chillón Docente. Arquitecta en Altura Arquitectes." [ref=e276] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/marinachillon/?originalSubdomain=ad
+                    - img "Marina Chillon" [ref=e278]
+                    - generic [ref=e280]:
+                      - generic [ref=e281]: Marina Chillón
+                      - generic [ref=e282]:
+                        - generic [ref=e283]: Docente.
+                        - text: Arquitecta en Altura Arquitectes.
+                  - link "Simón Fernández Simón Fernández Docente. Director de Arte Creativo." [ref=e285] [cursor=pointer]:
+                    - /url: linkedin.com/in/simonxcastro?originalSubdomain=es
+                    - img "Simón Fernández" [ref=e287]
+                    - generic [ref=e289]:
+                      - generic [ref=e290]: Simón Fernández
+                      - generic [ref=e291]:
+                        - generic [ref=e292]: Docente.
+                        - text: Director de Arte Creativo.
+                  - link "Xavier Mitjana Xavier Mitjana Docente. Especialista y divulgador en Inteligencia Artificial." [ref=e294] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/xaviermitjana/?originalSubdomain=es
+                    - img "Xavier Mitjana" [ref=e296]
+                    - generic [ref=e298]:
+                      - generic [ref=e299]: Xavier Mitjana
+                      - generic [ref=e300]:
+                        - generic [ref=e301]: Docente.
+                        - text: Especialista y divulgador en Inteligencia Artificial.
+                  - button "Ver más docentes" [ref=e303] [cursor=pointer]
+              - generic [ref=e305]:
+                - heading "Proceso de admisión" [level=3] [ref=e308]: Proceso de admisión
+                - generic [ref=e312]:
+                  - paragraph [ref=e313]: "Los requisitos de acceso al Máster en Inteligencia Artificial Generativa para creativos son:"
+                  - list [ref=e315]:
+                    - listitem [ref=e316]: → Titulación universitaria. En caso de no contar con título universitario, se puede acceder acreditando experiencia profesional en el sector.
+                    - listitem [ref=e317]: → Ordenador y buena conexión a internet.
+                    - listitem [ref=e318]: → Ser una persona eficiente, planificada y con capacidad de aprendizaje autónoma.
+              - generic [ref=e320]:
+                - heading "Formas de pago y financiación" [level=3] [ref=e323]: Formas de pago y financiación
+                - generic [ref=e327]:
+                  - paragraph [ref=e328]: Desde SHIFTA, ponemos a tu disposición las siguientes formas de pago y financiación para que el aspecto económico no sea un impedimento.
+                  - paragraph [ref=e329]:
+                    - strong [ref=e330]: Pago único
+                    - text: Realizando el pago del máster al contado, se te aplicará un 5% de descuento en el precio final.
+                  - paragraph [ref=e331]:
+                    - strong [ref=e332]: Financiación propia
+                    - text: Puedes financiar el máster en hasta 10 cuotas mensuales sin coste financiero (0% TAE).
+                  - paragraph [ref=e333]:
+                    - strong [ref=e334]: Bonificación para empresas
+                    - text: Puedes beneficiarte de las bonificaciones que ofrece la Fundación Estatal para la Formación en el Empleo (FUNDAE) y la Fundación Tripartita a las empresas españolas para formar a sus trabajadores. En este caso, disponemos del apoyo de una consultoría externa especializada en dicho trámite.
+              - generic [ref=e336]:
+                - heading "Formaciones relacionadas" [level=3] [ref=e339]
+                - generic [ref=e341]:
+                  - generic [ref=e343] [cursor=pointer]:
+                    - img "Posgrado Vídeo, audio e interactividad con Inteligencia Artificial" [ref=e345]
+                    - generic [ref=e346]:
+                      - link "Posgrado en Producción Audiovisual con Inteligencia Artificial" [ref=e347]:
+                        - /url: https://weareshifta.com/formaciones/posgrado-en-produccion-audiovisual-ia/
+                      - generic [ref=e348]: "Inicio: 19 de octubre 2026."
+                  - generic [ref=e350] [cursor=pointer]:
+                    - img "Posgrado Creatividad Visual con IA" [ref=e352]
+                    - generic [ref=e353]:
+                      - link "Posgrado en Creatividad Visual con Inteligencia Artificial" [ref=e354]:
+                        - /url: https://weareshifta.com/formaciones/posgrado-en-creatividad-visual-ia/
+                      - generic [ref=e355]: "Inicio: 25 de mayo 2026."
+            - generic [ref=e357]:
+              - heading [level=3]
+              - generic [ref=e358]:
+                - generic:
+                  - generic [ref=e359]:
+                    - list
+                  - form "Formulario de contacto" [ref=e360]:
+                    - heading "Solicita información" [level=2] [ref=e361]
+                    - paragraph [ref=e363]: Rellena el formulario y nos pondremos en contacto contigo para hacerte llegar el dosier informativo y realizar una asesoría a medida.
+                    - paragraph [ref=e364]:
+                      - textbox "Nombre*" [ref=e366]
+                      - textbox "Apellidos*" [ref=e368]
+                      - textbox "Email*" [ref=e370]
+                      - textbox "Teléfono*" [ref=e372]
+                      - generic [ref=e374]:
+                        - combobox [ref=e375]:
+                          - option "País*" [selected]
+                          - option "España (ES)"
+                          - option "México (MX)"
+                          - option "Colombia (CO)"
+                          - option "Perú (PE)"
+                          - option "Ecuador (EC)"
+                          - option "Chile (CL)"
+                          - option "Argentina (AR)"
+                          - option "Uruguay (UY)"
+                          - option "Paraguay (PY)"
+                          - option "Bolivia (BO)"
+                          - option "Brasil (BR)"
+                          - option "Costa Rica (CR)"
+                          - option "Panamá (PA)"
+                          - option "Estados Unidos (US)"
+                          - option "Francia (FR)"
+                          - option "Portugal (PT)"
+                          - option "Italia (IT)"
+                          - option "Alemania (AL)"
+                          - option "Países Bajos (NL)"
+                          - option "Gran Bretaña (GB)"
+                          - option "Otros (OT)"
+                        - generic [ref=e376]: País*
+                      - generic [ref=e379]:
+                        - combobox [ref=e380]:
+                          - option "¿Cómo nos has conocido?*" [selected]
+                          - option "Google"
+                          - option "Instagram"
+                          - option "Facebook"
+                          - option "Elisava"
+                          - option "Otros"
+                        - generic [ref=e381]: ¿Cómo nos has conocido?*
+                      - textbox "¿Qué dudas tienes sobre el Máster?*" [ref=e384]
+                    - paragraph [ref=e386]:
+                      - generic [ref=e390]:
+                        - checkbox "He leído y acepto la Política de privacidad." [ref=e392] [cursor=pointer]
+                        - generic [ref=e393]:
+                          - text: He leído y acepto la
+                          - link "Política de privacidad." [ref=e394] [cursor=pointer]:
+                            - /url: /politica-privacidad/
+                    - paragraph
+                    - generic [ref=e395]:
+                      - paragraph
+                      - button "Enviar" [disabled] [ref=e396]
+                      - paragraph
+          - contentinfo [ref=e399]:
+            - generic [ref=e400]:
+              - heading "Newsletter SHIFTA" [level=5] [ref=e401]
+              - generic [ref=e402]:
+                - generic [ref=e403]:
+                  - list
+                - form "Formulario de contacto" [ref=e404]:
+                  - paragraph [ref=e405]:
+                    - textbox "Escribe tu email" [ref=e407]
+                  - paragraph [ref=e409]:
+                    - generic [ref=e413]:
+                      - checkbox "He leído y acepto la Política de privacidad" [ref=e415] [cursor=pointer]
+                      - generic [ref=e416]:
+                        - text: He leído y acepto la
+                        - link "Política de privacidad" [ref=e417] [cursor=pointer]:
+                          - /url: /politica-privacidad/
+                    - generic [ref=e421]:
+                      - checkbox "Acepto recibir comunicaciones de SHIFTA" [ref=e423] [cursor=pointer]
+                      - generic [ref=e424]: Acepto recibir comunicaciones de SHIFTA
+                  - generic [ref=e425]:
+                    - paragraph
+                    - button "Suscribirme" [disabled] [ref=e426]
+                    - paragraph
+            - generic [ref=e428]:
+              - list [ref=e431]:
+                - listitem [ref=e432]:
+                  - link "Másters Online" [ref=e433] [cursor=pointer]:
+                    - /url: https://weareshifta.com/masters/
+                - listitem [ref=e434]:
+                  - link "Posgrados" [ref=e435] [cursor=pointer]:
+                    - /url: https://weareshifta.com/posgrados/
+                - listitem [ref=e436]:
+                  - link "Cursos" [ref=e437] [cursor=pointer]:
+                    - /url: https://weareshifta.com/cursos/
+                - listitem [ref=e438]:
+                  - link "Cápsulas" [ref=e439] [cursor=pointer]:
+                    - /url: https://weareshifta.com/capsulas/
+                - listitem [ref=e440]:
+                  - link "Comunidad" [ref=e441] [cursor=pointer]:
+                    - /url: https://weareshifta.com/comunidad/
+                - listitem [ref=e442]:
+                  - link "Blog" [ref=e443] [cursor=pointer]:
+                    - /url: https://weareshifta.com/blog/
+                - listitem [ref=e444]:
+                  - link "Sobre SHIFTA" [ref=e445] [cursor=pointer]:
+                    - /url: https://weareshifta.com/sobre-shifta/
+                - listitem [ref=e446]:
+                  - link "Contáctanos" [ref=e447] [cursor=pointer]:
+                    - /url: https://weareshifta.com/contactanos/
+              - list [ref=e450]:
+                - listitem [ref=e451]:
+                  - link "Instagram" [ref=e452] [cursor=pointer]:
+                    - /url: https://www.instagram.com/weareshifta/
+                - listitem [ref=e453]:
+                  - link "X" [ref=e454] [cursor=pointer]:
+                    - /url: https://twitter.com/weareshifta
+                - listitem [ref=e455]:
+                  - link "Facebook" [ref=e456] [cursor=pointer]:
+                    - /url: https://www.facebook.com/weareshifta/
+                - listitem [ref=e457]:
+                  - link "YouTube" [ref=e458] [cursor=pointer]:
+                    - /url: https://www.youtube.com/c/SHIFTAEscuelaOnlineCreadoresDigitales
+                - listitem [ref=e459]:
+                  - link "Vimeo" [ref=e460] [cursor=pointer]:
+                    - /url: https://vimeo.com/weareshifta
+                - listitem [ref=e461]:
+                  - link "LinkedIn" [ref=e462] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/school/shifta/
+            - generic [ref=e463]:
+              - text: W +34 638 600 955
+              - text: T +34 638 600 955
+              - text: hola@weareshifta.com
+              - text: Pl. de Pau Vila, 1, 08003
+              - text: (Barcelona)
+            - img "Elisava" [ref=e465]
+  - complementary:
+    - dialog "Configuración de privacidad" [ref=e470]:
+      - generic [ref=e472]:
+        - generic [ref=e473]:
+          - heading "Configuración de privacidad" [level=2] [ref=e474]
+          - generic: Este sitio utiliza tecnologías de seguimiento de sitios web de terceros para proporcionar y mejorar continuamente nuestros servicios, y para mostrar anuncios de acuerdo con los intereses de los usuarios. Estoy de acuerdo y puedo revocar o cambiar mi consentimiento en cualquier momento en el futuro.
+        - button "Más información" [ref=e476] [cursor=pointer]
+        - generic [ref=e477]:
+          - generic [ref=e478] [cursor=pointer]:
+            - generic: Marketing
+            - switch "Marketing" [ref=e479]
+          - generic [ref=e480] [cursor=pointer]:
+            - generic: Funcional
+            - switch "Funcional" [ref=e481]
+          - generic [ref=e482]:
+            - generic: Esencial
+            - switch [checked] [disabled] [ref=e483]
+      - generic [ref=e484]:
+        - generic [ref=e486]:
+          - button "Guardar configuración" [ref=e487] [cursor=pointer]
+          - button "Denegar" [ref=e488] [cursor=pointer]
+          - button "Aceptar todo" [ref=e489] [cursor=pointer]
+        - link "Powered by Usercentrics Consent Management" [ref=e491] [cursor=pointer]:
+          - /url: https://usercentrics.com/es/consent-management-platform-powered-by-usercentrics/?utm_source=banner_uc&utm_medium=referral&utm_content=v3

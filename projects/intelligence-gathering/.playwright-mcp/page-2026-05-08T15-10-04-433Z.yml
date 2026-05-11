@@ -1,0 +1,786 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e5]:
+        - link "The Core" [ref=e7] [cursor=pointer]:
+          - /url: https://www.thecoreschool.com
+        - generic [ref=e8]:
+          - link "+34 910381844" [ref=e10] [cursor=pointer]:
+            - /url: tel:+34910381844
+            - generic [ref=e11]: +34 910381844
+          - button "Abrir formulario de búsqueda" [ref=e12] [cursor=pointer]:
+            - generic [ref=e13]: 
+          - button " Abrir Menú" [ref=e14] [cursor=pointer]:
+            - generic [ref=e15]: 
+            - generic [ref=e16]: Abrir Menú
+          - text: 
+        - text: 
+    - main [ref=e17]:
+      - article [ref=e18]:
+        - navigation "breadcrumbs" [ref=e21]:
+          - paragraph [ref=e22]: The Core School
+        - generic [ref=e24]:
+          - generic "Carousel Navigation":
+            - button "Previous Slide" [ref=e25] [cursor=pointer]:
+              - generic [ref=e26]: Previous Slide
+            - button "Next Slide" [ref=e27] [cursor=pointer]:
+              - generic [ref=e28]: Next Slide
+          - generic [ref=e29]: slide 1 of 4
+          - generic [ref=e32]:
+            - generic [ref=e36]:
+              - heading "ABIERTA CONVOCATORIA BECAS DEL MINISTERIO DE EDUCACIÓN ESTUDIA UN GRADO O FP EN THE CORE AL MEJOR PRECIO" [level=2] [ref=e37]:
+                - link "ABIERTA CONVOCATORIA BECAS DEL MINISTERIO DE EDUCACIÓN ESTUDIA UN GRADO O FP EN THE CORE AL MEJOR PRECIO" [ref=e38] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/becas-y-ayudas/
+                  - text: ABIERTA CONVOCATORIA BECAS DEL MINISTERIO DE EDUCACIÓN
+                  - generic [ref=e39]: ESTUDIA UN GRADO O FP EN THE CORE AL MEJOR PRECIO
+              - paragraph
+              - link "MÁS INFORMACIÓN" [ref=e40] [cursor=pointer]:
+                - /url: https://www.thecoreschool.com/becas-y-ayudas/
+            - generic [ref=e44]:
+              - generic [ref=e46] [cursor=pointer]: Play Video
+              - generic [ref=e48] [cursor=pointer]: Mute
+            - generic [ref=e54]:
+              - heading [level=2] [ref=e55]:
+                - link [ref=e56] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/eventos/
+                  - text: EVENTOS THE CORE
+              - paragraph [ref=e57]: Vive experiencias únicas que te harán crecer.
+              - link [ref=e58] [cursor=pointer]:
+                - /url: https://www.thecoreschool.com/eventos/
+                - text: INSCRÍBETE GRATIS
+            - generic [ref=e62]:
+              - heading [level=1] [ref=e63]:
+                - link [ref=e64] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/campus-tres-cantos/
+                  - text: Escuela de Audiovisuales, Cine y Escritura Creativa en Madrid
+              - link [ref=e65] [cursor=pointer]:
+                - /url: https://www.thecoreschool.com/campus-tres-cantos/
+                - text: CONOCE EL CAMPUS
+          - generic "Carousel Pagination" [ref=e66]:
+            - button "Carousel Page 1 (Current Slide)" [ref=e67] [cursor=pointer]
+            - button "Carousel Page 2" [ref=e68] [cursor=pointer]
+            - button "Carousel Page 3" [ref=e69] [cursor=pointer]
+            - button "Carousel Page 4" [ref=e70] [cursor=pointer]
+        - generic [ref=e71]:
+          - text: 
+          - generic [ref=e74]:
+            - link "Diplomas de Experto" [ref=e76] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/diplomas-de-experto/
+            - link "Másteres" [ref=e78] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/masters-y-postgrados/
+            - link "Grados universitarios" [ref=e80] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/grado/
+            - link "Formación Profesional" [ref=e82] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/formacion-profesional/
+            - link "Eventos" [ref=e84] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/eventos//
+          - generic [ref=e87]:
+            - heading "LA ESCUELA EN DATOS" [level=2] [ref=e90]
+            - generic [ref=e91]:
+              - generic [ref=e93]:
+                - generic [ref=e94]: 4.6/5
+                - generic [ref=e95]: SATISFACCIÓN DEL ALUMNO
+                - paragraph [ref=e96]: La escuela cuenta con un 4.6 sobre 5 en la escala NPS relativo a la satisfacción de los estudiantes con The Core.
+              - generic [ref=e98]:
+                - generic [ref=e99]: 75%
+                - generic [ref=e100]: EMPLEABILIDAD
+                - paragraph [ref=e101]: Un porcentaje elevadísimo de nuestros egresados trabajan hoy día en la Industria Audiovisual y del Entretenimiento a la que pertenecemos.
+              - generic [ref=e103]:
+                - generic [ref=e104]: "12500"
+                - generic [ref=e105]: METROS CUADRADOS
+                - paragraph [ref=e106]: Nuestro campus universitario, ubicado en Madrid Content City, cuenta con platós, estudios, aulas y laboratorios equipados con tecnología profesional para aprender haciendo.
+              - generic [ref=e108]:
+                - generic [ref=e109]: "6000"
+                - generic [ref=e110]: ESTUDIANTES
+                - paragraph [ref=e111]: En nuestros 5 años de vida, 6.000 estudiantes han confiado en nuestra formación en FP, Grado Universitario, Máster y Postgrado.
+          - generic [ref=e113]:
+            - heading "Formarás parte de la industria." [level=2] [ref=e116]:
+              - text: Formarás
+              - text: parte de
+              - text: la industria.
+            - paragraph [ref=e118]: "Encuentra tu programa entre las diferentes disciplinas del contenido audiovisual: creación, comunicación, management, tecnología y data."
+          - generic [ref=e122]:
+            - generic [ref=e123]:
+              - group "7 / 8" [ref=e124]:
+                - generic [ref=e125]:
+                  - generic [ref=e127]:
+                    - generic [ref=e128]: Presencial
+                    - generic [ref=e129]: Oct 2026
+                    - generic [ref=e131]: INSCRIPCIONES ABIERTAS OCTUBRE 2026
+                  - generic [ref=e132]:
+                    - heading "Máster en Dirección de Fotografía" [level=3] [ref=e133]
+                    - generic [ref=e135]: Cine
+                  - link "Máster en Dirección de Fotografía":
+                    - /url: https://www.thecoreschool.com/programas/master-en-direccion-de-fotografia/
+                    - generic [ref=e136] [cursor=pointer]: Máster en Dirección de Fotografía
+              - group "8 / 8" [ref=e137]:
+                - generic [ref=e138]:
+                  - generic [ref=e139]:
+                    - img "Partners exclusivos" [ref=e140]
+                    - generic [ref=e141]:
+                      - generic [ref=e142]: Presencial
+                      - generic [ref=e143]: Oct 2026
+                      - generic [ref=e145]: INSCRIPCIONES ABIERTAS OCTUBRE 2026
+                  - generic [ref=e146]:
+                    - heading "Máster en Dirección de Cine" [level=3] [ref=e147]
+                    - generic [ref=e149]: Cine
+                  - link "Máster en Dirección de Cine":
+                    - /url: https://www.thecoreschool.com/programas/master-direccion-cine/
+                    - generic [ref=e150] [cursor=pointer]: Máster en Dirección de Cine
+              - group "1 / 8" [ref=e151]:
+                - generic [ref=e152]:
+                  - generic [ref=e153]:
+                    - generic [ref=e154]:
+                      - generic [ref=e155]: Presencial
+                      - generic [ref=e156]: Oct 2026
+                      - generic [ref=e158]: INSCRIPCIONES ABIERTAS OCTUBRE 2026
+                    - generic [ref=e159]:
+                      - text: En colaboración con
+                      - img "Secuoya Studios"
+                  - generic [ref=e160]:
+                    - heading "Máster en Producción Ejecutiva de Contenidos Audiovisuales" [level=3] [ref=e161]
+                    - generic [ref=e163]: Contenidos
+                  - link "Máster en Producción Ejecutiva de Contenidos Audiovisuales":
+                    - /url: https://www.thecoreschool.com/programas/master-produccion-ejecutiva/
+                    - generic [ref=e164] [cursor=pointer]: Máster en Producción Ejecutiva de Contenidos Audiovisuales
+              - group "2 / 8" [ref=e165]:
+                - generic [ref=e166]:
+                  - generic [ref=e168]:
+                    - generic [ref=e169]: Presencial
+                    - generic [ref=e170]: Oct 2026
+                    - generic [ref=e172]: INSCRIPCIONES ABIERTAS OCTUBRE 2026
+                  - generic [ref=e173]:
+                    - heading "Máster en Edición y Postproducción Audiovisual" [level=3] [ref=e174]
+                    - generic [ref=e176]: Tecnología Audiovisual
+                  - link "Máster en Edición y Postproducción Audiovisual":
+                    - /url: https://www.thecoreschool.com/programas/master-edicion-y-postproduccion-audiovisual/
+                    - generic [ref=e177] [cursor=pointer]: Máster en Edición y Postproducción Audiovisual
+              - group "3 / 8" [ref=e178]:
+                - generic [ref=e179]:
+                  - generic [ref=e181]:
+                    - generic [ref=e182]: Online
+                    - generic [ref=e183]: May 2026
+                    - generic [ref=e185]: ÚLTIMAS PLAZAS
+                  - generic [ref=e186]:
+                    - heading "Máster Online en Guion de Cine y TV" [level=3] [ref=e187]
+                    - generic [ref=e189]: Contenidos
+                  - link "Máster Online en Guion de Cine y TV":
+                    - /url: https://www.thecoreschool.com/programas/master-creacion-guiones/
+                    - generic [ref=e190] [cursor=pointer]: Máster Online en Guion de Cine y TV
+              - group "4 / 8" [ref=e191]:
+                - generic [ref=e192]:
+                  - generic [ref=e193]:
+                    - generic [ref=e194]:
+                      - generic [ref=e195]: Presencial
+                      - generic [ref=e196]: Sep 2026
+                      - generic [ref=e198]: Inscripciones abiertas SEP 2026
+                    - generic [ref=e199]:
+                      - text: En colaboración con
+                      - img "a3mp"
+                  - generic [ref=e200]:
+                    - heading "Grado Comunicación Audiovisual" [level=3] [ref=e201]
+                    - generic [ref=e203]: Comunicación y Medios
+                  - link "Grado Comunicación Audiovisual":
+                    - /url: https://www.thecoreschool.com/programas/grado-comunicacion-audiovisual/
+                    - generic [ref=e204] [cursor=pointer]: Grado Comunicación Audiovisual
+              - group "5 / 8" [ref=e205]:
+                - generic [ref=e206]:
+                  - generic [ref=e207]:
+                    - generic [ref=e208]:
+                      - generic [ref=e209]: Presencial
+                      - generic [ref=e210]: Sep 2026
+                      - generic [ref=e212]: Inscripciones abiertas SEP 2026
+                    - generic [ref=e213]: En colaboración con
+                  - generic [ref=e214]:
+                    - heading "Grado en Escritura Creativa y Desarrollo de Contenidos" [level=3] [ref=e215]
+                    - generic [ref=e217]: Contenidos
+                  - link "Grado en Escritura Creativa y Desarrollo de Contenidos":
+                    - /url: https://www.thecoreschool.com/programas/grado-escritura-creativa-desarrollo-contenidos/
+                    - generic [ref=e218] [cursor=pointer]: Grado en Escritura Creativa y Desarrollo de Contenidos
+              - group "6 / 8" [ref=e219]:
+                - generic [ref=e220]:
+                  - generic [ref=e221]:
+                    - generic [ref=e222]:
+                      - generic [ref=e223]: Presencial
+                      - generic [ref=e224]: Sep 2026
+                      - generic [ref=e226]: Inscripciones abiertas SEP 2026
+                    - generic [ref=e227]:
+                      - text: En colaboración con
+                      - img "a3mp"
+                  - generic [ref=e228]:
+                    - heading "Grado superior en sonido para audiovisuales y espectáculos" [level=3] [ref=e229]
+                    - generic [ref=e231]: Comunicación y Medios
+                  - link "Grado superior en sonido para audiovisuales y espectáculos":
+                    - /url: https://www.thecoreschool.com/programas/grado-superior-en-sonido-para-audiovisuales-y-espectaculos/
+                    - generic [ref=e232] [cursor=pointer]: Grado superior en sonido para audiovisuales y espectáculos
+              - group "7 / 8" [ref=e233]:
+                - generic [ref=e234]:
+                  - generic [ref=e236]:
+                    - generic [ref=e237]: Presencial
+                    - generic [ref=e238]: Oct 2026
+                    - generic [ref=e240]: INSCRIPCIONES ABIERTAS OCTUBRE 2026
+                  - generic [ref=e241]:
+                    - heading "Máster en Dirección de Fotografía" [level=3] [ref=e242]
+                    - generic [ref=e244]: Cine
+                  - link "Máster en Dirección de Fotografía":
+                    - /url: https://www.thecoreschool.com/programas/master-en-direccion-de-fotografia/
+                    - generic [ref=e245] [cursor=pointer]: Máster en Dirección de Fotografía
+              - group "8 / 8" [ref=e246]:
+                - generic [ref=e247]:
+                  - generic [ref=e248]:
+                    - img "Partners exclusivos" [ref=e249]
+                    - generic [ref=e250]:
+                      - generic [ref=e251]: Presencial
+                      - generic [ref=e252]: Oct 2026
+                      - generic [ref=e254]: INSCRIPCIONES ABIERTAS OCTUBRE 2026
+                  - generic [ref=e255]:
+                    - heading "Máster en Dirección de Cine" [level=3] [ref=e256]
+                    - generic [ref=e258]: Cine
+                  - link "Máster en Dirección de Cine":
+                    - /url: https://www.thecoreschool.com/programas/master-direccion-cine/
+                    - generic [ref=e259] [cursor=pointer]: Máster en Dirección de Cine
+              - group "1 / 8" [ref=e260]:
+                - generic [ref=e261]:
+                  - generic [ref=e262]:
+                    - generic [ref=e263]:
+                      - generic [ref=e264]: Presencial
+                      - generic [ref=e265]: Oct 2026
+                      - generic [ref=e267]: INSCRIPCIONES ABIERTAS OCTUBRE 2026
+                    - generic [ref=e268]:
+                      - text: En colaboración con
+                      - img "Secuoya Studios"
+                  - generic [ref=e269]:
+                    - heading "Máster en Producción Ejecutiva de Contenidos Audiovisuales" [level=3] [ref=e270]
+                    - generic [ref=e272]: Contenidos
+                  - link "Máster en Producción Ejecutiva de Contenidos Audiovisuales":
+                    - /url: https://www.thecoreschool.com/programas/master-produccion-ejecutiva/
+                    - generic [ref=e273] [cursor=pointer]: Máster en Producción Ejecutiva de Contenidos Audiovisuales
+              - group "2 / 8" [ref=e274]:
+                - generic [ref=e275]:
+                  - generic [ref=e277]:
+                    - generic [ref=e278]: Presencial
+                    - generic [ref=e279]: Oct 2026
+                    - generic [ref=e281]: INSCRIPCIONES ABIERTAS OCTUBRE 2026
+                  - generic [ref=e282]:
+                    - heading "Máster en Edición y Postproducción Audiovisual" [level=3] [ref=e283]
+                    - generic [ref=e285]: Tecnología Audiovisual
+                  - link "Máster en Edición y Postproducción Audiovisual":
+                    - /url: https://www.thecoreschool.com/programas/master-edicion-y-postproduccion-audiovisual/
+                    - generic [ref=e286] [cursor=pointer]: Máster en Edición y Postproducción Audiovisual
+            - generic [ref=e287]:
+              - button "Go to slide 1" [ref=e288] [cursor=pointer]
+              - button "Go to slide 2" [ref=e289] [cursor=pointer]
+              - button "Go to slide 3" [ref=e290] [cursor=pointer]
+              - button "Go to slide 4" [ref=e291] [cursor=pointer]
+            - text: prev next
+          - generic [ref=e293]:
+            - heading "Cuando tu reto es el conocimiento" [level=2] [ref=e296]:
+              - text: Cuando
+              - text: tu reto es
+              - text: el conocimiento
+            - paragraph [ref=e298]: Por fin tienes la oportunidad exclusiva de formarte en el mayor hub de producción audiovisual de la UE, con los recursos tecnológicos de los escenarios profesionales y un claustro dedicado.
+            - paragraph [ref=e300]: La mejor plataforma para acceder a la industria del contenido.
+          - generic [ref=e303]:
+            - link "Animación y Videojuegos" [ref=e305] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/animacion-y-videojuegos/
+            - link "Business y Management" [ref=e307] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/business-y-management/
+            - link "Cine" [ref=e309] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/cine/
+            - link "Comunicación y Medios" [ref=e311] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/formacion-comunicacion-y-medios/
+            - link "Contenidos" [ref=e313] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/contenidos/
+            - link "Marketing" [ref=e315] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/marketing/
+            - link "STEM" [ref=e317] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/ingenieria-creativa/
+            - link "Tecnología Audiovisual" [ref=e319] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/tecnologia-audiovisual/
+          - generic [ref=e324]:
+            - heading "PARTNERS DE LA INDUSTRIA" [level=2] [ref=e326]:
+              - text: PARTNERS
+              - text: DE LA INDUSTRIA
+            - generic [ref=e328]:
+              - figure [ref=e331]:
+                - img "Grupo Planeta_300x170" [ref=e332]
+              - figure [ref=e335]:
+                - img "Atresmedia" [ref=e336]
+              - figure [ref=e339]:
+                - img "banijay-logo-300x170" [ref=e340]
+              - figure [ref=e343]:
+                - img "secuoya-nexus-logo" [ref=e344]
+              - figure [ref=e347]:
+                - img "Egeda" [ref=e348]
+              - figure [ref=e351]:
+                - img "banded-content-logo" [ref=e352]
+              - figure [ref=e355]:
+                - img "HAVAS300X170 (2)" [ref=e356]
+              - figure [ref=e359]:
+                - img "MRFACTORY 300X170 (2)" [ref=e360]
+              - figure [ref=e363]:
+                - img "La Liga Studios" [ref=e364]
+              - figure [ref=e367]:
+                - img "OCEANICA 300X170 (2)" [ref=e368]
+              - figure [ref=e371]:
+                - img "black_mouth_logo_300x170" [ref=e372]
+              - figure [ref=e375]:
+                - img "MORGANA 300X170 (2)" [ref=e376]
+              - figure [ref=e379]:
+                - img "singular-logo-300x170" [ref=e380]
+              - figure [ref=e383]:
+                - img "cbmedia-logo-300x170" [ref=e384]
+              - figure [ref=e387]:
+                - img "drago-logo-300x170" [ref=e388]
+              - figure [ref=e391]:
+                - img "apolo-films-logo-300x170" [ref=e392]
+              - figure [ref=e395]:
+                - img "hg_logo_2" [ref=e396]
+              - figure [ref=e399]:
+                - img "logo_AEC_positivo" [ref=e400]
+          - separator [ref=e401]
+          - generic [ref=e406]:
+            - generic [ref=e408]:
+              - heading "Estudia en The Core School" [level=2] [ref=e410]:
+                - text: Estudia en
+                - text: The Core School
+              - paragraph [ref=e411]:
+                - strong [ref=e412]: Te lo ponemos fácil
+            - generic [ref=e414]:
+              - heading "BECAS, AYUDAS Y FINANCIACIÓN" [level=3] [ref=e416]:
+                - text: BECAS, AYUDAS
+                - text: Y FINANCIACIÓN
+              - list [ref=e417]:
+                - listitem [ref=e418]: Becas
+                - listitem [ref=e419]: Para todas las edades
+                - listitem [ref=e420]: Para todos los estudios
+                - listitem [ref=e421]: Descuentos adicionales
+                - listitem [ref=e422]: Financiación al 0% con The Core
+                - listitem [ref=e423]: Planes de pagos a medida
+              - link "MÁS INFORMACIÓN" [ref=e425] [cursor=pointer]:
+                - /url: https://www.thecoreschool.com/becas-y-ayudas/
+            - generic [ref=e427]:
+              - heading "PROCESO DE ADMISIÓN" [level=3] [ref=e429]:
+                - text: PROCESO
+                - text: DE ADMISIÓN
+              - paragraph [ref=e430]: Explora cómo es el proceso de admisión para nuestros distintos programas y encuentra toda la información que necesitas para dar el primer paso. Si tienes preguntas o necesitas acompañamiento, nuestros asesores están disponibles para ayudarte y guiarte durante todo el recorrido.
+              - link "QUIERO SABER MÁS" [ref=e433] [cursor=pointer]:
+                - /url: https://www.thecoreschool.com/admisiones/
+          - generic [ref=e435]:
+            - heading "Centro colaborador de UNIE" [level=2] [ref=e438]:
+              - text: Centro colaborador
+              - text: de UNIE
+            - generic [ref=e439]:
+              - paragraph [ref=e440]:
+                - strong [ref=e441]: UNIE Universidad
+                - text: cuenta con una oferta formativa actualizada y realista que responde a la demanda y necesidad actual del mercado y la sociedad. Imparte Grados y Másteres en colaboración con The Core School. La escuela que nace dentro la industria audiovisual. Más de 20.000m2 dedicados al área de los Contenidos y el Entretenimiento en Madrid Content City, el Hub audiovisual más grande de Europa.
+              - paragraph [ref=e442]: "*En proceso de Adscripción a UNIE Universidad."
+            - figure [ref=e445]
+          - generic [ref=e447]:
+            - generic [ref=e448]:
+              - heading "NOTICIAS" [level=2] [ref=e453]
+              - link "VER TODO" [ref=e458] [cursor=pointer]:
+                - /url: https://www.thecoreschool.com/blog/
+            - generic [ref=e459]:
+              - generic [ref=e460]: slide 7 to 8 of 8
+              - list [ref=e463]:
+                - listitem [ref=e464]:
+                  - link [ref=e466] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-hace-un-director-de-produccion-cp/
+                    - img [ref=e467]
+                  - link [ref=e468] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-hace-un-director-de-produccion-cp/
+                    - text: ¿Qué hace un Director de Producción Audiovisual?
+                  - generic [ref=e469]:
+                    - text: El director de producción es una de las figuras más importantes dentro de cualquier proyecto audiovisual. Nos encargamos de coordinar…
+                    - link [ref=e470] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/que-hace-un-director-de-produccion-cp/
+                      - text: Lee más
+                      - generic [ref=e471]: ": ¿Qué hace un Director de Producción Audiovisual?"
+                - listitem [ref=e472]:
+                  - link [ref=e474] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/estilos-y-generos-literarios-cp/
+                    - img [ref=e475]
+                  - link [ref=e476] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/estilos-y-generos-literarios-cp/
+                    - text: "Estilos y géneros literarios: qué son, tipos y diferencias"
+                  - generic [ref=e477]:
+                    - text: Los estilos literarios y géneros literarios son dos conceptos fundamentales para entender cómo se construye una obra y cómo la…
+                    - link [ref=e478] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/estilos-y-generos-literarios-cp/
+                      - text: Lee más
+                      - generic [ref=e479]: ": Estilos y géneros literarios: qué son, tipos y diferencias"
+                - listitem [ref=e480]:
+                  - link [ref=e482] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-la-escenografia-cp/
+                    - img [ref=e483]
+                  - link [ref=e484] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-la-escenografia-cp/
+                    - text: "Escenografía: significado, tipos y aplicación en teatro y eventos"
+                  - generic [ref=e485]:
+                    - text: "La escenografía es mucho más que un decorado: es el lenguaje visual que construye el mundo donde ocurre una historia…"
+                    - link [ref=e486] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/que-es-la-escenografia-cp/
+                      - text: Lee más
+                      - generic [ref=e487]: ": Escenografía: significado, tipos y aplicación en teatro y eventos"
+                - listitem [ref=e488]:
+                  - link [ref=e490] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-regidor-tv/
+                    - img [ref=e491]
+                  - link [ref=e492] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-regidor-tv/
+                    - text: ¿Qué hace un regidor de Televisión? Funciones, salario y cómo llegar a serlo
+                  - generic [ref=e493]:
+                    - text: La televisión es un mundo donde cada detalle cuenta y detrás de cámaras hay profesionales que aseguran que todo funcione…
+                    - link [ref=e494] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/que-es-regidor-tv/
+                      - text: Lee más
+                      - generic [ref=e495]: ": ¿Qué hace un regidor de Televisión? Funciones, salario y cómo llegar a serlo"
+                - listitem [ref=e496]:
+                  - link [ref=e498] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/lenguaje-audiovisual/
+                    - img [ref=e499]
+                  - link [ref=e500] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/lenguaje-audiovisual/
+                    - text: ¿Qué es el lenguaje audiovisual? Elementos esenciales
+                  - generic [ref=e501]:
+                    - text: El lenguaje audiovisual es la base de cómo entendemos y producimos imágenes en movimiento, películas, series, vídeos publicitarios y contenidos…
+                    - link [ref=e502] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/lenguaje-audiovisual/
+                      - text: Lee más
+                      - generic [ref=e503]: ": ¿Qué es el lenguaje audiovisual? Elementos esenciales"
+                - listitem [ref=e504]:
+                  - link [ref=e506] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-un-portfolio/
+                    - img [ref=e507]
+                  - link [ref=e508] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-un-portfolio/
+                    - text: "Portfolio: Qué es, cómo hacerlo y ejemplos"
+                  - generic [ref=e509]:
+                    - text: Un buen dosier puede convertirse en tu mejor carta de presentación dentro del mundo audiovisual. Tener un material que muestre…
+                    - link [ref=e510] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/que-es-un-portfolio/
+                      - text: Lee más
+                      - generic [ref=e511]: ": Portfolio: Qué es, cómo hacerlo y ejemplos"
+                - listitem [ref=e512]:
+                  - link "Las 7 mejores plataformas de streaming en 2026" [ref=e514] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/mejores-plataformas-de-streaming-cp/
+                    - img "Equipo en una transmisión de streaming" [ref=e515]
+                  - link "Las 7 mejores plataformas de streaming en 2026" [ref=e516] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/mejores-plataformas-de-streaming-cp/
+                  - time
+                  - generic [ref=e517]:
+                    - text: Las plataformas de streaming se han convertido en una pieza clave del consumo de contenido digital en nuestro día a…
+                    - 'link "Lee más : Las 7 mejores plataformas de streaming en 2026" [ref=e518] [cursor=pointer]':
+                      - /url: https://www.thecoreschool.com/blog/mejores-plataformas-de-streaming-cp/
+                      - text: Lee más
+                      - generic [ref=e519]: ": Las 7 mejores plataformas de streaming en 2026"
+                - listitem [ref=e520]:
+                  - link "¿Qué es un fanzine y cómo hacer uno desde cero?" [ref=e522] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-un-fanzine-cp/
+                    - img "que es un fanzine con the core school" [ref=e523]
+                  - link "¿Qué es un fanzine y cómo hacer uno desde cero?" [ref=e524] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-un-fanzine-cp/
+                  - time
+                  - generic [ref=e525]:
+                    - text: El fanzine es una de las formas más libres y auténticas de expresión creativa que existen. Cuando hablamos de qué…
+                    - 'link "Lee más : ¿Qué es un fanzine y cómo hacer uno desde cero?" [ref=e526] [cursor=pointer]':
+                      - /url: https://www.thecoreschool.com/blog/que-es-un-fanzine-cp/
+                      - text: Lee más
+                      - generic [ref=e527]: ": ¿Qué es un fanzine y cómo hacer uno desde cero?"
+                - listitem [ref=e528]:
+                  - link [ref=e530] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-hace-un-director-de-produccion-cp/
+                    - img [ref=e531]
+                  - link [ref=e532] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-hace-un-director-de-produccion-cp/
+                    - text: ¿Qué hace un Director de Producción Audiovisual?
+                  - generic [ref=e533]:
+                    - text: El director de producción es una de las figuras más importantes dentro de cualquier proyecto audiovisual. Nos encargamos de coordinar…
+                    - link [ref=e534] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/que-hace-un-director-de-produccion-cp/
+                      - text: Lee más
+                      - generic [ref=e535]: ": ¿Qué hace un Director de Producción Audiovisual?"
+                - listitem [ref=e536]:
+                  - link [ref=e538] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/estilos-y-generos-literarios-cp/
+                    - img [ref=e539]
+                  - link [ref=e540] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/estilos-y-generos-literarios-cp/
+                    - text: "Estilos y géneros literarios: qué son, tipos y diferencias"
+                  - generic [ref=e541]:
+                    - text: Los estilos literarios y géneros literarios son dos conceptos fundamentales para entender cómo se construye una obra y cómo la…
+                    - link [ref=e542] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/estilos-y-generos-literarios-cp/
+                      - text: Lee más
+                      - generic [ref=e543]: ": Estilos y géneros literarios: qué son, tipos y diferencias"
+                - listitem [ref=e544]:
+                  - link [ref=e546] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-la-escenografia-cp/
+                    - img [ref=e547]
+                  - link [ref=e548] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-la-escenografia-cp/
+                    - text: "Escenografía: significado, tipos y aplicación en teatro y eventos"
+                  - generic [ref=e549]:
+                    - text: "La escenografía es mucho más que un decorado: es el lenguaje visual que construye el mundo donde ocurre una historia…"
+                    - link [ref=e550] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/que-es-la-escenografia-cp/
+                      - text: Lee más
+                      - generic [ref=e551]: ": Escenografía: significado, tipos y aplicación en teatro y eventos"
+                - listitem [ref=e552]:
+                  - link [ref=e554] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-regidor-tv/
+                    - img [ref=e555]
+                  - link [ref=e556] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-regidor-tv/
+                    - text: ¿Qué hace un regidor de Televisión? Funciones, salario y cómo llegar a serlo
+                  - generic [ref=e557]:
+                    - text: La televisión es un mundo donde cada detalle cuenta y detrás de cámaras hay profesionales que aseguran que todo funcione…
+                    - link [ref=e558] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/que-es-regidor-tv/
+                      - text: Lee más
+                      - generic [ref=e559]: ": ¿Qué hace un regidor de Televisión? Funciones, salario y cómo llegar a serlo"
+                - listitem [ref=e560]:
+                  - link [ref=e562] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/lenguaje-audiovisual/
+                    - img [ref=e563]
+                  - link [ref=e564] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/lenguaje-audiovisual/
+                    - text: ¿Qué es el lenguaje audiovisual? Elementos esenciales
+                  - generic [ref=e565]:
+                    - text: El lenguaje audiovisual es la base de cómo entendemos y producimos imágenes en movimiento, películas, series, vídeos publicitarios y contenidos…
+                    - link [ref=e566] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/lenguaje-audiovisual/
+                      - text: Lee más
+                      - generic [ref=e567]: ": ¿Qué es el lenguaje audiovisual? Elementos esenciales"
+                - listitem [ref=e568]:
+                  - link [ref=e570] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-un-portfolio/
+                    - img [ref=e571]
+                  - link [ref=e572] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-un-portfolio/
+                    - text: "Portfolio: Qué es, cómo hacerlo y ejemplos"
+                  - generic [ref=e573]:
+                    - text: Un buen dosier puede convertirse en tu mejor carta de presentación dentro del mundo audiovisual. Tener un material que muestre…
+                    - link [ref=e574] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/que-es-un-portfolio/
+                      - text: Lee más
+                      - generic [ref=e575]: ": Portfolio: Qué es, cómo hacerlo y ejemplos"
+                - listitem [ref=e576]:
+                  - link [ref=e578] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/mejores-plataformas-de-streaming-cp/
+                    - img [ref=e579]
+                  - link [ref=e580] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/mejores-plataformas-de-streaming-cp/
+                    - text: Las 7 mejores plataformas de streaming en 2026
+                  - generic [ref=e581]:
+                    - text: Las plataformas de streaming se han convertido en una pieza clave del consumo de contenido digital en nuestro día a…
+                    - link [ref=e582] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/mejores-plataformas-de-streaming-cp/
+                      - text: Lee más
+                      - generic [ref=e583]: ": Las 7 mejores plataformas de streaming en 2026"
+                - listitem [ref=e584]:
+                  - link [ref=e586] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-un-fanzine-cp/
+                    - img [ref=e587]
+                  - link [ref=e588] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-un-fanzine-cp/
+                    - text: ¿Qué es un fanzine y cómo hacer uno desde cero?
+                  - generic [ref=e589]:
+                    - text: El fanzine es una de las formas más libres y auténticas de expresión creativa que existen. Cuando hablamos de qué…
+                    - link [ref=e590] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/que-es-un-fanzine-cp/
+                      - text: Lee más
+                      - generic [ref=e591]: ": ¿Qué es un fanzine y cómo hacer uno desde cero?"
+                - listitem [ref=e592]:
+                  - link [ref=e594] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-hace-un-director-de-produccion-cp/
+                    - img [ref=e595]
+                  - link [ref=e596] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-hace-un-director-de-produccion-cp/
+                    - text: ¿Qué hace un Director de Producción Audiovisual?
+                  - generic [ref=e597]:
+                    - text: El director de producción es una de las figuras más importantes dentro de cualquier proyecto audiovisual. Nos encargamos de coordinar…
+                    - link [ref=e598] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/que-hace-un-director-de-produccion-cp/
+                      - text: Lee más
+                      - generic [ref=e599]: ": ¿Qué hace un Director de Producción Audiovisual?"
+                - listitem [ref=e600]:
+                  - link [ref=e602] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/estilos-y-generos-literarios-cp/
+                    - img [ref=e603]
+                  - link [ref=e604] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/estilos-y-generos-literarios-cp/
+                    - text: "Estilos y géneros literarios: qué son, tipos y diferencias"
+                  - generic [ref=e605]:
+                    - text: Los estilos literarios y géneros literarios son dos conceptos fundamentales para entender cómo se construye una obra y cómo la…
+                    - link [ref=e606] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/estilos-y-generos-literarios-cp/
+                      - text: Lee más
+                      - generic [ref=e607]: ": Estilos y géneros literarios: qué son, tipos y diferencias"
+                - listitem [ref=e608]:
+                  - link [ref=e610] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-la-escenografia-cp/
+                    - img [ref=e611]
+                  - link [ref=e612] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-la-escenografia-cp/
+                    - text: "Escenografía: significado, tipos y aplicación en teatro y eventos"
+                  - generic [ref=e613]:
+                    - text: "La escenografía es mucho más que un decorado: es el lenguaje visual que construye el mundo donde ocurre una historia…"
+                    - link [ref=e614] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/que-es-la-escenografia-cp/
+                      - text: Lee más
+                      - generic [ref=e615]: ": Escenografía: significado, tipos y aplicación en teatro y eventos"
+                - listitem [ref=e616]:
+                  - link [ref=e618] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-regidor-tv/
+                    - img [ref=e619]
+                  - link [ref=e620] [cursor=pointer]:
+                    - /url: https://www.thecoreschool.com/blog/que-es-regidor-tv/
+                    - text: ¿Qué hace un regidor de Televisión? Funciones, salario y cómo llegar a serlo
+                  - generic [ref=e621]:
+                    - text: La televisión es un mundo donde cada detalle cuenta y detrás de cámaras hay profesionales que aseguran que todo funcione…
+                    - link [ref=e622] [cursor=pointer]:
+                      - /url: https://www.thecoreschool.com/blog/que-es-regidor-tv/
+                      - text: Lee más
+                      - generic [ref=e623]: ": ¿Qué hace un regidor de Televisión? Funciones, salario y cómo llegar a serlo"
+              - generic "Carousel Pagination" [ref=e624]:
+                - button "Carousel Page 1 (Current Slide)" [ref=e625] [cursor=pointer]
+                - button "Carousel Page 2" [ref=e626] [cursor=pointer]
+                - button "Carousel Page 3" [ref=e627] [cursor=pointer]
+                - button "Carousel Page 4" [ref=e628] [cursor=pointer]
+    - contentinfo [ref=e629]:
+      - generic [ref=e631]:
+        - generic [ref=e632]:
+          - generic [ref=e633]:
+            - link "The Core" [ref=e634] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com
+            - list [ref=e635]:
+              - listitem [ref=e636]:
+                - link " Facebook" [ref=e637] [cursor=pointer]:
+                  - /url: https://www.facebook.com/TheCoreSchool/
+                  - generic [ref=e638]: 
+                  - generic [ref=e639]: Facebook
+              - listitem [ref=e640]:
+                - link " Instagram" [ref=e641] [cursor=pointer]:
+                  - /url: https://www.instagram.com/thecoreschool/
+                  - generic [ref=e642]: 
+                  - generic [ref=e643]: Instagram
+              - listitem [ref=e644]:
+                - link " Linkedin" [ref=e645] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/school/the-core-school/
+                  - generic [ref=e646]: 
+                  - generic [ref=e647]: Linkedin
+              - listitem [ref=e648]:
+                - link " Youtube" [ref=e649] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@thecoreschool
+                  - generic [ref=e650]: 
+                  - generic [ref=e651]: Youtube
+              - listitem [ref=e652]:
+                - link "TikTok" [ref=e653] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@thecoreschool
+                  - generic [ref=e655]: TikTok
+            - paragraph [ref=e657]:
+              - generic [ref=e658]: "Admisiones:"
+              - link "+34 910381844" [ref=e659] [cursor=pointer]:
+                - /url: tel:+34910381844
+          - generic [ref=e660]:
+            - heading "Áreas de conocimiento" [level=3] [ref=e661]
+            - list [ref=e662]:
+              - listitem [ref=e663]:
+                - link "Animación y Videojuegos" [ref=e664] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/animacion-y-videojuegos/
+              - listitem [ref=e665]:
+                - link "Business y Management" [ref=e666] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/business-y-management/
+              - listitem [ref=e667]:
+                - link "Cine" [ref=e668] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/cine/
+              - listitem [ref=e669]:
+                - link "Contenidos" [ref=e670] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/contenidos/
+              - listitem [ref=e671]:
+                - link "Marketing" [ref=e672] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/marketing/
+              - listitem [ref=e673]:
+                - link "Tecnología Audiovisual" [ref=e674] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/tecnologia-audiovisual/
+              - listitem [ref=e675]:
+                - link "STEM" [ref=e676] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/ingenieria-creativa/
+              - listitem [ref=e677]:
+                - link "Comunicación y Medios" [ref=e678] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/formacion-comunicacion-y-medios/
+          - generic [ref=e679]:
+            - heading "Sobre The Core" [level=3] [ref=e680]
+            - list [ref=e681]:
+              - listitem [ref=e682]:
+                - link "Conócenos" [ref=e683] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/sobre-la-escuela/
+              - listitem [ref=e684]:
+                - link "Titulaciones con Atresmedia" [ref=e685] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/eventos/formacion-atresmedia/
+              - listitem [ref=e686]:
+                - link "Admisiones y ayudas" [ref=e687] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/admisiones/
+              - listitem [ref=e688]:
+                - link "Campus Tres Cantos" [ref=e689] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/campus-tres-cantos/
+              - listitem [ref=e690]:
+                - link "Noticias" [ref=e691] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/noticias/
+              - listitem [ref=e692]:
+                - link "Blog" [ref=e693] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/blog/
+              - listitem [ref=e694]:
+                - link "Contacto" [ref=e695] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/contacto/
+          - generic [ref=e696]:
+            - heading "SOMOS" [level=3] [ref=e697]
+            - list [ref=e698]:
+              - listitem [ref=e699]:
+                - link "Black Magic Trainig Partner" [ref=e700] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/programas/master-edicion-y-postproduccion-audiovisual/
+                  - img "Black Magic Trainig Partner" [ref=e701]
+              - listitem [ref=e702]:
+                - img "Adobe Certified Profesional" [ref=e703]
+              - listitem [ref=e704]:
+                - img "Autodesk Certified User" [ref=e705]
+        - list [ref=e708]:
+          - listitem [ref=e709]:
+            - link "Política de privacidad" [ref=e710] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/politica-de-privacidad/
+          - listitem [ref=e711]:
+            - link "Política de cookies" [ref=e712] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/politica-de-cookies/
+          - listitem [ref=e713]:
+            - link "Condiciones de uso" [ref=e714] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/condiciones-de-uso/
+          - listitem [ref=e715]:
+            - link "Normativa" [ref=e716] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/normativa/
+          - listitem [ref=e717]:
+            - link "Oficina de Buenas Prácticas" [ref=e718] [cursor=pointer]:
+              - /url: https://www.planeta.es/es/oficina-de-buenas-practicas
+      - paragraph [ref=e724]: © THE CORE Escuela Superior de Audiovisuales. Todos los derechos reservados
+    - button "Solicita información" [ref=e726] [cursor=pointer]
+  - text: 
+  - region "Cookie banner" [ref=e728]:
+    - dialog "Privacidad" [ref=e729]:
+      - generic [ref=e730]:
+        - generic [ref=e732]:
+          - img "Logotipo de la empresa" [ref=e734]
+          - generic [ref=e735]:
+            - paragraph [ref=e736]: ¡Hola! Nos importa tu privacidad.
+            - paragraph [ref=e737]: Configuración de Cookies
+            - paragraph [ref=e738]: Utilizamos cookies y tecnologías similares propias y de terceros para diferenciar tu experiencia de las de otros usuarios, para identificarte como usuario, para analizar el uso del Site, así como para elaborar modelos analíticos.
+            - paragraph [ref=e739]:
+              - text: Utilizamos también cookies para mostrarte publicidad personalizada relacionada con tus preferencias sobre la base de un perfil elaborado a partir de tus hábitos de navegación (por ejemplo, páginas visitadas) y la información que nos facilites (por ejemplo, en formularios de cursos). Puedes aceptar o rechazar todas las cookies pulsando el botón correspondiente o configurarlas mediante el enlace “Configuración de cookies”. Pulsa
+              - link "AQUÍ" [active] [ref=e740] [cursor=pointer]:
+                - /url: https://www.thecoreschool.com/politica-de-cookies/
+              - text: para consultar nuestra Política de Cookies.
+        - generic [ref=e742]:
+          - generic [ref=e743]:
+            - button "RECHAZAR" [ref=e744] [cursor=pointer]
+            - button "ACEPTAR" [ref=e745] [cursor=pointer]
+          - button "Configuración de cookies" [ref=e746] [cursor=pointer]

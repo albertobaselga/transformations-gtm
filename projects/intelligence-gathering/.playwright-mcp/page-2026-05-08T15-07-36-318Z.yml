@@ -1,0 +1,386 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - link "SHIFTA by Elisava" [ref=e6] [cursor=pointer]:
+        - /url: https://weareshifta.com
+        - img "escuela online de creadores digitales" [ref=e9]
+        - img "Elisava" [ref=e11]
+    - generic [ref=e17]:
+      - main:
+        - generic [ref=e19]:
+          - generic [ref=e22]:
+            - link "Formaciones" [ref=e24] [cursor=pointer]:
+              - /url: https://weareshifta.com/formaciones/
+            - text: / Posgrado en Producción Audiovisual con Inteligencia Artificial
+          - heading "Posgrado en Producción Audiovisual con Inteligencia Artificial." [level=1] [ref=e26]
+          - generic [ref=e27]:
+            - generic [ref=e28]:
+              - generic [ref=e29] [cursor=pointer]: Índice
+              - generic [ref=e34]:
+                - heading "Datos clave" [level=3] [ref=e37]: Datos clave
+                - list [ref=e43]:
+                  - listitem [ref=e44]: "→ Inicio: 19 de octubre 2026."
+                  - listitem [ref=e45]: "→ Finalización: 28 de marzo 2027."
+                  - listitem [ref=e46]: "→ Idioma: Español."
+                  - listitem [ref=e47]: "→ Metodología: Online."
+                  - listitem [ref=e48]: "→ Créditos ECTS: 30."
+                  - listitem [ref=e49]: "→ Titulación: Posgrado propio emitido por Elisava y por la Universidad de Vic - Universidad Central de Cataluña."
+                  - listitem [ref=e50]: "→ Dirección: Armand Montserrat."
+                  - listitem [ref=e51]: → Plazas limitadas.
+              - generic [ref=e53]:
+                - heading "Presentación" [level=3] [ref=e56]: Presentación
+                - generic [ref=e60]:
+                  - 'heading "Posgrado en Producción Audiovisual con Inteligencia Artificial: creación de contenidos con herramientas de IA generativa" [level=2] [ref=e61]'
+                  - paragraph [ref=e62]: La Inteligencia Artificial ha transformado la forma de generar contenidos audiovisuales, dando lugar a nuevas formas de narración y visualización. Tanto es el potencial que tienen las herramientas de IA que los profesionales del diseño y la creatividad se están viendo obligados a, no solo incorporarlas en sus proyectos, sino a dominarlas para sacarles el máximo partido.
+                  - paragraph [ref=e63]:
+                    - text: El
+                    - strong [ref=e64]: Posgrado en Producción Audiovisual con Inteligencia Artificial
+                    - text: está pensado para enseñarte a transformar textos e imágenes en secuencias de vídeo, producir piezas musicales y crear proyectos multimedia e interactivos mediante el uso y la combinación de herramientas de IA tales como Pika Labs, Luma AI, Stable diffusion, elevenlabs o Touchdesigners.
+                  - paragraph [ref=e65]: Además, también aprenderás a combinar los resultados obtenidos con IA con otros softwares y herramientas especializadas en postproducción, para orquestar flujos de trabajo multimodales que combinen diferentes disciplinas y se adapten a diferentes formatos.
+                  - paragraph [ref=e66]: De igual forma, este posgrado te brinda una comprensión sobre el impacto social de la IA, así como los límites legales y los dilemas éticos que presenta la incorporación de estas herramientas en proyectos creativos.
+                  - paragraph [ref=e67]:
+                    - img "interactividad ia" [ref=e68]
+              - generic [ref=e70]:
+                - heading "Objetivos" [level=3] [ref=e73]: Objetivos
+                - generic [ref=e77]:
+                  - paragraph [ref=e78]: "Los objetivos del Posgrado en Producción Audiovisual con Inteligencia Artificial son:"
+                  - list [ref=e80]:
+                    - listitem [ref=e81]: Generar y modificar secuencias de vídeo a partir de textos, imágenes o animaciones.
+                    - listitem [ref=e82]: Componer piezas musicales utilizando herramientas de IA Generativa.
+                    - listitem [ref=e83]: Integrar la IA Generativa en entornos web, instalaciones interactivas y multimedia.
+                    - listitem [ref=e84]: Diseñar y gestionar flujos de trabajo multimodales.
+                    - listitem [ref=e85]: Ofrecer una visión integral de la profesionalización de la IA en proyectos creativos, incluyendo aspectos legales, éticos y sociales.
+              - generic [ref=e87]:
+                - heading "Plan de estudios" [level=3] [ref=e90]: Plan de estudios
+                - generic [ref=e94]:
+                  - paragraph [ref=e95]: "El plan de estudios del Posgrado en Producción Audiovisual con Inteligencia Artificial de SHIFTA está formado por los siguientes bloques de contenido:"
+                  - list [ref=e97]:
+                    - listitem [ref=e98]: Generación de vídeo y narrativas audiovisuales con Inteligencia Artficial.
+                    - listitem [ref=e99]: Audio, música y diseño sonoro generativo.
+                    - listitem [ref=e100]: Programación creativa e interactividad con IA Generativa.
+                    - listitem [ref=e101]: Integración multimodal, flujos complejos y proyectos reales.
+                    - listitem [ref=e102]: Profesionalización, ética, regulación y futuro de la IA Generativa multimodal.
+                    - listitem [ref=e103]: Trabajo Final.
+              - generic [ref=e105]:
+                - heading "Recursos adicionales" [level=3] [ref=e108]: Recursos adicionales
+                - generic [ref=e112]:
+                  - paragraph [ref=e113]:
+                    - text: Además de los contenidos específicos del
+                    - strong [ref=e114]: Posgrado en Producción Audiovisual con Inteligencia Artificial
+                    - text: ", disfrutarás de una serie de ventajas diseñadas para potenciar tu aprendizaje y conectar con la comunidad creativa:"
+                  - list [ref=e115]:
+                    - listitem [ref=e116]:
+                      - text: →
+                      - strong [ref=e117]: Descuento del 70% en la licencia anual de Adobe Creative Cloud©
+                      - text: ", para que explores y crees con las mejores herramientas del sector."
+                    - listitem [ref=e118]:
+                      - text: →
+                      - strong [ref=e119]: Acceso durante un año a Elisava Alumni Bold
+                      - text: ", una comunidad formada por alumnos y antiguos alumnos de la escuela."
+                    - listitem [ref=e120]:
+                      - text: →
+                      - strong [ref=e121]:
+                        - text: Dos
+                        - link "cápsulas formativas" [ref=e122] [cursor=pointer]:
+                          - /url: https://weareshifta.com/capsulas/
+                        - text: gratuitas
+                      - text: ", enfocadas en herramientas y metodologías relacionadas con el mundo de la creación y el diseño."
+                      - img "cápsulas diseño" [ref=e123]
+              - generic [ref=e125]:
+                - heading "Proyectos de estudiantes" [level=3] [ref=e128]: Proyectos de estudiantes
+                - generic [ref=e133]:
+                  - generic [ref=e135]:
+                    - generic [ref=e136]: The See Sound Journal
+                    - generic [ref=e137]: Carolina Gallegos
+                    - button "saber más" [ref=e139] [cursor=pointer]
+                  - generic [ref=e140]:
+                    - button [ref=e141] [cursor=pointer]
+                    - generic [ref=e144]: The See Sound Journal
+                    - generic [ref=e145]: Carolina Gallegos
+                    - link "Posgrado en Producción Audiovisual con Inteligencia Artificial" [ref=e147] [cursor=pointer]:
+                      - /url: https://weareshifta.com/formaciones/posgrado-en-produccion-audiovisual-ia/
+                    - paragraph [ref=e149]: Creación de una pieza musical completa en la que la narrativa audiovisual se organiza en distintas escenas, cada una asociada a un estado emocional, integrando de forma coherente y armonizada la voz y la música.
+              - generic [ref=e151]:
+                - heading "A quién va dirigido" [level=3] [ref=e154]: A quién va dirigido
+                - generic [ref=e158]:
+                  - paragraph [ref=e159]: El Posgrado en Producción Audiovisual con IA de SHIFTA está dirigido a personas que quieren estar a la vanguardia en temas de creatividad, multimedia e Inteligencia Artificial.
+                  - list [ref=e161]:
+                    - listitem [ref=e162]: → Graduados o licenciados en diseño, arte, comunicación o áreas afines.
+                    - listitem [ref=e163]: → Profesionales del diseño y la creatividad que quieren integrar la IA en sus proyectos.
+                    - listitem [ref=e164]: → Profesionales de la producción y la postproducción audiovisual que busquen dominar herramientas de IA Generativa.
+                    - listitem [ref=e165]: → Personas interesadas en experimentar con la creación de vídeos, música y experiencias interactivas con IA.
+              - generic [ref=e167]:
+                - heading "Salidas profesionales" [level=3] [ref=e170]: Salidas profesionales
+                - generic [ref=e174]:
+                  - paragraph [ref=e175]: El Posgrado en Producción Audiovisual con Inteligencia Artificial te prepara para ejercer roles tanto técnicos como creativos con un enfoque multidisciplinario que responde a las necesidades emergentes del mercado laboral.
+                  - list [ref=e177]:
+                    - listitem [ref=e178]: → Diseño de contenido visual y sonoro.
+                    - listitem [ref=e179]: → Producción y postproducción de contenidos con IA.
+                    - listitem [ref=e180]: → Gestión de proyectos multimedia e interactivos.
+                    - listitem [ref=e181]: → Asesoría y consultoría de Inteligencia Artificial creativa.
+              - generic [ref=e183]:
+                - heading "Metodología" [level=3] [ref=e186]: Metodología
+                - generic [ref=e190]:
+                  - paragraph [ref=e191]: La metodología del Posgrado en Producción Audiovisual con IA de SHIFTA está diseñada para brindar una experiencia formativa transversal e innovadora, adaptada a las necesidades particulares de los estudiantes.
+                  - list [ref=e193]:
+                    - listitem [ref=e194]: → Formación online con acceso al Campus Virtual desde dónde y cuándo quieras.
+                    - listitem [ref=e195]: → Modelo metodológico diseñado por Elisava y la Universitat de Vic - Central de Catalunya.
+                    - listitem [ref=e196]: → Metodología basada en el Learning by Doing con realización de proyectos reales.
+                    - listitem [ref=e197]: → Modelo flexible que combina la formación síncrona y asíncrona.
+                    - listitem [ref=e198]: → Videoconferencias en directo semanales con los docentes a partir de las 18:30h (CET).
+                    - listitem [ref=e199]: → Grabación de las sesiones en directo para visualizarlas posteriormente.
+                    - listitem [ref=e200]: → Seguimiento y tutorización personalizados por un equipo especializado.
+              - generic [ref=e202]:
+                - heading "Claustro docente" [level=3] [ref=e205]: Claustro docente
+                - generic [ref=e209]:
+                  - link "Armand Montserrat Armand Montserrat Director. Director del departamento de diseño en Amalgama Agencia." [ref=e211] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/armand-montserrat-2b3a1740/
+                    - img "Armand Montserrat" [ref=e213]
+                    - generic [ref=e215]:
+                      - generic [ref=e216]: Armand Montserrat
+                      - generic [ref=e217]:
+                        - generic [ref=e218]: Director.
+                        - text: Director del departamento de diseño en Amalgama Agencia.
+                  - link "Albert Vergés Albert Vergés Docente. Director en Sunomono Films." [ref=e220] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/albertverges/?originalSubdomain=es
+                    - img "Albert Vergés" [ref=e222]
+                    - generic [ref=e224]:
+                      - generic [ref=e225]: Albert Vergés
+                      - generic [ref=e226]:
+                        - generic [ref=e227]: Docente.
+                        - text: Director en Sunomono Films.
+                  - link "Asier Rohde Asier Rohde Docente. Experto en IA y fundador de 5Dev." [ref=e229] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/asier-rohde/
+                    - img "Asier Rohde" [ref=e231]
+                    - generic [ref=e233]:
+                      - generic [ref=e234]: Asier Rohde
+                      - generic [ref=e235]:
+                        - generic [ref=e236]: Docente.
+                        - text: Experto en IA y fundador de 5Dev.
+                  - link "Daniel Guillén Daniel Guillén Docente. Diseñador gráfico en Tigrelab." [ref=e238] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/daniel-guill%C3%A9n-del-rey-41066b13b/?originalSubdomain=es
+                    - img "Daniel Guillén" [ref=e240]
+                    - generic [ref=e242]:
+                      - generic [ref=e243]: Daniel Guillén
+                      - generic [ref=e244]:
+                        - generic [ref=e245]: Docente.
+                        - text: Diseñador gráfico en Tigrelab.
+                  - link "Marina Chillon Marina Chillón Docente. Arquitecta en Altura Arquitectes." [ref=e247] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/marinachillon/?originalSubdomain=ad
+                    - img "Marina Chillon" [ref=e249]
+                    - generic [ref=e251]:
+                      - generic [ref=e252]: Marina Chillón
+                      - generic [ref=e253]:
+                        - generic [ref=e254]: Docente.
+                        - text: Arquitecta en Altura Arquitectes.
+                  - link "Xavier Mitjana Xavier Mitjana Docente. Especialista y divulgador en Inteligencia Artificial." [ref=e256] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/in/xaviermitjana/?originalSubdomain=es
+                    - img "Xavier Mitjana" [ref=e258]
+                    - generic [ref=e260]:
+                      - generic [ref=e261]: Xavier Mitjana
+                      - generic [ref=e262]:
+                        - generic [ref=e263]: Docente.
+                        - text: Especialista y divulgador en Inteligencia Artificial.
+              - generic [ref=e265]:
+                - heading "Proceso de admisión" [level=3] [ref=e268]: Proceso de admisión
+                - generic [ref=e272]:
+                  - paragraph [ref=e273]: "Los requisitos de acceso al Posgrado en Producción Audiovisual con Inteligencia Artificial son:"
+                  - list [ref=e275]:
+                    - listitem [ref=e276]: → Titulación universitaria. En caso de no contar con título universitario, se puede acceder acreditando experiencia profesional en el sector.
+                    - listitem [ref=e277]: → Ordenador y buena conexión a internet.
+                    - listitem [ref=e278]: → Ser una persona eficiente, planificada y con capacidad de aprendizaje autónoma.
+              - generic [ref=e280]:
+                - heading "Formas de pago y financiación" [level=3] [ref=e283]: Formas de pago y financiación
+                - generic [ref=e287]:
+                  - paragraph [ref=e288]: Desde SHIFTA, ponemos a tu disposición las siguientes formas de pago y financiación para que el aspecto económico no sea un impedimento.
+                  - paragraph [ref=e289]:
+                    - strong [ref=e290]: Pago único
+                    - text: Realizando el pago del posgrado al contado, se te aplicará un 5% de descuento en el precio final.
+                  - paragraph [ref=e291]:
+                    - strong [ref=e292]: Financiación propia
+                    - text: Puedes financiar el posgrado en hasta 5 cuotas mensuales sin coste financiero (0% TAE).
+                  - paragraph [ref=e293]:
+                    - strong [ref=e294]: Bonificación para empresas
+                    - text: Puedes beneficiarte de las bonificaciones que ofrece la Fundación Estatal para la Formación en el Empleo (FUNDAE) y la Fundación Tripartita a las empresas españolas para formar a sus trabajadores. En este caso, disponemos del apoyo de una consultoría externa especializada en dicho trámite.
+              - generic [ref=e296]:
+                - heading "Formaciones relacionadas" [level=3] [ref=e299]
+                - generic [ref=e301]:
+                  - generic [ref=e303] [cursor=pointer]:
+                    - img "Máster IA Generativa" [ref=e305]
+                    - generic [ref=e306]:
+                      - link "Máster en Inteligencia Artificial Generativa para creativos" [ref=e307]:
+                        - /url: https://weareshifta.com/formaciones/master-en-ia-generativa-para-creativos/
+                      - generic [ref=e308]: "Inicio: 25 de mayo 2026."
+                  - generic [ref=e310] [cursor=pointer]:
+                    - img "Posgrado Creatividad Visual con IA" [ref=e312]
+                    - generic [ref=e313]:
+                      - link "Posgrado en Creatividad Visual con Inteligencia Artificial" [ref=e314]:
+                        - /url: https://weareshifta.com/formaciones/posgrado-en-creatividad-visual-ia/
+                      - generic [ref=e315]: "Inicio: 25 de mayo 2026."
+                  - generic [ref=e317] [cursor=pointer]:
+                    - generic [ref=e318]: Cápsula
+                    - link "Midjourney para creativos" [ref=e320]:
+                      - /url: https://weareshifta.com/formaciones/capsula-de-midjourney/
+                    - generic [ref=e321]: "Inicio: 13 de julio 2026."
+                    - generic [ref=e322]:
+                      - button "saber más"
+            - generic [ref=e324]:
+              - heading [level=3]
+              - generic [ref=e325]:
+                - generic:
+                  - generic [ref=e326]:
+                    - list
+                  - form "Formulario de contacto" [ref=e327]:
+                    - heading "Solicita información" [level=2] [ref=e328]
+                    - paragraph [ref=e330]: Rellena el formulario y nos pondremos en contacto contigo para hacerte llegar el dosier informativo y realizar una asesoría a medida.
+                    - paragraph [ref=e331]:
+                      - textbox "Nombre*" [ref=e333]
+                      - textbox "Apellidos*" [ref=e335]
+                      - textbox "Email*" [ref=e337]
+                      - textbox "Teléfono*" [ref=e339]
+                      - generic [ref=e341]:
+                        - combobox [ref=e342]:
+                          - option "País*" [selected]
+                          - option "España (ES)"
+                          - option "México (MX)"
+                          - option "Colombia (CO)"
+                          - option "Perú (PE)"
+                          - option "Ecuador (EC)"
+                          - option "Chile (CL)"
+                          - option "Argentina (AR)"
+                          - option "Uruguay (UY)"
+                          - option "Paraguay (PY)"
+                          - option "Bolivia (BO)"
+                          - option "Brasil (BR)"
+                          - option "Costa Rica (CR)"
+                          - option "Panamá (PA)"
+                          - option "Estados Unidos (US)"
+                          - option "Francia (FR)"
+                          - option "Portugal (PT)"
+                          - option "Italia (IT)"
+                          - option "Alemania (AL)"
+                          - option "Países Bajos (NL)"
+                          - option "Gran Bretaña (GB)"
+                          - option "Otros (OT)"
+                        - generic [ref=e343]: País*
+                      - generic [ref=e346]:
+                        - combobox [ref=e347]:
+                          - option "¿Cómo nos has conocido?*" [selected]
+                          - option "Google"
+                          - option "Instagram"
+                          - option "Facebook"
+                          - option "Elisava"
+                          - option "Otros"
+                        - generic [ref=e348]: ¿Cómo nos has conocido?*
+                      - textbox "¿Qué dudas tienes sobre el Máster?*" [ref=e351]
+                    - paragraph [ref=e353]:
+                      - generic [ref=e357]:
+                        - checkbox "He leído y acepto la Política de privacidad." [ref=e359] [cursor=pointer]
+                        - generic [ref=e360]:
+                          - text: He leído y acepto la
+                          - link "Política de privacidad." [ref=e361] [cursor=pointer]:
+                            - /url: /politica-privacidad/
+                    - paragraph
+                    - generic [ref=e362]:
+                      - paragraph
+                      - button "Enviar" [disabled] [ref=e363]
+                      - paragraph
+          - contentinfo [ref=e366]:
+            - generic [ref=e367]:
+              - heading "Newsletter SHIFTA" [level=5] [ref=e368]
+              - generic [ref=e369]:
+                - generic [ref=e370]:
+                  - list
+                - form "Formulario de contacto" [ref=e371]:
+                  - paragraph [ref=e372]:
+                    - textbox "Escribe tu email" [ref=e374]
+                  - paragraph [ref=e376]:
+                    - generic [ref=e380]:
+                      - checkbox "He leído y acepto la Política de privacidad" [ref=e382] [cursor=pointer]
+                      - generic [ref=e383]:
+                        - text: He leído y acepto la
+                        - link "Política de privacidad" [ref=e384] [cursor=pointer]:
+                          - /url: /politica-privacidad/
+                    - generic [ref=e388]:
+                      - checkbox "Acepto recibir comunicaciones de SHIFTA" [ref=e390] [cursor=pointer]
+                      - generic [ref=e391]: Acepto recibir comunicaciones de SHIFTA
+                  - generic [ref=e392]:
+                    - paragraph
+                    - button "Suscribirme" [disabled] [ref=e393]
+                    - paragraph
+            - generic [ref=e395]:
+              - list [ref=e398]:
+                - listitem [ref=e399]:
+                  - link "Másters Online" [ref=e400] [cursor=pointer]:
+                    - /url: https://weareshifta.com/masters/
+                - listitem [ref=e401]:
+                  - link "Posgrados" [ref=e402] [cursor=pointer]:
+                    - /url: https://weareshifta.com/posgrados/
+                - listitem [ref=e403]:
+                  - link "Cursos" [ref=e404] [cursor=pointer]:
+                    - /url: https://weareshifta.com/cursos/
+                - listitem [ref=e405]:
+                  - link "Cápsulas" [ref=e406] [cursor=pointer]:
+                    - /url: https://weareshifta.com/capsulas/
+                - listitem [ref=e407]:
+                  - link "Comunidad" [ref=e408] [cursor=pointer]:
+                    - /url: https://weareshifta.com/comunidad/
+                - listitem [ref=e409]:
+                  - link "Blog" [ref=e410] [cursor=pointer]:
+                    - /url: https://weareshifta.com/blog/
+                - listitem [ref=e411]:
+                  - link "Sobre SHIFTA" [ref=e412] [cursor=pointer]:
+                    - /url: https://weareshifta.com/sobre-shifta/
+                - listitem [ref=e413]:
+                  - link "Contáctanos" [ref=e414] [cursor=pointer]:
+                    - /url: https://weareshifta.com/contactanos/
+              - list [ref=e417]:
+                - listitem [ref=e418]:
+                  - link "Instagram" [ref=e419] [cursor=pointer]:
+                    - /url: https://www.instagram.com/weareshifta/
+                - listitem [ref=e420]:
+                  - link "X" [ref=e421] [cursor=pointer]:
+                    - /url: https://twitter.com/weareshifta
+                - listitem [ref=e422]:
+                  - link "Facebook" [ref=e423] [cursor=pointer]:
+                    - /url: https://www.facebook.com/weareshifta/
+                - listitem [ref=e424]:
+                  - link "YouTube" [ref=e425] [cursor=pointer]:
+                    - /url: https://www.youtube.com/c/SHIFTAEscuelaOnlineCreadoresDigitales
+                - listitem [ref=e426]:
+                  - link "Vimeo" [ref=e427] [cursor=pointer]:
+                    - /url: https://vimeo.com/weareshifta
+                - listitem [ref=e428]:
+                  - link "LinkedIn" [ref=e429] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/school/shifta/
+            - generic [ref=e430]:
+              - text: W +34 638 600 955
+              - text: T +34 638 600 955
+              - text: hola@weareshifta.com
+              - text: Pl. de Pau Vila, 1, 08003
+              - text: (Barcelona)
+            - img "Elisava" [ref=e432]
+  - complementary [active]:
+    - dialog "Configuración de privacidad" [ref=e439]:
+      - generic [ref=e441]:
+        - generic [ref=e442]:
+          - heading "Configuración de privacidad" [level=2] [ref=e443]
+          - generic: Este sitio utiliza tecnologías de seguimiento de sitios web de terceros para proporcionar y mejorar continuamente nuestros servicios, y para mostrar anuncios de acuerdo con los intereses de los usuarios. Estoy de acuerdo y puedo revocar o cambiar mi consentimiento en cualquier momento en el futuro.
+        - button "Más información" [ref=e445] [cursor=pointer]
+        - generic [ref=e446]:
+          - generic [ref=e447] [cursor=pointer]:
+            - generic: Marketing
+            - switch "Marketing" [ref=e448]
+          - generic [ref=e449] [cursor=pointer]:
+            - generic: Funcional
+            - switch "Funcional" [ref=e450]
+          - generic [ref=e451]:
+            - generic: Esencial
+            - switch [checked] [disabled] [ref=e452]
+      - generic [ref=e453]:
+        - generic [ref=e455]:
+          - button "Guardar configuración" [ref=e456] [cursor=pointer]
+          - button "Denegar" [ref=e457] [cursor=pointer]
+          - button "Aceptar todo" [ref=e458] [cursor=pointer]
+        - link "Powered by Usercentrics Consent Management" [ref=e460] [cursor=pointer]:
+          - /url: https://usercentrics.com/es/consent-management-platform-powered-by-usercentrics/?utm_source=banner_uc&utm_medium=referral&utm_content=v3

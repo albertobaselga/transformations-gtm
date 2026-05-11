@@ -1,0 +1,749 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e5]:
+        - link "The Core" [ref=e7] [cursor=pointer]:
+          - /url: https://www.thecoreschool.com
+        - generic [ref=e8]:
+          - link "+34 910381844" [ref=e10] [cursor=pointer]:
+            - /url: tel:+34910381844
+            - generic [ref=e11]: +34 910381844
+          - button "Abrir formulario de búsqueda" [ref=e12] [cursor=pointer]:
+            - generic [ref=e13]: 
+          - button " Abrir Menú" [ref=e14] [cursor=pointer]:
+            - generic [ref=e15]: 
+            - generic [ref=e16]: Abrir Menú
+          - text: 
+        - text: 
+    - main [ref=e17]:
+      - navigation "breadcrumbs" [ref=e20]:
+        - paragraph [ref=e21]:
+          - link "The Core School" [ref=e22] [cursor=pointer]:
+            - /url: https://www.thecoreschool.com
+          - generic [ref=e23]: "-"
+          - link "Programas" [ref=e24] [cursor=pointer]:
+            - /url: https://www.thecoreschool.com/programas/
+          - generic [ref=e25]: "-"
+          - text: Diploma de Experto en Inteligencia Artificial para Edición y Postproducción Audiovisual
+      - generic [ref=e26]:
+        - article [ref=e27]:
+          - generic [ref=e30]:
+            - link "Tecnología Audiovisual" [ref=e33] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/tecnologia-audiovisual/
+            - heading "Diploma de Experto en Inteligencia Artificial para Edición y Postproducción Audiovisual" [level=1] [ref=e36]
+            - generic [ref=e38]:
+              - generic [ref=e39]:
+                - paragraph [ref=e40]:
+                  - strong [ref=e43]: INSCRIPCIONES ABIERTAS 2026
+                - paragraph [ref=e44]
+                - paragraph [ref=e45]:
+                  - generic [ref=e46]:
+                    - strong [ref=e47]: Aprovecha los descuentos
+                    - text: disponibles matriculándote
+                    - strong [ref=e48]: antes del 29 de mayo.
+                - paragraph [ref=e49]
+                - paragraph [ref=e50]: Consulta nuestro Plan de Ayudas al Talento.
+                - link "Ver eventos the core" [ref=e52] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/eventos/
+              - generic [ref=e54]:
+                - generic [ref=e55]:
+                  - generic [ref=e56]: 
+                  - text: Título propio
+                - generic [ref=e57]:
+                  - generic [ref=e58]: 
+                  - text: 24 ECTS
+                - generic [ref=e59]:
+                  - generic [ref=e60]: 
+                  - text: Oct 2026
+                - generic [ref=e61]:
+                  - generic [ref=e62]: 
+                  - text: 3 Meses
+                - generic [ref=e63]:
+                  - generic [ref=e64]: 
+                  - text: Online
+                - generic [ref=e65]:
+                  - img [ref=e67]
+                  - text: 3950€
+          - generic [ref=e70]:
+            - tablist [ref=e73]:
+              - tab "Presentación" [selected] [ref=e74] [cursor=pointer]
+              - tab "Plan de estudios" [ref=e75] [cursor=pointer]
+              - tab "Admisiones" [ref=e76] [cursor=pointer]
+            - generic [ref=e78]:
+              - tabpanel "Presentación" [ref=e79]:
+                - generic [ref=e80]:
+                  - generic [ref=e85]:
+                    - heading "Conviértete en un profesional capaz de aprovechar la Inteligencia Artificial en producciones audiovisuales." [level=2] [ref=e86]
+                    - paragraph [ref=e87]:
+                      - text: En la industria audiovisual, la innovación tecnológica marca la diferencia entre un flujo de trabajo eficiente y uno lento y costoso
+                      - strong [ref=e88]: . La aplicación de la inteligencia artificial en la producción audiovisual
+                      - text: se ha convertido en una herramienta transformadora para la edición, la corrección de color, la composición y la postproducción en general.
+                    - paragraph [ref=e89]:
+                      - text: Nuestro Diploma de Experto ofrece una formación avanzada y orientada a la práctica para i
+                      - strong [ref=e90]: ntegrar la IA en el flujo de trabajo profesional,
+                      - text: automatizar procesos y optimizar la producción audiovisual. A lo largo de 150 horas de formación online en directo, combinando sesiones teóricas y práctica guiada, aprenderás a aplicar la IA en tareas de edición, composición, limpieza y mejora de audio, generación de contenidos y asistencia creativa. Trabajaremos con
+                      - strong [ref=e91]: DaVinci Resolve
+                      - text: y otras herramientas profesionales de
+                      - strong [ref=e92]: Adobe Creative Cloud
+                      - text: ", así como con plataformas de inteligencia artificial aplicadas a vídeo, imagen y automatización, seleccionadas y actualizadas según las soluciones más relevantes del mercado."
+                    - paragraph [ref=e93]:
+                      - text: Con el
+                      - strong [ref=e94]: Diploma de Inteligencia Artificial para Audiovisuales
+                      - text: dominarás técnicas como rotoscopia inteligente, generación y sustitución de fondos, transcripción y subtitulado automático, mejora avanzada de audio y optimización de tiempos de entrega, aplicadas a entornos profesionales.
+                    - paragraph [ref=e95]:
+                      - text: Aprende a trabajar
+                      - strong [ref=e96]: de forma más rápida, eficiente y creativa
+                      - text: en un mercado donde la IA se está convirtiendo en una competencia clave.
+                  - generic [ref=e98]:
+                    - heading "Diferénciate como editor o postproductor" [level=2] [ref=e99]
+                    - generic [ref=e100]:
+                      - generic [ref=e101]:
+                        - heading "¿POR QUÉ ESTUDIAR ESTE DIPLOMA DE EXPERTO EN INTELIGENCIA ARTIFICIAL PARA PRODUCCIONES AUDIOVISUALES?" [level=3] [ref=e102]:
+                          - button "¿POR QUÉ ESTUDIAR ESTE DIPLOMA DE EXPERTO EN INTELIGENCIA ARTIFICIAL PARA PRODUCCIONES AUDIOVISUALES?" [expanded] [ref=e103] [cursor=pointer]
+                        - generic "¿POR QUÉ ESTUDIAR ESTE DIPLOMA DE EXPERTO EN INTELIGENCIA ARTIFICIAL PARA PRODUCCIONES AUDIOVISUALES?" [ref=e104]:
+                          - generic [ref=e106]:
+                            - generic [ref=e107]:
+                              - heading "FORMACIÓN PRÁCTICA" [level=4] [ref=e108]
+                              - generic [ref=e109]: Aprenderás a integrar la inteligencia artificial en entornos reales de edición y postproducción, utilizando DaVinci Resolve y otras herramientas profesionales del sector, junto con plataformas de IA aplicadas a vídeo, imagen y automatización que se actualizarán según las soluciones más relevantes del mercado.
+                            - generic [ref=e110]:
+                              - heading "MÁXIMA CALIDAD EN POSTPRODUCCIÓN" [level=4] [ref=e111]
+                              - generic [ref=e112]: Aprenderás a automatizar tareas repetitivas, agilizar procesos de transcripción, edición de audio, composición y corrección de color, lo que te permitirá dedicar más tiempo a la creatividad y menos a procesos mecánicos.
+                            - generic [ref=e113]:
+                              - heading "ENFOQUE INTEGRAL" [level=4] [ref=e114]
+                              - generic [ref=e115]: Este programa aborda técnicas punteras de IA y sus aplicaciones en la postproducción audiovisual, incluyendo la generación de fondos, rotoscopia inteligente y automatización de flujos de trabajo, asegurando que tus competencias estén al nivel de los estándares más actuales del sector.
+                            - generic [ref=e116]:
+                              - heading "CONEXIÓN CON LA INDUSTRIA" [level=4] [ref=e117]
+                              - generic [ref=e118]: Grupo Secuoya, Atresmedia, Banijay… Partners únicos gracias a los cuales podrás acceder a oportunidades laborales únicas y aprender de auténticos insiders del sector. Además, podrás adentrarte en sesiones de networking y eventos exclusivos en los que podrás conectar con referentes de la industria.
+                            - generic [ref=e119]:
+                              - heading "MODELO INDUSTRY ALIKE" [level=4] [ref=e120]
+                              - generic [ref=e121]: The Core es una escuela universitaria basada en práctica, en la utilidad y la colaboración. Nuestra metodología establece módulos de estudio en los que la formación teórica está al servicio de los proyectos en los que trabajarás de manera individual o colaborativa.
+                            - generic [ref=e122]:
+                              - heading "ENTORNO EXCLUSIVO" [level=4] [ref=e123]
+                              - generic [ref=e124]: No existe en Europa nada comparable en dimensiones e integración de perfiles para tus proyectos. 12.500 m2 de aulas, platós, estudios, laboratorios, talleres y escenarios de nivel profesional, instalaciones de vanguardia a tu disposición para que puedas hacer uso de ellas en cualquier momento.
+                      - heading "METODOLOGÍA DEL DIPLOMA DE EXPERTO EN INTELIGENCIA ARTIFICIAL PARA PRODUCCIONES AUDIOVISUALES" [level=3] [ref=e126]:
+                        - button "METODOLOGÍA DEL DIPLOMA DE EXPERTO EN INTELIGENCIA ARTIFICIAL PARA PRODUCCIONES AUDIOVISUALES" [ref=e127] [cursor=pointer]
+                      - heading "A QUIÉN VA DIRIGIDO" [level=3] [ref=e129]:
+                        - button "A QUIÉN VA DIRIGIDO" [ref=e130] [cursor=pointer]
+                      - heading "PERFIL DEL EGRESADO" [level=3] [ref=e132]:
+                        - button "PERFIL DEL EGRESADO" [ref=e133] [cursor=pointer]
+                      - heading "SALIDAS PROFESIONALES" [level=3] [ref=e135]:
+                        - button "SALIDAS PROFESIONALES" [ref=e136] [cursor=pointer]
+                  - generic [ref=e138]:
+                    - heading "NUESTROS PARTNERS PROFESIONALES" [level=3] [ref=e139]
+                    - paragraph [ref=e140]: Contamos con acuerdos de colaboración con más de 150 empresas, algunas de las más grandes de España y del mercado global hispanohablante, entre las que se encuentran productoras, estudios de animación, desarrolladoras de videojuegos, agencias de comunicación y marketing, empresas especializadas en entretenimiento…
+                  - generic [ref=e144]:
+                    - generic [ref=e145]: slide 6 to 9 of 10
+                    - generic [ref=e148]:
+                      - img "Grupo Secuoya" [ref=e157]
+                      - img [ref=e168]
+                  - generic [ref=e172]:
+                    - heading "PREGUNTAS FRECUENTES" [level=2] [ref=e173]
+                    - generic [ref=e174]:
+                      - generic [ref=e175]:
+                        - heading "1. ¿Qué aprenderás en el diploma de experto en IA para Producciones audiovisuales?" [level=3] [ref=e176]:
+                          - button "1. ¿Qué aprenderás en el diploma de experto en IA para Producciones audiovisuales?" [expanded] [ref=e177] [cursor=pointer]
+                        - generic "1. ¿Qué aprenderás en el diploma de experto en IA para Producciones audiovisuales?" [ref=e178]:
+                          - paragraph [ref=e181]: El diplomado te proporciona conocimientos avanzados sobre el uso de inteligencia artificial en la edición y postproducción audiovisual. Aprenderás a aplicar herramientas de IA para optimizar procesos como montaje, corrección de color, generación de efectos visuales, restauración de imágenes y sonido, y automatización de tareas repetitivas. También conocerás flujos de trabajo integrados que combinan creatividad y tecnología.
+                      - heading "2. ¿Qué tipo de proyectos podré podré optimizar con IA después del diplomado?" [level=3] [ref=e183]:
+                        - button "2. ¿Qué tipo de proyectos podré podré optimizar con IA después del diplomado?" [ref=e184] [cursor=pointer]
+                      - heading "3. ¿Necesito experiencia previa en edición y postproducción audivisual?" [level=3] [ref=e186]:
+                        - button "3. ¿Necesito experiencia previa en edición y postproducción audivisual?" [ref=e187] [cursor=pointer]
+              - text:  
+          - generic [ref=e188]:
+            - generic [ref=e190]:
+              - paragraph [ref=e191]: Contenido relacionado
+              - generic [ref=e193]:
+                - group "1 / 4" [ref=e194]:
+                  - generic [ref=e196]:
+                    - img "una chica con el rostro cubierto por una proyección de código binario" [ref=e197]
+                    - generic [ref=e199]: Post del blog
+                    - paragraph [ref=e201]: "Inteligencia Artificial Generativa: Qué es, aplicaciones y ejemplos"
+                    - 'link "Inteligencia Artificial Generativa: Qué es, aplicaciones y ejemplos"':
+                      - /url: https://www.thecoreschool.com/blog/ia-generativa/
+                      - generic [ref=e202] [cursor=pointer]: "Inteligencia Artificial Generativa: Qué es, aplicaciones y ejemplos"
+                - group "2 / 4" [ref=e203]:
+                  - generic [ref=e205]:
+                    - generic [ref=e207]: Post del blog
+                    - paragraph [ref=e209]: "Chat GPT: Inteligencia Artificial e Innovación"
+                    - 'link "Chat GPT: Inteligencia Artificial e Innovación"':
+                      - /url: https://www.thecoreschool.com/blog/chatgpt-inteligencia-e-innovacion/
+                      - generic [ref=e210] [cursor=pointer]: "Chat GPT: Inteligencia Artificial e Innovación"
+                - group "3 / 4" [ref=e211]:
+                  - generic [ref=e213]:
+                    - img "Equipo trabajando en medios audiovisuales" [ref=e214]
+                    - generic [ref=e216]: Post del blog
+                    - paragraph [ref=e218]: "Medios Audiovisuales: Qué son, características y tipos"
+                    - 'link "Medios Audiovisuales: Qué son, características y tipos"':
+                      - /url: https://www.thecoreschool.com/blog/medios-audiovisuales/
+                      - generic [ref=e219] [cursor=pointer]: "Medios Audiovisuales: Qué son, características y tipos"
+                - group "4 / 4" [ref=e220]:
+                  - generic [ref=e222]:
+                    - img "Actor de chroma key sentado para una escena de CGI en el cine" [ref=e223]
+                    - generic [ref=e225]: Post del blog
+                    - paragraph [ref=e227]: Descubre qué es CGI en el cine, su importancia y cómo crear una animación con CGI
+                    - link "Descubre qué es CGI en el cine, su importancia y cómo crear una animación con CGI":
+                      - /url: https://www.thecoreschool.com/blog/cgi/
+                      - generic [ref=e228] [cursor=pointer]: Descubre qué es CGI en el cine, su importancia y cómo crear una animación con CGI
+              - generic [ref=e229]:
+                - button "Go to slide 1" [ref=e230] [cursor=pointer]
+                - button "Go to slide 2" [ref=e231] [cursor=pointer]
+              - text: prev next
+            - generic [ref=e233]:
+              - heading "Otras titulaciones que te podrían interesar" [level=2] [ref=e234]
+              - generic [ref=e235]:
+                - generic [ref=e236]:
+                  - group "1 / 4" [ref=e237]:
+                    - generic [ref=e238]:
+                      - generic [ref=e240]:
+                        - generic [ref=e241]: Presencial
+                        - generic [ref=e242]: Oct 2026
+                        - generic [ref=e244]: INSCRIPCIONES ABIERTAS OCTUBRE 2026
+                      - generic [ref=e245]:
+                        - paragraph [ref=e246]: Máster en Postproducción de Sonido para Cine y Series de TV
+                        - generic [ref=e248]: Tecnología Audiovisual
+                      - link "Máster en Postproducción de Sonido para Cine y Series de TV":
+                        - /url: https://www.thecoreschool.com/programas/master-en-postproduccion-de-sonido-para-cine-y-series-de-tv/
+                        - generic [ref=e249] [cursor=pointer]: Máster en Postproducción de Sonido para Cine y Series de TV
+                  - group "2 / 4" [ref=e250]:
+                    - generic [ref=e251]:
+                      - generic [ref=e253]:
+                        - generic [ref=e254]: Online
+                        - generic [ref=e255]: Oct 2026
+                        - generic [ref=e257]: INSCRIPCIONES ABIERTAS OCTUBRE 2026
+                      - generic [ref=e258]:
+                        - paragraph [ref=e259]: Máster Online en Edición y Postproducción Audiovisual
+                        - generic [ref=e261]: Tecnología Audiovisual
+                      - link "Máster Online en Edición y Postproducción Audiovisual":
+                        - /url: https://www.thecoreschool.com/programas/master-online-en-edicion-y-postproduccion-audiovisual/
+                        - generic [ref=e262] [cursor=pointer]: Máster Online en Edición y Postproducción Audiovisual
+                  - group "3 / 4" [ref=e263]:
+                    - generic [ref=e264]:
+                      - generic [ref=e266]:
+                        - generic [ref=e267]: Presencial
+                        - generic [ref=e268]: Oct 2026
+                        - generic [ref=e270]: INSCRIPCIONES ABIERTAS OCTUBRE 2026
+                      - generic [ref=e271]:
+                        - paragraph [ref=e272]: Máster en Edición y Postproducción Audiovisual
+                        - generic [ref=e274]: Tecnología Audiovisual
+                      - link "Máster en Edición y Postproducción Audiovisual":
+                        - /url: https://www.thecoreschool.com/programas/master-edicion-y-postproduccion-audiovisual/
+                        - generic [ref=e275] [cursor=pointer]: Máster en Edición y Postproducción Audiovisual
+                  - group "4 / 4" [ref=e276]:
+                    - generic [ref=e277]:
+                      - generic [ref=e278]:
+                        - generic [ref=e279]:
+                          - generic [ref=e280]: Presencial
+                          - generic [ref=e281]: Oct 2026
+                          - generic [ref=e283]: INSCRIPCIONES ABIERTAS OCTUBRE 2026
+                        - generic [ref=e284]: En colaboración con
+                      - generic [ref=e285]:
+                        - paragraph [ref=e286]: Máster en Producción Virtual para Cine y TV (Unreal Engine)
+                        - generic [ref=e288]: Tecnología Audiovisual
+                      - link "Máster en Producción Virtual para Cine y TV (Unreal Engine)":
+                        - /url: https://www.thecoreschool.com/programas/master-en-produccion-virtual-para-cine-y-tv-con-unreal-engine/
+                        - generic [ref=e289] [cursor=pointer]: Máster en Producción Virtual para Cine y TV (Unreal Engine)
+                - generic [ref=e290]:
+                  - button "Go to slide 1" [ref=e291] [cursor=pointer]
+                  - button "Go to slide 2" [ref=e292] [cursor=pointer]
+                - text: prev next
+          - link "Solicita información" [ref=e294] [cursor=pointer]:
+            - /url: "#form-wrapper"
+        - generic [ref=e296]:
+          - paragraph [ref=e298]:
+            - text: Solicita
+            - text: información
+          - generic [ref=e302]:
+            - generic [ref=e303]:
+              - generic [ref=e304]:
+                - textbox "Nombre y apellidos Nombre" [ref=e305]:
+                  - /placeholder: Nombre
+                - generic: Nombre y apellidos
+              - generic [ref=e306]:
+                - textbox "Correo electrónico" [ref=e307]
+                - generic: Correo electrónico
+              - generic [ref=e309] [cursor=pointer]:
+                - generic [ref=e310]: Nivel de estudios
+                - generic:
+                  - generic:
+                    - textbox "Buscar..."
+                  - list:
+                    - listitem: Nivel de estudios
+                    - listitem: Bachillerato
+                    - listitem: Formación Profesional
+                    - listitem: Estudios Universitarios
+                    - listitem: Estudios de Posgrado
+            - generic [ref=e311]:
+              - generic [ref=e312]:
+                - generic [ref=e314] [cursor=pointer]:
+                  - generic [ref=e315]: Edad
+                  - generic:
+                    - list:
+                      - listitem: Edad
+                      - listitem: 17 años
+                      - listitem: 18 años
+                      - listitem: 19 años
+                      - listitem: 20 años
+                      - listitem: 21 años
+                      - listitem: 22 años
+                      - listitem: 23 años
+                      - listitem: 24 años
+                      - listitem: 25 años
+                      - listitem: 26 años
+                      - listitem: 27 años
+                      - listitem: 28 años
+                      - listitem: 29 años
+                      - listitem: 30 años
+                      - listitem: 31 años
+                      - listitem: 32 años
+                      - listitem: 33 años
+                      - listitem: 34 años
+                      - listitem: 35 años
+                      - listitem: 36 años
+                      - listitem: 37 años
+                      - listitem: 38 años
+                      - listitem: 39 años
+                      - listitem: 40 años
+                      - listitem: 41 años
+                      - listitem: 42 años
+                      - listitem: 43 años
+                      - listitem: 44 años
+                      - listitem: 45 años
+                      - listitem: 46 años
+                      - listitem: 47 años
+                      - listitem: 48 años
+                      - listitem: 49 años
+                      - listitem: 50 años
+                      - listitem: 51 años
+                      - listitem: 52 años
+                      - listitem: 53 años
+                      - listitem: 54 años
+                      - listitem: 55 años
+                      - listitem: 56 años
+                      - listitem: 57 años
+                      - listitem: 58 años
+                      - listitem: 59 años
+                      - listitem: 60 años
+                      - listitem: 61 años
+                      - listitem: 62 años
+                      - listitem: 63 años
+                      - listitem: 64 años
+                      - listitem: 65 años
+                - generic [ref=e317] [cursor=pointer]:
+                  - generic [ref=e318]: País de residencia
+                  - generic:
+                    - generic:
+                      - textbox "Buscar..."
+                    - list:
+                      - listitem: País de residencia
+                      - listitem: España
+                      - listitem: México
+                      - listitem: Colombia
+                      - listitem: Perú
+                      - listitem: Ecuador
+                      - listitem: Afganistán
+                      - listitem: Islas Aland
+                      - listitem: Albania
+                      - listitem: Argelia
+                      - listitem: Samoa Americana
+                      - listitem: Andorra
+                      - listitem: Angola
+                      - listitem: Anguila
+                      - listitem: Antártida
+                      - listitem: Antigua y Barbuda
+                      - listitem: Argentina
+                      - listitem: Armenia
+                      - listitem: Aruba
+                      - listitem: Australia
+                      - listitem: Austria
+                      - listitem: Azerbaiyán
+                      - listitem: Bahamas
+                      - listitem: Bahréin
+                      - listitem: Bangladesh
+                      - listitem: Barbados
+                      - listitem: Bielorrusia
+                      - listitem: Bélgica
+                      - listitem: Belice
+                      - listitem: Benin
+                      - listitem: islas Bermudas
+                      - listitem: Bután
+                      - listitem: Bolivia
+                      - listitem: Bonaire, Sint Eustatius y Saba
+                      - listitem: Bosnia y Herzegovina
+                      - listitem: Botswana
+                      - listitem: Isla Bouvet
+                      - listitem: Brasil
+                      - listitem: Territorio Británico del Océano Índico
+                      - listitem: Brunei Darussalam
+                      - listitem: Bulgaria
+                      - listitem: Burkina Faso
+                      - listitem: Burundi
+                      - listitem: Camboya
+                      - listitem: Camerún
+                      - listitem: Canadá
+                      - listitem: Cabo Verde
+                      - listitem: Islas Caimán
+                      - listitem: República Centroafricana
+                      - listitem: Chad
+                      - listitem: Chile
+                      - listitem: China
+                      - listitem: Isla de Navidad
+                      - listitem: Islas Cocos (Keeling)
+                      - listitem: Colombia
+                      - listitem: Comoras
+                      - listitem: Congo
+                      - listitem: Congo, República Democrática del Congo
+                      - listitem: Islas Cook
+                      - listitem: Costa Rica
+                      - listitem: Costa de Marfil
+                      - listitem: Croacia
+                      - listitem: Cuba
+                      - listitem: Curazao
+                      - listitem: Chipre
+                      - listitem: Republica checa
+                      - listitem: Dinamarca
+                      - listitem: Djibouti
+                      - listitem: Dominica
+                      - listitem: República Dominicana
+                      - listitem: Ecuador
+                      - listitem: Egipto
+                      - listitem: El Salvador
+                      - listitem: Guinea Ecuatorial
+                      - listitem: Eritrea
+                      - listitem: Estonia
+                      - listitem: Etiopía
+                      - listitem: Islas Falkland (Malvinas)
+                      - listitem: Islas Faroe
+                      - listitem: Fiyi
+                      - listitem: Finlandia
+                      - listitem: Francia
+                      - listitem: Guayana Francesa
+                      - listitem: Polinesia francés
+                      - listitem: Territorios Franceses del Sur
+                      - listitem: Gabón
+                      - listitem: Gambia
+                      - listitem: Georgia
+                      - listitem: Alemania
+                      - listitem: Ghana
+                      - listitem: Gibraltar
+                      - listitem: Grecia
+                      - listitem: Groenlandia
+                      - listitem: Granada
+                      - listitem: Guadalupe
+                      - listitem: Guam
+                      - listitem: Guatemala
+                      - listitem: Guernsey
+                      - listitem: Guinea
+                      - listitem: Guinea-Bissau
+                      - listitem: Guayana
+                      - listitem: Haití
+                      - listitem: Islas Heard y McDonald
+                      - listitem: Santa Sede (Estado de la Ciudad del Vaticano)
+                      - listitem: Honduras
+                      - listitem: Hong Kong
+                      - listitem: Hungría
+                      - listitem: Islandia
+                      - listitem: India
+                      - listitem: Indonesia
+                      - listitem: Irán (República Islámica de
+                      - listitem: Irak
+                      - listitem: Irlanda
+                      - listitem: Isla del hombre
+                      - listitem: Israel
+                      - listitem: Italia
+                      - listitem: Jamaica
+                      - listitem: Japón
+                      - listitem: Jersey
+                      - listitem: Jordán
+                      - listitem: Kazajstán
+                      - listitem: Kenia
+                      - listitem: Kiribati
+                      - listitem: República de Corea, Popular Democrática de
+                      - listitem: Corea, república de
+                      - listitem: Kosovo
+                      - listitem: Kuwait
+                      - listitem: Kirguistán
+                      - listitem: República Democrática Popular Lao
+                      - listitem: Letonia
+                      - listitem: Líbano
+                      - listitem: Lesoto
+                      - listitem: Liberia
+                      - listitem: Jamahiriya Arabe Libia
+                      - listitem: Liechtenstein
+                      - listitem: Lituania
+                      - listitem: Luxemburgo
+                      - listitem: Macao
+                      - listitem: Macedonia, la ex República Yugoslava de
+                      - listitem: Madagascar
+                      - listitem: Malawi
+                      - listitem: Malasia
+                      - listitem: Maldivas
+                      - listitem: Mali
+                      - listitem: Malta
+                      - listitem: Islas Marshall
+                      - listitem: Martinica
+                      - listitem: Mauritania
+                      - listitem: Mauricio
+                      - listitem: Mayotte
+                      - listitem: México
+                      - listitem: Micronesia, Estados Federados de
+                      - listitem: Moldavia, República de
+                      - listitem: Mónaco
+                      - listitem: Mongolia
+                      - listitem: Montenegro
+                      - listitem: Montserrat
+                      - listitem: Marruecos
+                      - listitem: Mozambique
+                      - listitem: Myanmar
+                      - listitem: Namibia
+                      - listitem: Nauru
+                      - listitem: Nepal
+                      - listitem: Países Bajos
+                      - listitem: Antillas Holandesas
+                      - listitem: Nueva Caledonia
+                      - listitem: Nueva Zelanda
+                      - listitem: Nicaragua
+                      - listitem: Níger
+                      - listitem: Nigeria
+                      - listitem: Niue
+                      - listitem: Isla Norfolk
+                      - listitem: Islas Marianas del Norte
+                      - listitem: Noruega
+                      - listitem: Omán
+                      - listitem: Pakistán
+                      - listitem: Palau
+                      - listitem: Territorio Palestino, Ocupado
+                      - listitem: Panamá
+                      - listitem: Papúa Nueva Guinea
+                      - listitem: Paraguay
+                      - listitem: Perú
+                      - listitem: Filipinas
+                      - listitem: Pitcairn
+                      - listitem: Polonia
+                      - listitem: Portugal
+                      - listitem: Puerto Rico
+                      - listitem: Katar
+                      - listitem: Reunión
+                      - listitem: Rumania
+                      - listitem: Federación Rusa
+                      - listitem: Ruanda
+                      - listitem: San Bartolomé
+                      - listitem: Santa elena
+                      - listitem: Saint Kitts y Nevis
+                      - listitem: Santa Lucía
+                      - listitem: San Martín
+                      - listitem: San Pedro y Miquelón
+                      - listitem: San Vicente y las Granadinas
+                      - listitem: Samoa
+                      - listitem: San Marino
+                      - listitem: Santo Tomé y Príncipe
+                      - listitem: Arabia Saudita
+                      - listitem: Senegal
+                      - listitem: Serbia
+                      - listitem: Serbia y Montenegro
+                      - listitem: Seychelles
+                      - listitem: Sierra Leona
+                      - listitem: Singapur
+                      - listitem: San Martín
+                      - listitem: Eslovaquia
+                      - listitem: Eslovenia
+                      - listitem: Islas Salomón
+                      - listitem: Somalia
+                      - listitem: Sudáfrica
+                      - listitem: Georgia del sur y las islas Sandwich del sur
+                      - listitem: Sudán del Sur
+                      - listitem: España
+                      - listitem: Sri Lanka
+                      - listitem: Sudán
+                      - listitem: Surinam
+                      - listitem: Svalbard y Jan Mayen
+                      - listitem: Swazilandia
+                      - listitem: Suecia
+                      - listitem: Suiza
+                      - listitem: República Árabe Siria
+                      - listitem: Taiwan, provincia de China
+                      - listitem: Tayikistán
+                      - listitem: Tanzania, República Unida de
+                      - listitem: Tailandia
+                      - listitem: Timor-Leste
+                      - listitem: Para llevar
+                      - listitem: Tokelau
+                      - listitem: Tonga
+                      - listitem: Trinidad y Tobago
+                      - listitem: Túnez
+                      - listitem: pavo
+                      - listitem: Turkmenistán
+                      - listitem: Islas Turcas y Caicos
+                      - listitem: Tuvalu
+                      - listitem: Uganda
+                      - listitem: Ucrania
+                      - listitem: Emiratos Árabes Unidos
+                      - listitem: Reino Unido
+                      - listitem: Estados Unidos
+                      - listitem: Islas menores alejadas de los Estados Unidos
+                      - listitem: Uruguay
+                      - listitem: Uzbekistan
+                      - listitem: Vanuatu
+                      - listitem: Venezuela
+                      - listitem: Vietnam
+                      - listitem: Islas Vírgenes Británicas
+                      - listitem: Islas Vírgenes, EE. UU.
+                      - listitem: Wallis y Futuna
+                      - listitem: Sahara Occidental
+                      - listitem: Yemen
+                      - listitem: Zambia
+                      - listitem: Zimbabue
+                - generic [ref=e320]:
+                  - textbox "Código Postal" [ref=e321]
+                  - generic: Código Postal
+                - generic [ref=e324]:
+                  - combobox "País seleccionado" [ref=e326] [cursor=pointer]:
+                    - generic [ref=e329]: España +34
+                  - textbox "Teléfono" [ref=e331]
+              - generic [ref=e332]:
+                - generic [ref=e333]: The Core Entertainment Science School, S.L.U., tratará sus datos personales para contactarle e informarle del programa seleccionado de cara a las dos próximas convocatorias del mismo, siendo eliminados una vez facilitada dicha información y/o transcurridas las citadas convocatorias.
+                - generic [ref=e334]:
+                  - text: Ud. podrá ejercer los derechos de acceso, supresión, rectificación, oposición, limitación y portabilidad, mediante carta a The Core Entertainment Science School, S.L.U. - Apartado de Correos 221 de Barcelona, o remitiendo un email a
+                  - link "rgpd@thecoreschool.com" [ref=e335] [cursor=pointer]:
+                    - /url: mailto:rgpd@thecoreschool.com
+                  - text: . Asimismo, cuando lo considere oportuno podrá presentar una reclamación ante la Agencia Española de protección de datos.
+                  - text: Podrá ponerse en contacto con nuestro Delegado de Protección de Datos mediante escrito dirigido a
+                  - link "dpo@planeta.es" [ref=e336] [cursor=pointer]:
+                    - /url: mailto:dpo@planeta.es
+                  - text: "o a Grupo Planeta, At.: Delegado de Protección de Datos, Avda. Diagonal 662-664, 08034 Barcelona."
+              - button "Enviar" [ref=e340] [cursor=pointer]
+    - contentinfo [ref=e341]:
+      - generic [ref=e343]:
+        - generic [ref=e344]:
+          - generic [ref=e345]:
+            - link "The Core" [ref=e346] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com
+            - list [ref=e347]:
+              - listitem [ref=e348]:
+                - link " Facebook" [ref=e349] [cursor=pointer]:
+                  - /url: https://www.facebook.com/TheCoreSchool/
+                  - generic [ref=e350]: 
+                  - generic [ref=e351]: Facebook
+              - listitem [ref=e352]:
+                - link " Instagram" [ref=e353] [cursor=pointer]:
+                  - /url: https://www.instagram.com/thecoreschool/
+                  - generic [ref=e354]: 
+                  - generic [ref=e355]: Instagram
+              - listitem [ref=e356]:
+                - link " Linkedin" [ref=e357] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/school/the-core-school/
+                  - generic [ref=e358]: 
+                  - generic [ref=e359]: Linkedin
+              - listitem [ref=e360]:
+                - link " Youtube" [ref=e361] [cursor=pointer]:
+                  - /url: https://www.youtube.com/@thecoreschool
+                  - generic [ref=e362]: 
+                  - generic [ref=e363]: Youtube
+              - listitem [ref=e364]:
+                - link "TikTok" [ref=e365] [cursor=pointer]:
+                  - /url: https://www.tiktok.com/@thecoreschool
+                  - generic [ref=e367]: TikTok
+            - paragraph [ref=e369]:
+              - generic [ref=e370]: "Admisiones:"
+              - link "+34 910381844" [ref=e371] [cursor=pointer]:
+                - /url: tel:+34910381844
+          - generic [ref=e372]:
+            - heading "Áreas de conocimiento" [level=3] [ref=e373]
+            - list [ref=e374]:
+              - listitem [ref=e375]:
+                - link "Animación y Videojuegos" [ref=e376] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/animacion-y-videojuegos/
+              - listitem [ref=e377]:
+                - link "Business y Management" [ref=e378] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/business-y-management/
+              - listitem [ref=e379]:
+                - link "Cine" [ref=e380] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/cine/
+              - listitem [ref=e381]:
+                - link "Contenidos" [ref=e382] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/contenidos/
+              - listitem [ref=e383]:
+                - link "Marketing" [ref=e384] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/marketing/
+              - listitem [ref=e385]:
+                - link "Tecnología Audiovisual" [ref=e386] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/tecnologia-audiovisual/
+              - listitem [ref=e387]:
+                - link "STEM" [ref=e388] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/ingenieria-creativa/
+              - listitem [ref=e389]:
+                - link "Comunicación y Medios" [ref=e390] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/formacion-comunicacion-y-medios/
+          - generic [ref=e391]:
+            - heading "Sobre The Core" [level=3] [ref=e392]
+            - list [ref=e393]:
+              - listitem [ref=e394]:
+                - link "Conócenos" [ref=e395] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/sobre-la-escuela/
+              - listitem [ref=e396]:
+                - link "Titulaciones con Atresmedia" [ref=e397] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/eventos/formacion-atresmedia/
+              - listitem [ref=e398]:
+                - link "Admisiones y ayudas" [ref=e399] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/admisiones/
+              - listitem [ref=e400]:
+                - link "Campus Tres Cantos" [ref=e401] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/campus-tres-cantos/
+              - listitem [ref=e402]:
+                - link "Noticias" [ref=e403] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/noticias/
+              - listitem [ref=e404]:
+                - link "Blog" [ref=e405] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/blog/
+              - listitem [ref=e406]:
+                - link "Contacto" [ref=e407] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/contacto/
+          - generic [ref=e408]:
+            - heading "SOMOS" [level=3] [ref=e409]
+            - list [ref=e410]:
+              - listitem [ref=e411]:
+                - link "Black Magic Trainig Partner" [ref=e412] [cursor=pointer]:
+                  - /url: https://www.thecoreschool.com/programas/master-edicion-y-postproduccion-audiovisual/
+                  - img "Black Magic Trainig Partner" [ref=e413]
+              - listitem [ref=e414]:
+                - img "Adobe Certified Profesional" [ref=e415]
+              - listitem [ref=e416]:
+                - img "Autodesk Certified User" [ref=e417]
+        - list [ref=e420]:
+          - listitem [ref=e421]:
+            - link "Política de privacidad" [ref=e422] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/politica-de-privacidad/
+          - listitem [ref=e423]:
+            - link "Política de cookies" [ref=e424] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/politica-de-cookies/
+          - listitem [ref=e425]:
+            - link "Condiciones de uso" [ref=e426] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/condiciones-de-uso/
+          - listitem [ref=e427]:
+            - link "Normativa" [ref=e428] [cursor=pointer]:
+              - /url: https://www.thecoreschool.com/normativa/
+          - listitem [ref=e429]:
+            - link "Oficina de Buenas Prácticas" [ref=e430] [cursor=pointer]:
+              - /url: https://www.planeta.es/es/oficina-de-buenas-practicas
+      - paragraph [ref=e436]: © THE CORE Escuela Superior de Audiovisuales. Todos los derechos reservados
+  - text: 
+  - region "Cookie banner" [ref=e438]:
+    - dialog "Privacidad" [ref=e439]:
+      - generic [ref=e440]:
+        - generic [ref=e442]:
+          - img "Logotipo de la empresa" [ref=e444]
+          - generic [ref=e445]:
+            - paragraph [ref=e446]: ¡Hola! Nos importa tu privacidad.
+            - paragraph [ref=e447]: Configuración de Cookies
+            - paragraph [ref=e448]: Utilizamos cookies y tecnologías similares propias y de terceros para diferenciar tu experiencia de las de otros usuarios, para identificarte como usuario, para analizar el uso del Site, así como para elaborar modelos analíticos.
+            - paragraph [ref=e449]:
+              - text: Utilizamos también cookies para mostrarte publicidad personalizada relacionada con tus preferencias sobre la base de un perfil elaborado a partir de tus hábitos de navegación (por ejemplo, páginas visitadas) y la información que nos facilites (por ejemplo, en formularios de cursos). Puedes aceptar o rechazar todas las cookies pulsando el botón correspondiente o configurarlas mediante el enlace “Configuración de cookies”. Pulsa
+              - link "AQUÍ" [active] [ref=e450] [cursor=pointer]:
+                - /url: https://www.thecoreschool.com/politica-de-cookies/
+              - text: para consultar nuestra Política de Cookies.
+        - generic [ref=e452]:
+          - generic [ref=e453]:
+            - button "RECHAZAR" [ref=e454] [cursor=pointer]
+            - button "ACEPTAR" [ref=e455] [cursor=pointer]
+          - button "Configuración de cookies" [ref=e456] [cursor=pointer]
+  - button "Chat bubble" [ref=e457] [cursor=pointer]:
+    - generic [ref=e458]: "1"

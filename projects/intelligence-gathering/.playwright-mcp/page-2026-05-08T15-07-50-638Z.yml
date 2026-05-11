@@ -1,0 +1,398 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - 'link "Logotipo de CEI: Centro de Estudios de Innovación en versión larga CEI" [active] [ref=e4] [cursor=pointer]':
+      - /url: https://cei.es
+      - 'img "Logotipo de CEI: Centro de Estudios de Innovación en versión larga" [ref=e5]'
+      - img "CEI" [ref=e6]
+    - generic [ref=e7]:
+      - generic: Diseña tu futuro
+    - button "Menu Cerrar" [ref=e8] [cursor=pointer]:
+      - text: Menu
+      - generic [ref=e9]: Cerrar
+    - navigation:
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Estudios por áreas":
+                - /url: "#"
+                - text: Estudios por áreas
+              - list:
+                - listitem:
+                  - link "Diseño gráfico y dirección de arte":
+                    - /url: https://cei.es/cursos-diseno-grafico/
+                - listitem:
+                  - link "Desarrollo y programación web":
+                    - /url: https://cei.es/cursos-diseno-web/
+                - listitem:
+                  - link "Post/producción audiovisual":
+                    - /url: https://cei.es/cursos-video-vfx-motion-graphics/
+                - listitem:
+                  - link "Marketing digital & Business":
+                    - /url: https://cei.es/cursos-marketing-digital/
+                - listitem:
+                  - link "Interiores y arquitectura BIM":
+                    - /url: https://cei.es/cursos-diseno-interiores-arquitectura/
+                - listitem:
+                  - link "Diseño y Desarrollo de Videojuegos":
+                    - /url: https://cei.es/cursos-videojuegos/
+                - listitem:
+                  - link "Tecnologías Emergentes (TechEmerge)":
+                    - /url: https://cei.es/tecnologias-emergentes/
+            - listitem:
+              - link "Estudios por tipo":
+                - /url: "#"
+                - text: Estudios por tipo
+              - list:
+                - listitem:
+                  - link "Cursos intensivos":
+                    - /url: https://cei.es/cursos-intensivos/
+                - listitem:
+                  - link "Estudios universitarios":
+                    - /url: https://cei.es/titulaciones-universitarias/
+                - listitem:
+                  - link "Grados superiores de FP":
+                    - /url: https://cei.es/fp-grado-superior/
+                - listitem:
+                  - link "Estudios en fin de semana":
+                    - /url: https://cei.es/estudios-fin-de-semana/
+                - listitem:
+                  - link "Estudios online (en directo)":
+                    - /url: https://cei.es/estudios-online/
+                - listitem:
+                  - link "A tu medida":
+                    - /url: https://cei.es/disena-tu-futuro/
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Formación para empresas":
+                - /url: "#"
+                - text: Formación para empresas
+              - list:
+                - listitem:
+                  - link "Formación para empresas":
+                    - /url: https://cei.es/formacion-para-empresas/
+                - listitem:
+                  - link "Formación bonificada (FUNDAE)":
+                    - /url: https://cei.es/fundacion-estatal-para-la-formacion-en-el-empleo/
+            - listitem:
+              - link "Conócenos":
+                - /url: "#"
+                - text: Conócenos
+              - list:
+                - listitem:
+                  - link "Sobre nosotros":
+                    - /url: https://cei.es/centro-formacion/
+                - listitem:
+                  - link "Sedes e instalaciones":
+                    - /url: https://cei.es/campus/
+                - listitem:
+                  - link "Profesorado":
+                    - /url: https://cei.es/profesorado/
+                - listitem:
+                  - link "Nuestro método":
+                    - /url: https://cei.es/nuestro-metodo/
+                - listitem:
+                  - link "Alumnos internacionales":
+                    - /url: https://cei.es/alumnos-extranjeros/
+                - listitem:
+                  - link "Preguntas frecuentes":
+                    - /url: https://cei.es/mas-informacion/
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Certificaciones":
+                - /url: "#"
+                - text: Certificaciones
+              - list:
+                - listitem:
+                  - link "Centro de formación oficial":
+                    - /url: https://cei.es/certificaciones/
+            - listitem:
+              - link "Repetición gratuita":
+                - /url: "#"
+                - text: Repetición gratuita
+              - list:
+                - listitem:
+                  - link "Enseñanza garantizada":
+                    - /url: https://cei.es/repeticion-gratuita-estudios/
+            - listitem:
+              - link "Empleo":
+                - /url: "#"
+                - text: Empleo
+              - list:
+                - listitem:
+                  - link "Bolsa de trabajo y prácticas para alumnos":
+                    - /url: https://cei.es/bolsa-de-trabajo/
+                - listitem:
+                  - link "Acceso de empresas a bolsa de empleo":
+                    - /url: https://cei.jobteaser.com/fr/recruiter_account/job_offers
+                - listitem:
+                  - link "Garantía laboral por escrito.":
+                    - /url: https://cei.es/garantia-laboral/
+            - listitem:
+              - link "CEI Alumnos":
+                - /url: "#"
+                - text: CEI Alumnos
+              - list:
+                - listitem:
+                  - link "Campus virtual":
+                    - /url: https://alumnos.cei.es/
+      - generic:
+        - generic:
+          - list:
+            - listitem:
+              - link "Garantía laboral":
+                - /url: https://cei.es/garantia-laboral/
+                - text: Garantía laboral
+              - list:
+                - listitem:
+                  - link "Garantizada por escrito":
+                    - /url: https://cei.es/garantia-laboral/
+            - listitem:
+              - link "Mantente informado":
+                - /url: https://cei.es/category/blog/
+                - text: Mantente informado
+              - list:
+                - listitem:
+                  - link "Blog":
+                    - /url: https://cei.es/categoria/blog/
+                - listitem:
+                  - link "Noticias":
+                    - /url: https://cei.es/categoria/blog/noticias/
+            - listitem:
+              - link "Contacto":
+                - /url: https://cei.es/contacto/
+                - text: Contacto
+              - list:
+                - listitem:
+                  - link "Formulario de información general":
+                    - /url: https://cei.es/contacto/
+                - listitem:
+                  - link "Cita de asesoramiento":
+                    - /url: https://escuelacei.zohobookings.eu/#/cei
+                - listitem:
+                  - link "Clase demo gratuita":
+                    - /url: https://cei.es/clase-gratuita/
+                - listitem:
+                  - link "Información telefónica y presencial":
+                    - /url: https://cei.es/informacion-telefonica-presencial/
+  - generic [ref=e11]:
+    - link "CEI Hiring Days" [ref=e13] [cursor=pointer]:
+      - /url: https://cei.es/cei-hiring-days
+    - link "Estudios Diseño Marketing" [ref=e16] [cursor=pointer]:
+      - /url: https://cei.es/informacion-matricula/
+      - img "Estudios Diseño Marketing" [ref=e18]
+  - generic [ref=e19]:
+    - heading "CEI Centro de Estudios de Innovación, Diseño y Marketing" [level=1] [ref=e23]
+    - generic [ref=e24]:
+      - text:               + + + + + + + + + + +
+      - link "video cei escuela de diseño" [ref=e34] [cursor=pointer]:
+        - /url: https://youtu.be/r0dSUUf6-7w
+        - img "video cei escuela de diseño" [ref=e36]
+      - generic [ref=e46]:
+        - generic [ref=e47]:
+          - paragraph [ref=e48]: La escuela
+          - paragraph [ref=e49]: Conócenos
+        - generic [ref=e50]:
+          - heading "La escuela líder del sector en España" [level=3] [ref=e51]
+          - paragraph [ref=e52]: Somos el centro de formación del sector con mayor número de estudiantes de España, pasando por nuestras aulas aproximadamente 4.000 alumnos cada año, apasionados por el mundo del diseño, el marketing y las tecnologías emergentes. Ser la opción más elegida del país, junto a nuestra trayectoria de más de 30 años como escuela, es la máxima garantía de calidad que podemos ofrecer a cualquier interesado en estudiar en CEI.
+          - paragraph [ref=e53]: Logros
+          - paragraph [ref=e54]:
+            - text: Contar con los siguientes logros es una garantía indiscutible para nuestros alumnos (
+            - link "datos públicos de la plataforma Emagister, año 2024" [ref=e55] [cursor=pointer]:
+              - /url: https://www.emagister.com/cei-escuela-diseno-marketing-cursos-16955-centrodetalles.htm
+            - text: "):"
+          - list [ref=e56]:
+            - listitem [ref=e57]: "#1 Centro de formación mejor valorado para estudiar diseño en Madrid."
+            - listitem [ref=e58]: "#1 Centro de formación mejor valorado para estudiar diseño en Sevilla."
+            - listitem [ref=e59]: "#1 Escuela de diseño más demandada de Madrid."
+            - listitem [ref=e60]: "#1 Escuela más demandada de España para estudiar programación web."
+            - listitem [ref=e61]: "#1 Escuela más demandada de España para estudiar diseño web."
+            - listitem [ref=e62]: "#1 Centro de formación profesional mejor valorado de España para estudiar diseño."
+            - listitem [ref=e63]: "#1 Escuela mejor valorada de diseño de Madrid."
+            - listitem [ref=e64]: "#1 Escuela más demandada para estudiar diseño online."
+            - listitem [ref=e65]: "#1 Centro de estudios de postgrado más demandado de Valencia."
+            - listitem [ref=e66]: "#1 Escuela más demandada para estudiar Ebusiness en Valencia."
+          - heading "El centro" [level=2] [ref=e67]
+          - paragraph [ref=e68]:
+            - text: CEI -Centro de Estudios de Innovación- fue fundado en 1991 y actualmente es una
+            - link "escuela de formación oficial" [ref=e69] [cursor=pointer]:
+              - /url: https://cei.es/certificaciones/
+            - text: de Adobe, Apple, Autodesk, AWS, Cisco, IBM, Maxon, Microsoft, Oracle, Palo Alto, Unity y Google Partner especializada en el sector de las nuevas tecnologías, diseño y marketing digital con
+            - link "sedes" [ref=e71] [cursor=pointer]:
+              - /url: https://cei.es/campus/
+            - text: en Madrid, Sevilla y Valencia.
+          - paragraph [ref=e72]:
+            - link "La escuela en .pdf" [ref=e73] [cursor=pointer]:
+              - /url: https://cei.es/wp-content/uploads/CEI-Centro-de-Estudios-de-Innovacion.pdf
+          - paragraph [ref=e74]: Bonificación para trabajadores
+          - paragraph [ref=e75]:
+            - text: Si trabajas en alguna empresa puedes
+            - link "bonificar hasta el 100% del precio" [ref=e77] [cursor=pointer]:
+              - /url: https://cei.es/fundacion-estatal-para-la-formacion-en-el-empleo/
+            - text: "de los cursos, bootcamps, masters y títulos superiores de CEI: Centro de Estudios de Innovación, Marketing y Nuevas Tecnologías, gracias a la Fundación Estatal para la Formación en el Empleo. Consulta el saldo de puntos de tu empresa y podrás bonificar una parte o la totalidad de tus estudios. Si quieres, nosotros nos podemos encargar de realizar toda la gestión."
+          - paragraph [ref=e78]: Garantía laboral*
+          - paragraph [ref=e79]:
+            - text: "*Por escrito. Disponemos de un acuerdo de garantía laboral a disposición de los nuevos alumnos de cualquiera de los tres centros: Madrid, Sevilla y Valencia. Más información"
+            - link "aquí sobre la garantía laboral" [ref=e81] [cursor=pointer]:
+              - /url: https://cei.es/garantia-laboral/
+            - text: o en secretaría.
+          - heading "Bolsa de trabajo" [level=3] [ref=e82]
+          - paragraph [ref=e83]:
+            - text: Realiza tus estudios en CEI y, desde el primer día, formarás parte de nuestra
+            - link "bolsa de trabajo" [ref=e85] [cursor=pointer]:
+              - /url: https://cei.jobteaser.com/
+            - text: . Todas nuestras ofertas de empleo son remuneradas. Además, nuestra escuela ha sido galardonada por los Premios Excelencia Educativa por el Mejor Programa Educativo para la Inserción Profesional y Mejor Centro de Formación Profesional.
+          - paragraph [ref=e86]: Desde 1991
+          - paragraph [ref=e87]:
+            - text: Desde 1991
+            - link "nuestra escuela" [ref=e89] [cursor=pointer]:
+              - /url: https://cei.es/escuela-de-diseno/
+            - text: ha formado alumnos para muchos de los sectores que más profesionales demanda el mercado laboral. Durante todo este tiempo lo único que nos hemos marcado como objetivo es la calidad de enseñanza y, hasta la fecha, los casi 30.000alumnos formados que han pasado por nuestra escuela de diseño, marketing y nuevas tecnologías así nos lo confirman.
+          - paragraph [ref=e90]: A tu medida
+          - paragraph [ref=e91]:
+            - text: Además de toda nuestra oferta formativa habitual, ofrecemos la posibilidad de que los alumnos diseñen su propia formación
+            - link "a medida" [ref=e93] [cursor=pointer]:
+              - /url: https://cei.es/disena-tu-futuro/
+            - text: ", eligiendo la duración y el contenido de sus masters seleccionando los módulos de su interés entre los de cualquiera de nuestras áreas formativas."
+          - heading "Instalaciones" [level=4] [ref=e94]
+          - paragraph [ref=e95]: "Las instalaciones de CEI: Centro de Estudios de Innovación han sido especialmente pensadas para ofrecer un entorno óptimo y adecuado para la impartición de todos nuestros estudios, siendo galardonados por los Premios Excelencia Educativa como Mejor Centro de Formación Presencial."
+          - heading "Certificaciones" [level=3] [ref=e96]
+          - paragraph [ref=e97]:
+            - text: "CEI: Centro de Estudios de Innovación, Marketing y Nuevas Tecnologías es un"
+            - link "centro de formación reconocido oficialmente" [ref=e98] [cursor=pointer]:
+              - /url: https://cei.es/certificaciones/
+            - text: "por el Ministerio de Educación para impartir estudios oficiales de grado superior y homologado por las compañías que lideran el sector de las artes digitales y las nuevas tecnologías: Adobe, Apple, Autodesk, AWS, Cisco, IBM, Maxon, Microsoft, Oracle, Palo Alto, Unity y Google Partner."
+          - paragraph [ref=e99]: Sostenibilidad
+          - paragraph [ref=e100]:
+            - text: "En CEI estamos profundamente comprometidos con la preservación y el cuidado del medio ambiente. Reconocemos la importancia de tomar medidas concretas para contrarrestar el cambio climático y proteger nuestro entorno natural. Por eso, te informamos que en septiembre de 2024 tomamos la decisión de llevar a cabo una iniciativa significativa: plantar un árbol por cada alumno matriculado en nuestra escuela, además de plantar el número de árboles que sean necesarios para compensar las emisiones de CO2 de nuestra página web."
+            - link "Puedes echar un vistazo a cómo está creciendo nuestro nuestro bosque aquí." [ref=e101] [cursor=pointer]:
+              - /url: https://tree-nation.com/es/perfil/eskool-estudio-creativo-sl
+          - paragraph [ref=e102]: Esta iniciativa refleja nuestro firme compromiso con la sostenibilidad y la responsabilidad ambiental. Creemos que cada pequeño esfuerzo cuenta en la lucha por un futuro más verde y saludable para las generaciones venideras. A través de la plantación de árboles, no solo estamos contribuyendo a la mejora de la calidad del aire y la conservación de la biodiversidad, sino que también intentamos concienciar a nuestros estudiantes sobre la importancia de ser guardianes de nuestro planeta.
+          - paragraph [ref=e103]: Nuestro compromiso con el medio ambiente va más allá de palabras; es una acción concreta que muestra nuestro compromiso con un futuro más sostenible. Estamos emocionados por esta iniciativa y esperamos que cada árbol plantado represente un recordatorio duradero de la importancia de cuidar y proteger nuestro planeta.
+          - paragraph [ref=e104]: Juntos, podemos marcar la diferencia y contribuir a un futuro más verde y próspero para todos.
+  - contentinfo [ref=e105]:
+    - generic [ref=e106]:
+      - generic [ref=e107]:
+        - list [ref=e108]:
+          - listitem [ref=e109] [cursor=pointer]: Madrid
+          - listitem [ref=e110] [cursor=pointer]: Sevilla
+          - listitem [ref=e111] [cursor=pointer]: Valencia
+          - listitem [ref=e112] [cursor=pointer]: Online
+        - generic [ref=e113]:
+          - generic [ref=e114]:
+            - link "madrid@cei.es" [ref=e115] [cursor=pointer]:
+              - /url: mailto:madrid@cei.es
+            - link "Rodríguez San Pedro, 2" [ref=e116] [cursor=pointer]:
+              - /url: https://cei.es/campus-madrid/
+            - link "+34 91 292 26 13" [ref=e117] [cursor=pointer]:
+              - /url: tel:+34 91 292 26 13
+          - generic:
+            - link "sevilla@cei.es":
+              - /url: mailto:sevilla@cei.es
+            - link "Conde de Cifuentes, 4":
+              - /url: https://cei.es/campus-sevilla/
+            - link "+34 95 499 15 58":
+              - /url: tel:+34 95 499 15 58
+          - generic:
+            - link "valencia@cei.es":
+              - /url: mailto:valencia@cei.es
+            - link "Av. Primado Reig, 189":
+              - /url: https://cei.es/campus-valencia/
+            - link "+34 96 007 77 13":
+              - /url: tel:+34 96 007 77 13
+          - generic:
+            - link "info@cei.es":
+              - /url: mailto:info@cei.es
+            - link "+34 91 292 26 13":
+              - /url: tel:+34 91 292 26 13
+        - list [ref=e118]:
+          - listitem [ref=e119]:
+            - link "Instagram" [ref=e120] [cursor=pointer]:
+              - /url: https://www.instagram.com/escuelacei/
+          - listitem [ref=e121]:
+            - link "Facebook" [ref=e122] [cursor=pointer]:
+              - /url: https://www.facebook.com/escuelacei/
+          - listitem [ref=e123]:
+            - link "Linkedin" [ref=e124] [cursor=pointer]:
+              - /url: https://www.linkedin.com/school/cei-centro-estudios-innovacion
+          - listitem [ref=e125]:
+            - link "Youtube" [ref=e126] [cursor=pointer]:
+              - /url: https://www.youtube.com/channel/UCFZq_CyVkQxD5oxYGBoLVsw/videos
+          - listitem [ref=e127]:
+            - link "Tiktok" [ref=e128] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@escuelacei?lang=es
+      - generic [ref=e129]:
+        - generic [ref=e130]:
+          - paragraph [ref=e131]:
+            - link "Entidades colaboradoras:" [ref=e132] [cursor=pointer]:
+              - /url: https://cei.es/certificaciones/
+              - generic [ref=e133]: Entidades
+              - generic [ref=e134]: "colaboradoras:"
+          - generic [ref=e136]:
+            - img "estudios oficiales autodesk" [ref=e138]
+            - img "UA 3" [ref=e141]
+            - img "Doctrina Qualitas" [ref=e144]
+            - img "Certificación Generación D" [ref=e146]
+            - img "Certificación Madrid Excelente" [ref=e148]
+            - img "centro colaborador IBM" [ref=e150]
+            - generic [ref=e151]:
+              - img "estudios oficiales apple"
+            - generic [ref=e152]:
+              - img "estudios oficiales autodesk"
+            - generic [ref=e153]:
+              - img "estudios oficiales autodesk"
+            - generic [ref=e154]:
+              - img "escuela premios excelencia educativa"
+            - generic [ref=e155]:
+              - generic:
+                - img "estudios oficiales microsoft"
+            - generic [ref=e156]:
+              - generic:
+                - img "cisco networking certification"
+            - generic [ref=e157]:
+              - generic:
+                - img "google partner certification"
+            - generic [ref=e158]:
+              - generic:
+                - img "maxon training oficial"
+            - generic [ref=e159]:
+              - generic:
+                - img "unity authorized training partner"
+            - img "estudios oficiales autodesk" [ref=e161]
+        - generic [ref=e162]:
+          - paragraph [ref=e163]:
+            - generic [ref=e164]: Centros
+            - generic [ref=e165]: "colaboradores:"
+          - generic [ref=e167]:
+            - link "universidad-udima" [ref=e169] [cursor=pointer]:
+              - /url: https://cei.es/titulaciones-universitarias-informacion/
+              - img "universidad-udima" [ref=e170]
+            - link "Sabal University" [ref=e172] [cursor=pointer]:
+              - /url: https://cei.es/informacion-diplomas-sabal/
+              - img "Sabal University" [ref=e174]
+      - generic [ref=e175]: "[sibwp_form id=1]"
+  - generic [ref=e177]:
+    - list [ref=e178]:
+      - listitem [ref=e179]:
+        - paragraph [ref=e180]: 1991 - 2026 CEI ®
+      - listitem [ref=e181]:
+        - paragraph [ref=e182]: TODOS LOS DERECHOS RESERVADOS
+      - listitem [ref=e183]:
+        - link "TÉRMINOS LEGALES" [ref=e184] [cursor=pointer]:
+          - /url: https://cei.es/terminos-legales/
+      - listitem [ref=e185]:
+        - link "TRABAJA CON NOSOTROS" [ref=e186] [cursor=pointer]:
+          - /url: https://zrec.eu/HNqbN
+    - generic [ref=e187]:
+      - separator [ref=e188]
+      - paragraph [ref=e189]: Omnes Education es una institución privada de educación superior e investigación multidisciplinar que ofrece programas educativos en los campos de la gestión, la ingeniería, la comunicación y los medios digitales y las ciencias políticas. Sus campus se encuentran en Abiyán, Barcelona, Beaune, Burdeos, Chambéry, Ginebra, Londres, Lyon, Madrid, Mónaco, Múnich, París, Rennes, San Francisco, Sevilla y Valencia, repartidos entre 14 escuelas y universidades diferentes. Con más de 40.000 estudiantes cada año y más de 200.000 antiguos alumnos, Omnes ocupa un lugar único en el panorama educativo internacional.
+      - link "OMNES Education" [ref=e190] [cursor=pointer]:
+        - /url: https://www.omneseducation.com/nos-etablissements/nos-ecoles/cei/
+        - img "OMNES Education" [ref=e191]
+  - button " ×" [ref=e192] [cursor=pointer]:
+    - generic [ref=e193]: 
+    - generic: ×
